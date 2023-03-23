@@ -1,3 +1,6 @@
+local ashfall = include("mer.ashfall")
+if not ashfall then return end
+
    ashfall.registerTreeBranches{
         treeIds = {
             'az_flora_tree_palm_nobiax_00',
