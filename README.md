@@ -52,6 +52,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Greatness7 - scripting
 * griff - interiors
 * Istreddify - interiors
+* Juidius - interiors
 * Moritius - interiors
 * Lucevar - interiors
 * Pluto - interiors
