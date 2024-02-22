@@ -1,13 +1,8 @@
 Merging plugins...
-Copying object to master: STAT az_In_VelWoodBeamSq256
-Copying object to master: STAT az_In_VelWoodColCent
-Copying object to master: STAT az_In_VelWoodScreen01
-Copying object to master: STAT az_In_VelWoodColSide
-Copying object to master: STAT az_In_VelWoodScreen02
-Copying object to master: STAT az_In_VelWoodBeamRn256
 Merging object to master: CELL Azura, High Rosery District (85, -76)
-Copying object to master: STAT az_Ex_WoodPlatRopeTie
 Merging object to master: CELL Azura, High Rosery District (86, -76)
+Copying object to master: STAT az_furn_bambooCurtain01
+Copying object to master: STAT az_furn_bambooCurtain02
 Creating backup...
 Saving results...
 Finished!
