@@ -1,9 +1,20 @@
 Merging plugins...
+Merging object to master: STAT az_furn_wash_garments_empty01
 Merging object to master: CELL Azura, High Rosery District (85, -76)
+Merging object to master: STAT az_furn_wash_garments_whole02
+Merging object to master: STAT az_furn_wash_garments_whole01
+Merging object to master: CELL Bnay (83, -83)
+Merging object to master: CELL Bnay (82, -83)
+Merging object to master: STAT az_furn_wash_garments_half01
+Merging object to master: STAT az_furn_wash_garments_empty02
+Merging object to master: STAT az_furn_wash_garments_half02
+Merging object to master: STAT az_furn_ropewash_dual
+Merging object to master: STAT az_furn_wash_garments_empty03
 Merging object to master: CELL Azura, High Rosery District (86, -76)
-Copying object to master: CELL Azura, Port Hostel
-Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
-Copying object to master: BOOK T_Aid_NoteToSelf StaircaseNote
+Merging object to master: CELL Azura, Underworks, Vando Block 1
+Merging object to master: STAT az_furn_wash_garments_susp02
+Merging object to master: CELL Azura, Hestus Ram's House
+Merging object to master: STAT az_furn_wash_garments_susp01
 Creating backup...
 Saving results...
 Finished!
