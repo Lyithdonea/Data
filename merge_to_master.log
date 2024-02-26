@@ -1,48 +1,7 @@
 Merging plugins...
-Merging object to master: STAT az_furn_painting_06
-Copying object to master: MISC az_Misc_ArtPaintTall03
 Merging object to master: CELL Azura, High Rosery District (85, -76)
-Merging object to master: STAT az_furn_painting_11
-Merging object to master: CELL Azura, Kar-soom
-Merging object to master: STAT az_furn_painting_08
-Merging object to master: STAT az_furn_painting_09
-Copying object to master: MISC az_Misc_ArtPaintWide01
-Merging object to master: CELL AZ_Clutter
-Merging object to master: CELL Dor Dalla, Guild of Mages, Magister Quarters
-Merging object to master: CELL Azura, Saye's House
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 02
-Merging object to master: STAT az_furn_painting_04
-Copying object to master: MISC az_Misc_ArtPaintWide03
 Merging object to master: CELL Azura, High Rosery District (86, -76)
-Copying object to master: MISC az_Misc_ArtPaintWide05
-Merging object to master: CELL Azura, Gadresi Manor
-Merging object to master: CELL Azura, Palace: Magnate's Chambers
-Merging object to master: CELL Azura, Vyne Manor
-Merging object to master: CELL Dor Dalla, Guild of Mages
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 01
-Merging object to master: STAT az_furn_painting_05
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 03
-Copying object to master: MISC az_Misc_ArtPaintWide04
-Merging object to master: STAT az_furn_painting_01
-Copying object to master: MISC az_Misc_ArtPaintSqar03
-Copying object to master: MISC az_Misc_ArtPaintTall01
-Merging object to master: CELL Azura, Granderea Salor's House
-Merging object to master: CELL Azura, Pike's Sundries
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 04
-Merging object to master: STAT az_furn_painting_10
-Merging object to master: CELL Azura, The Turquoise Canvas
-Merging object to master: CELL Moonshadow, Clutter Depot
-Merging object to master: STAT az_furn_painting_02
-Merging object to master: STAT az_furn_painting_03
-Merging object to master: CELL Azura, Voath Manor
-Merging object to master: CELL Azura, Zaimora Manor
-Copying object to master: MISC az_Misc_ArtPaintSqar01
-Copying object to master: MISC az_Misc_ArtPaintWide02
-Merging object to master: CELL Azura, Palace: Upper Halls
-Copying object to master: MISC az_Misc_ArtPaintSqar02
-Copying object to master: MISC az_Misc_ArtPaintTall02
-Merging object to master: CELL AZ_Ouamer
-Merging object to master: STAT az_furn_painting_07
+Copying object to master: MISC az_Misc_PackageHouseAzura
 Creating backup...
 Saving results...
 Finished!
