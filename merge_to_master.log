@@ -1,49 +1,48 @@
 Merging plugins...
-Copying object to master: LIGH az_light_candle_kollop_g1_64
-Copying object to master: LIGH az_light_candle_kollop_t2_64
-Copying object to master: LIGH az_light_candle_kollop_p1_64
-Copying object to master: LIGH az_light_candle_kollop_rr2
-Copying object to master: LIGH az_light_candle_kollop_p0
-Copying object to master: LIGH az_light_candle_kollop_p2_64
-Copying object to master: LIGH az_light_candle_kollop_b2_64
-Copying object to master: LIGH az_light_candle_kollop_b1
-Copying object to master: LIGH az_light_candle_kollop_p0_64
-Copying object to master: LIGH az_light_candle_kollop20_64
-Copying object to master: LIGH az_light_candle_kollop_u2
-Copying object to master: LIGH az_light_candle_kollop_u0
-Copying object to master: LIGH az_light_candle_kollop_r0
-Copying object to master: LIGH az_light_candle_kollop_r2
-Copying object to master: LIGH az_light_candle_kollop_r0_64
-Copying object to master: LIGH az_light_candle_kollop_g2_64
-Copying object to master: LIGH az_light_candle_kollop_rr1_64
-Copying object to master: LIGH az_light_candle_kollop_u2_64
-Copying object to master: LIGH az_light_candle_kollop_b1_64
-Copying object to master: LIGH az_light_candle_kollop_u1
-Copying object to master: LIGH az_light_candle_kollop_g0
-Copying object to master: LIGH az_light_candle_kollop_rr0_64
-Copying object to master: LIGH az_light_candle_kollop_u1_64
-Copying object to master: LIGH az_light_candle_kollop_rr1
-Copying object to master: LIGH az_light_candle_kollop_b0_64
-Copying object to master: LIGH az_light_candle_kollop_r1_64
-Copying object to master: LIGH az_light_candle_kollop_p2
-Copying object to master: LIGH az_light_candle_kollop_t0_64
-Copying object to master: LIGH az_light_candle_kollop_u0_64
-Copying object to master: LIGH az_light_candle_kollop_t2
-Copying object to master: LIGH az_light_candle_kollop_t1
-Copying object to master: LIGH az_light_candle_kollop00_64
-Copying object to master: LIGH az_light_candle_kollop_r2_64
-Copying object to master: LIGH az_light_candle_kollop10_64
-Copying object to master: LIGH az_light_candle_kollop_r1
-Copying object to master: LIGH az_light_candle_kollop_rr2_64
-Copying object to master: LIGH az_light_candle_kollop_rr0
-Copying object to master: LIGH az_light_candle_kollop_t0
-Copying object to master: LIGH az_light_candle_kollop_b0
-Copying object to master: LIGH az_light_candle_kollop_b2
-Copying object to master: LIGH az_light_candle_kollop_g1
-Copying object to master: LIGH az_light_candle_kollop_g0_64
-Copying object to master: LIGH az_light_candle_kollop_g2
-Copying object to master: LIGH az_light_candle_kollop_p1
-Copying object to master: LIGH az_light_candle_kollop_t1_64
+Merging object to master: STAT az_furn_painting_06
+Copying object to master: MISC az_Misc_ArtPaintTall03
+Merging object to master: CELL Azura, High Rosery District (85, -76)
+Merging object to master: STAT az_furn_painting_11
+Merging object to master: CELL Azura, Kar-soom
+Merging object to master: STAT az_furn_painting_08
+Merging object to master: STAT az_furn_painting_09
+Copying object to master: MISC az_Misc_ArtPaintWide01
+Merging object to master: CELL AZ_Clutter
+Merging object to master: CELL Dor Dalla, Guild of Mages, Magister Quarters
+Merging object to master: CELL Azura, Saye's House
+Merging object to master: CELL Azura, Stars Above Apartments: Flat 02
+Merging object to master: STAT az_furn_painting_04
+Copying object to master: MISC az_Misc_ArtPaintWide03
+Merging object to master: CELL Azura, High Rosery District (86, -76)
+Copying object to master: MISC az_Misc_ArtPaintWide05
+Merging object to master: CELL Azura, Gadresi Manor
+Merging object to master: CELL Azura, Palace: Magnate's Chambers
+Merging object to master: CELL Azura, Vyne Manor
+Merging object to master: CELL Dor Dalla, Guild of Mages
+Merging object to master: CELL Azura, Stars Above Apartments: Flat 01
+Merging object to master: STAT az_furn_painting_05
+Merging object to master: CELL Azura, Stars Above Apartments: Flat 03
+Copying object to master: MISC az_Misc_ArtPaintWide04
+Merging object to master: STAT az_furn_painting_01
+Copying object to master: MISC az_Misc_ArtPaintSqar03
+Copying object to master: MISC az_Misc_ArtPaintTall01
+Merging object to master: CELL Azura, Granderea Salor's House
+Merging object to master: CELL Azura, Pike's Sundries
+Merging object to master: CELL Azura, Stars Above Apartments: Flat 04
+Merging object to master: STAT az_furn_painting_10
+Merging object to master: CELL Azura, The Turquoise Canvas
+Merging object to master: CELL Moonshadow, Clutter Depot
+Merging object to master: STAT az_furn_painting_02
+Merging object to master: STAT az_furn_painting_03
+Merging object to master: CELL Azura, Voath Manor
+Merging object to master: CELL Azura, Zaimora Manor
+Copying object to master: MISC az_Misc_ArtPaintSqar01
+Copying object to master: MISC az_Misc_ArtPaintWide02
+Merging object to master: CELL Azura, Palace: Upper Halls
+Copying object to master: MISC az_Misc_ArtPaintSqar02
+Copying object to master: MISC az_Misc_ArtPaintTall02
+Merging object to master: CELL AZ_Ouamer
+Merging object to master: STAT az_furn_painting_07
 Creating backup...
 Saving results...
 Finished!
