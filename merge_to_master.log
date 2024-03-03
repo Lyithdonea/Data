@@ -1,69 +1,9 @@
 Merging plugins...
-Remapping texture index: (6 -> 96) az_tx_swampRock
-Remapping texture index: (5 -> 95) az_tx_strongGround
-Remapping texture index: (2 -> 70) Tx_BC_grass.tga
-Remapping texture index: (4 -> 86) Tx_BC_mainroad_01.tga
-Remapping texture index: (3 -> 78) Tx_BC_muck_01.tga
-Remapping texture index: (1 -> 68) Tx_BC_bank.tga
-Merging object to master: STAT az_furn_barrel_ring01
-Merging object to master: CELL Azura, Kar-soom
-Merging object to master: LTEX az_tx_strongGround
-Merging object to master: CELL Bnay (83, -82)
-Merging object to master: CELL Azura, The Gathering Hole
-Merging object to master: CELL Azura, High Rosery District (86, -76)
-Merging object to master: STAT az_furn_barrel_empty01
-Copying object to master: STAT az_Ex_FerryRope01
-Merging object to master: CELL Dor Dalla, Guild of Mages
-Merging object to master: LTEX Sand
-Copying object to master: STAT az_Ex_Ferry
-Merging object to master: LTEX Tx_BC_mainroad_01.tga
-Merging object to master: CELL Azura, Granderea Salor's House
-Merging object to master: STAT az_furn_barrel_broken01
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -73)
-Merging object to master: LAND (Exterior) (83, -82)
-Merging object to master: STAT az_furn_barrel_broken02
-Merging object to master: STAT az_furn_barrel_ring02
-Merging object to master: LTEX Tx_BC_grass.tga
-Merging object to master: CELL Bnay, New Argonia (84, -81)
-Merging object to master: LAND (Exterior) (84, -81)
-Merging object to master: STAT az_furn_barrel_plank
 Merging object to master: CELL Azura, High Rosery District (85, -76)
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
-Merging object to master: LTEX Tx_BC_bank.tga
-Merging object to master: CELL Lyithdonea, Delaruhn (87, -79)
+Merging object to master: CELL Azura, High Rosery District (86, -76)
 Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -75)
-Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -75)
-Merging object to master: CELL AZ_Clutter
-Merging object to master: CELL Azura, Glaneth's House
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (91, -76)
-Merging object to master: CELL Dor Dalla, Guild of Mages, Head Magister's Tower
-Merging object to master: CELL Azura, Dalag Andis' House
-Merging object to master: STAT az_furn_barrel_top01
-Merging object to master: CELL Bnay (84, -84)
-Merging object to master: CELL Azura, Slums, Jinkie's Tumbledown
-Merging object to master: CELL Azura, Residential District (87, -75)
-Merging object to master: CELL AZ_DocksDe
 Merging object to master: CELL Azura, Port Authority
-Merging object to master: CELL AZ_Ships
-Merging object to master: LTEX az_tx_swampRock
-Merging object to master: CELL AZ_Region_Thousand Isles (84, -86)
-Merging object to master: CELL Bnay (84, -82)
-Copying object to master: STAT az_Ex_FerryRopeTie1024
-Merging object to master: CELL Lyithdonea, Keen (91, -74)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -74)
-Merging object to master: CELL Azura, Slums
-Merging object to master: CELL Bnay (83, -83)
-Merging object to master: LAND (Exterior) (84, -82)
-Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Merging object to master: STAT az_furn_bowl_hanging
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -76)
-Merging object to master: STAT az_furn_brace_02
-Merging object to master: CELL Azura, Underworks, Vando Block 1
-Merging object to master: STAT az_furn_brace_01
-Merging object to master: LTEX Tx_BC_muck_01.tga
-Merging object to master: CELL Azura, Old Town (88, -77)
-Merging object to master: CELL Azura, Hestus Ram's House
+Merging object to master: MISC az_Misc_PackageHouseAzura
 Creating backup...
 Saving results...
 Finished!
