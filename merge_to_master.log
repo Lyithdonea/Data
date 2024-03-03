@@ -1,9 +1,59 @@
 Merging plugins...
+Remapping texture index: (13 -> 99) az_tx_VelGravel
+Remapping texture index: (6 -> 30) AI_Grass_02
+Remapping texture index: (3 -> 25) AI_Grass_Dirt
+Remapping texture index: (9 -> 64) MA_sulphur_rock03
+Remapping texture index: (10 -> 83) Tx_BC_rock_04.tga
+Remapping texture index: (1 -> 3) AI_Grass_Cobbles
+Remapping texture index: (4 -> 27) AI_Dirtroad
+Remapping texture index: (12 -> 94) az_tx_rockWaterGreen
+Remapping texture index: (7 -> 42) GL_Rock_01
+Remapping texture index: (2 -> 22) AI_Grass
+Remapping texture index: (11 -> 93) az_tx_rock
+Remapping texture index: (5 -> 29) AI_Clover
+Remapping texture index: (8 -> 43) GL_Rock_02
 Merging object to master: CELL Azura, High Rosery District (85, -76)
+Merging object to master: LTEX az_tx_VelGravel
+Merging object to master: LTEX AI_Grass_Cobbles
+Merging object to master: LTEX AI_Clover
+Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
+Copying object to master: CELL Keen, Dreugh-jigger's Rest
+Copying object to master: CELL Keen, Elammus Theray's Shack
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
+Merging object to master: LAND (Exterior) (91, -74)
+Merging object to master: LTEX GL_Rock_02
+Merging object to master: CELL AZ_Region_Azurian Isles (91, -73)
 Merging object to master: CELL Azura, High Rosery District (86, -76)
-Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
-Merging object to master: CELL Azura, Port Authority
-Merging object to master: MISC az_Misc_PackageHouseAzura
+Merging object to master: LTEX AI_Grass_Dirt
+Copying object to master: STAT az_ex_woodPlatSupport04
+Merging object to master: LTEX AI_Dirtroad
+Merging object to master: LAND (Exterior) (89, -74)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -74)
+Merging object to master: CELL Lyithdonea, Gateway Canton (89, -74)
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -73)
+Merging object to master: LAND (Exterior) (90, -73)
+Merging object to master: LTEX az_tx_rockWaterGreen
+Merging object to master: LTEX Sand
+Merging object to master: LTEX GL_Rock_01
+Merging object to master: CELL AZ_Region_Azurian Isles (88, -74)
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -74)
+Merging object to master: LTEX AI_Grass_02
+Merging object to master: LTEX MA_sulphur_rock03
+Merging object to master: NPC_ az_Malpen Truptor
+Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
+Merging object to master: LTEX Tx_BC_rock_04.tga
+Merging object to master: LTEX AI_Grass
+Merging object to master: LTEX az_tx_rock
+Merging object to master: LAND (Exterior) (91, -73)
+Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -76)
+Copying object to master: PGRD Keen (91, -74)
+Merging object to master: CELL Lyithdonea, Keen, Elammus Theray's Shack
+Merging object to master: LAND (Exterior) (90, -74)
+Copying object to master: CELL Keen (91, -74)
+Merging object to master: LAND (Exterior) (89, -73)
+Merging object to master: CELL AZ_Region_Azurian Isles (90, -72)
+Merging object to master: CELL Lyithdonea, Keen, Dreugh-jigger's Rest
+Merging object to master: PGRD Lyithdonea, Gateway Canton (90, -73)
 Creating backup...
 Saving results...
 Finished!
