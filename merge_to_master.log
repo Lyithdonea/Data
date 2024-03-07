@@ -1,100 +1,55 @@
 Merging plugins...
-Merging object to master: CELL Azura, Gale Rider, Cabin
-Merging object to master: CELL Azura, Saurale's Quayside Tavern
-Merging object to master: STAT az_furn_bucket
-Merging object to master: CELL Azura, Royalway Apartments, Upper North-Two
-Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
-Merging object to master: STAT az_furn_com_rm_table_tall
-Merging object to master: CELL Dor Dalla, Guild of Mages, Infirmary
-Merging object to master: CELL Dor Dalla, Guild of Mages, Student Quarters
-Merging object to master: CELL Azura, High Rosery District (86, -76)
-Merging object to master: CELL Azura, Gale Rider, Lower Level
-Merging object to master: STAT az_furn_com_lecturn_02
-Copying object to master: STAT az_furn_ComMidLanternPost
-Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -76)
-Merging object to master: CELL Azura, Gadresi Manor
-Merging object to master: CELL Azura, Saurale's House
-Merging object to master: CELL Dor Dalla, Guild of Mages
-Merging object to master: STAT az_furn_cart_bamboo
-Merging object to master: STAT az_furn_de_p_table_05
-Merging object to master: CELL Lyithdonea, Dor Dalla (84, -73)
-Merging object to master: CELL Dor Dalla, Guild of Mages, Pneumological Studies
-Merging object to master: STAT az_in_strawheap_01
-Merging object to master: STAT az_furn_com_table_operate2
-Merging object to master: CELL Azura, Granderea Salor's House
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -73)
-Merging object to master: CELL Azura, Hammarnibi Residence
-Merging object to master: CELL Azura, Gamma Tunel's House
-Merging object to master: CELL Azura, Resk Tarrampto: Food Vendor
-Merging object to master: STAT az_furn_chain_short
-Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
-Merging object to master: CELL Azura, Tar Gamayn: Valuable Goods
-Merging object to master: STAT az_furn_cart_wheel
-Merging object to master: STAT az_furn_com_bookshelf_half
-Merging object to master: STAT az_furn_com_r_table_side
-Merging object to master: CELL AZ_Common
-Merging object to master: CELL Azura, Rivosi Indrano: Pawnbroker
-Merging object to master: CELL Azura, Zaimora Manor
-Merging object to master: STAT az_furn_p_de_table_04
-Merging object to master: STAT az_furn_chain_small
-Merging object to master: CELL Azura, Palace: Sewers
-Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
-Merging object to master: STAT az_furn_de_p_table_04
-Merging object to master: CELL Dor Dalla, Guild of Mages, Boarding Tower
-Merging object to master: STAT az_furn_nail
+Remapping texture index: (1 -> 22) AI_Grass
+Remapping texture index: (12 -> 99) az_tx_VelGravel
+Remapping texture index: (10 -> 93) az_tx_rock
+Remapping texture index: (4 -> 29) AI_Clover
+Remapping texture index: (8 -> 43) GL_Rock_02
+Remapping texture index: (2 -> 25) AI_Grass_Dirt
+Remapping texture index: (3 -> 27) AI_Dirtroad
+Remapping texture index: (6 -> 31) AI_Tilled_Dirt
+Remapping texture index: (7 -> 42) GL_Rock_01
+Remapping texture index: (11 -> 97) az_tx_VelFloor
+Remapping texture index: (5 -> 30) AI_Grass_02
+Remapping texture index: (9 -> 64) MA_sulphur_rock03
+Copying object to master: CONT az_f_PeachBonsai01
+Merging object to master: LTEX az_tx_VelGravel
+Merging object to master: LTEX AI_Clover
 Merging object to master: CELL Azura, High Rosery District (85, -76)
 Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
-Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
-Merging object to master: CELL Azura, Glaneth's House
-Merging object to master: CELL Azura, Royalway Apartments, Lower South-One
-Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -75)
-Merging object to master: CELL AZ_Clutter
-Merging object to master: STAT az_in_strawheap_00
-Merging object to master: CELL Azura, Royalway Apartments, Upper North-One
-Merging object to master: CELL Dor Dalla, Guild of Mages, Head Magister's Tower
-Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
-Merging object to master: CELL Azura, Mona's Spell Boutique
-Merging object to master: CELL Azura, Dalag Andis' House
-Merging object to master: CELL Azura, Water Tower
-Merging object to master: STAT az_furn_chain_smaller
-Merging object to master: STAT az_furn_com_table_operate
-Merging object to master: CELL Azura, Solia Dalas's House
-Merging object to master: CELL Azura, Residential District (87, -75)
-Merging object to master: CELL AZ_DocksDe
-Merging object to master: CELL Moonshadow, Exterior Test Cell
-Merging object to master: CELL Azura, Ferabi Gaddad's House
+Copying object to master: CONT az_f_PeachBonsai02
+Merging object to master: LAND (Exterior) (91, -78)
+Merging object to master: LAND (Exterior) (89, -72)
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -71)
+Merging object to master: CELL AZ_Region_Azurian Isles (89, -72)
+Merging object to master: CELL AZ_Region_Azurian Isles (91, -78)
+Merging object to master: LTEX GL_Rock_02
+Merging object to master: CELL Azura, High Rosery District (86, -76)
+Merging object to master: LTEX AI_Grass_Dirt
+Merging object to master: CONT az_flora_PeachTree
+Merging object to master: LTEX AI_Dirtroad
 Merging object to master: CELL Lyithdonea, Gateway Canton (90, -73)
-Merging object to master: CELL Azura, The Stomping Kriin, Storage
-Merging object to master: STAT az_furn_chain_long
-Merging object to master: CELL Azura, Vacant Building
-Merging object to master: CELL Bnay (84, -83)
-Merging object to master: CELL Azura, Slums
-Merging object to master: STAT az_furn_haypile
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -74)
-Merging object to master: CELL Azura, Gale Rider, Upper Level
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -72)
-Merging object to master: STAT az_furn_com_lecturn_01
-Merging object to master: CELL Azura, Palace: Servants' Wing
-Merging object to master: CELL Azura, Faest Ratha Market, Upper Level
-Merging object to master: STAT az_in_strawheap_02
-Merging object to master: CELL Lyithdonea, Jermora Docks (88, -72)
-Merging object to master: STAT az_furn_p_de_table_05
-Merging object to master: CELL Azura, Civilius' Bakery
-Merging object to master: STAT az_furn_com_r_chair_hammock
-Merging object to master: CELL AZ_Stronghold
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -73)
+Merging object to master: LTEX AI_Tilled_Dirt
+Merging object to master: LTEX Sand
+Merging object to master: LTEX GL_Rock_01
+Merging object to master: LAND (Exterior) (90, -78)
+Merging object to master: LTEX az_tx_VelFloor
+Merging object to master: LTEX AI_Grass_02
+Merging object to master: LTEX MA_sulphur_rock03
+Copying object to master: CONT az_f_PeachWillow02
+Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
+Copying object to master: CONT az_f_PeachWillow03
 Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -74)
-Merging object to master: CELL AZ_Gore
-Merging object to master: CELL Azura, Daroth Lighthouse
-Merging object to master: CELL Azura, Kether's Fine Alchemy Shop
-Merging object to master: CELL Azura, Underworks, Vando Block 1
-Merging object to master: CELL Azura, Old Town (88, -77)
-Merging object to master: STAT az_furn_de_p_bookshelf
-Merging object to master: CELL AZ_Ouamer
-Merging object to master: CELL Bnay, Arena (81, -82)
-Merging object to master: CELL Azura, Hestus Ram's House
-Merging object to master: CELL Azura, Voath Manor
+Merging object to master: LTEX AI_Grass
+Merging object to master: LTEX az_tx_rock
+Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -76)
+Merging object to master: PGRD Lyithdonea, Jubuka'im Farm (90, -78)
+Copying object to master: CONT az_f_PeachWillow01
+Merging object to master: LAND (Exterior) (88, -75)
+Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
+Merging object to master: LAND (Exterior) (89, -73)
 Creating backup...
 Saving results...
 Finished!
