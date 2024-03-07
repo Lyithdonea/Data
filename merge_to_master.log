@@ -1,55 +1,12 @@
 Merging plugins...
-Remapping texture index: (1 -> 22) AI_Grass
-Remapping texture index: (12 -> 99) az_tx_VelGravel
-Remapping texture index: (10 -> 93) az_tx_rock
-Remapping texture index: (4 -> 29) AI_Clover
-Remapping texture index: (8 -> 43) GL_Rock_02
-Remapping texture index: (2 -> 25) AI_Grass_Dirt
-Remapping texture index: (3 -> 27) AI_Dirtroad
-Remapping texture index: (6 -> 31) AI_Tilled_Dirt
-Remapping texture index: (7 -> 42) GL_Rock_01
-Remapping texture index: (11 -> 97) az_tx_VelFloor
-Remapping texture index: (5 -> 30) AI_Grass_02
-Remapping texture index: (9 -> 64) MA_sulphur_rock03
-Copying object to master: CONT az_f_PeachBonsai01
-Merging object to master: LTEX az_tx_VelGravel
-Merging object to master: LTEX AI_Clover
 Merging object to master: CELL Azura, High Rosery District (85, -76)
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
-Copying object to master: CONT az_f_PeachBonsai02
-Merging object to master: LAND (Exterior) (91, -78)
-Merging object to master: LAND (Exterior) (89, -72)
-Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (89, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -78)
-Merging object to master: LTEX GL_Rock_02
 Merging object to master: CELL Azura, High Rosery District (86, -76)
-Merging object to master: LTEX AI_Grass_Dirt
-Merging object to master: CONT az_flora_PeachTree
-Merging object to master: LTEX AI_Dirtroad
-Merging object to master: CELL Lyithdonea, Gateway Canton (90, -73)
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -73)
-Merging object to master: LTEX AI_Tilled_Dirt
-Merging object to master: LTEX Sand
-Merging object to master: LTEX GL_Rock_01
-Merging object to master: LAND (Exterior) (90, -78)
-Merging object to master: LTEX az_tx_VelFloor
-Merging object to master: LTEX AI_Grass_02
-Merging object to master: LTEX MA_sulphur_rock03
-Copying object to master: CONT az_f_PeachWillow02
-Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
-Copying object to master: CONT az_f_PeachWillow03
-Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Merging object to master: LTEX AI_Grass
-Merging object to master: LTEX az_tx_rock
+Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
+Merging object to master: STAT az_flora_tree_az_04
 Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -76)
-Merging object to master: PGRD Lyithdonea, Jubuka'im Farm (90, -78)
-Copying object to master: CONT az_f_PeachWillow01
-Merging object to master: LAND (Exterior) (88, -75)
-Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
-Merging object to master: LAND (Exterior) (89, -73)
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -73)
+Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
 Creating backup...
 Saving results...
 Finished!
