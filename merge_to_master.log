@@ -1,75 +1,42 @@
 Merging plugins...
-Merging object to master: CELL Azura, Kar-soom
-Merging object to master: CELL Azura, Palace (87, -76)
-Copying object to master: CONT az_urn_01_ingred
-Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
-Merging object to master: CELL Azura, (UNUSED) Dalmvel Vibrys' House
-Merging object to master: CELL Azura, (UNUSED) Nevassa Elaingi's House
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -78)
-Merging object to master: CELL Azura, High Rosery District (86, -76)
-Merging object to master: CELL Azura, Stars Above Apartments
-Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -76)
-Merging object to master: CELL Azura, Gadresi Manor
-Merging object to master: CELL Azura, Svorelhe's House
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
-Copying object to master: CONT az_urn_01_food
-Merging object to master: CELL Azura, Saurale's House
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 01
-Copying object to master: STAT az_Furn_PlanterHang01
-Copying object to master: STAT az_Furn_PlanterHang02
-Merging object to master: CELL Azura, Stars Above Apartments: Storage
-Merging object to master: CELL Azura, Baalur Fendris: Trader
-Merging object to master: CELL Azura, Hilatte Bno: Potter
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 04
-Copying object to master: CONT az_urn_01
-Merging object to master: CELL Azura, Pike's Sundries
-Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
-Merging object to master: CELL Lyithdonea, Isles of Dusk (84, -71)
-Merging object to master: CELL Azura, Tar Gamayn: Valuable Goods
-Merging object to master: CELL Azura, Zaimora Manor
-Merging object to master: CELL Azura, Saltraker Housing
-Copying object to master: CONT az_urn_02_scrolls
-Merging object to master: CONT az_urn_02_ingred
-Copying object to master: CONT az_urn_03
-Copying object to master: CONT az_urn_03_ingred
 Merging object to master: CELL Azura, High Rosery District (85, -76)
 Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
-Merging object to master: CELL Azura, Adienne's House
-Merging object to master: CELL Lyithdonea, Delaruhn (87, -79)
-Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -72)
+Copying object to master: LIGH az_Light_ShellwareCandleGrn064
+Copying object to master: MISC az_Misc_ShellwareBowlLrg
+Copying object to master: LIGH az_Light_ShellwareCandleBluW128
 Merging object to master: CELL AZ_Clutter
-Merging object to master: CELL Dor Dalla, Guild of Mages, Head Magister's Tower
-Merging object to master: CELL Azura, Saye's House
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 02
-Merging object to master: CELL Azura, Mona's Spell Boutique
-Copying object to master: CONT az_urn_01_scrolls
-Copying object to master: STAT az_Furn_PlanterSmall
-Merging object to master: CELL Azura, Residential District (87, -75)
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
+Copying object to master: MISC az_Misc_ShellwareKnife
+Copying object to master: MISC az_Misc_ShellwareNapkin
+Copying object to master: MISC az_Misc_ShellwarePlate
+Copying object to master: MISC az_Misc_ShellwareScoop
+Copying object to master: LIGH az_Light_ShellwareCandleBluW064
+Copying object to master: MISC az_Misc_ShellwareNapkinRoll
+Copying object to master: LIGH az_Light_ShellwareCandleBluB256
+Merging object to master: CELL Azura, High Rosery District (86, -76)
+Copying object to master: LIGH az_Light_ShellwareCandlePrp256
+Copying object to master: LIGH az_Light_ShellwareCandleGrn128
+Copying object to master: MISC az_Misc_ShellwareChopstick
 Merging object to master: CELL Lyithdonea, Gateway Canton (90, -73)
-Merging object to master: CELL Azura, The Stomping Kriin, Storage
-Merging object to master: CELL Azura, Palace: South Wing
-Merging object to master: CELL Lyithdonea, Keen (91, -74)
-Merging object to master: CELL Azura, Saffend: Fine Clothier
-Copying object to master: STAT az_Furn_PlanterLarge
-Copying object to master: CONT az_urn_02
-Merging object to master: CELL Bnay (83, -83)
-Merging object to master: CELL Azura, Palace: Servants' Wing
-Merging object to master: CELL Azura, The Turquoise Canvas
-Merging object to master: CELL Azura, Voath Manor
-Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Copying object to master: STAT az_Furn_UrnPitcher
-Merging object to master: CELL Azura, Civilius' Bakery
-Merging object to master: CELL Azura, [UNUSED] Vedril Sarethi's House
-Merging object to master: CONT az_urn_03_food
+Copying object to master: LIGH az_Light_ShellwareCandleWht128
+Copying object to master: MISC az_Misc_ShellwareGoblet
+Copying object to master: MISC az_Misc_ShellwarePot
+Copying object to master: MISC az_Misc_ShellwareBowl
+Copying object to master: LIGH az_Light_ShellwareCandleWht064
+Copying object to master: MISC az_Misc_ShellwareSpoon
+Copying object to master: LIGH az_Light_ShellwareCandleBluW256
+Copying object to master: LIGH az_Light_ShellwareCandlePrp064
+Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
+Copying object to master: MISC az_Misc_ShellwarePitcher
+Copying object to master: LIGH az_Light_ShellwareCandleBluB064
+Copying object to master: LIGH az_Light_ShellwareCandleBluB128
+Copying object to master: LIGH az_Light_ShellwareCandleWht256
+Copying object to master: MISC az_Misc_ShellwareCup
+Copying object to master: MISC az_Misc_ShellwarePlatter
+Copying object to master: LIGH az_Light_ShellwareCandleGrn256
 Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -76)
-Merging object to master: CELL Lyithdonea, Delaruhn, Laniel Eteche's Shack
-Merging object to master: CELL Azura, Daroth Lighthouse
-Merging object to master: CELL Azura, Alverengion's House
-Merging object to master: CELL Azura, Underworks, Istharis Residence
-Merging object to master: CONT az_urn_02_food
-Merging object to master: CELL Azura, Old Town (88, -77)
-Merging object to master: CELL Azura, Catacombs, Dredanni Ashvaults
+Copying object to master: MISC az_Misc_ShellwareFork
+Copying object to master: LIGH az_Light_ShellwareCandlePrp128
 Creating backup...
 Saving results...
 Finished!
