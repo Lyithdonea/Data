@@ -91,6 +91,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Barbarus
 * Bjam
 * C_Mireneye
+* Calinou - Lightning animation texture
 * Calislahn - Better Clothes
 * Chainy - Scripts, technical assistance, Bird of Paradise animations
 * Chaka-ZG
