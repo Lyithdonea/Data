@@ -1,171 +1,69 @@
 Merging plugins...
-Merging object to master: CELL Azura, Magnagerial District (86, -75)
-Merging object to master: ACTI az_act_grate_Ashogala_02
-Merging object to master: ACTI az_Door_ComPanelLHEXAMPLE
-Copying object to master: CONT az_r_FishPearlHang
-Copying object to master: STAT az_Ex_InfernaceHallTriple
-Merging object to master: ACTI az_dig_dirt_BC
-Merging object to master: ACTI az_act_ghostfence
-Copying object to master: STAT az_Ex_DunOverhangLarge04
-Copying object to master: STAT az_Terr_InfernaceRockBasalt02
-Merging object to master: SCPT az_scr_shrineAzura
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -81)
-Merging object to master: ACTI az_act_corpse_hung
-Merging object to master: CELL Dor Dalla, Guild of Mages
-Merging object to master: CELL Azura, Manor District, West Waistworks
-Copying object to master: ACTI az_Terr_DigSandLarge
-Copying object to master: STAT az_Ex_DunOverhang07
-Merging object to master: CELL Lyithdonea, Tarshon (79, -79)
-Merging object to master: CELL Azura, Old Town (87, -77)
-Merging object to master: CELL Lyithdonea, Dor Dalla (84, -73)
-Merging object to master: CELL Inner Sea, Nepenthe
-Merging object to master: CELL Lyithdonea, Daruum Ancestral Tomb
-Merging object to master: CELL Lyithdonea, Julairan, Outer Rosery
-Merging object to master: ACTI az_Door_ComPanelRHEXAMPLE
-Copying object to master: STAT az_Fx_MagicCircleSummoning
-Merging object to master: STAT az_ex_fire_Arkadatotal
-Copying object to master: STAT az_Ex_DunOverhangLarge02
-Copying object to master: STAT az_Terr_InfernaceRockCliff02
-Copying object to master: STAT az_Ex_DunOverhangLarge03
-Copying object to master: ACTI az_Furn_CorpseHung
-Copying object to master: ACTI az_Light_AzRuinsBrazierAshogala
-Copying object to master: STAT az_Furn_CosmoOrrery
-Copying object to master: ACTI az_Terr_DigSand_a
-Merging object to master: ACTI az_act_grate_Ashogala_01
-Copying object to master: STAT az_Ex_OverhangRug02c
-Copying object to master: STAT az_Ex_InfernaceFoundSmall
-Merging object to master: CELL Azura, Faest Ratha Market, Lower Level
-Copying object to master: STAT az_Ex_VelOverhang02
-Copying object to master: STAT az_Ex_OverhangRug01a
-Copying object to master: STAT az_Terr_InfernaceRock10
-Copying object to master: STAT az_Mrk_CollBox01
-Merging object to master: CELL Azura, High Rosery District (85, -76)
-Merging object to master: ACTI az_act_mg_summoning_circle
-Merging object to master: ACTI az_act_sg_infuser
-Merging object to master: CELL Lyithdonea, Delaruhn (87, -79)
-Merging object to master: CELL Azura, Underworks, Cistern Market
-Copying object to master: ACTI az_Terr_InfernaceRockSpin
-Merging object to master: ACTI az_act_rock_fire_spin
-Copying object to master: STAT az_Terr_InfernaceRock12
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (91, -76)
-Merging object to master: ACTI az_act_imp_bell
-Copying object to master: ACTI az_Act_BnayArenaCage
-Merging object to master: ACTI az_act_mg_teleport_circle
-Copying object to master: STAT az_Furn_CosmoStarOrb
-Copying object to master: STAT az_Ex_DunOverhang03
-Merging object to master: CELL AZ_Region_Thousand Isles (82, -84)
-Merging object to master: CELL Azura, Residential District (87, -75)
-Merging object to master: STAT az_ex_fire_PiedraMur
-Merging object to master: STAT az_ex_fire_Piedrolados
-Merging object to master: CELL Lyithdonea, Gateway Canton (90, -73)
-Merging object to master: CELL Infernace, Red Hearth
-Copying object to master: STAT az_Ex_VelArenaStands
-Copying object to master: ACTI az_Terr_DigSand
-Copying object to master: STAT az_Terr_InfernaceRockCliff01
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -72)
-Merging object to master: CELL Azura, Western Lighthouse
-Copying object to master: ACTI az_Furn_RopeBellTower
-Merging object to master: STAT az_ex_fire_VerjaRecta
-Copying object to master: ACTI az_Fx_GhostfenceFull
-Copying object to master: STAT az_Ex_DunOverhang04
-Merging object to master: CELL AZ_Region_Thousand Isles (86, -80)
-Copying object to master: STAT az_Ex_DunOverhang18
-Merging object to master: CELL AZ_Velothi
-Merging object to master: ACTI az_dig_dirt_LG_BC
-Copying object to master: STAT az_Terr_InfernaceRock01
-Merging object to master: ACTI az_collision_box_02
-Merging object to master: CELL Bnay (83, -84)
-Merging object to master: ACTI az_dig_dirt_BC_inactive
-Merging object to master: CELL Azura, Old Town (88, -77)
-Merging object to master: ACTI az_act_arena_cage
-Merging object to master: STAT az_ex_fire_VerjaRedonda2
-Merging object to master: CELL Bnay, Arena (81, -82)
-Merging object to master: SCPT az_scr_ashogala_brazier
-Merging object to master: CELL Lyithdonea, Hataz Cave
+Merging object to master: CELL Umbrage
 Merging object to master: CELL Lyithdonea, Dor Dalla (84, -74)
-Merging object to master: CELL Azura, Palace (87, -76)
-Merging object to master: STAT az_ex_fire_dais
-Merging object to master: ACTI az_dig_sand_LG
-Copying object to master: STAT az_Ex_OverhangRug01c
-Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
-Merging object to master: STAT az_ex_fire_ArkadaCaminoCtr
-Copying object to master: ACTI az_Terr_DigDirtBC_a
-Copying object to master: STAT az_Terr_InfernaceRockVolcano01
-Copying object to master: STAT az_Ex_DunOverhang18b
-Merging object to master: CELL Azura, The Gathering Hole
-Merging object to master: CELL Azura, Manor District (86, -77)
-Merging object to master: ACTI az_act_az_ruins_brazier_ashog
-Merging object to master: CELL AZ_Region_Thousand Isles (82, -85)
-Merging object to master: CELL Azura, High Rosery District (86, -76)
+Merging object to master: ACTI az_ex_DAWN_float_02_glow
+Merging object to master: CELL AZ_Region_Azurian Isles (83, -74)
+Copying object to master: ACTI az_Ex_DeBuoy01
+Merging object to master: ACTI az_ex_steampark_fan_01
+Copying object to master: ACTI az_Ex_DawnPost03
+Copying object to master: ACTI az_Ex_DeBuoyChain01
 Merging object to master: CELL Azura, Palace: Magnate's Chambers
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
-Merging object to master: CELL Lyithdonea, Llavayn Ancestral Tomb
-Merging object to master: ACTI az_dig_sand_inactive
-Merging object to master: ACTI az_fx_magiccircle_01
-Copying object to master: STAT az_Ex_OverhangRug01b
-Copying object to master: LIGH az_Light_SunCrystalPit512
-Merging object to master: CELL Lyithdonea, Tarshon (78, -78)
-Copying object to master: STAT az_Ex_InfernaceFoundLarge
-Copying object to master: STAT az_Ex_DunOverhang18a
-Merging object to master: CELL AZ_Region_Scabrous Residuum (79, -73)
-Merging object to master: ACTI az_act_orrery
+Copying object to master: ACTI az_Ex_DawnArch01
+Copying object to master: ACTI az_Ex_DawnFloat01Glow
+Merging object to master: ACTI az_ex_DAWN_float_03_glow
+Merging object to master: ACTI az_ex_steampark_fan_02
+Copying object to master: ACTI az_Furn_StrongSignCarpentry
+Merging object to master: ACTI az_ex_rock_sithite
+Copying object to master: STAT az_Terr_SithiteBloom02
+Merging object to master: ACTI az_ex_DAWN_post_02
 Merging object to master: CELL Lyithdonea, Isle of Dawn (94, -73)
-Copying object to master: STAT az_Terr_InfernaceRock11
-Copying object to master: STAT az_Ex_OverhangRug02a
-Merging object to master: CELL Dor Dalla, Guild of Mages, Pneumological Studies
-Copying object to master: STAT az_Ex_InfernaceHallLong
-Copying object to master: STAT az_Ex_InfernaceCourtyard
-Copying object to master: ACTI az_Ex_AzRuinsGrateAshogala01
-Copying object to master: ACTI az_Terr_DigDirtBC
-Merging object to master: CELL AZ_Common
-Merging object to master: ACTI az_dock_fish_Hanging_02
-Merging object to master: ACTI az_act_suncrystal_pit
-Merging object to master: ACTI az_act_com_bell_tower_rope
-Merging object to master: ACTI az_collision_box_01
-Merging object to master: CELL Nepenthe, Lower Deck
-Copying object to master: CONT az_r_FishAbbotHang
-Merging object to master: STAT az_ex_fire_platform_rnd
-Merging object to master: STAT az_TI_isl_arena_railings01
-Copying object to master: STAT az_Ex_OverhangRug02b
+Copying object to master: ACTI az_Ex_DawnPost01Glow
+Copying object to master: ACTI az_Ex_DawnFloat02Glow
+Copying object to master: ACTI az_Ex_DawnArch01Glow
+Merging object to master: CELL Lyithdonea, Isles of Dusk (84, -71)
+Merging object to master: ACTI az_ex_DAWN_post_03_glow
+Merging object to master: ACTI az_ex_sign_strong_post
+Copying object to master: STAT az_Ex_StrongSignpost
+Merging object to master: CELL AZ_Region_Azurian Isles (82, -74)
+Merging object to master: ACTI az_ex_DAWN_post_01
 Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
-Copying object to master: STAT az_Ex_OverhangRug02d
-Copying object to master: ACTI az_Ex_AzRuinsGrateAshogala02
-Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
-Copying object to master: STAT az_Ex_DunOverhang09
-Merging object to master: CELL AZ_Region_Thousand Isles (86, -79)
-Merging object to master: CELL AZ_Region_Thousand Isles (83, -85)
-Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -75)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -72)
-Merging object to master: CELL AZ_Clutter
-Copying object to master: STAT az_Ex_DunOverhang05
-Copying object to master: STAT az_Fx_MagicCircleWhite
-Copying object to master: ACTI az_Terr_DigDirtBCLarge_a
-Copying object to master: STAT az_Terr_InfernaceRockCliff03
-Merging object to master: CELL AZ_DocksDe
-Copying object to master: STAT az_Fx_MagicCircleTeleport
-Merging object to master: CELL Lyithdonea, Tarshon (79, -78)
-Merging object to master: CELL Lyithdonea, Keen (91, -74)
-Copying object to master: STAT az_Ex_DunOverhang01
-Copying object to master: STAT az_Ex_StrongArena
-Copying object to master: STAT az_Furn_CosmoStarOrbSmall
-Merging object to master: CELL Infernace, Ruins of Calescence
-Merging object to master: CELL AZ_Region_Thousand Isles (79, -83)
-Copying object to master: STAT az_Ex_VelButtressArena
-Copying object to master: STAT az_Terr_InfernaceRockMountain01
-Merging object to master: CELL Bnay (83, -83)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -74)
-Merging object to master: CELL Azura, High Rosery, Chamber of Secrets
-Merging object to master: CELL Padomaic Ocean, Nepenthe
-Copying object to master: CONT az_r_FishBarkHang
-Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Copying object to master: STAT az_Ex_VelArenaStandsCurve
-Merging object to master: ACTI az_dig_sand
-Merging object to master: CELL AZ_Gore
-Copying object to master: STAT az_Ex_VelButtressDeco01
-Merging object to master: ACTI az_act_shrine_azura
-Merging object to master: STAT az_TI_isl_arena_plat_01
-Merging object to master: ACTI az_dock_fish_Hanging_01
-Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Merging object to master: ACTI az_ex_rock_sithite2
+Merging object to master: ACTI az_ex_DAWN_post_01_glow
+Merging object to master: ACTI az_ex_DAWN_post_02_glow
+Copying object to master: ACTI az_Ex_DawnCrystalSmall04
+Merging object to master: ACTI az_ex_DAWN_float_01
+Merging object to master: ACTI az_ex_DAWN_float_02
+Copying object to master: ACTI az_Ex_DawnCrystalSmall01
+Copying object to master: ACTI az_Ex_DawnCrystalSmall02
+Merging object to master: ACTI az_ex_DAWN_arch_01
+Copying object to master: ACTI az_Ex_DawnFloat03Glow
+Copying object to master: ACTI az_Ex_DawnCrystalSmall06
+Merging object to master: ACTI az_ex_DAWN_float_01_glow
+Merging object to master: ACTI az_ex_DAWN_arch_01_glow
+Copying object to master: STAT az_Terr_SithiteBloom03
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -74)
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -72)
+Copying object to master: ACTI az_Ex_BnayArenaCage
+Merging object to master: ACTI az_ex_DAWN_post_03
+Merging object to master: CELL Bnay (84, -82)
+Copying object to master: ACTI az_Ex_DawnPost02Glow
+Merging object to master: ACTI az_ex_DAWN_float_03
+Copying object to master: ACTI az_Ex_DawnFloat03
+Merging object to master: CELL AZ_Region_Azurian Isles (82, -73)
+Merging object to master: ACTI az_ex_de_buoy_01
+Copying object to master: ACTI az_Ex_DawnCrystalSmall03
+Merging object to master: ACTI az_ex_de_buoychain_01
+Copying object to master: STAT az_Terr_SithiteBloom01
+Copying object to master: ACTI az_Ex_DawnFloat01
+Merging object to master: ACTI az_ex_rock_sithite3
+Merging object to master: CELL Lyithdonea, Isle of Dawn (94, -72)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -74)
+Copying object to master: ACTI az_Ex_DawnCrystalSmall05
+Copying object to master: ACTI az_Ex_DawnPost01
+Copying object to master: ACTI az_Ex_DawnFloat02
+Copying object to master: ACTI az_Ex_DawnPost02
+Merging object to master: CELL Bnay, Arena (81, -82)
+Copying object to master: ACTI az_Ex_DawnPost03Glow
 Creating backup...
 Saving results...
 Finished!
