@@ -1,69 +1,108 @@
 Merging plugins...
-Merging object to master: CELL Umbrage
-Merging object to master: CELL Lyithdonea, Dor Dalla (84, -74)
-Merging object to master: ACTI az_ex_DAWN_float_02_glow
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -74)
-Copying object to master: ACTI az_Ex_DeBuoy01
-Merging object to master: ACTI az_ex_steampark_fan_01
-Copying object to master: ACTI az_Ex_DawnPost03
-Copying object to master: ACTI az_Ex_DeBuoyChain01
+Remapping texture index: (19 -> 99) az_tx_VelGravel
+Remapping texture index: (12 -> 56) MA_lava02
+Remapping texture index: (4 -> 26) Sand_02
+Remapping texture index: (17 -> 91) az_tx_gravel
+Remapping texture index: (7 -> 29) AI_Clover
+Remapping texture index: (1 -> 4) AI_Grass_Rocky
+Remapping texture index: (10 -> 43) GL_Rock_02
+Remapping texture index: (11 -> 53) MA_crackedearth
+Remapping texture index: (8 -> 30) AI_Grass_02
+Remapping texture index: (9 -> 42) GL_Rock_01
+Remapping texture index: (13 -> 66) MA_lava
+Remapping texture index: (16 -> 89) az_tx_gemBlue
+Remapping texture index: (15 -> 88) az_tx_dawnGround
+Remapping texture index: (3 -> 25) AI_Grass_Dirt
+Remapping texture index: (5 -> 27) AI_Dirtroad
+Remapping texture index: (6 -> 28) AI_Dirt
+Remapping texture index: (14 -> 83) Tx_BC_rock_04.tga
+Remapping texture index: (2 -> 22) AI_Grass
+Remapping texture index: (18 -> 93) az_tx_rock
+Merging object to master: DOOR az_door_DAWN_star
+Merging object to master: LTEX az_tx_VelGravel
+Merging object to master: LTEX AI_Clover
+Merging object to master: LAND (Exterior) (93, -73)
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -72)
+Copying object to master: LIGH az_light@_sunstone_1000
+Merging object to master: LTEX GL_Rock_02
+Merging object to master: STAT az_furn_fish_hung_01
+Copying object to master: STAT az_Terr_SunstoneRock08
+Merging object to master: LTEX AI_Grass_Dirt
+Copying object to master: STAT az_Terr_DirtCliffGrass02
+Copying object to master: STAT az_Terr_SunstoneChunk02
+Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (95, -72)
+Merging object to master: LTEX AI_Dirtroad
+Copying object to master: STAT az_Terr_SunstoneRock07
+Copying object to master: STAT az_Terr_DirtMoundGravel01
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -73)
 Merging object to master: CELL Azura, Palace: Magnate's Chambers
-Copying object to master: ACTI az_Ex_DawnArch01
-Copying object to master: ACTI az_Ex_DawnFloat01Glow
-Merging object to master: ACTI az_ex_DAWN_float_03_glow
-Merging object to master: ACTI az_ex_steampark_fan_02
-Copying object to master: ACTI az_Furn_StrongSignCarpentry
-Merging object to master: ACTI az_ex_rock_sithite
-Copying object to master: STAT az_Terr_SithiteBloom02
-Merging object to master: ACTI az_ex_DAWN_post_02
+Copying object to master: STAT az_Terr_SunstoneRock05
+Merging object to master: LTEX Sand
+Merging object to master: CELL Lyithdonea, Julairan, Outer Rosery
+Copying object to master: STAT az_Terr_SunstoneRock06
 Merging object to master: CELL Lyithdonea, Isle of Dawn (94, -73)
-Copying object to master: ACTI az_Ex_DawnPost01Glow
-Copying object to master: ACTI az_Ex_DawnFloat02Glow
-Copying object to master: ACTI az_Ex_DawnArch01Glow
-Merging object to master: CELL Lyithdonea, Isles of Dusk (84, -71)
-Merging object to master: ACTI az_ex_DAWN_post_03_glow
-Merging object to master: ACTI az_ex_sign_strong_post
-Copying object to master: STAT az_Ex_StrongSignpost
-Merging object to master: CELL AZ_Region_Azurian Isles (82, -74)
-Merging object to master: ACTI az_ex_DAWN_post_01
-Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
-Merging object to master: ACTI az_ex_rock_sithite2
-Merging object to master: ACTI az_ex_DAWN_post_01_glow
-Merging object to master: ACTI az_ex_DAWN_post_02_glow
-Copying object to master: ACTI az_Ex_DawnCrystalSmall04
-Merging object to master: ACTI az_ex_DAWN_float_01
-Merging object to master: ACTI az_ex_DAWN_float_02
-Copying object to master: ACTI az_Ex_DawnCrystalSmall01
-Copying object to master: ACTI az_Ex_DawnCrystalSmall02
-Merging object to master: ACTI az_ex_DAWN_arch_01
-Copying object to master: ACTI az_Ex_DawnFloat03Glow
-Copying object to master: ACTI az_Ex_DawnCrystalSmall06
-Merging object to master: ACTI az_ex_DAWN_float_01_glow
-Merging object to master: ACTI az_ex_DAWN_arch_01_glow
-Copying object to master: STAT az_Terr_SithiteBloom03
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -74)
+Merging object to master: SCPT AB_Furn_DwrvButtonEXAMPLE_s
+Merging object to master: LAND (Exterior) (93, -77)
+Merging object to master: CELL AZ_Region_Azurian Isles (94, -77)
+Merging object to master: LAND (Exterior) (94, -76)
+Merging object to master: CELL Azura, Hammarnibi Residence
+Merging object to master: CELL Lyithdonea, Regatto Ranyon's Shack
+Merging object to master: LAND (Exterior) (95, -72)
+Merging object to master: LTEX Tx_BC_rock_04.tga
+Merging object to master: LTEX AI_Grass
+Merging object to master: LTEX az_tx_rock
+Copying object to master: STAT az_Terr_DirtCliffGrass01
+Merging object to master: CELL Lyithdonea, Tarvur's Landing (87, -78)
+Merging object to master: CELL Lyithdonea, Mount Velnilo (93, -76)
+Merging object to master: LAND (Exterior) (95, -73)
+Copying object to master: STAT az_Terr_SunstoneRock10
+Merging object to master: LAND (Exterior) (94, -73)
+Merging object to master: LAND (Exterior) (93, -72)
+Merging object to master: SCPT AB_ImpChainPullEXAMPLE_s
+Merging object to master: LTEX MA_lava02
+Merging object to master: LTEX Sand_02
+Copying object to master: LIGH az_light@_sunstone_512
+Merging object to master: CELL Lyithdonea, Delaruhn (87, -79)
+Merging object to master: CELL AZ_Region_Azurian Isles (95, -73)
+Merging object to master: LAND (Exterior) (94, -72)
+Merging object to master: ACTI az_fx_DAWN_beam_01
+Merging object to master: LTEX az_tx_gravel
+Merging object to master: LTEX AI_Grass_Rocky
+Merging object to master: SCPT AB_Furn_DwrvLeverEXAMPLE_s
+Merging object to master: LTEX MA_crackedearth
+Merging object to master: SCPT AB_ComSconceLeverEXAMPLE_s
+Copying object to master: STAT az_Terr_SunstoneChunk01
+Merging object to master: LAND (Exterior) (94, -77)
+Merging object to master: LAND (Exterior) (93, -76)
+Merging object to master: CELL Moonshadow, Exterior Test Cell
+Copying object to master: STAT az_Terr_SunstoneRock09
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -77)
 Merging object to master: CELL AZ_Region_Azurian Isles (93, -72)
-Copying object to master: ACTI az_Ex_BnayArenaCage
-Merging object to master: ACTI az_ex_DAWN_post_03
-Merging object to master: CELL Bnay (84, -82)
-Copying object to master: ACTI az_Ex_DawnPost02Glow
-Merging object to master: ACTI az_ex_DAWN_float_03
-Copying object to master: ACTI az_Ex_DawnFloat03
-Merging object to master: CELL AZ_Region_Azurian Isles (82, -73)
-Merging object to master: ACTI az_ex_de_buoy_01
-Copying object to master: ACTI az_Ex_DawnCrystalSmall03
-Merging object to master: ACTI az_ex_de_buoychain_01
-Copying object to master: STAT az_Terr_SithiteBloom01
-Copying object to master: ACTI az_Ex_DawnFloat01
-Merging object to master: ACTI az_ex_rock_sithite3
+Merging object to master: LTEX GL_Rock_01
+Merging object to master: LTEX AI_Dirt
+Merging object to master: SCPT AZ_scr_sunspin
+Merging object to master: CELL Lyithdonea, Keen (91, -74)
+Merging object to master: STAT az_furn_fish_hung_00
+Merging object to master: STAT az_furn_fish_hung_02
+Copying object to master: LIGH az_light@_sunstone_2500
+Merging object to master: CELL Azura, Palace: Servants' Wing
+Merging object to master: LTEX AI_Grass_02
+Merging object to master: CELL AZ_Velothi
+Merging object to master: LAND (Exterior) (92, -72)
+Copying object to master: STAT az_Terr_SunstoneRock04
 Merging object to master: CELL Lyithdonea, Isle of Dawn (94, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -74)
-Copying object to master: ACTI az_Ex_DawnCrystalSmall05
-Copying object to master: ACTI az_Ex_DawnPost01
-Copying object to master: ACTI az_Ex_DawnFloat02
-Copying object to master: ACTI az_Ex_DawnPost02
-Merging object to master: CELL Bnay, Arena (81, -82)
-Copying object to master: ACTI az_Ex_DawnPost03Glow
+Merging object to master: LTEX MA_lava
+Merging object to master: SCPT AB_DwrvGrateStairsEXAMPLE_s
+Copying object to master: STAT az_Terr_SunstoneRock01
+Copying object to master: STAT az_Terr_SunstoneRock02
+Copying object to master: STAT az_Terr_DirtCliffGrass03
+Merging object to master: LTEX az_tx_gemBlue
+Copying object to master: LIGH az_Light_SunstoneChunk512
+Merging object to master: CELL Lyithdonea, Isle of Dawn (93, -73)
+Merging object to master: LTEX az_tx_dawnGround
+Merging object to master: CELL AZ_Region_Azurian Isles (94, -71)
+Copying object to master: STAT az_Terr_SunstoneRock03
 Creating backup...
 Saving results...
 Finished!
