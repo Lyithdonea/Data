@@ -8,7 +8,7 @@ _Lyithdonea: The Azurian Isles_ is a landmass mod for Morrowind featuring a trop
 To get to Lyithdonea, talk with someone on Azura’s Coast (such as in Sadrith Mora or Tel Branora) about “Latest Rumors”.
 
 ### Requirements
-**Morrowind - Tribunal - Bloodmoon - [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)**
+**Morrowind - Tribunal - Bloodmoon - [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042) - [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)**
 
 ### Recommended Mods
 * **[MGE XE](https://www.nexusmods.com/morrowind/mods/26348/)** - Whether you're using MGE XE or OpenMW, distant land is recommended.
