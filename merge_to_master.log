@@ -1,7 +1,57 @@
 Merging plugins...
-Merging object to master: CELL Nepenthe, Lower Deck
-Merging object to master: CELL Nepenthe, Cabin
-Merging object to master: CELL Padomaic Ocean, Nepenthe
+Copying object to master: STAT az_cave_stalac_01
+Merging object to master: CELL Azura, Mines
+Copying object to master: STAT az_cave_ramp_03
+Copying object to master: STAT az_cave_ramp_01
+Copying object to master: STAT az_cave_column_03
+Copying object to master: SCPT az_VelSwitchEXAMPLE_s
+Copying object to master: STAT az_cave_stalac_02
+Copying object to master: STAT az_cave_pebbles_02
+Copying object to master: STAT az_cave_bridge_01
+Copying object to master: STAT az_cave_path_02
+Merging object to master: ACTI az_Furn_VelSwitchEXAMPLE
+Copying object to master: STAT az_cave_column_02
+Copying object to master: STAT az_cave_ramp_02
+Copying object to master: STAT az_cave_stalagmite_01
+Copying object to master: STAT az_cave_stalag_sm_01
+Copying object to master: STAT az_cave_ground_01
+Copying object to master: CONT az_cave_flower_01
+Copying object to master: ACTI az_In_CaveStreamLong
+Copying object to master: STAT az_cave_rocks_02
+Copying object to master: STAT az_cave_channel_01
+Copying object to master: STAT az_cave_stream_entry
+Copying object to master: STAT az_cave_stalag_sm_03
+Copying object to master: ACTI az_In_CaveStreamBendR
+Copying object to master: STAT az_cave_stairs_l
+Copying object to master: STAT az_cave_ceil_small_01
+Copying object to master: STAT az_cave_column_01
+Copying object to master: STAT az_cave_path_01
+Copying object to master: STAT az_cave_ceil_hole_01
+Copying object to master: STAT az_cave_path_03
+Copying object to master: LIGH az_light@_cave_flower_128
+Copying object to master: ACTI az_In_CaveStreamTrans02
+Copying object to master: ACTI az_In_CaveStreamShort02
+Copying object to master: ACTI az_In_CaveStreamTrans01
+Copying object to master: ACTI AB_Fx_WaterFlowCv512b
+Copying object to master: STAT az_cave_sunroot_01
+Copying object to master: ACTI az_In_CaveStreamBendL
+Copying object to master: STAT az_cave_ceil_small_02
+Copying object to master: ACTI az_In_CaveStreamShort01
+Copying object to master: STAT az_cave_wall_02
+Copying object to master: STAT az_cave_stairs_r
+Copying object to master: STAT az_cave_rocks_01
+Copying object to master: STAT az_cave_boulder_02
+Merging object to master: CELL AZ_Velothi
+Copying object to master: STAT az_cave_channel_02
+Copying object to master: STAT az_cave_wall_01
+Copying object to master: STAT az_cave_ledge_01
+Copying object to master: ACTI az_In_CaveStreamSplit
+Copying object to master: STAT az_cave_stalag_sm_02
+Copying object to master: CELL AZ_CaveLyithdonea
+Copying object to master: LIGH az_light@_sunroot_512
+Copying object to master: STAT az_cave_boulder_01
+Copying object to master: STAT az_cave_rocks_gravel
+Copying object to master: STAT az_cave_pebbles_01
 Creating backup...
 Saving results...
 Finished!
