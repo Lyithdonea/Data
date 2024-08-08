@@ -1,57 +1,7 @@
 Merging plugins...
-Copying object to master: ACTI az_In_CaveLimeStreamBendL
-Copying object to master: STAT az_In_CaveLimeStalagLrg01
-Copying object to master: STAT az_In_CaveLimeStalagSml02
-Copying object to master: STAT az_In_CaveLimeStalagSml03
-Copying object to master: SCPT az_VelSwitchEXAMPLE_s
-Copying object to master: STAT az_In_CaveLimeBoulder01
-Copying object to master: ACTI az_In_CaveLimeStreamShort01
-Copying object to master: STAT az_In_CaveLimeCeilingHole01
-Copying object to master: STAT az_In_CaveLimePebbles02
-Copying object to master: STAT az_In_CaveLimePath03
-Merging object to master: ACTI az_Furn_VelSwitchEXAMPLE
-Copying object to master: STAT az_In_CaveLimeCeilingSmall01
-Copying object to master: CONT az_cave_flower_01
-Copying object to master: STAT az_In_CaveLimeChannelCurv
-Copying object to master: STAT az_In_CaveLimeRampS
-Copying object to master: STAT az_In_CaveLimeStairsL
-Copying object to master: ACTI az_In_CaveLimeStreamBendR
-Copying object to master: STAT az_In_CaveLimeColumnLrg02
-Copying object to master: STAT az_In_CaveLimeRampL
-Copying object to master: ACTI az_In_CaveLimeStreamLong
-Copying object to master: STAT az_In_CaveLimeRampR
-Copying object to master: ACTI az_In_CaveLimeStreamTrans01
-Copying object to master: STAT az_In_CaveLimeWallLrg01
-Copying object to master: STAT az_In_CaveLimeStreamEntry
-Copying object to master: STAT az_In_CaveLimeBoulder02
-Copying object to master: STAT az_In_CaveLimeStairsR
-Copying object to master: STAT az_In_CaveLimePath01
-Copying object to master: LIGH az_light@_cave_flower_128
-Copying object to master: STAT az_In_CaveLimeStalagSml01
-Copying object to master: STAT az_In_CaveLimeColumnLrg01
-Copying object to master: STAT az_In_CaveLimeCeilingSmall02
-Copying object to master: ACTI AB_Fx_WaterFlowCv512b
-Copying object to master: STAT az_In_CaveLimeGround01
-Copying object to master: ACTI az_In_CaveLimeStreamTrans02
-Copying object to master: STAT az_In_CaveLimeBridge01
-Copying object to master: STAT az_In_CaveLimeLedge01
-Copying object to master: ACTI az_In_CaveLimeStreamShort02
-Copying object to master: ACTI az_In_CaveLimeStreamSplit
-Copying object to master: STAT az_In_CaveLimeColumnLrg03
-Copying object to master: STAT az_In_CaveLimeSunroot01
-Copying object to master: STAT az_In_CaveLimeRocks02
-Merging object to master: CELL AZ_Velothi
-Copying object to master: STAT az_In_CaveLimeRockSlide
-Copying object to master: STAT az_In_CaveLimePath02
-Copying object to master: STAT az_In_CaveLimePebbles01
-Copying object to master: CELL AZ_CaveLyithdonea
-Copying object to master: LIGH az_light@_sunroot_512
-Copying object to master: STAT az_In_CaveLimeStalac02
-Copying object to master: STAT az_In_CaveLimeStalac01
-Copying object to master: STAT az_In_CaveLimeRocks01
-Merging object to master: CELL Azura, Mines
-Copying object to master: STAT az_In_CaveLimeChannelStrt
-Copying object to master: STAT az_In_CaveLimeWallLrg02
+Copying object to master: STAT az_In_CaveLimeWallSml02
+Copying object to master: STAT az_In_CaveLimeWallSml01
+Merging object to master: CELL AZ_CaveLyithdonea
 Creating backup...
 Saving results...
 Finished!
