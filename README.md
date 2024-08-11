@@ -91,6 +91,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Barbarus
 * Bjam
 * C_Mireneye
+* Cait - for the donkey animations
 * Calinou - Lightning animation texture
 * Calislahn - Better Clothes
 * Chainy - Scripts, technical assistance, Bird of Paradise animations
@@ -113,6 +114,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Greatness7 - extensive assistance with mesh fixing and optimization, scripting help
 * Greybeard - Better Clothes
 * HedgeHog12 - lens flare effects
+* Hemaris - provided the animation reference for the Serow
 * IceFireWarden - I Lost My Love For You text
 * Iggy
 * IggyEGuana - Pirate Shirt
@@ -203,6 +205,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * wkuechen - Shor of the Shore & The Azure Tide text
 * Yar-Yulme
 * Zackg - palm trees, Ascadian Isles trees
+* ZTABC - For the original Serow model
 
 Thank you all for helping make this mod possible! If I missed anyone, please let me know!
 
