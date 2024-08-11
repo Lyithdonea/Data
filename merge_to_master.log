@@ -1,31 +1,11 @@
 Merging plugins...
-Remapping texture index: (3 -> 22) AI_Grass
-Remapping texture index: (1 -> 3) AI_Grass_Cobbles
-Remapping texture index: (2 -> 4) AI_Grass_Rocky
-Remapping texture index: (5 -> 83) Tx_BC_rock_04.tga
-Remapping texture index: (6 -> 93) az_tx_rock
-Remapping texture index: (4 -> 25) AI_Grass_Dirt
-Copying object to master: SOUN AZ_Serow_Scream
-Copying object to master: PGRD Lyithdonea, Azurian Isles (92, -78)
-Merging object to master: LTEX AI_Grass_Cobbles
-Merging object to master: LAND (Exterior) (92, -78)
-Copying object to master: SNDG az_Fau_Serow0005
-Copying object to master: CREA az_Fau_Serow
-Merging object to master: LTEX AI_Grass_Rocky
-Merging object to master: LTEX Tx_BC_rock_04.tga
-Merging object to master: LTEX AI_Grass
-Merging object to master: LTEX az_tx_rock
-Merging object to master: LTEX AI_Grass_Dirt
-Copying object to master: SOUN AZ_Serow_Moan
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -78)
-Copying object to master: SNDG az_Fau_Serow0006
-Copying object to master: LEVI az_lvl_IngCreaSerow
-Copying object to master: SOUN AZ_Serow_Roar
-Copying object to master: CREA az_Fau_SerowF
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -77)
-Copying object to master: SNDG az_Fau_Serow0004
-Merging object to master: LTEX Sand
-Copying object to master: INGR az_IngCrea_SerowChop
+Merging object to master: SOUN AZ_Bell
+Merging object to master: SOUN AZ_CrystalChimes
+Merging object to master: SOUN AZ_Peafowl_Scream
+Merging object to master: SOUN AZ_Bandage
+Merging object to master: SOUN AZ_Peafowl_Moan
+Merging object to master: SOUN AZ_Peafowl_Roar
+Merging object to master: SOUN AZ_WoodenLadder
 Creating backup...
 Saving results...
 Finished!
