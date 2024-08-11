@@ -1,10 +1,7 @@
 Merging plugins...
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -78)
-Merging object to master: STAT az_flora_palmfern
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -77)
-Merging object to master: CELL Lyithdonea, Mount Velnilo (93, -76)
-Merging object to master: CELL Azura, Kar-soom
-Merging object to master: STAT az_flora_palmreallybent
+Copying object to master: SOUN AZ_WoodenLadder
+Copying object to master: DOOR az_door_woodPlatLadder01
+Copying object to master: DOOR az_door_woodPlatLadder02
 Creating backup...
 Saving results...
 Finished!
