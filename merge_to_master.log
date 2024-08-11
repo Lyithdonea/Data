@@ -1,11 +1,14 @@
 Merging plugins...
-Merging object to master: SOUN AZ_Bell
-Merging object to master: SOUN AZ_CrystalChimes
-Merging object to master: SOUN AZ_Peafowl_Scream
-Merging object to master: SOUN AZ_Bandage
-Merging object to master: SOUN AZ_Peafowl_Moan
-Merging object to master: SOUN AZ_Peafowl_Roar
-Merging object to master: SOUN AZ_WoodenLadder
+Merging object to master: CREA az_crea_peacock_y_uni
+Merging object to master: SNDG az_Fau_Serow0006
+Copying object to master: SNDG az_crea_peacock_f0004
+Merging object to master: SNDG az_Fau_Serow0005
+Merging object to master: CREA az_Fau_SerowF
+Merging object to master: CREA az_crea_peacock_y
+Merging object to master: SNDG az_Fau_Serow0004
+Merging object to master: CREA az_crea_peacock_m
+Copying object to master: SNDG az_crea_peacock_f0005
+Copying object to master: SNDG az_crea_peacock_f0006
 Creating backup...
 Saving results...
 Finished!
