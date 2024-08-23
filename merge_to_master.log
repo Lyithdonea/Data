@@ -1,49 +1,69 @@
 Merging plugins...
-Remapping texture index: (6 -> 68) Tx_BC_bank.tga
-Remapping texture index: (12 -> 100) az_tx_MineralGround
-Remapping texture index: (1 -> 4) AI_Grass_Rocky
-Remapping texture index: (9 -> 79) Tx_BC_rockyscrub.tga
-Remapping texture index: (10 -> 87) az_tx_CIFloor
-Remapping texture index: (2 -> 22) AI_Grass
-Remapping texture index: (7 -> 70) Tx_BC_grass.tga
-Remapping texture index: (11 -> 93) az_tx_rock
-Remapping texture index: (8 -> 78) Tx_BC_muck_01.tga
-Remapping texture index: (5 -> 43) GL_Rock_02
+Remapping texture index: (10 -> 91) az_tx_gravel
 Remapping texture index: (3 -> 25) AI_Grass_Dirt
-Remapping texture index: (4 -> 42) GL_Rock_01
-Merging object to master: LTEX Tx_BC_bank.tga
-Merging object to master: LAND (Exterior) (89, -80)
-Merging object to master: CELL AZ_Region_Thousand Isles (88, -80)
-Merging object to master: LAND (Exterior) (88, -80)
-Merging object to master: LTEX az_tx_MineralGround
-Merging object to master: CELL AZ_Region_Thousand Isles (88, -81)
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -82)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -80)
+Remapping texture index: (6 -> 30) AI_Grass_02
+Remapping texture index: (2 -> 22) AI_Grass
+Remapping texture index: (4 -> 27) AI_Dirtroad
+Remapping texture index: (5 -> 28) AI_Dirt
+Remapping texture index: (7 -> 42) GL_Rock_01
+Remapping texture index: (1 -> 4) AI_Grass_Rocky
+Remapping texture index: (8 -> 43) GL_Rock_02
+Remapping texture index: (9 -> 83) Tx_BC_rock_04.tga
+Remapping texture index: (11 -> 93) az_tx_rock
+Copying object to master: STAT az_In_CaveLimeBoulder01Vines
+Copying object to master: STAT az_Terr_MountRidge01
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -72)
+Copying object to master: STAT az_Flora_VineLeafy01
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -72)
+Copying object to master: STAT az_Flora_VineLeafyCluster01
+Merging object to master: LTEX az_tx_gravel
+Merging object to master: CELL Bnay (83, -82)
 Merging object to master: LTEX AI_Grass_Rocky
-Merging object to master: LTEX Tx_BC_rockyscrub.tga
-Merging object to master: LTEX az_tx_CIFloor
-Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: CELL AZ_Region_Azurian Isles (83, -74)
 Merging object to master: LTEX GL_Rock_02
-Merging object to master: LAND (Exterior) (88, -81)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -71)
+Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Copying object to master: STAT az_Flora_VineLeafyCluster02
 Merging object to master: LTEX AI_Grass_Dirt
-Merging object to master: CELL AZ_Region_Azurian Isles (89, -82)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -82)
 Merging object to master: CELL AZ_Region_Azurian Isles (92, -81)
-Merging object to master: CELL AZ_Region_Azurian Isles (90, -82)
+Merging object to master: LAND (Exterior) (85, -71)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -69)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
+Merging object to master: LTEX AI_Dirtroad
+Merging object to master: CELL Lyithdonea, Precarious Shipwreck
 Merging object to master: LTEX Sand
+Merging object to master: LTEX AI_Dirt
 Merging object to master: LTEX GL_Rock_01
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -81)
+Merging object to master: LAND (Exterior) (86, -69)
+Copying object to master: STAT az_Terr_MountRidge02
+Copying object to master: STAT az_Flora_VineLeafy02
+Copying object to master: STAT az_Terr_MountRidge03
+Copying object to master: STAT az_Flora_VineLeafyCluster03
+Merging object to master: CELL Bnay (83, -83)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -71)
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -72)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
+Merging object to master: LTEX AI_Grass_02
+Copying object to master: LIGH az_Flora_VineSunball
+Merging object to master: CELL Lyithdonea, Isles of Dusk (84, -71)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Merging object to master: LAND (Exterior) (86, -70)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
+Merging object to master: LTEX Tx_BC_rock_04.tga
 Merging object to master: LTEX AI_Grass
-Merging object to master: LTEX Tx_BC_grass.tga
 Merging object to master: LTEX az_tx_rock
-Merging object to master: LEVC az_lvl_water
-Copying object to master: STAT az_rock_arch_grass_01
-Merging object to master: LEVC az_lvl_water_deep
-Merging object to master: LTEX Tx_BC_muck_01.tga
-Merging object to master: STAT az_ex_cave_coastrock
-Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: LAND (Exterior) (89, -81)
+Copying object to master: STAT az_Flora_VineLeafy03
+Copying object to master: STAT az_In_CaveLimeBoulder02Vines
+Merging object to master: CELL Lyithdonea, Isle of Dawn (94, -72)
+Merging object to master: LAND (Exterior) (85, -70)
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -77)
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -70)
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -71)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
+Merging object to master: LAND (Exterior) (85, -69)
+Merging object to master: CELL AZ_CaveLyithdonea
+Merging object to master: CELL Lyithdonea, Rufescent Cavern
+Merging object to master: CELL Moonshadow, Waterfall Room
 Creating backup...
 Saving results...
 Finished!
