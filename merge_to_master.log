@@ -1,155 +1,18 @@
 Merging plugins...
-Remapping texture index: (24 -> 98) az_tx_VelFound
-Remapping texture index: (2 -> 22) AI_Grass
-Remapping texture index: (12 -> 68) Tx_BC_bank.tga
-Remapping texture index: (14 -> 71) Tx_BC_moss.tga
-Remapping texture index: (11 -> 43) GL_Rock_02
-Remapping texture index: (18 -> 78) Tx_BC_muck_01.tga
-Remapping texture index: (4 -> 26) Sand_02
-Remapping texture index: (3 -> 25) AI_Grass_Dirt
-Remapping texture index: (1 -> 4) AI_Grass_Rocky
-Remapping texture index: (17 -> 77) Tx_BC_undergrowth.tga
-Remapping texture index: (6 -> 28) AI_Dirt
-Remapping texture index: (16 -> 76) Tx_BC_scrub.tga
-Remapping texture index: (13 -> 70) Tx_BC_grass.tga
-Remapping texture index: (7 -> 29) AI_Clover
-Remapping texture index: (5 -> 27) AI_Dirtroad
-Remapping texture index: (25 -> 99) az_tx_VelGravel
-Remapping texture index: (22 -> 93) az_tx_rock
-Remapping texture index: (15 -> 72) Tx_BC_muck.tga
-Remapping texture index: (19 -> 83) Tx_BC_rock_04.tga
-Remapping texture index: (8 -> 30) AI_Grass_02
-Remapping texture index: (23 -> 94) az_tx_rockWaterGreen
-Remapping texture index: (21 -> 91) az_tx_gravel
-Remapping texture index: (9 -> 31) AI_Tilled_Dirt
-Remapping texture index: (10 -> 42) GL_Rock_01
-Remapping texture index: (20 -> 87) az_tx_CIFloor
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -77)
-Merging object to master: LAND LAND (95, -81)
-Merging object to master: LAND LAND (83, -73)
-Merging object to master: LAND LAND (83, -75)
-Merging object to master: CELL AZ_Region_Thousand Isles (88, -80)
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -76)
-Merging object to master: LTEX Tx_BC_muck.tga
-Merging object to master: LTEX Tx_BC_rock_04.tga
-Merging object to master: LAND LAND (92, -73)
-Merging object to master: LTEX AI_Grass_02
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -82)
-Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
-Merging object to master: LAND LAND (97, -79)
-Merging object to master: LAND LAND (97, -78)
-Merging object to master: CELL AZ_Region_Azurian Isles (82, -70)
-Merging object to master: LAND LAND (95, -70)
-Merging object to master: LAND LAND (83, -69)
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -69)
-Merging object to master: LAND LAND (97, -80)
-Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Merging object to master: LTEX GL_Rock_02
-Merging object to master: CELL AZ_Region_Azurian Isles (96, -81)
-Merging object to master: LAND LAND (96, -80)
-Merging object to master: LTEX AI_Dirt
-Merging object to master: CELL AZ_Region_Azurian Isles (95, -70)
-Merging object to master: CELL Lyithdonea, Isle of Dawn (94, -72)
-Merging object to master: LAND LAND (82, -72)
-Merging object to master: LTEX AI_Grass_Dirt
-Merging object to master: LTEX Tx_BC_undergrowth.tga
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (96, -77)
-Merging object to master: LAND LAND (82, -69)
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -69)
-Merging object to master: CELL AZ_Region_Azurian Isles (82, -73)
-Merging object to master: LAND LAND (84, -70)
-Merging object to master: LAND LAND (95, -83)
-Merging object to master: CELL AZ_Region_Azurian Isles (94, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (96, -80)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -75)
-Merging object to master: CELL AZ_Region_Azurian Isles (95, -71)
-Merging object to master: LAND LAND (94, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -73)
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -77)
-Merging object to master: CELL AZ_Region_Azurian Isles (95, -83)
-Merging object to master: LAND LAND (93, -70)
-Merging object to master: LTEX Tx_BC_grass.tga
-Merging object to master: LAND LAND (86, -69)
-Merging object to master: LAND LAND (88, -69)
-Merging object to master: LAND LAND (84, -77)
-Merging object to master: LAND LAND (82, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -81)
-Merging object to master: CELL AZ_Region_Azurian Isles (94, -70)
-Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Merging object to master: LTEX AI_Dirtroad
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -71)
-Merging object to master: LAND LAND (84, -78)
-Merging object to master: LTEX az_tx_VelFound
-Merging object to master: LAND LAND (96, -77)
-Merging object to master: LAND LAND (96, -71)
-Merging object to master: LTEX Tx_BC_muck_01.tga
-Merging object to master: CELL AZ_Region_Azurian Isles (97, -79)
-Merging object to master: LAND LAND (91, -72)
-Merging object to master: LAND LAND (94, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -75)
-Merging object to master: LAND LAND (90, -77)
-Merging object to master: LAND LAND (85, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -73)
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
-Merging object to master: LTEX AI_Grass
-Merging object to master: LAND LAND (96, -81)
-Merging object to master: LAND LAND (88, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -76)
-Merging object to master: LAND LAND (85, -70)
-Merging object to master: LTEX Tx_BC_scrub.tga
-Merging object to master: LTEX AI_Clover
-Merging object to master: CELL AZ_Region_Azurian Isles (95, -81)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -78)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (96, -78)
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: LAND LAND (85, -69)
-Merging object to master: LAND LAND (92, -72)
-Merging object to master: LAND LAND (96, -79)
-Merging object to master: LAND LAND (96, -78)
-Merging object to master: LAND LAND (84, -71)
-Merging object to master: LAND LAND (82, -70)
+Copying object to master: LIGH az_light@_sunroot_256
+Copying object to master: LEVC az_lvl_cave
+Copying object to master: LIGH az_light@_sunroot_128
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: LAND LAND (86, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -69)
-Merging object to master: LAND LAND (91, -79)
-Merging object to master: LAND LAND (91, -77)
-Merging object to master: LAND LAND (83, -77)
-Merging object to master: LAND LAND (83, -72)
-Merging object to master: LTEX Tx_BC_bank.tga
-Merging object to master: LTEX AI_Grass_Rocky
-Merging object to master: LAND LAND (95, -79)
-Merging object to master: CELL AZ_Region_Azurian Isles (97, -78)
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -69)
-Merging object to master: LTEX az_tx_VelGravel
-Merging object to master: LAND LAND (93, -71)
-Merging object to master: LAND LAND (83, -70)
-Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
-Merging object to master: LTEX az_tx_rock
-Merging object to master: LTEX Tx_BC_moss.tga
-Merging object to master: LAND LAND (95, -71)
-Merging object to master: LAND LAND (84, -69)
-Merging object to master: LAND LAND (87, -69)
-Merging object to master: LTEX az_tx_rockWaterGreen
-Merging object to master: LTEX AI_Tilled_Dirt
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -72)
-Merging object to master: LAND LAND (91, -73)
-Merging object to master: LTEX Sand_02
-Merging object to master: CELL Azura, Stars Above Apartments: Storage
-Merging object to master: LAND LAND (83, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Merging object to master: NPC_ az__tester_01
+Merging object to master: CELL AZ_CaveLyithdonea
+Merging object to master: CELL Lyithdonea, Rufescent Cavern
+Copying object to master: PGRD Lyithdonea, Rufescent Cavern (0, 0)
+Copying object to master: LEVC az_lvl_rats
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
-Merging object to master: LAND LAND (95, -82)
-Merging object to master: LAND LAND (95, -80)
-Merging object to master: LAND LAND (91, -78)
-Merging object to master: LTEX Sand
-Merging object to master: LTEX az_tx_gravel
-Merging object to master: LAND LAND (90, -78)
-Merging object to master: LTEX GL_Rock_01
-Merging object to master: LTEX az_tx_CIFloor
+Copying object to master: LEVC az_lvl_beetles
+Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
 Creating backup...
 Saving results...
 Finished!
