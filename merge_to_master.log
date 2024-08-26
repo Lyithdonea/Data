@@ -1,59 +1,25 @@
 Merging plugins...
-Remapping texture index: (6 -> 83) Tx_BC_rock_04.tga
-Remapping texture index: (1 -> 22) AI_Grass
-Remapping texture index: (7 -> 93) az_tx_rock
-Remapping texture index: (2 -> 25) AI_Grass_Dirt
-Remapping texture index: (5 -> 30) AI_Grass_02
-Remapping texture index: (4 -> 29) AI_Clover
-Remapping texture index: (3 -> 27) AI_Dirtroad
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (91, -76)
-Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
-Merging object to master: LAND LAND (93, -76)
-Merging object to master: CELL Lyithdonea, Mount Velnilo (93, -76)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -81)
-Merging object to master: CELL Azura, High Rosery District (85, -76)
-Merging object to master: CELL Azura, Palace (87, -76)
-Copying object to master: STAT az_Flora_PalmBottle01
-Merging object to master: LTEX Tx_BC_rock_04.tga
-Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
-Merging object to master: LTEX az_tx_rock
-Merging object to master: LTEX AI_Grass_02
-Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -71)
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
-Merging object to master: LTEX AI_Grass
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -80)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -74)
-Merging object to master: LTEX AI_Clover
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -78)
-Copying object to master: STAT az_Flora_PalmBottle02
-Merging object to master: CELL AZ_Region_Azurian Isles (96, -78)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -78)
-Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -76)
-Merging object to master: LAND LAND (94, -76)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -82)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -81)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -80)
+Copying object to master: STAT az_In_CaveLimeRock01
+Copying object to master: STAT az_In_CaveLimeRock02
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
+Copying object to master: STAT az_In_CaveLimeRock17
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -72)
-Merging object to master: LTEX AI_Dirtroad
-Merging object to master: LTEX AI_Grass_Dirt
-Merging object to master: CONT az_flora_corktree
-Merging object to master: CONT az_flora_corktree_empty
-Merging object to master: CELL Lyithdonea, Isle of Dawn (94, -72)
+Copying object to master: STAT az_In_CaveLimeRock18
+Copying object to master: STAT az_In_CaveLimeRock16
+Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Copying object to master: STAT az_In_CaveLimeRock12
+Copying object to master: STAT az_In_CaveLimeRock10
+Copying object to master: STAT az_In_CaveLimeRock08
+Copying object to master: STAT az_In_CaveLimeRock07
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: LTEX Sand
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -73)
+Merging object to master: CELL AZ_CaveLyithdonea
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -77)
+Copying object to master: STAT az_In_CaveLimeRock09
+Copying object to master: STAT az_In_CaveLimeRock05
 Creating backup...
 Saving results...
 Finished!
