@@ -108,6 +108,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Doom-DrivenPoster - A letter
 * Dongle
 * DoubleBrewski - Ruined Monster Sword
+* evolveduk - bamboo
 * Faarp
 * Fallen One - Model for Lamp Guard sword
 * Ghostnull - Shard Lights
