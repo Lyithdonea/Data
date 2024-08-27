@@ -191,6 +191,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Stroti - Misc. resources
 * Taddeus - Rocks, Neccessities of Morrowind, and other resources
 * Tamriel Data (PT & PT teams) - Miscellaneous resources
+* The Base Mesh - Beach chair and stool models
 * The Wanderer
 * TheDayWalker
 * turokman2000 - Whispers texts
