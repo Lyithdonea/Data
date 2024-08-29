@@ -1,25 +1,21 @@
 Merging plugins...
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Copying object to master: STAT az_In_CaveLimeRock01
-Copying object to master: STAT az_In_CaveLimeRock02
+Copying object to master: STAT az_Furn_BoneSerowSkullTop
+Copying object to master: STAT az_Furn_BoneSerowCorpse03
+Copying object to master: STAT az_Furn_BoneSerowCorpse02
+Copying object to master: STAT az_Furn_BoneSerowCorpse04
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Copying object to master: STAT az_In_CaveLimeRock17
+Copying object to master: STAT az_Furn_BoneSerowSkull
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Copying object to master: STAT az_In_CaveLimeRock18
-Copying object to master: STAT az_In_CaveLimeRock16
+Copying object to master: STAT az_Furn_BoneSerowCorpse01
 Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Copying object to master: STAT az_In_CaveLimeRock12
-Copying object to master: STAT az_In_CaveLimeRock10
-Copying object to master: STAT az_In_CaveLimeRock08
-Copying object to master: STAT az_In_CaveLimeRock07
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: CELL AZ_CaveLyithdonea
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Copying object to master: STAT az_Furn_BoneSerowRibs
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Copying object to master: STAT az_In_CaveLimeRock09
-Copying object to master: STAT az_In_CaveLimeRock05
+Merging object to master: CELL Lyithdonea, Rufescent Cavern
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
 Creating backup...
 Saving results...
 Finished!
