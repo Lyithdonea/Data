@@ -117,6 +117,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * HedgeHog12 - lens flare effects
 * Hemaris - provided the animation reference for the Serow
 * IceFireWarden - I Lost My Love For You text
+* Idaho Virtualization Laboratory - Goat skeleton
 * Iggy
 * IggyEGuana - Pirate Shirt
 * Inari - Rahj grass
