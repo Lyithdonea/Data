@@ -1,47 +1,16 @@
 Merging plugins...
-Merging object to master: ARMO az_a_aka_light_boots_bst
-Merging object to master: ARMO az_a_aka_light_Boots
-Merging object to master: ARMO az_a_aka_light_Cuirass
-Merging object to master: ARMO az_a_aka_light_Pauld_L
-Merging object to master: ARMO az_a_aka_light_Glove_R
-Merging object to master: ARMO az_a_aka_light_Pauld_R
-Merging object to master: ARMO az_a_aka_scout_Boots
-Merging object to master: ARMO az_a_aka_scout_Cuirass
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Merging object to master: ARMO az_a_aka_light_Greaves
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Copying object to master: STAT az_In_CaveLimeCliff02
+Copying object to master: STAT az_In_CaveLimeCliff03
+Copying object to master: STAT az_In_CaveLimeCliff01
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
 Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: ARMO az_a_aka_scout_Sleeves R
-Merging object to master: ARMO az_a_aka_light_Hood 
-Merging object to master: ARMO az_a_aka_light_Glove_L
-Merging object to master: ARMO az_a_aka_light_Mask
-Merging object to master: ARMO az_a_aka_scout_Gloves_L
-Merging object to master: ARMO az_a_aka_scout_Gloves_R
-Merging object to master: ARMO az_a_aka_scout_Pants
-Merging object to master: ARMO az_a_aka_scout_Sleeves L
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Removed deleted object: az_a_aka_scout_boots
-Removed deleted object: az_a_aka_light_glove_l
-Removed deleted object: az_a_aka_light_pauld_l
-Removed deleted object: az_a_aka_scout_cuirass
-Removed deleted object: az_a_aka_light_glove_r
-Removed deleted object: az_a_aka_light_boots_bst
-Removed deleted object: az_a_aka_scout_gloves_l
-Removed deleted object: az_a_aka_light_pauld_r
-Removed deleted object: az_a_aka_scout_sleeves r
-Removed deleted object: az_a_aka_scout_sleeves l
-Removed deleted object: az_a_aka_light_hood 
-Removed deleted object: az_a_aka_light_mask
-Removed deleted object: az_a_aka_scout_gloves_r
-Removed deleted object: az_a_aka_scout_pants
-Removed deleted object: az_a_aka_light_boots
-Removed deleted object: az_a_aka_light_cuirass
-Removed deleted object: az_a_aka_light_greaves
 Creating backup...
 Saving results...
 Finished!
