@@ -53,11 +53,13 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * griff - interiors
 * Istreddify - interiors
 * Juidius - interiors
+* MassiveJuice - wiki
 * Moritius - interiors
 * Lucevar - interiors
 * Pluto - interiors
 * Rubberman - interiors
 * SamirA - interiors
+* Seelof - interiors
 * Tel Shadow - interiors
 
 #### Bug-Testing
