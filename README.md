@@ -195,6 +195,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Taddeus - Rocks, Neccessities of Morrowind, and other resources
 * Tamriel Data (PT & PT teams) - Miscellaneous resources
 * The Base Mesh - Beach chair and stool models
+* The Metropolitan Museum of Art - Various public domain images
 * The Wanderer
 * TheDayWalker
 * turokman2000 - Whispers texts
