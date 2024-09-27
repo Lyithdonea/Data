@@ -123,6 +123,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Iggy
 * IggyEGuana - Pirate Shirt
 * Inari - Rahj grass
+* iNaturalist - beehive ginger source images (benchapman77, diegoalvarado13, yariastral, afranco, spectabile_01, twidmer, christiangilli-02)
 * Istreddify
 * [JamesWhite](http://opengameart.org/users/jameswhite) - piranha model
 * jcd13 - Chinese Lantern
