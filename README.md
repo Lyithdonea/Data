@@ -117,6 +117,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Greatness7 - extensive assistance with mesh fixing and optimization, scripting help
 * Greybeard - Better Clothes
 * HedgeHog12 - lens flare effects
+* Heinrich - Basis for the Velothi underworks set
 * Hemaris - provided the animation reference for the Serow
 * IceFireWarden - I Lost My Love For You text
 * Idaho Virtualization Laboratory - Goat skeleton
