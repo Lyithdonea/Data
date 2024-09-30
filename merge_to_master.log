@@ -1,76 +1,23 @@
 Merging plugins...
-Merging object to master: CELL Azura, Rivosi Indrano: Pawnbroker
-Merging object to master: CELL Azura, Tar Gamayn: Valuable Goods
-Merging object to master: CONT az_cont_trader_alchemy
-Merging object to master: CELL Azura, Ande Gisdan's House
-Merging object to master: CELL Azura, Zaimora Manor
-Merging object to master: CELL Azura, The Stomping Kriin
-Merging object to master: CELL AZ_Clutter
-Merging object to master: CELL Azura, Yaelyn Indri's House
-Merging object to master: CELL Azura, Gadresi Manor
-Merging object to master: CELL Azura, Granderea Salor's House
-Merging object to master: CELL Azura, Voath Manor
-Copying object to master: ALCH az_dri_WineRose
+Copying object to master: MISC az_Misc_CoinPirate010
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
+Copying object to master: LEVI az_lvl_CoinPirate
+Copying object to master: CONT az_o_CoinPiratePile01
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Merging object to master: CELL Dor Dalla, Guild of Mages, Head Magister's Tower
-Merging object to master: CELL Azura, Dalag Andis' House
-Merging object to master: CONT az_chest_juice
-Merging object to master: CELL Azura, Ferabi Gaddad's House
-Copying object to master: ALCH az_dri_GingerBeer
-Merging object to master: CELL Azura, Slums, Cocius Torenth's Shack
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 03
-Merging object to master: CELL Azura, Palace: North Wing
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: CELL Azura, Resk Tarrampto: Food Vendor
-Merging object to master: CELL Lyithdonea, Hataz Cave, Talonbael
-Merging object to master: CELL Azura, Fishing Supplies
-Copying object to master: ALCH az_dri_BitterMasser
-Merging object to master: LEVI az_rand_drinks
-Merging object to master: CELL Azura, Saffend: Fine Clothier
-Merging object to master: CONT az_cont_trader_publican
-Merging object to master: CELL Azura, The Turquoise Canvas
-Merging object to master: CELL Azura, Gale Rider, Lower Level
-Merging object to master: CELL Azura, Glaneth's House
-Copying object to master: ALCH az_dri_WineDusktouch
-Merging object to master: CELL Azura, Pike's Sundries
-Merging object to master: CELL Azura, Golam Uliran's House
-Merging object to master: CELL Azura, Palace: South Wing
-Merging object to master: CELL Azura, Slums, Aughroth's Shack
-Merging object to master: CELL Azura, Palace: Servants' Wing
-Merging object to master: CELL Azura, [UNUSED] Vedril Sarethi's House
-Merging object to master: CELL Dor Dalla, Guild of Mages, Staff Quarters
+Copying object to master: MISC az_Misc_CoinPirate001
+Copying object to master: MISC az_Misc_CoinPirate100
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Merging object to master: CELL Azura, Alverengion's House
-Merging object to master: CELL Azura, Saurale's Quayside Tavern
-Merging object to master: CELL Lyithdonea, Llavayn Ancestral Tomb
-Merging object to master: CELL Azura, Saurale's House
-Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: CONT az_cont_trader_fishing
-Copying object to master: ALCH az_dri_BitterMasserJug
-Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CELL Azura, (UNUSED) Things Unique
-Merging object to master: CELL Azura, Anale Dralas' House
-Merging object to master: CELL Azura, Enchanted Enscrolling
-Merging object to master: CELL Azura, Nerben Vassali's House
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 04
-Merging object to master: CELL Azura, Palace: Magnate's Chambers
-Merging object to master: CELL Azura, Bailaman's House
-Merging object to master: CELL Azura, The Gathering Hole
-Merging object to master: CELL Azura, Port Hostel
-Merging object to master: CELL Azura, Vyne Manor
-Merging object to master: CELL Azura, Gale Rider, Upper Level
-Merging object to master: CELL Azura, Adienne's House
-Merging object to master: CELL Azura, Scasellis Hinder's House
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Merging object to master: CELL Azura, Royalway Apartments, Upper North-One
-Copying object to master: ALCH az_dri_PaatruJuice
+Copying object to master: CONT az_o_CoinPiratePile04
+Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
+Copying object to master: MISC az_Misc_CoinPirate005
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Merging object to master: CELL Dor Dalla, Guild of Mages, Meeting Chamber
-Merging object to master: CELL Azura, Slums, Var's Shack
-Merging object to master: CELL Azura, Eastern Sea Cornerclub
+Copying object to master: CONT az_o_CoinPiratePile02
+Copying object to master: MISC az_Misc_CoinPirate025
+Copying object to master: CONT az_o_CoinPiratePile03
 Creating backup...
 Saving results...
 Finished!
