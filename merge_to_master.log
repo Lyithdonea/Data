@@ -1,15 +1,49 @@
 Merging plugins...
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Copying object to master: STAT az_In_VelUndRoom03
+Copying object to master: STAT az_In_VelUndGalleryAlcove03
+Copying object to master: STAT az_In_VelUndRoom03b
+Copying object to master: STAT az_In_VelUndRoom04b
+Merging object to master: CELL AZ_Velothi
+Copying object to master: STAT az_In_VelUndGalleryRound01
+Copying object to master: STAT az_In_VelUndGalleryAlcove04
+Copying object to master: STAT az_In_VelUndGalleryAlcove01
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Merging object to master: CELL AZ_Clutter
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Merging object to master: CONT az_o_CoinPiratePile04
+Copying object to master: STAT az_In_VelUndGalleryDJ
+Copying object to master: STAT az_In_VelUndRoomDivider
+Copying object to master: STAT az_In_VelUndHallCap
+Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Copying object to master: STAT az_In_VelUndHallHalf
+Copying object to master: STAT az_In_VelUndHall3way00
+Copying object to master: DOOR az_Door_VelUnd01
+Copying object to master: STAT az_In_VelUndHall01
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Copying object to master: STAT az_In_VelUndHallStair
+Copying object to master: STAT az_In_VelUndGalleryRoundAlcove
+Copying object to master: STAT az_In_VelUndGalleryRoundDJ
+Copying object to master: STAT az_In_VelUndGalleryRoundPlug
+Copying object to master: STAT az_In_VelUndGalleryWall
+Copying object to master: STAT az_In_VelUndGalleryAlcove02
+Copying object to master: STAT az_In_VelUndHallCorner
+Copying object to master: STAT az_In_VelUndHall4way
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
+Copying object to master: STAT az_In_VelUndRoom01
+Copying object to master: STAT az_In_VelUndGalleryFloorDeco01
+Copying object to master: DOOR az_Door_VelUndDouble
+Copying object to master: SCPT az_VelUndDoorDouble_s
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
+Copying object to master: STAT az_In_VelUndRoom02
+Copying object to master: STAT az_In_VelUndHall02
+Copying object to master: STAT az_In_VelUndRoom05b
+Copying object to master: STAT az_In_VelUndHall00
+Copying object to master: STAT az_In_VelUndGallery4way
+Copying object to master: STAT az_In_VelUndGalleryRound02
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
+Copying object to master: STAT az_In_VelUndRoom05
+Copying object to master: STAT az_In_VelUndRoom04
+Copying object to master: STAT az_In_VelUndHall3way01
 Creating backup...
 Saving results...
 Finished!
