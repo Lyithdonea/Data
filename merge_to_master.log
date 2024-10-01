@@ -1,23 +1,15 @@
 Merging plugins...
-Copying object to master: MISC az_Misc_CoinPirate010
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Copying object to master: LEVI az_lvl_CoinPirate
-Copying object to master: CONT az_o_CoinPiratePile01
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Copying object to master: MISC az_Misc_CoinPirate001
-Copying object to master: MISC az_Misc_CoinPirate100
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
+Merging object to master: CELL AZ_Clutter
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
+Merging object to master: CONT az_o_CoinPiratePile04
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Copying object to master: CONT az_o_CoinPiratePile04
 Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Copying object to master: MISC az_Misc_CoinPirate005
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Copying object to master: CONT az_o_CoinPiratePile02
-Copying object to master: MISC az_Misc_CoinPirate025
-Copying object to master: CONT az_o_CoinPiratePile03
 Creating backup...
 Saving results...
 Finished!
