@@ -1,16 +1,79 @@
 Merging plugins...
+Merging object to master: CELL Bitter Coast Region (-12, 3)
+Merging object to master: CELL Wilderness (37, -74)
+Merging object to master: CELL Wilderness (-19, 14)
+Merging object to master: CELL Lyithdonea, Pirate Cove
+Merging object to master: CELL Wilderness (-20, 15)
+Copying object to master: STAT az_Ex_CastawayShack02
+Copying object to master: STAT az_In_CastawayShack03
+Merging object to master: CELL Wilderness (34, -75)
+Merging object to master: CELL Caldera (27, -52)
+Copying object to master: CELL AZ_CastawayShacks
+Merging object to master: CELL Bitter Coast Region (-12, 2)
+Merging object to master: CELL Bitter Coast Region (-13, 2)
+Merging object to master: CELL Wilderness (-15, -8)
+Merging object to master: CELL Wilderness (-28, 24)
+Merging object to master: CELL Sadrith Mora (46, -50)
+Merging object to master: CELL Wilderness (87, -83)
+Merging object to master: CELL Bitter Coast Region (-12, 1)
+Merging object to master: CELL AZ_Region_Thousand Isles (86, -84)
+Copying object to master: CELL Kannika Grotto, Shack 01
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Copying object to master: STAT az_In_VelUndHallRamp180
-Copying object to master: STAT az_In_VelUndHallRamp
+Merging object to master: CELL AZ_Region_Azurian Isles (90, -67)
+Copying object to master: MISC az_Misc_BallWilson
+Merging object to master: CELL Bitter Coast Region (-14, 4)
+Merging object to master: CELL Wilderness (38, -73)
+Copying object to master: STAT az_Flora_LeafCurtainGiant
+Merging object to master: CELL Wilderness (36, -74)
+Copying object to master: CONT az_o_barrel02GrpNet
+Merging object to master: CELL West Gash Region (-15, 7)
+Merging object to master: CELL Bitter Coast Region (-14, 5)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
+Copying object to master: STAT az_Ex_CastawayShack03
+Merging object to master: CELL Wilderness (87, -84)
+Copying object to master: STAT az_Ex_WoodPlatSupportNet
+Merging object to master: CELL Wilderness (38, -75)
+Copying object to master: STAT az_Flora_LeafCurtain02
+Merging object to master: CELL Wilderness (34, -74)
+Merging object to master: CELL West Gash Region (-16, 7)
+Merging object to master: CELL Wilderness (35, -74)
+Copying object to master: CELL Kannika Grotto, Shack 02
+Copying object to master: STAT az_Ex_WoodPlat02Net
+Merging object to master: CELL Wilderness (35, -73)
+Merging object to master: CELL Bitter Coast Region (-13, 3)
+Merging object to master: CELL Wilderness (89, -84)
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
-Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Copying object to master: STAT az_In_VelUndHallRamp090
+Merging object to master: CELL Wilderness (34, -73)
+Merging object to master: CELL Wilderness (-19, 15)
+Merging object to master: CELL Wilderness (36, -75)
+Copying object to master: STAT az_In_CastawayShack01
+Copying object to master: STAT az_In_CastawayShack02
+Merging object to master: CELL West Gash Region (-16, 8)
+Merging object to master: CELL Wilderness (90, -84)
+Copying object to master: STAT az_Ex_CastawayShack01
+Copying object to master: STAT az_Flora_LeafCurtain01
 Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Merging object to master: CELL Wilderness (38, -74)
+Merging object to master: CELL Bitter Coast Region (-13, 4)
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -82)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Merging object to master: CELL Moonshadow, Test Room
+Merging object to master: CELL Wilderness (-29, 23)
+Merging object to master: CELL Wilderness (35, -75)
+Copying object to master: CELL Kannika Grotto
+Merging object to master: CELL Wilderness (34, -72)
+Merging object to master: CELL Wilderness (37, -75)
+Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: CELL Bitter Coast Region (-14, 2)
+Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
+Copying object to master: CONT az_o_barrel02TwoNet
+Merging object to master: CELL AZ_Region_Azurian Isles (90, -66)
+Merging object to master: CELL AZ_Region_Azurian Isles (90, -68)
+Merging object to master: CELL Wilderness (88, -84)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
+Merging object to master: CELL Bitter Coast Region (-13, 1)
+Removed deleted object: lyithdonea, pirate cove
 Creating backup...
 Saving results...
 Finished!
