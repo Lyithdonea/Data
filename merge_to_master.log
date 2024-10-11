@@ -1,11 +1,1425 @@
 Merging plugins...
-Copying object to master: PGRD Azura, The Golem's Hearth (0, 0)
-Copying object to master: SCPT AZ_snd_shock_s
-Copying object to master: ACTI az_In_GolemsHearth_uni
-Copying object to master: STAT VelSmPitRmTopCornEnt02
-Copying object to master: ACTI az_sound_shock
-Copying object to master: LIGH az_light_candle_rich_64
-Copying object to master: CELL Azura, The Golem's Hearth
+Merging object to master: CONT az_flora_flwr_dawn_01
+Merging object to master: CONT az_chest_Com1_pirate
+Merging object to master: CONT az_sack_02_skooma
+Merging object to master: CELL AZ_Region_Thousand Isles (83, -79)
+Merging object to master: CELL Azura, Saye's House
+Merging object to master: CONT az_flora_flwr_hyac_watr
+Merging object to master: CONT az_urn_02_ingred
+Copying object to master: CONT az_o_Sack01Wickwheat
+Merging object to master: CONT az_cont_corpse_maormer
+Merging object to master: CONT az_moons_Vurt_Flower03
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -76)
+Copying object to master: CONT az_o_FoodSackSugar
+Copying object to master: CONT az_o_AllArmorLunate
+Merging object to master: CELL Lyithdonea, Isles of Dusk (84, -70)
+Merging object to master: CONT az_crate_01_arm_leather
+Copying object to master: CONT az_o_Crate01ArmLeather
+Merging object to master: CONT az_TI_weed_03r
+Copying object to master: CONT az_f_RoseYellow02
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -82)
+Merging object to master: CONT az_cont_wooden_case
+Merging object to master: CELL Dor Dalla, Guild of Mages, Head Magister's Tower
+Merging object to master: CONT az_cont_cookpot_sugar
+Merging object to master: CONT az_cont_pot_p_02_food
+Merging object to master: CONT az_crate_01_drinks_loca
+Copying object to master: CONT az_o_UrnOrnate02
+Merging object to master: CELL Lyithdonea, Emoth Grotto
+Merging object to master: CONT az_flora_mushr_wdear_1
+Copying object to master: CONT az_o_MsRchDresser
+Copying object to master: CONT az_r_Jelly03
+Copying object to master: CONT az_o_Sack01VoidSalts
+Merging object to master: CONT az_barrel_01_food
+Merging object to master: CONT az_cont_herb_bundle_B2
+Copying object to master: CONT az_f_Scribtail02
+Merging object to master: CELL AZ_Region_Thousand Isles (83, -78)
+Merging object to master: CONT az_crate_01_pos
+Merging object to master: CELL AZ_Region_Azurian Isles (82, -74)
+Merging object to master: CONT az_flora_sugarcane1
+Copying object to master: CONT az_o_Crate01Skooma
+Merging object to master: CELL AZ_CaveLyithdonea
+Merging object to master: CELL Azura, Enchanted Enscrolling
+Copying object to master: CONT az_o_DePlnTable02Bath
+Copying object to master: CONT az_f_HyphaSupina03
+Merging object to master: CONT az_flora_mushr_MS_shelf
+Copying object to master: CONT az_o_ClayPot04Pos
+Merging object to master: CONT az_crate_01_arm_iron
+Merging object to master: CELL Azura, Adienne's House
+Copying object to master: CONT az_f_Amanita01
+Merging object to master: CELL Bnay, New Argonia (83, -80)
+Merging object to master: CONT az_crate_robes_mg_all
+Merging object to master: CONT az_crate_01_gold_rand
+Merging object to master: CELL Azura, Civilius' Bakery
+Merging object to master: CONT az_chest_Sm1_misc
+Merging object to master: CONT az_chest_ruin_anteres02
+Merging object to master: CONT az_flora_flwr_hyac_dusk
+Copying object to master: CONT az_f_Bromeliad02
+Merging object to master: CONT az_urn_02_scrolls
+Copying object to master: CONT az_o_DeRchChestDae
+Copying object to master: CONT az_f_Woodear01
+Merging object to master: CELL Bnay (82, -83)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -71)
+Merging object to master: CELL Azura, Palace: Throne Room
+Merging object to master: CELL Lyithdonea, Delaruhn, Periurn's Shack
+Merging object to master: CELL AZ_Region_Thousand Isles (85, -80)
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -79)
+Merging object to master: CONT az_sack_01_voidsalt
+Copying object to master: CONT az_o_DePlnChestJuice
+Merging object to master: CELL Padomaic Ocean, Nepenthe
+Merging object to master: CONT az_flora_flwr_swmottle
+Copying object to master: CONT az_o_DaeChest02
+Copying object to master: CONT az_o_Urn01
+Copying object to master: CONT az_o_ComMidChestWepNord
+Merging object to master: CELL Azura, High Rosery District (85, -76)
+Copying object to master: CONT az_o_Sack02MeatCrab
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -73)
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -75)
+Merging object to master: CONT az_flora_walktree_nut
+Merging object to master: CONT az_chest_Sm1_moonsugar
+Merging object to master: CELL Azura, Mines
+Merging object to master: CONT az_flora_flwr_brome_01
+Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -80)
+Merging object to master: CELL AZ_Region_Scabrous Residuum (78, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
+Merging object to master: CELL AZ_Region_Thousand Isles (90, -80)
+Merging object to master: CONT az_flora_flwr_moon_01
+Merging object to master: CONT az_sack_03_wheat
+Copying object to master: CONT az_o_FoodHangDunguar4
+Merging object to master: CELL Azura, Sadela Ulom: Weaver
+Merging object to master: LEVI az_rand_food_dry
+Merging object to master: CREA az_crea_duskyguar_pack
+Copying object to master: CONT az_o_Barrel01Ing
+Merging object to master: CELL Bnay (82, -82)
+Merging object to master: CONT az_barrel_02_empty
+Copying object to master: CONT az_m_Emerald01
+Copying object to master: CONT az_o_Sack02Pos
+Merging object to master: CELL Azura, Slums, Storage Shed
+Merging object to master: CONT az_cont_corpse_sitting
+Copying object to master: CONT az_o_Barrel01Soulgems
+Copying object to master: CONT az_o_Sack02Sugar
+Merging object to master: CELL Lyithdonea, Mount Velnilo (93, -76)
+Merging object to master: CELL Azura, Residential District (87, -75)
+Merging object to master: CONT az_flora_mushr_sin_03b
+Copying object to master: CONT az_o_FoodBiscuitChain
+Merging object to master: CELL Azura, Daroth Lighthouse
+Merging object to master: CONT az_sack_momo_01
+Merging object to master: CONT az_ore_iron_04
+Merging object to master: CONT az_chest_all_books
+Copying object to master: CONT az_o_ClayPot02Food10
+Merging object to master: CONT az_flora_scribtail_06
+Merging object to master: CONT az_flora_flwr_redhorn_1
+Merging object to master: CELL Azura, Anale Dralas' House
+Copying object to master: CONT az_o_Crate01Drinks
+Copying object to master: CONT az_f_RoseYellow03
+Copying object to master: CONT az_o_Barrel01Fish20
+Merging object to master: CONT az_chest_De1_misc_rich
+Merging object to master: CELL Bnay, Arena (81, -82)
+Merging object to master: CONT az_cont_cache_01
+Copying object to master: CONT az_o_bambooBasket02
+Merging object to master: CONT az_cont_reeds_bundle
+Copying object to master: CONT az_o_BagPaper
+Merging object to master: CONT az_cont_pot_p_04_scroll
+Merging object to master: CONT az_barrel_01_wickwheat
+Merging object to master: CONT az_crate_01_weap_iron
+Merging object to master: CONT az_flora_rose_yellow02
+Copying object to master: CONT az_f_RoseGold01
+Copying object to master: CONT az_o_ComChestSmlMsugar
+Merging object to master: CONT az_chest_Com1_clothes
+Merging object to master: CELL Azura, Magnagerial District (86, -75)
+Copying object to master: CONT az_o_Sack02ClothLaundry
+Merging object to master: CONT az_cont_trader_alchemy
+Copying object to master: CONT az_o_VelChest01Tomb
+Copying object to master: CONT az_o_ClayPot04
+Merging object to master: CELL Azura, Bandremmil Ancestral Vaults
+Merging object to master: CONT az_sack_02_shells_uni
+Merging object to master: CONT az_basket_com_00_ingred
+Copying object to master: INGR az_IngFood_DunguarJerky
+Merging object to master: CELL Azura, Gadresi Manor
+Merging object to master: CONT az_food_chain_guar_6
+Merging object to master: CELL Azura, Slums, Ehina's Shack
+Copying object to master: CONT az_o_Crate01Long
+Copying object to master: CONT az_o_DePlnChestTblwWood
+Merging object to master: CONT az_chest_Com2_papers
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -83)
+Merging object to master: CONT az_barrel_01_sg_misc
+Copying object to master: CONT az_o_FoodSackSalt
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -81)
+Merging object to master: CONT az_urn_ornate_02
+Copying object to master: CONT az_o_Crate01Pos
+Merging object to master: CELL AZ_Region_Azurian Isles (95, -73)
+Merging object to master: CELL Azura, The Greedy Alchemist
+Merging object to master: CELL Azura, Palace: North Wing
+Copying object to master: CONT az_o_Sack03Pos
+Merging object to master: CELL Lyithdonea, Reskalla, Hoorgen's Fall
+Merging object to master: CELL Lyithdonea, Delaruhn, Relie's Shack
+Merging object to master: CONT az_flora_daybreaker
+Merging object to master: CONT az_flora_mushr_sin_04
+Merging object to master: CONT az_barrel_02_sg_fragmen
+Merging object to master: CELL AZ_Region_Azurian Isles (83, -70)
+Merging object to master: CONT az_cont_dae_urn_01
+Copying object to master: CONT az_o_Barrel02Ing20
+Merging object to master: CELL Azura, Underworks, Cistern Market
+Merging object to master: CONT az_flora_mushr_tef_2
+Merging object to master: CELL Azura, Catacombs, Dredanni Ashvaults
+Copying object to master: CONT az_f_LilyRedhorn01
+Copying object to master: CONT az_o_Barrel02Grp01
+Merging object to master: CONT az_flora_sugarcane3
+Merging object to master: CELL Lyithdonea, Hataz Cave, Secluded Chambers
+Merging object to master: CONT az_ore_iron_06
+Copying object to master: CONT az_o_Crate01LongPos
+Copying object to master: CONT az_o_Barrel01Drinks
+Merging object to master: CELL Azura, Saurale's House
+Copying object to master: CONT az_f_Sugarcane03
+Copying object to master: CONT az_o_CrateImportFood
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -85)
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -73)
+Merging object to master: CONT az_flora_rose_red02
+Merging object to master: CONT az_flora_mushr_wdear_3
+Merging object to master: CONT az_cont_cookpot_empty
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -77)
+Merging object to master: CELL Moonshadow, Interior Test Cell
+Merging object to master: BOOK az_bk_doorsofoblivion
+Merging object to master: CONT az_crate_01_empty
+Merging object to master: CELL Lyithdonea, Dor Dalla (84, -74)
+Copying object to master: CONT az_o_Barrel02Eggs
+Copying object to master: CONT az_o_ComChestSmlStash
+Merging object to master: CONT az_ore_aquamarine_03
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -80)
+Merging object to master: CONT az_flora_flwr_Hibiscus
+Merging object to master: CONT az_barrel_02_jelly
+Merging object to master: CELL Azura, Royalway Apartments, Upper North-One
+Merging object to master: CONT az_flora_mushr_amanita1
+Merging object to master: CONT az_food_chain_torall
+Merging object to master: CONT az_cont_pot_p_02_scroll
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
+Copying object to master: CONT az_f_MsFlower03
+Merging object to master: CONT az_chest_De1_Dae
+Merging object to master: CONT az_flora_rose_pink01
+Merging object to master: CELL AZ_Region_Azurian Isles (96, -71)
+Merging object to master: CONT az_cont_pot_p_05_food
+Merging object to master: CONT az_flora_rose_vert
+Merging object to master: CELL AZ_Region_Scabrous Residuum (79, -73)
+Merging object to master: CONT az_crate_01_skooma2
+Merging object to master: CONT az_KEY_Sedge_99
+Merging object to master: CONT az_urn_ornate_02_salt
+Merging object to master: CELL AZ_Region_Thousand Isles (85, -81)
+Merging object to master: CELL AZ_Region_Scabrous Residuum (80, -77)
+Merging object to master: CELL Azura, The Golem's Hearth
+Merging object to master: CONT az_cont_bag_scrolls
+Merging object to master: CONT az_flora_flwr_bird_02
+Merging object to master: CONT az_crate_02_misc_b
+Merging object to master: CONT az_chest_Sm1_defiledan
+Merging object to master: CELL Azura, Slums, Bog-Ku's Shack
+Merging object to master: CONT az_cont_cauldron_hangin
+Merging object to master: CONT az_barrel_01_misc
+Merging object to master: CONT az_de_p_buffet
+Copying object to master: CONT az_f_AmanitaEmetic01
+Merging object to master: CELL Azura, {UNUSED) Vitellius Caccia's Shack
+Copying object to master: CONT az_o_ClayPot04Scroll
+Merging object to master: CONT az_flora_flwr_masser
+Merging object to master: CELL Azura, Slums
+Merging object to master: CONT az_barrel_02_eggs
+Copying object to master: CONT az_m_Aquamarine05
+Merging object to master: CONT az_ore_iron_01
+Copying object to master: CONT az_o_Sack03Food
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -78)
+Copying object to master: CONT az_o_ShopChestFishing
+Merging object to master: CONT az_cont_trader_publican
+Copying object to master: CONT az_o_Sack01Flour
+Copying object to master: CONT az_o_Crate01Ing
+Copying object to master: CONT az_f_HyphaSupina01
+Merging object to master: CONT az_cont_MS_monte_dress
+Copying object to master: CONT az_o_Sack02Food
+Copying object to master: CONT az_f_Dawnbells01
+Copying object to master: CONT az_o_MaoChestTreasure07
+Merging object to master: CELL Azura, Saurale's Quayside Tavern
+Copying object to master: CONT az_o_pirateTable01Pos
+Merging object to master: CONT az_flora_flwr_glenda_01
+Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
+Merging object to master: CONT az_cont_cauldron_swing
+Merging object to master: CONT az_flora_mushr_MS_cup
+Merging object to master: LEVI az_rand_food_baked
+Merging object to master: CONT az_chest_De2_tar1
+Copying object to master: CONT az_o_CorpseHang
+Merging object to master: CONT az_basket_covered_bread
+Copying object to master: CONT az_o_Cookpot01Dumplings
+Copying object to master: INGR az_IngFood_DunguarRibGrill
+Merging object to master: CONT az_TI_weed_02b
+Copying object to master: CONT az_o_Urn02Ing
+Merging object to master: CELL Azura, Manor District, West Waistworks
+Copying object to master: CONT az_o_bambooCrate01Pos1
+Merging object to master: CELL Azura, Old Town (87, -77)
+Copying object to master: INGR az_IngFood_DunguarRib
+Merging object to master: CONT az_chest_treasure6
+Merging object to master: CELL AZ_Region_Azurian Isles (89, -72)
+Copying object to master: CONT az_o_MaoChestTreasure02
+Merging object to master: CONT az_flora_rose_white02
+Merging object to master: CONT az_urn_maormer
+Copying object to master: CONT az_o_Cookpot01Sugar
+Merging object to master: CONT az_food_crate_flour
+Copying object to master: CONT az_f_Bandum
+Copying object to master: CONT az_o_Urn03Ing
+Merging object to master: CELL Azura, Eastern Sea Cornerclub
+Copying object to master: CONT az_f_Woodear04
+Merging object to master: CELL Azura, Slums, Bagamul Optiok's Shack
+Copying object to master: CONT az_o_Urn02Food
+Merging object to master: CONT az_barrel_02_group
+Merging object to master: CONT az_cont_pot_p_05
+Merging object to master: LEVI az_rand_meat
+Merging object to master: CONT az_cont_corpse_sit_adv
+Copying object to master: CONT az_o_ComMidChestPaper
+Copying object to master: CONT az_o_MaoUrn
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -77)
+Merging object to master: CELL Azura, Slums, Cheos Andalara's Shack
+Copying object to master: CONT az_o_Crate01DeClothM
+Copying object to master: CONT az_o_DePlnBuffetPos
+Merging object to master: CONT az_cont_Corpse_empty
+Merging object to master: CONT az_flora_flwr_iddea_01
+Merging object to master: CONT az_ore_iron_03
+Merging object to master: CELL Azura, Hestus Ram's House
+Merging object to master: CONT az_cont_alch_satchel_01
+Merging object to master: CONT az_de_p_chest_wb
+Merging object to master: CONT az_ore_aquamarine_04
+Copying object to master: CONT az_o_Barrel02Food
+Merging object to master: CELL Azura, Palace: Upper Halls
+Copying object to master: CONT az_o_Urn01Food
+Merging object to master: CELL Azura, Faest Ratha Market, Upper Level
+Merging object to master: CONT az_food_sack_sugar
+Merging object to master: CELL Azura, Royalway Apartments, Upper North-Two
+Merging object to master: CONT az_crate_03_misc
+Merging object to master: CELL Azura, Saffend: Fine Clothier
+Merging object to master: CELL Lyithdonea, Daruum Ancestral Tomb
+Copying object to master: CONT az_f_Lily02
+Merging object to master: CONT az_cont_corpse_water
+Merging object to master: CONT az_flora_TI_shrooms2
+Copying object to master: CONT az_f_RoseWhite02
+Merging object to master: CELL Azura, Palace: South Wing
+Merging object to master: CELL Azura, Palace: Servants' Wing
+Merging object to master: CELL Azura, Saltraker Housing
+Merging object to master: CONT az_basket_com_00
+Merging object to master: CONT az_sack_02_pos
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -81)
+Merging object to master: CELL AZ_Region_Azurian Isles (89, -78)
+Merging object to master: CELL AZ_Region_Azurian Isles (89, -76)
+Copying object to master: CONT az_o_FoodHangDunguar6
+Copying object to master: CONT az_o_Barrel02
+Merging object to master: CONT az_flora_flwr_moon_02
+Merging object to master: CELL Lyithdonea, Tamtreskashtu, Pillar of the Stars
+Merging object to master: CELL Azura, Bailaman's House
+Merging object to master: CONT az_barrel_02_floater
+Merging object to master: CONT az_urn_04_food
+Copying object to master: CONT az_o_ShopChestMisc02
+Copying object to master: CONT az_f_Scribtail03
+Merging object to master: CONT az_basket_01_tavern
+Merging object to master: CONT az_chest_Com2_clothes
+Copying object to master: CONT az_m_Aquamarine02
+Merging object to master: CELL Azura, Underworks, Istharis Residence
+Merging object to master: CONT az_TI_weed_03b
+Copying object to master: CONT az_o_DePlnChestDae
+Merging object to master: CELL Bnay (83, -84)
+Merging object to master: CELL Azura, Stars Above Apartments: Flat 01
+Merging object to master: CONT az_flora_scribtail_05
+Merging object to master: CONT az_com_closet_mg_robes
+Copying object to master: CONT az_o_ShopChestPotion
+Merging object to master: CONT az_sack_03_ingred
+Merging object to master: LEVI az_rand_dumpling
+Copying object to master: CONT az_o_ShopChestPub
+Copying object to master: CONT az_o_Urn02
+Merging object to master: CONT az_cont_corpse_40
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -86)
+Copying object to master: CONT az_o_DeChestSmlPos
+Copying object to master: CONT az_o_Barrel01Dumpling
+Merging object to master: CONT az_barrel_01_pos
+Merging object to master: CONT az_basket_bread
+Merging object to master: CONT az_de_p_buffet_empty
+Merging object to master: CONT az_food_dry_guarjerky2
+Merging object to master: CELL Azura, Slums, Goruk's Grains
+Merging object to master: CELL AZ_Region_Azurian Isles (82, -71)
+Merging object to master: CONT az_de_p_table_01_pos
+Merging object to master: CONT az_barrel_fish_02
+Merging object to master: CONT az_flora_scribtail_04
+Merging object to master: CONT az_cont_pot_p_01_Ar_P
+Copying object to master: CONT az_o_FoodJarLard
+Merging object to master: CONT az_cont_alch_canister
+Merging object to master: CONT az_urn_03_ingred
+Merging object to master: LEVI az_rand_food_meat_raw
+Copying object to master: CONT az_f_RoseWhite03
+Copying object to master: CONT az_o_MaoChestTreasure01
+Merging object to master: CELL AZ_Region_Azurian Isles (91, -72)
+Merging object to master: CELL Azura, Hammarnibi Residence
+Merging object to master: CELL Azura, Gamma Tunel's House
+Merging object to master: CONT az_crate_01_bottle05_5
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -84)
+Copying object to master: CONT az_f_RoseBlue01
+Merging object to master: CONT az_cont_MS_pet_table
+Merging object to master: CELL Bnay (84, -84)
+Copying object to master: CONT az_f_RoseRed01
+Merging object to master: CONT az_chest_De1_tomb
+Merging object to master: CONT az_flora_rose_gold02
+Merging object to master: CONT az_urn_02
+Copying object to master: CONT az_o_ClayPot02Food5
+Copying object to master: CONT az_o_Crate01OreIron
+Copying object to master: CONT az_o_SatchelSmlPos
+Merging object to master: CELL Azura, Slums, Cluenelm's Shack
+Merging object to master: CONT az_basket_com_01_ingred
+Merging object to master: CONT az_crate_02_misc_a
+Copying object to master: CONT az_m_SaltPile
+Merging object to master: CONT az_food_box_lemon
+Merging object to master: CELL Azura, Slums, Balfhedi's Shack
+Merging object to master: CONT az_barrel_01_lightpot
+Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
+Copying object to master: CONT az_f_HyacinthDusky
+Merging object to master: CONT az_flora_mushr_sin_03
+Merging object to master: CONT az_Sack_02_Ingred
+Merging object to master: CELL Dor Dalla, Guild of Mages, Magister Quarters
+Merging object to master: CELL Moonshadow, Test Room
+Merging object to master: CELL Lyithdonea, Malyvel Ancestral Tomb
+Merging object to master: CONT az_com_sack_02_pos_DIS
+Merging object to master: CONT az_chest_treasure3
+Merging object to master: CONT az_flora_rose_white01
+Copying object to master: CONT az_f_JarmaberryRed02
+Copying object to master: CONT az_o_Barrel02GrpNet01
+Copying object to master: CONT az_o_FoodHangKriin
+Copying object to master: CONT az_o_Barrel02SoulgFrags
+Merging object to master: CONT az_flora_rose_vert1
+Copying object to master: CONT az_o_DeChestSmlGold
+Merging object to master: CELL Azura, Slums, Alavesa Ishatale's Shack
+Merging object to master: CELL AZ_Region_Thousand Isles (78, -82)
+Merging object to master: CONT az_flora_kollop00
+Copying object to master: CONT az_o_ComMidChestPos
+Merging object to master: CELL Azura, Old Town (88, -77)
+Merging object to master: CONT az_ore_iron_05
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -73)
+Merging object to master: CONT az_food_box_peach
+Merging object to master: CONT az_chest_Com2_cloth_fin
+Merging object to master: CONT az_barrel_01_ingred
+Merging object to master: LEVI az_rand_food_meat_prep
+Copying object to master: CONT az_f_Mandrake01
+Merging object to master: CONT az_cont_herb_bundle_M
+Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
+Merging object to master: CONT az_chest_Com2_trader01
+Merging object to master: CELL AZ_Clutter
+Copying object to master: CONT az_f_Swampmottle
+Merging object to master: CONT az_chest_De2_misc
+Copying object to master: CONT az_f_RoseBlue03
+Copying object to master: CONT az_o_FoodPiePeach
+Merging object to master: CELL Dor Dalla, Guild of Mages, Boarding Tower
+Merging object to master: CONT az_com_drawers_narrow_1
+Merging object to master: CONT az_de_r_desk01
+Merging object to master: CONT az_basket_com_01_food
+Merging object to master: CONT az_crate_01_GOM_ingred
+Merging object to master: CELL AZ_Region_Thousand Isles (84, -85)
+Merging object to master: CONT az_ore_iron_02
+Merging object to master: CONT az_chest_Com2_weap_nord
+Copying object to master: CONT az_o_Barrel01Food
+Merging object to master: CONT az_Sack_02_sugar
+Merging object to master: CONT az_food_braid_onion
+Merging object to master: CELL Veltine, Lower Deck
+Merging object to master: CONT az_cont_bowl_sharkteeth
+Copying object to master: CONT az_o_Scrollcase02
+Merging object to master: CONT az_cont_corpse_50
+Merging object to master: CONT az_chest_Com1_misc
+Merging object to master: CELL Azura, Ferabi Gaddad's House
+Copying object to master: LEVI az_lvl_Seasalt
+Copying object to master: CONT az_o_FoodPeachCrate
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -73)
+Merging object to master: CELL Azura, Baalur Fendris: Trader
+Merging object to master: CONT az_urn_01_scrolls
+Copying object to master: CONT az_f_MsFlower02
+Merging object to master: CONT az_chest_ruin_anteres01
+Merging object to master: CONT az_sack_01_ingred
+Copying object to master: CONT az_o_Barrel02Jelly
+Merging object to master: CONT az_flora_rose_pink03
+Merging object to master: CELL Azura, Pike's Sundries
+Merging object to master: CONT az_crate_01_meat
+Copying object to master: CONT az_o_UrnOrnate01
+Merging object to master: CONT az_food_dry_guarjerky1
+Merging object to master: CONT az_barrel_01_dumpling
+Merging object to master: CONT az_food_chain_guarjerky
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
+Merging object to master: CONT az_cont_cookpot
+Merging object to master: CONT az_cont_dae_urn_02
+Copying object to master: CONT az_o_ComPlnChestClothes
+Merging object to master: CELL AZ_Region_Thousand Isles (78, -83)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -71)
+Copying object to master: CONT az_o_DaeUrn01
+Merging object to master: CELL Azura, Alverengion's House
+Merging object to master: CELL Azura, Falcan Sceroni's Loft
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Copying object to master: CONT az_o_Crate01WepIron
+Copying object to master: CONT az_o_Corpse10AramacUni
+Merging object to master: ALCH az_alch_drink_paatru
+Merging object to master: CONT az_flora_flwr_brome_02
+Copying object to master: CONT az_o_Crate01
+Merging object to master: CONT az_chest_treasure8
+Copying object to master: CONT az_f_RoseRed02
+Copying object to master: CONT az_o_Sack05Pos
+Merging object to master: CELL Dor Dalla, Guild of Mages, Mess Hall
+Merging object to master: CONT az_flora_mushr_wdear_4
+Copying object to master: CONT az_f_StarGazerLily02
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -81)
+Copying object to master: CONT az_o_Barrel01PosPoor
+Copying object to master: CONT az_f_Mudcap02
+Merging object to master: CONT az_flora_rose_red03
+Merging object to master: CELL Azura, Royalway Apartments, Lower South-One
+Copying object to master: CONT az_o_Urn02Scrolls
+Copying object to master: CONT az_o_UrnOrnate02Salt
+Copying object to master: CONT az_o_LogHollowUni
+Copying object to master: CONT az_r_Jelly02
+Merging object to master: CELL Moonshadow, Exterior Test Cell
+Copying object to master: CONT az_o_ComChestSmlGold
+Merging object to master: CELL Azura, Zaimora Manor
+Merging object to master: CONT az_barrel_02_meat
+Merging object to master: CONT az_cont_scrollcase_02
+Copying object to master: CONT az_o_ComMidDeskWriting
+Merging object to master: CONT az_cont_pot_p_04_pos
+Merging object to master: ALCH az_alch_p_light_test
+Copying object to master: CONT az_f_Woodear02
+Copying object to master: CONT az_f_SeduraSensibilis02
+Merging object to master: CONT az_flora_flwr_glenda_02
+Merging object to master: CONT az_pirate_table_01_pos
+Copying object to master: CONT az_f_Moonflower01
+Merging object to master: CONT az_cont_pot_p_03
+Copying object to master: CONT az_o_AllWepLunate
+Merging object to master: CONT az_cont_corpse_jade_uni
+Merging object to master: CONT az_crate_02_food
+Merging object to master: CONT az_flora_scribtail_02
+Merging object to master: CONT az_chest_treasure4
+Merging object to master: CONT az_cont_scrollcase_01
+Merging object to master: CONT az_flora_KollopGiant_04
+Merging object to master: CONT az_chest_juice
+Merging object to master: CONT az_food_pie_REPLACE
+Merging object to master: CONT az_moons_Vurt_Flower02
+Copying object to master: CONT az_o_DePlnChestJewelry
+Merging object to master: CONT az_crate_import_food
+Merging object to master: CONT az_crate_01_food
+Merging object to master: CONT az_furn_wicker_armoir
+Copying object to master: CONT az_f_HyphaSupina02
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -72)
+Merging object to master: CELL Lyithdonea, Sothan Grotto
+Copying object to master: CONT az_o_MaoChestTreasure06
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -69)
+Merging object to master: CONT az_crate_01_eggs10
+Merging object to master: CONT az_barrel_02_ingred
+Merging object to master: CELL Lyithdonea, Tarvur's Landing (87, -78)
+Merging object to master: CELL Azura, The Turquoise Canvas
+Copying object to master: CONT az_f_LilyRedhorn02
+Merging object to master: CONT az_flora_rose_gold01
+Copying object to master: CONT az_f_Bromeliad01
+Copying object to master: CONT az_f_RoseYellow01
+Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -75)
+Copying object to master: CONT az_o_Sack03Wickwheat
+Merging object to master: CELL AZ_Region_Thousand Isles (79, -80)
+Copying object to master: CONT az_f_Amanita02
+Copying object to master: CONT az_f_RoseGold02
+Merging object to master: CONT az_flora_mushr_wdear_2
+Merging object to master: CONT az_crate_01_ore_iron
+Copying object to master: CONT az_o_ClayPot01
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -72)
+Merging object to master: CONT az_cont_jelly_03
+Copying object to master: CONT az_o_Barrel01PosRich
+Merging object to master: CONT az_flora_mushr_tef_4
+Merging object to master: CONT az_flora_flwr_lily_01
+Merging object to master: CONT az_flora_mushr_amanita2
+Copying object to master: CONT az_f_LizardFootRipe
+Merging object to master: CELL Azura, Scasellis Hinder's House
+Merging object to master: CONT az_sack_com_01_ingred
+Merging object to master: CONT az_cont_dae_urn_02_food
+Copying object to master: CONT az_o_DaeUrn02
+Merging object to master: CONT az_flora_TI_bandum_stal
+Merging object to master: CELL Azura, (UNUSED) Vadenb Elammu's Shack
+Merging object to master: CONT az_flora_rose_pink02
+Merging object to master: CONT az_barrel_02_ingred_20
+Merging object to master: CONT az_flora_flwr_dusk_02
+Merging object to master: CELL Lyithdonea, Hataz Cave
+Merging object to master: CELL Bnay (84, -83)
+Merging object to master: CELL Azura, Rivosi Indrano: Pawnbroker
+Copying object to master: CONT az_m_Aquamarine01
+Merging object to master: CELL AZ_Region_Azurian Isles (94, -82)
+Merging object to master: CONT az_crate_01_de_fclothes
+Copying object to master: CONT az_o_ComRchDrwrPos
+Copying object to master: CONT az_f_TawnyCap
+Copying object to master: CONT az_o_Crate01ArmIron
+Copying object to master: CONT az_f_Scribtail01
+Copying object to master: CONT az_m_Aquamarine03
+Merging object to master: CELL Azura, Granderea Salor's House
+Copying object to master: CONT az_o_AllMGRobes
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -80)
+Copying object to master: CONT az_f_Sugarcane01
+Merging object to master: CONT az_crate_import_drinks
+Merging object to master: CELL Inner Sea, Nepenthe
+Merging object to master: CONT az_com_closet_clothes
+Copying object to master: CONT az_o_AllArmorErudite
+Merging object to master: CONT az_cont_pot_p_04_food
+Copying object to master: CONT az_f_SeduraSensibilis01
+Merging object to master: CELL Nepenthe, Lower Deck
+Copying object to master: CONT az_f_RosePink01
+Merging object to master: CONT az_basket_com_00_pos
+Copying object to master: CONT az_f_HerbsBundle03
+Copying object to master: CONT az_f_Scribtail05
+Merging object to master: CELL Azura, Slums, Hin-ust's Shack
+Copying object to master: CONT az_o_ComPlnChestPirate
+Merging object to master: CONT az_barrel_01_drinks
+Merging object to master: CONT az_barrel_fish_01
+Merging object to master: CELL Veltine, Cabin
+Copying object to master: CONT az_o_SatchelLrgIng
+Merging object to master: CELL Azura, Gale Rider, Lower Level
+Copying object to master: CONT az_o_ClayPot03Pos
+Copying object to master: CONT az_o_Sack01Ing
+Merging object to master: CELL Lyithdonea, Nabga Sea Caverns
+Copying object to master: CONT az_o_Barrel02Meat
+Merging object to master: CELL Azura, Kar-soom
+Copying object to master: CONT az_o_ClayPot04Food
+Copying object to master: CONT az_o_FoodBoxPeaches
+Copying object to master: CONT az_o_UrnGreen01
+Merging object to master: CONT az_chest_Com2_misc_mg
+Merging object to master: CONT az_cont_trader_fishing
+Copying object to master: CONT az_o_Sack02Thief
+Merging object to master: CONT az_barrel_apple_01
+Merging object to master: CONT az_chest_publican
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -82)
+Merging object to master: CONT az_flora_flwr_brome_03
+Merging object to master: CONT az_barrel_02_water
+Merging object to master: CONT az_urn_01
+Merging object to master: CELL Azura, Port Hostel
+Merging object to master: CELL Azura, Gale Rider, Upper Level
+Copying object to master: CONT az_o_DaeChest01
+Merging object to master: CONT az_crate_01_GOM_soulgem
+Merging object to master: CELL AZ_Region_Azurian Isles (94, -70)
+Copying object to master: CONT az_o_DeRchChestTomb
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -73)
+Merging object to master: CELL Lyithdonea, Tarshon (79, -78)
+Merging object to master: CONT az_crate_01_torch
+Copying object to master: CONT az_f_HerbsBundle01
+Merging object to master: CELL Lyithdonea, Sea Gardens (90, -79)
+Copying object to master: CONT az_o_DeRchCanIng
+Merging object to master: CONT az_chest_clothes
+Copying object to master: CONT az_o_ComMidChestCloth
+Copying object to master: CONT az_o_WoodCase01
+Copying object to master: CONT az_o_Sack03Pirate
+Merging object to master: CONT az_flora_TI_shrooms3
+Merging object to master: CELL Lyithdonea, Zainus Lagoon (91, -76)
+Merging object to master: CELL Azura, Slums, Var's Shack
+Copying object to master: CONT az_r_Kollop00
+Merging object to master: CONT az_urn_04_ingred
+Merging object to master: CELL Lyithdonea, Delaruhn (87, -79)
+Merging object to master: CELL Azura, Ande Gisdan's House
+Copying object to master: CONT az_f_Masseranth01
+Merging object to master: CONT az_flora_mushr_tef_3
+Copying object to master: CONT az_f_ShullaySpined
+Copying object to master: CONT az_f_RoseBlue02
+Merging object to master: CELL Azura, Palace: Sewers
+Copying object to master: CONT az_o_Sack01Food
+Merging object to master: CELL Azura, Royalway Apartments, Upper South-One
+Copying object to master: CONT az_f_DusktouchIddea02
+Merging object to master: CELL Azura, Slums, Ladiaia Ardvesi's Shack
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
+Merging object to master: CONT az_flora_flwr_redhorn_2
+Merging object to master: CONT az_flora_sugarcane2
+Copying object to master: CONT az_f_Glenda02
+Merging object to master: CONT az_de_p_table_02_bath
+Copying object to master: CONT az_o_FoodBoxLemons
+Merging object to master: CONT az_ore_aquamarine_05
+Merging object to master: CONT az_flora_flwr_swmpansy
+Merging object to master: CONT az_food_pie_lemon
+Copying object to master: CONT az_f_BirdOfParadise01
+Merging object to master: CELL Azura, Dalag Andis' House
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -80)
+Merging object to master: CONT az_urn_01_ingred
+Copying object to master: CONT az_o_Barrel01Wickwheat
+Merging object to master: CELL AZ_Region_Scabrous Residuum (79, -76)
+Merging object to master: CELL Azura, Selis Orelu's House
+Copying object to master: CONT az_o_bambooBasketBread
+Copying object to master: CELL AZ_Containers
+Merging object to master: CONT az_chest_potion_alch
+Copying object to master: CONT az_o_Sack02Ing
+Merging object to master: CONT az_cave_flower_01
+Copying object to master: CONT az_o_ShopChestMisc01
+Copying object to master: CONT az_f_Moonflower02
+Copying object to master: CONT az_o_ComPlnChestPos
+Copying object to master: CONT az_o_UrnOrnate01Soap
+Merging object to master: CELL AZ_Region_Thousand Isles (78, -80)
+Merging object to master: CELL Azura, [UNUSED] Vedril Sarethi's House
+Merging object to master: CELL Nepenthe, Cabin
+Merging object to master: CONT az_crate_01_clay
+Copying object to master: CONT az_f_DeadmansBloat
+Copying object to master: CONT az_f_AmanitaEmetic03
+Copying object to master: INGR az_IngFood_DunguarSausage
+Merging object to master: CELL Azura, Hilatte Bno: Potter
+Copying object to master: CONT az_o_Sack04Wickwheat
+Merging object to master: CELL Bnay (83, -83)
+Merging object to master: CONT az_food_chain_guar_4
+Copying object to master: CONT az_o_bambooCrate01
+Copying object to master: CONT az_o_ClayPot03
+Copying object to master: LEVI az_lvl_Soap
+Merging object to master: CELL AZ_Region_Azurian Isles (91, -80)
+Merging object to master: CELL Lyithdonea, Tarshon (79, -79)
+Merging object to master: CONT az_flora_rose_blue03
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -79)
+Merging object to master: CONT az_flora_rose_blue02
+Merging object to master: CONT az_basket_com_01_pos
+Merging object to master: CONT az_flora_rose_white03
+Merging object to master: CONT az_food_pie_peach
+Copying object to master: CONT az_o_Crate01Potions
+Copying object to master: CONT az_f_Duskbells01
+Copying object to master: CONT az_f_Lily01
+Copying object to master: CONT az_r_KollopGiant02
+Copying object to master: CONT az_f_LizardFootUnripe
+Merging object to master: CELL Azura, (UNUSED) Ulwaen's Shack
+Merging object to master: CELL Lyithdonea, Tarshon, Entombed Halls
+Copying object to master: CONT az_f_JarmaberryBlue02
+Copying object to master: CONT az_o_Sack01Pirate
+Copying object to master: CONT az_o_Crate01Eggs
+Merging object to master: CELL Azura, Tar Gamayn: Valuable Goods
+Copying object to master: CONT az_o_ShopCupboardPub
+Merging object to master: CELL Bnay, New Argonia (84, -81)
+Merging object to master: CELL AZ_Region_Thousand Isles (84, -86)
+Merging object to master: CONT az_food_jar_lard
+Merging object to master: CELL AZ_Region_Thousand Isles (84, -80)
+Merging object to master: CONT az_flora_rose_yellow03
+Merging object to master: CONT az_flora_flwr_mandrake
+Merging object to master: CELL Lyithdonea, Regatto Ranyon's Shack
+Copying object to master: CONT az_o_FoodPieRat
+Merging object to master: CELL Lyithdonea, Delaruhn, Ois-shy's Shack
+Merging object to master: CONT az_ore_emerald_01
+Merging object to master: CONT az_com_desk_MG_scrolls
+Copying object to master: CONT az_o_Crate01MeatRat
+Merging object to master: CONT az_cont_pot_p_02
+Merging object to master: CELL Azura, Merchant Quarter (88, -75)
+Copying object to master: CONT az_r_Kollop10
+Merging object to master: CONT az_flora_mushr_sin_03c
+Merging object to master: CELL AZ_Region_Thousand Isles (88, -79)
+Merging object to master: CONT az_food_sack_salt
+Merging object to master: CONT az_cont_jelly_02
+Merging object to master: CELL AZ_Region_Azurian Isles (95, -72)
+Copying object to master: CONT az_o_Crate01OreClay
+Merging object to master: CONT az_food_exhibitor_guar
+Merging object to master: CONT az_basket_com_00_pos2
+Merging object to master: CELL Azura, Resk Tarrampto: Food Vendor
+Merging object to master: CONT az_crate_long_01
+Copying object to master: INGR az_IngFood_DunguarRibSucc
+Copying object to master: CONT az_f_ElfCup
+Merging object to master: CELL AZ_Region_Azurian Isles (88, -74)
+Merging object to master: CELL Azura, Fishing Supplies
+Merging object to master: CELL Dor Dalla, Guild of Mages, Order of the Lamp Barracks
+Merging object to master: CELL Lyithdonea, Jubuka'im Farm, Mill
+Copying object to master: CONT az_o_Crate03
+Merging object to master: CELL AZ_Region_Azurian Isles (91, -73)
+Merging object to master: CREA az_crea_duskyguar
+Copying object to master: CONT az_f_OnionsBundle
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
+Copying object to master: CONT az_o_Sack03Flour
+Merging object to master: CELL Dor Dalla, Guild of Mages, Pneumological Studies
+Merging object to master: CONT az_crate_lunate_a_all
+Merging object to master: CELL Azura, Slums, Athyn Salms' Shack
+Merging object to master: CONT az_flora_kollop20
+Merging object to master: CONT az_chest_Sm2_menus
+Merging object to master: CONT az_de_r_drawers_01_misc
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -79)
+Merging object to master: CELL Azura, Port Authority
+Copying object to master: CONT az_o_CauldronHangBarra
+Merging object to master: CONT az_cont_corpse_giant
+Merging object to master: CELL Azura, Palace: Magnate's Chambers
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -83)
+Copying object to master: CONT az_f_DusktouchIddea01
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -86)
+Merging object to master: CELL Azura, The Gathering Hole
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -71)
+Merging object to master: CONT az_flora_rose_gold03
+Copying object to master: CONT az_f_MsFlower01
+Merging object to master: CONT az_crate_01_weap_level
+Copying object to master: CONT az_o_Barrel02GrpNet02
+Copying object to master: CONT az_f_Duskbells02
+Copying object to master: CONT az_o_ComChestSmlPos
+Copying object to master: CONT az_o_ComMidClosetMG
+Copying object to master: CONT az_f_Hibiscus
+Merging object to master: CONT az_food_pie_kriin
+Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
+Copying object to master: CONT az_o_ClayPot05
+Copying object to master: CONT az_o_BowlSharkTeeth
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -71)
+Copying object to master: CONT az_o_Crate01Food
+Copying object to master: CONT az_r_Kollop20
+Merging object to master: CELL Azura, Talio Assen's House
+Copying object to master: CONT az_f_RoseWhite01
+Copying object to master: CONT az_r_KollopGiant01
+Merging object to master: CELL Azura, (UNUSED) Dalmvel Vibrys' House
+Merging object to master: CELL Lyithdonea, Isles of Dusk (84, -71)
+Copying object to master: CONT az_o_DeChestSmlStash
+Merging object to master: CONT az_flora_fire_vaseflwr
+Merging object to master: CONT az_com_desk_pos
+Merging object to master: CELL Azura, The Stomping Kriin, Storage
+Copying object to master: LEVI az_lvl_Dunguar
+Merging object to master: CONT az_chest_treasure7
+Merging object to master: CONT az_cont_pot_p_02_Ar_P
+Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
+Copying object to master: CONT az_o_bambooChest01Cloth
+Merging object to master: LEVI az_rand_paper&scrolls
+Merging object to master: CONT az_flora_dmansbloat
+Merging object to master: CONT az_chest_treasure1
+Merging object to master: INGR az_food_pie_sl_rat
+Merging object to master: CONT az_crate_01_alch
+Merging object to master: CONT az_chest_Com2_misc
+Merging object to master: CELL Veltine, Upper Deck
+Copying object to master: CONT az_o_Crate01Apparatus
+Copying object to master: CONT az_o_ClayPot02Ing
+Copying object to master: CONT az_o_ClayPot01Pos
+Copying object to master: CONT az_o_DePlnCupboard01
+Copying object to master: CONT az_f_RoseGold03
+Merging object to master: CELL Azura, Slums, Cocius Torenth's Shack
+Copying object to master: CONT az_r_Jelly01
+Merging object to master: CELL Azura, Slums, Ardra's Shack
+Merging object to master: CONT az_sack_02_food
+Copying object to master: CONT az_o_ShopChestClothEx
+Merging object to master: CONT az_sack_03_misc
+Merging object to master: CONT az_crate_01_apparatus
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -79)
+Merging object to master: CONT az_sack_01_pos
+Merging object to master: CONT az_chest_De2_Dae
+Merging object to master: LEVI az_rand_food_all
+Copying object to master: CONT az_o_Crate01DeClothF
+Merging object to master: CELL Azura, Royalway Apartments, Office
+Merging object to master: CELL Dor Dalla, Guild of Mages, Staff Quarters
+Merging object to master: CELL Lyithdonea, Julairan, Outer Rosery
+Merging object to master: CELL Azura, Llaala Sendal's House
+Merging object to master: CELL Lyithdonea, Dushara
+Merging object to master: CELL Azura, Palace (87, -76)
+Copying object to master: CONT AB_o_DeRchDrawersPos
+Copying object to master: CONT az_o_Crate01Gold
+Merging object to master: CELL Dor Dalla, Guild of Mages, Student Quarters
+Copying object to master: CONT az_o_MaoChestTreasure05
+Merging object to master: CONT az_cont_pot_p_02_ingred
+Copying object to master: CONT az_o_DePlnChestPos
+Merging object to master: CELL Azura, Gutho's Apartment
+Merging object to master: CONT az_crate_03_de_fclothes
+Copying object to master: CONT az_o_ComMidChestMG
+Merging object to master: CONT az_flora_KollopGiant_01
+Merging object to master: CONT az_cont_corpse_hanging
+Merging object to master: CELL Azura, Vyne Manor
+Merging object to master: CELL AZ_Region_Thousand Isles (86, -80)
+Copying object to master: CONT az_o_UrnGreen01Jewelry
+Merging object to master: CELL Lyithdonea, Sea Gardens (91, -79)
+Copying object to master: CONT az_o_MsRchTable
+Copying object to master: CONT az_o_Sack01Pos
+Copying object to master: CONT az_o_Barrel01Fish
+Merging object to master: CONT az_chest_treasure2
+Merging object to master: CONT az_barrel_fruit
+Copying object to master: CONT az_m_Aquamarine04
+Copying object to master: CONT az_f_HerbsBundle02
+Merging object to master: CELL AZ_Region_Azurian Isles (83, -77)
+Merging object to master: CONT az_sack_01_wheat
+Copying object to master: CONT az_f_Scribtail06
+Merging object to master: CELL Azura, Uthara Kishtapi's House
+Merging object to master: CONT az_crate_01_potion
+Merging object to master: CONT az_flora_flwr_iddea_02
+Merging object to master: CONT az_flora_mushr_tef_1
+Merging object to master: CELL Lyithdonea, Keen (91, -74)
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
+Copying object to master: CONT az_o_FoodDunguarJerky01
+Merging object to master: CONT az_moons_Vurt_Flower01
+Merging object to master: CONT az_crate_01_erudite_all
+Copying object to master: CONT az_o_CrateImportDrinks
+Merging object to master: CONT az_flora_rose_red01
+Merging object to master: CONT az_cont_corpse_sprawl
+Merging object to master: CONT az_chest_Sm2_treasure
+Merging object to master: CONT az_flora_kollop10
+Merging object to master: CELL Lyithdonea, Delaruhn, Laniel Eteche's Shack
+Merging object to master: CELL AZ_Region_Thousand Isles (86, -78)
+Merging object to master: CELL Lyithdonea, Isle of Dawn (94, -72)
+Copying object to master: CONT az_o_Crate01Torches
+Copying object to master: CONT az_f_GrapeVine
+Merging object to master: CONT az_chest_Sm2_money box
+Merging object to master: CONT az_crate_01_meat_rat
+Merging object to master: CONT az_food_crate_peach
+Copying object to master: CONT az_o_Barrel01Fruit
+Copying object to master: CONT az_o_Barrel02Drinks
+Merging object to master: CELL Azura, Glaneth's House
+Copying object to master: CONT az_o_UrnOrnate02Soap
+Merging object to master: CONT az_flora_flwr_shullay
+Merging object to master: CONT az_food_exhibitor_kriin
+Merging object to master: CONT az_chest_Sm1_gold
+Copying object to master: CONT az_o_ComMidDeskPos
+Copying object to master: CONT az_f_Daybreaker
+Copying object to master: CONT az_o_FoodDunguarJerky03
+Copying object to master: CONT az_o_Barrel02Pos
+Merging object to master: CELL Lyithdonea, Dor Dalla (84, -73)
+Copying object to master: CONT az_o_MaoChestTreasure03
+Copying object to master: CONT az_o_DaeUrn02Food
+Copying object to master: CONT az_o_bambooCrate01Food
+Copying object to master: CONT az_o_bambooBasket03
+Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -76)
+Merging object to master: CONT az_chest_Sm2_misc
+Merging object to master: CELL AZ_Region_Thousand Isles (83, -85)
+Merging object to master: CELL AZ_Region_Scabrous Residuum (79, -77)
+Copying object to master: CONT az_o_Crate01Wep
+Merging object to master: CONT az_chest_De2_jewelry
+Merging object to master: INGR az_food_biscuit
+Merging object to master: CONT az_o_barrel02TwoNet
+Copying object to master: CONT az_f_StarGazerLily01
+Copying object to master: CONT az_f_RosePink02
+Copying object to master: CONT az_o_Scrollcase01
+Copying object to master: CONT az_o_DePlnBuffet
+Copying object to master: CONT az_o_Sack03Ing
+Merging object to master: CONT az_sack_01_pirate
+Merging object to master: CREA az_crea_wyvern
+Copying object to master: CONT az_f_Scribtail04
+Merging object to master: CONT az_flora_rose_yellow01
+Copying object to master: CONT az_o_DeChestSmlUni01
+Copying object to master: CONT az_o_Crate01Meat
+Merging object to master: CELL AZ_Region_Scabrous Residuum (80, -78)
+Copying object to master: CONT az_f_Bromeliad03
+Merging object to master: CELL Azura, The Stomping Kriin
+Copying object to master: CONT az_o_ClayPot02Scroll
+Merging object to master: CONT az_flora_scribtail_01
+Copying object to master: CONT az_f_JarmaberryBlue01
+Copying object to master: CONT az_o_Crate03DeClothes
+Merging object to master: CONT az_flora_scribtail_03
+Merging object to master: CELL Azura, Voath Manor
+Copying object to master: CONT az_o_DeRchChestPos
+Merging object to master: CONT az_sack_small
+Merging object to master: CELL AZ_Region_Azurian Isles (91, -78)
+Merging object to master: CELL AZ_Region_Azurian Isles (96, -78)
+Merging object to master: CONT az_cont_salt_pile
+Merging object to master: CONT az_crate_01_de_mclothes
+Merging object to master: CONT az_sack_01_food
+Merging object to master: CONT az_basket_comberry
+Merging object to master: CONT az_ore_aquamarine_01
+Copying object to master: CONT az_f_HyacinthWater
+Merging object to master: CONT az_o_barrel02GrpNet
+Copying object to master: CONT az_o_Crate01Bottles
+Copying object to master: CONT az_f_Woodear03
+Copying object to master: CONT az_o_FoodDunguarJerky02
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
+Merging object to master: CELL Azura, Slums, Felqua's Shack
+Merging object to master: CONT az_flora_flwr_dawn_02
+Copying object to master: CONT az_o_Sack02Skooma
+Merging object to master: CONT az_food_exhibitor_rat
+Merging object to master: CONT az_cont_herb_bundle_BG
+Merging object to master: CELL Azura, Golam Uliran's House
+Merging object to master: CONT az_sack_01_flour
+Merging object to master: CONT az_o_log_storage
+Merging object to master: CONT az_flora_StarGazerLily1
+Copying object to master: CONT az_f_ThorniteSporeball
+Copying object to master: CONT az_o_Urn03
+Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Merging object to master: CONT az_urn_small_01
+Merging object to master: CONT az_cont_pot_p_04_Ar_P
+Copying object to master: CONT az_o_MaoChestTreasure04
+Merging object to master: CELL Azura, Underworks, Vando Block 1
+Merging object to master: CONT az_cont_Corpse_misc
+Copying object to master: CONT az_o_UrnGreen01Pos
+Merging object to master: CONT az_basket_com_00_food
+Merging object to master: CONT az_flora_flwr_dusk_01
+Merging object to master: CELL AZ_Region_Thousand Isles (86, -79)
+Copying object to master: CONT az_o_FoodHangRat
+Copying object to master: CONT az_o_Barrel01
+Merging object to master: CELL Azura, (UNUSED) Nevassa Elaingi's House
+Merging object to master: CELL Lyithdonea, Rufescent Cavern
+Copying object to master: CONT az_o_FoodFlourCrate
+Merging object to master: CELL Dor Dalla, Guild of Mages
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -84)
+Merging object to master: CONT az_flora_lizard_foot_01
+Merging object to master: CONT az_flora_lizard_foot_02
+Merging object to master: CONT az_flora_mushr_sin_02
+Copying object to master: CONT az_f_CaveFlower01
+Merging object to master: CELL AZ_Region_Thousand Isles (85, -79)
+Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
+Merging object to master: CONT az_flora_rose_blue01
+Merging object to master: CONT az_sack_03_flour
+Copying object to master: CONT az_f_Mugwort
+Merging object to master: CONT az_food_jar_delight
+Copying object to master: CONT az_f_FireVaseflower
+Copying object to master: CONT az_o_Barrel02Ing
+Merging object to master: CELL AZ_Region_Azurian Isles (90, -82)
+Copying object to master: CONT az_f_BirdOfParadise02
+Merging object to master: CELL Dor Dalla, Guild of Mages, Infirmary
+Copying object to master: CONT az_o_MaoChestTreasure08
+Merging object to master: CELL AZ_Region_Thousand Isles (79, -82)
+Merging object to master: CONT az_Sack_02_laundry
+Merging object to master: CELL Moonshadow, Hall of Equipment
+Merging object to master: CELL Lyithdonea, Hataz Cave, Talonbael
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -86)
+Copying object to master: CONT az_o_Cookpot01
+Copying object to master: CONT az_o_Urn01Ing
+Copying object to master: CONT az_o_ClayPot05Food
+Merging object to master: CONT az_crate_lunate_w_all
+Copying object to master: CONT az_o_Crate01MGSoulgems
+Merging object to master: CONT az_food_bowl_yeast
+Copying object to master: CONT az_f_Glenda01
+Copying object to master: CONT az_f_PansySwamp
+Copying object to master: CONT az_o_bambooBasket01
+Merging object to master: CELL Azura, Solia Dalas's House
+Merging object to master: CELL Lyithdonea, Hidden Maormer Ruin
+Merging object to master: CONT az_sack_02_Crabmeat
+Copying object to master: CONT az_o_ShopSackShells
+Copying object to master: CONT az_o_FoodJarCookie
+Copying object to master: CONT az_o_FoodHangDunguar
+Copying object to master: CONT az_o_ComChestSmlUni01
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -85)
+Merging object to master: CONT az_barrel_02_drinks
+Merging object to master: CONT az_flora_mushr_elf_cup
+Merging object to master: CONT az_sack_02_Thief
+Merging object to master: CELL Kannika Grotto
+Merging object to master: CONT az_de_p_desk_01_pos
+Copying object to master: CONT az_o_Crate01MGIng
+Merging object to master: CONT az_chest_Sm1_val
+Merging object to master: CELL Infernace, Red Hearth
+Copying object to master: CONT az_f_HyphaSupina04
+Copying object to master: CONT az_o_Crate03Pos
+Copying object to master: CONT az_f_Mudcap01
+Copying object to master: CONT az_o_ComMidChestPirate
+Copying object to master: CONT az_f_Sugarcane02
+Copying object to master: CONT az_o_FoodBowlYeast
+Merging object to master: CONT az_food_chain_sentinel
+Merging object to master: CONT az_de_p_cupboard
+Merging object to master: CONT az_de_p_table_02
+Merging object to master: CONT az_urn_small_02
+Copying object to master: CONT az_o_ClayPot02
+Merging object to master: CREA az_crea_duskyguar_young
+Merging object to master: CONT az_TI_weed_02r
+Merging object to master: CELL Bnay, New Argonia (83, -81)
+Merging object to master: CONT az_chest_tomb_01
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -81)
+Merging object to master: CONT az_barrel_01_empty
+Merging object to master: CONT az_urn_01_food
+Merging object to master: CELL Bnay (83, -82)
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -72)
+Merging object to master: CONT az_ore_aquamarine_02
+Merging object to master: CONT az_urn_03_food
+Merging object to master: CONT az_urn_03
+Merging object to master: CONT az_chest_treasure5
+Copying object to master: CONT az_o_AllBooks
+Merging object to master: CONT az_de_r_desk01_writing
+Merging object to master: CONT az_urn_ornate_01
+Copying object to master: CONT az_f_RosePink03
+Merging object to master: CELL Azura, Underworks, Port Channel
+Merging object to master: CELL Azura, Slums, Aughroth's Shack
+Merging object to master: CONT az_sack_03_food
+Merging object to master: CELL Lyithdonea, Starmount (93, -80)
+Merging object to master: CELL AZ_Region_Thousand Isles (88, -78)
+Copying object to master: CONT az_o_FoodPieLemon
+Merging object to master: CELL AZ_Region_Thousand Isles (79, -83)
+Merging object to master: CELL Azura, Faest Ratha Market, Lower Level
+Merging object to master: CELL Lyithdonea, Isle of Dawn (93, -73)
+Copying object to master: CONT az_o_WoodCase01Pos
+Merging object to master: CONT az_chest_Com2_smuggler
+Merging object to master: CONT az_cont_jelly_01
+Merging object to master: CONT az_cont_satchel
+Copying object to master: CONT az_o_bambooCrate01Pos2
+Merging object to master: CELL Lyithdonea, Jermora Docks (88, -72)
+Copying object to master: CONT az_f_RoseRed03
+Merging object to master: CELL AZ_Region_Thousand Isles (85, -78)
+Merging object to master: CELL Azura, (UNUSED) Things Unique
+Merging object to master: CELL Azura, Mona's Spell Boutique
+Copying object to master: CONT az_f_Dawnbells02
+Copying object to master: CONT az_o_Urn03Food
+Merging object to master: CELL Azura, Kether's Fine Alchemy Shop
+Merging object to master: CONT az_flora_flwr_bird_01
+Merging object to master: CELL AZ_Region_Thousand Isles (84, -79)
+Merging object to master: CONT az_flora_flwr_lily_02
+Merging object to master: CONT az_flora_grapevine
+Merging object to master: CONT az_cont_pot_p_03_pos
+Merging object to master: CELL Azura, Stars Above Apartments: Storage
+Merging object to master: CELL Azura, Old Harbor Tunnels
+Merging object to master: CONT az_cont_pot_p_01
+Merging object to master: CONT az_flora_StarGazerLily2
+Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: CELL AZ_Region_Azurian Isles (93, -72)
+Merging object to master: CELL Azura, Slums, Ri'Seyerrad's Shack
+Copying object to master: CONT az_o_UrnOrnate01Pos
+Copying object to master: CONT az_o_Barrel02Float
+Merging object to master: CONT az_urn_02_food
+Merging object to master: CONT az_TI_mugwort_01
+Copying object to master: CONT az_f_JarmaberryRed01
+Merging object to master: INGR az_food_dumpling
+Copying object to master: CONT az_o_Corpse10JadeUni
+Copying object to master: CONT az_f_AmanitaEmetic02
+Copying object to master: CONT az_o_Urn01Scrolls
+Merging object to master: CONT az_flora_yellowcoral
+Merging object to master: CELL AZ_Region_Azurian Isles (92, -77)
+Removed deleted object: az_de_p_desk_01_pos
+Removed deleted object: az_food_chain_guar_4
+Removed deleted object: az_basket_com_00_ingred
+Removed deleted object: az_cont_pot_p_01_ar_p
+Removed deleted object: az_flora_daybreaker
+Removed deleted object: az_cont_herb_bundle_bg
+Removed deleted object: az_cont_trader_publican
+Removed deleted object: az_crate_03_de_fclothes
+Removed deleted object: az_basket_com_00_food
+Removed deleted object: az_crate_lunate_w_all
+Removed deleted object: az_chest_com1_misc
+Removed deleted object: az_sack_01_ingred
+Removed deleted object: az_sack_01_voidsalt
+Removed deleted object: az_crate_01_weap_level
+Removed deleted object: az_flora_stargazerlily1
+Removed deleted object: az_urn_small_02
+Removed deleted object: az_barrel_02_sg_fragmen
+Removed deleted object: az_food_dry_guarjerky1
+Removed deleted object: az_cont_cache_01
+Removed deleted object: az_com_desk_pos
+Removed deleted object: az_cont_corpse_sit_adv
+Removed deleted object: az_alch_p_light_test
+Removed deleted object: az_flora_lizard_foot_02
+Removed deleted object: az_urn_03_ingred
+Removed deleted object: az_sack_03_wheat
+Removed deleted object: az_crate_lunate_a_all
+Removed deleted object: az_food_jar_delight
+Removed deleted object: az_flora_sugarcane3
+Removed deleted object: az_ore_iron_03
+Removed deleted object: az_chest_treasure8
+Removed deleted object: az_basket_bread
+Removed deleted object: az_o_barrel02twonet
+Removed deleted object: az_sack_small
+Removed deleted object: az_cont_jelly_01
+Removed deleted object: az_cont_ms_pet_table
+Removed deleted object: az_barrel_fish_02
+Removed deleted object: az_flora_kollopgiant_04
+Removed deleted object: az_flora_mushr_wdear_2
+Removed deleted object: az_cont_herb_bundle_b2
+Removed deleted object: az_crate_01_gom_ingred
+Removed deleted object: az_urn_01_scrolls
+Removed deleted object: az_barrel_02_jelly
+Removed deleted object: az_barrel_01_sg_misc
+Removed deleted object: az_food_crate_peach
+Removed deleted object: az_cont_bowl_sharkteeth
+Removed deleted object: az_crate_01_meat_rat
+Removed deleted object: az_food_sack_salt
+Removed deleted object: az_crate_01_skooma2
+Removed deleted object: az_cont_corpse_empty
+Removed deleted object: az_o_log_storage
+Removed deleted object: az_ore_iron_02
+Removed deleted object: az_barrel_02_ingred
+Removed deleted object: az_chest_treasure3
+Removed deleted object: az_ore_iron_05
+Removed deleted object: az_crate_01_drinks_loca
+Removed deleted object: az_cont_ms_monte_dress
+Removed deleted object: az_flora_rose_white02
+Removed deleted object: az_ore_iron_06
+Removed deleted object: az_cont_corpse_hanging
+Removed deleted object: az_chest_all_books
+Removed deleted object: az_de_p_buffet
+Removed deleted object: az_flora_rose_yellow01
+Removed deleted object: az_food_crate_flour
+Removed deleted object: az_chest_com1_pirate
+Removed deleted object: az_sack_03_ingred
+Removed deleted object: az_barrel_01_lightpot
+Removed deleted object: az_sack_02_crabmeat
+Removed deleted object: az_food_pie_kriin
+Removed deleted object: az_cont_pot_p_02_food
+Removed deleted object: az_cont_pot_p_02
+Removed deleted object: az_flora_rose_pink02
+Removed deleted object: az_de_r_desk01
+Removed deleted object: az_urn_02_food
+Removed deleted object: az_flora_rose_pink03
+Removed deleted object: az_barrel_fruit
+Removed deleted object: az_flora_rose_yellow03
+Removed deleted object: az_cont_corpse_water
+Removed deleted object: az_crate_import_food
+Removed deleted object: az_sack_02_thief
+Removed deleted object: az_chest_sm1_defiledan
+Removed deleted object: az_basket_com_01_food
+Removed deleted object: az_chest_sm2_treasure
+Removed deleted object: az_flora_scribtail_04
+Removed deleted object: az_chest_sm1_gold
+Removed deleted object: az_cont_scrollcase_02
+Removed deleted object: az_sack_02_shells_uni
+Removed deleted object: az_flora_kollop10
+Removed deleted object: az_flora_flwr_lily_02
+Removed deleted object: az_sack_03_flour
+Removed deleted object: az_urn_02
+Removed deleted object: az_flora_rose_vert1
+Removed deleted object: az_flora_kollopgiant_01
+Removed deleted object: az_flora_lizard_foot_01
+Removed deleted object: az_chest_com2_clothes
+Removed deleted object: az_flora_mushr_sin_03b
+Removed deleted object: az_crate_02_misc_a
+Removed deleted object: az_cont_pot_p_02_scroll
+Removed deleted object: az_crate_01_de_mclothes
+Removed deleted object: az_cont_pot_p_05_food
+Removed deleted object: az_chest_de1_misc_rich
+Removed deleted object: az_flora_mushr_sin_03
+Removed deleted object: az_flora_flwr_bird_01
+Removed deleted object: az_crate_01_gold_rand
+Removed deleted object: az_flora_mushr_wdear_4
+Removed deleted object: az_flora_flwr_glenda_02
+Removed deleted object: az_flora_flwr_lily_01
+Removed deleted object: az_barrel_01_food
+Removed deleted object: az_sack_02_sugar
+Removed deleted object: az_cont_corpse_jade_uni
+Removed deleted object: az_cont_reeds_bundle
+Removed deleted object: az_de_p_chest_wb
+Removed deleted object: az_cont_pot_p_04_scroll
+Removed deleted object: az_barrel_01_wickwheat
+Removed deleted object: az_chest_com2_papers
+Removed deleted object: az_flora_rose_blue01
+Removed deleted object: az_cont_corpse_sitting
+Removed deleted object: az_flora_ti_shrooms3
+Removed deleted object: az_com_desk_mg_scrolls
+Removed deleted object: az_flora_flwr_iddea_02
+Removed deleted object: az_cont_cauldron_swing
+Removed deleted object: az_cont_pot_p_02_ar_p
+Removed deleted object: az_crate_01_potion
+Removed deleted object: az_ti_weed_02r
+Removed deleted object: az_ti_weed_02b
+Removed deleted object: az_cont_corpse_sprawl
+Removed deleted object: az_flora_mushr_sin_04
+Removed deleted object: az_flora_flwr_moon_02
+Removed deleted object: az_ore_iron_04
+Removed deleted object: az_chest_ruin_anteres02
+Removed deleted object: az_cont_corpse_maormer
+Removed deleted object: az_food_box_lemon
+Removed deleted object: az_flora_flwr_dusk_01
+Removed deleted object: az_flora_rose_yellow02
+Removed deleted object: az_flora_dmansbloat
+Removed deleted object: az_flora_flwr_brome_02
+Removed deleted object: az_urn_01_food
+Removed deleted object: az_flora_mushr_tef_4
+Removed deleted object: az_sack_02_food
+Removed deleted object: az_barrel_02_meat
+Removed deleted object: az_cont_scrollcase_01
+Removed deleted object: az_food_exhibitor_rat
+Removed deleted object: az_urn_small_01
+Removed deleted object: az_crate_01_gom_soulgem
+Removed deleted object: az_basket_com_01_pos
+Removed deleted object: az_chest_treasure2
+Removed deleted object: az_food_chain_guarjerky
+Removed deleted object: az_flora_mushr_sin_02
+Removed deleted object: az_barrel_02_eggs
+Removed deleted object: az_sack_03_food
+Removed deleted object: az_com_closet_mg_robes
+Removed deleted object: az_flora_scribtail_01
+Removed deleted object: az_flora_flwr_dawn_02
+Removed deleted object: az_flora_rose_blue02
+Removed deleted object: az_flora_flwr_hibiscus
+Removed deleted object: az_chest_potion_alch
+Removed deleted object: az_flora_yellowcoral
+Removed deleted object: az_pirate_table_01_pos
+Removed deleted object: az_com_sack_02_pos_dis
+Removed deleted object: az_basket_com_00_pos
+Removed deleted object: az_cont_satchel
+Removed deleted object: az_chest_treasure5
+Removed deleted object: az_urn_maormer
+Removed deleted object: az_chest_sm2_money box
+Removed deleted object: az_food_dry_guarjerky2
+Removed deleted object: az_food_braid_onion
+Removed deleted object: az_basket_com_00
+Removed deleted object: az_chest_sm1_val
+Removed deleted object: az_cont_cookpot_empty
+Removed deleted object: az_chest_com2_smuggler
+Removed deleted object: az_urn_ornate_01
+Removed deleted object: az_flora_rose_red02
+Removed deleted object: az_food_chain_sentinel
+Removed deleted object: az_chest_com2_misc
+Removed deleted object: az_cont_pot_p_02_ingred
+Removed deleted object: az_urn_02_scrolls
+Removed deleted object: az_food_dumpling
+Removed deleted object: az_barrel_02_empty
+Removed deleted object: az_key_sedge_99
+Removed deleted object: az_rand_paper&scrolls
+Removed deleted object: az_chest_com1_clothes
+Removed deleted object: az_ore_aquamarine_03
+Removed deleted object: az_barrel_01_misc
+Removed deleted object: az_ore_aquamarine_05
+Removed deleted object: az_moons_vurt_flower02
+Removed deleted object: az_cont_cookpot
+Removed deleted object: az_flora_sugarcane2
+Removed deleted object: az_de_r_drawers_01_misc
+Removed deleted object: az_flora_flwr_bird_02
+Removed deleted object: az_flora_scribtail_06
+Removed deleted object: az_barrel_02_drinks
+Removed deleted object: az_chest_tomb_01
+Removed deleted object: az_flora_flwr_glenda_01
+Removed deleted object: az_cont_jelly_03
+Removed deleted object: az_ore_aquamarine_04
+Removed deleted object: az_cont_cookpot_sugar
+Removed deleted object: az_flora_mushr_amanita1
+Removed deleted object: az_flora_kollop00
+Removed deleted object: az_crate_02_food
+Removed deleted object: az_cont_corpse_misc
+Removed deleted object: az_crate_01_empty
+Removed deleted object: az_sack_01_pos
+Removed deleted object: az_flora_mushr_ms_cup
+Removed deleted object: az_cont_pot_p_04_food
+Removed deleted object: az_ti_weed_03b
+Removed deleted object: az_flora_flwr_mandrake
+Removed deleted object: az_basket_com_01_ingred
+Removed deleted object: az_sack_01_wheat
+Removed deleted object: az_flora_grapevine
+Removed deleted object: az_flora_walktree_nut
+Removed deleted object: az_food_pie_peach
+Removed deleted object: az_cont_corpse_40
+Removed deleted object: az_crate_01_erudite_all
+Removed deleted object: az_cont_pot_p_03
+Removed deleted object: az_sack_01_pirate
+Removed deleted object: az_flora_mushr_tef_1
+Removed deleted object: az_crate_02_misc_b
+Removed deleted object: az_chest_juice
+Removed deleted object: az_crate_01_ore_iron
+Removed deleted object: az_moons_vurt_flower03
+Removed deleted object: az_flora_mushr_wdear_1
+Removed deleted object: az_flora_flwr_dawn_01
+Removed deleted object: az_crate_import_drinks
+Removed deleted object: az_crate_01_arm_iron
+Removed deleted object: az_crate_01_weap_iron
+Removed deleted object: az_chest_de1_dae
+Removed deleted object: az_food_jar_lard
+Removed deleted object: az_cont_pot_p_03_pos
+Removed deleted object: az_flora_mushr_wdear_3
+Removed deleted object: az_barrel_02_water
+Removed deleted object: az_flora_mushr_ms_shelf
+Removed deleted object: az_sack_com_01_ingred
+Removed deleted object: az_de_p_table_01_pos
+Removed deleted object: az_ore_emerald_01
+Removed deleted object: az_cont_herb_bundle_m
+Removed deleted object: az_cont_pot_p_04_ar_p
+Removed deleted object: az_flora_flwr_redhorn_2
+Removed deleted object: az_de_p_table_02_bath
+Removed deleted object: az_flora_scribtail_02
+Removed deleted object: az_food_exhibitor_guar
+Removed deleted object: az_com_drawers_narrow_1
+Removed deleted object: az_flora_rose_pink01
+Removed deleted object: az_sack_momo_01
+Removed deleted object: az_cont_bag_scrolls
+Removed deleted object: az_crate_01_clay
+Removed deleted object: az_flora_fire_vaseflwr
+Removed deleted object: az_chest_ruin_anteres01
+Removed deleted object: az_flora_rose_gold03
+Removed deleted object: az_ore_aquamarine_01
+Removed deleted object: az_chest_treasure1
+Removed deleted object: az_flora_rose_gold02
+Removed deleted object: az_flora_flwr_swmpansy
+Removed deleted object: az_barrel_01_ingred
+Removed deleted object: az_flora_mushr_elf_cup
+Removed deleted object: az_chest_sm1_moonsugar
+Removed deleted object: az_basket_comberry
+Removed deleted object: az_crate_01_eggs10
+Removed deleted object: az_flora_rose_white01
+Removed deleted object: az_ore_iron_01
+Removed deleted object: az_cont_pot_p_01
+Removed deleted object: az_flora_flwr_iddea_01
+Removed deleted object: az_chest_sm2_misc
+Removed deleted object: az_sack_02_ingred
+Removed deleted object: az_urn_01
+Removed deleted object: az_chest_de2_dae
+Removed deleted object: az_crate_01_de_fclothes
+Removed deleted object: az_flora_flwr_masser
+Removed deleted object: az_chest_com2_weap_nord
+Removed deleted object: az_urn_ornate_02
+Removed deleted object: az_chest_treasure4
+Removed deleted object: az_urn_01_ingred
+Removed deleted object: az_chest_de1_tomb
+Removed deleted object: az_de_r_desk01_writing
+Removed deleted object: az_chest_sm1_misc
+Removed deleted object: az_chest_de2_jewelry
+Removed deleted object: az_flora_rose_red03
+Removed deleted object: az_flora_flwr_brome_03
+Removed deleted object: az_crate_robes_mg_all
+Removed deleted object: az_cont_alch_canister
+Removed deleted object: az_food_pie_replace
+Removed deleted object: az_barrel_02_group
+Removed deleted object: az_urn_04_food
+Removed deleted object: az_cont_dae_urn_01
+Removed deleted object: az_barrel_02_ingred_20
+Removed deleted object: az_urn_03_food
+Removed deleted object: az_barrel_apple_01
+Removed deleted object: az_flora_rose_blue03
+Removed deleted object: az_basket_covered_bread
+Removed deleted object: az_chest_treasure7
+Removed deleted object: az_cont_pot_p_05
+Removed deleted object: az_cont_corpse_50
+Removed deleted object: az_cont_trader_fishing
+Removed deleted object: az_flora_mushr_tef_2
+Removed deleted object: az_crate_01_alch
+Removed deleted object: az_sack_01_food
+Removed deleted object: az_sack_02_laundry
+Removed deleted object: az_crate_01_meat
+Removed deleted object: az_chest_publican
+Removed deleted object: az_flora_rose_white03
+Removed deleted object: az_chest_clothes
+Removed deleted object: az_flora_flwr_hyac_dusk
+Removed deleted object: az_food_pie_lemon
+Removed deleted object: az_flora_flwr_moon_01
+Removed deleted object: az_urn_03
+Removed deleted object: az_flora_mushr_sin_03c
+Removed deleted object: az_de_p_cupboard
+Removed deleted object: az_chest_com2_cloth_fin
+Removed deleted object: az_flora_kollop20
+Removed deleted object: az_barrel_fish_01
+Removed deleted object: az_crate_long_01
+Removed deleted object: az_flora_flwr_shullay
+Removed deleted object: az_flora_scribtail_03
+Removed deleted object: az_food_chain_guar_6
+Removed deleted object: az_flora_ti_shrooms2
+Removed deleted object: az_flora_mushr_amanita2
+Removed deleted object: az_barrel_01_pos
+Removed deleted object: az_urn_ornate_02_salt
+Removed deleted object: az_crate_01_torch
+Removed deleted object: az_flora_rose_gold01
+Removed deleted object: az_food_bowl_yeast
+Removed deleted object: az_food_sack_sugar
+Removed deleted object: az_flora_flwr_swmottle
+Removed deleted object: az_food_chain_torall
+Removed deleted object: az_sack_03_misc
+Removed deleted object: az_barrel_01_dumpling
+Removed deleted object: az_chest_de2_misc
+Removed deleted object: az_flora_stargazerlily2
+Removed deleted object: az_sack_02_skooma
+Removed deleted object: az_food_box_peach
+Removed deleted object: az_cont_pot_p_04_pos
+Removed deleted object: az_cont_corpse_giant
+Removed deleted object: az_com_closet_clothes
+Removed deleted object: az_cont_dae_urn_02_food
+Removed deleted object: az_cont_wooden_case
+Removed deleted object: az_ore_aquamarine_02
+Removed deleted object: az_sack_01_flour
+Removed deleted object: az_cont_dae_urn_02
+Removed deleted object: az_cont_jelly_02
+Removed deleted object: az_flora_flwr_redhorn_1
+Removed deleted object: az_flora_flwr_hyac_watr
+Removed deleted object: az_cont_cauldron_hangin
+Removed deleted object: az_crate_01_pos
+Removed deleted object: az_crate_01_apparatus
+Removed deleted object: az_ti_mugwort_01
+Removed deleted object: az_de_p_buffet_empty
+Removed deleted object: az_chest_sm2_menus
+Removed deleted object: az_ti_weed_03r
+Removed deleted object: az_basket_01_tavern
+Removed deleted object: az_cont_alch_satchel_01
+Removed deleted object: az_alch_drink_paatru
+Removed deleted object: az_urn_04_ingred
+Removed deleted object: az_sack_02_pos
+Removed deleted object: az_barrel_02_floater
+Removed deleted object: az_flora_flwr_dusk_02
+Removed deleted object: az_chest_de2_tar1
+Removed deleted object: az_flora_rose_red01
+Removed deleted object: az_de_p_table_02
+Removed deleted object: az_basket_com_00_pos2
+Removed deleted object: az_furn_wicker_armoir
+Removed deleted object: az_crate_01_bottle05_5
+Removed deleted object: az_chest_treasure6
+Removed deleted object: az_o_barrel02grpnet
+Removed deleted object: az_barrel_01_empty
+Removed deleted object: az_urn_02_ingred
+Removed deleted object: az_flora_flwr_brome_01
+Removed deleted object: az_crate_01_arm_leather
+Removed deleted object: az_flora_rose_vert
+Removed deleted object: az_cave_flower_01
+Removed deleted object: az_chest_com2_trader01
+Removed deleted object: az_crate_03_misc
+Removed deleted object: az_chest_com2_misc_mg
+Removed deleted object: az_cont_salt_pile
+Removed deleted object: az_crate_01_food
+Removed deleted object: az_flora_scribtail_05
+Removed deleted object: az_flora_ti_bandum_stal
+Removed deleted object: az_moons_vurt_flower01
+Removed deleted object: az_food_exhibitor_kriin
+Removed deleted object: az_flora_sugarcane1
+Removed deleted object: az_barrel_01_drinks
+Removed deleted object: az_cont_trader_alchemy
+Removed deleted object: az_flora_mushr_tef_3
+Removed deleted reference: az_flora_rose_vert1 (0, 77505) from moonshadow, interior test cell
+Removed deleted reference: az_barrel_01_lightpot (0, 77582) from moonshadow, the dark room
 Creating backup...
 Saving results...
 Finished!
