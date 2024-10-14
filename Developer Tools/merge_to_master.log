@@ -1,716 +1,3246 @@
 Merging plugins...
-Merging object to master: CELL Azura, Rivosi Indrano: Pawnbroker
-Merging object to master: NPC_ az_Granderea Salor
-Copying object to master: MISC az_Misc_StoneBookend
-Merging object to master: CELL Azura, Saye's House
-Merging object to master: MISC az_misc_stn_pot_02
-Merging object to master: MISC az_misc_silk_spool
-Merging object to master: MISC az_misc_de_scales_01
-Merging object to master: MISC az_misc_bedroll
-Merging object to master: CONT az_o_ComRchDrwrPos
-Merging object to master: NPC_ az_Calminde of Skywatch
-Copying object to master: MISC az_Misc_AzRchBookendR
-Copying object to master: MISC az_Misc_ComSilverPlatter
-Merging object to master: MISC az_misc_shellpipe
-Merging object to master: NPC_ az_Cocius Torenth
-Merging object to master: NPC_ az_Ruunel
-Merging object to master: NPC_ az_Hestus Ram
-Merging object to master: CELL Azura, Granderea Salor's House
-Merging object to master: NPC_ az_Kul-Jeen
-Copying object to master: MISC az_Misc_CrystalBall05
-Merging object to master: NPC_ az_Ande Gisdan
-Merging object to master: MISC az_misc_spyglass_01
-Merging object to master: CELL Dor Dalla, Guild of Mages, Head Magister's Tower
-Merging object to master: MISC az_misc_arg_bowl_2
-Merging object to master: MISC az_misc_silverware_platter
-Merging object to master: MISC az_misc_skull_khj_02
-Merging object to master: NPC_ az_Re Heshr
-Copying object to master: CONT az_o_Sack02Seashells
-Merging object to master: MISC az_misc_pot_cooking
-Merging object to master: MISC az_misc_clay_cup
-Copying object to master: MISC az_Misc_IronPot02
-Merging object to master: NPC_ az_Zorat Ashamm
-Merging object to master: CELL Veltine, Cabin
-Merging object to master: NPC_ az_Gara Daynes
-Merging object to master: LEVI az_rand_ore_iron
-Merging object to master: CONT az_o_bambooChest01Pos
-Merging object to master: MISC az_misc_shaker_redware_02
-Merging object to master: NPC_ az_Ardra
-Merging object to master: MISC az_misc_pearl_fragment
-Merging object to master: MISC az_misc_crystalball_02
-Merging object to master: MISC az_misc_crystalball_05
-Merging object to master: CELL Azura, Kar-soom
-Copying object to master: MISC az_Misc_IronPot01
-Copying object to master: MISC az_Mus_Flute
-Merging object to master: MISC az_misc_com_weight_02
-Merging object to master: MISC az_misc_pan_frying
-Merging object to master: MISC az_misc_arg_cherpak
-Merging object to master: MISC az_misc_shell_conch
-Merging object to master: MISC az_misc_PaintBottle_R
-Merging object to master: MISC az_misc_silverware_ladle
-Merging object to master: NPC_ az_Nerben Vassali
-Copying object to master: MISC az_Misc_CrystalBall06
-Merging object to master: NPC_ az_Oraz Eoblas
-Merging object to master: CELL Azura, Enchanted Enscrolling
-Merging object to master: NPC_ az_Ix-Jeen
-Merging object to master: CONT az_o_ClayPot04Pos
-Copying object to master: MISC az_Misc_BottleShip01
-Copying object to master: STAT az_Furn_WepStand01
-Merging object to master: CELL Azura, Gale Rider, Upper Level
-Merging object to master: MISC az_misc_sg_hammer
-Merging object to master: CELL Azura, Port Hostel
-Merging object to master: CELL Bnay, New Argonia (83, -80)
-Merging object to master: NPC_ az_Ladiaia Ardvesi 
-Merging object to master: CELL Lyithdonea, Tarshon (79, -78)
-Merging object to master: NPC_ az_Klog gro-Dul
-Merging object to master: CELL Bnay (82, -83)
-Merging object to master: MISC az_misc_grill_01
-Merging object to master: CELL Azura, Palace: Throne Room
-Copying object to master: MISC az_Misc_ClayPitcher
-Merging object to master: CELL Azura, Slums, Var's Shack
-Merging object to master: MISC az_misc_bard_chimes
-Copying object to master: LEVI az_lvl_TablewareClay
-Merging object to master: CREA az_dae_scamp_stray
-Merging object to master: MISC az_misc_salt_rake
-Merging object to master: CELL Lyithdonea, Delaruhn (87, -79)
-Merging object to master: CELL Azura, Ande Gisdan's House
-Merging object to master: NPC_ az_Mebentre
-Merging object to master: MISC az_misc_PaintBottle_Bw
-Copying object to master: MISC az_Misc_Spyglass03
-Merging object to master: NPC_ az_Yaelyn Indri
-Merging object to master: NPC_ az_Barthos Yaelar
-Merging object to master: CELL Azura, Palace: Sewers
-Merging object to master: NPC_ az_Laripp Amatius
-Merging object to master: CELL Azura, Mines
-Merging object to master: MISC az_misc_bottleb_brown
-Merging object to master: NPC_ az_Var
-Merging object to master: MISC az_misc_stn_plate_03
-Copying object to master: MISC az_Misc_CrystalBall04
-Copying object to master: MISC az_Misc_ShellConch
-Copying object to master: LEVI az_lvl_Seashells
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: LEVI az_rand_Misc
-Merging object to master: NPC_ az_Uthara Kishtapi
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Copying object to master: MISC az_Misc_SilkHank
-Merging object to master: MISC az_Misc_BallWilson
-Merging object to master: NPC_ az_Rulena Veran
-Merging object to master: LEVI az_rand_ironatronach
-Copying object to master: CONT az_o_SatchelLrgPos
-Merging object to master: CELL Azura, Dalag Andis' House
-Merging object to master: NPC_ az_Bagamul Optiok
-Merging object to master: NPC_ az_Itan-Lei
-Merging object to master: CELL Azura, Sadela Ulom: Weaver
-Copying object to master: MISC az_Misc_BallWilson_Uni
-Merging object to master: CELL Azura, Selis Orelu's House
-Merging object to master: MISC az_misc_skull_orc_01
-Merging object to master: CELL AZ_Containers
-Merging object to master: MISC az_junk_crumpledpaper
-Merging object to master: NPC_ az_Tendryn Olamo
-Merging object to master: NPC_ az_Dalara Nethra
-Copying object to master: MISC az_Misc_AzRcHourglass
-Merging object to master: MISC az_misc_skull_arg_jaw
-Merging object to master: CONT az_o_Sack02Pos
-Merging object to master: NPC_ az_Alavesa Ishatale
-Merging object to master: NPC_ az_Daroso Vyne
-Merging object to master: NPC_ az_Illse Long-Hame
-Copying object to master: LEVI az_lvl_TablewareWood
-Merging object to master: MISC az_misc_spyglass_03
-Merging object to master: CONT az_o_ComPlnChestPos
-Merging object to master: CELL Nepenthe, Cabin
-Merging object to master: CELL Azura, Residential District (87, -75)
-Copying object to master: MISC az_Misc_CrystalBall01
-Copying object to master: MISC az_Misc_CrystalBall03
-Merging object to master: NPC_ az_Erah Traynothil
-Merging object to master: CELL Azura, Daroth Lighthouse
-Merging object to master: CELL Azura, Hilatte Bno: Potter
-Merging object to master: CELL Bnay (83, -83)
-Merging object to master: CELL Azura, Anale Dralas' House
-Merging object to master: NPC_ az_Balfhedi
-Merging object to master: MISC az_misc_shell_sanddollar_01
-Merging object to master: MISC az_misc_sg_chisel
-Merging object to master: NPC_ az_Gah Ouada
-Copying object to master: MISC az_Misc_ShellSandDollar04
-Merging object to master: CONT az_o_bambooBasket01Pos
-Copying object to master: MISC az_Misc_SilkSpoolFull
-Merging object to master: NPC_ az_Saye
-Copying object to master: WEAP az_w_ToolSaltRake
-Copying object to master: MISC az_Misc_IdolAzura02
-Copying object to master: MISC az_Misc_QuartzGoblet
-Merging object to master: NPC_ az_Hagann gro-Dilak
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -74)
-Merging object to master: CELL Bnay, New Argonia (84, -81)
-Merging object to master: CELL Azura, Tar Gamayn: Valuable Goods
-Copying object to master: MISC az_Misc_DeRedwareShaker02
-Merging object to master: CELL Azura, Bandremmil Ancestral Vaults
-Copying object to master: MISC az_Mus_ConchTrumpet
-Merging object to master: MISC az_misc_icon_az_exquisit
-Merging object to master: CELL Azura, Gadresi Manor
-Merging object to master: LEVI az_rand_dunguar
-Merging object to master: NPC_ az_Confessor Boeshah
-Copying object to master: MISC az_Misc_IdolAzura01
-Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Copying object to master: MISC az_Misc_ShellKollop00Half
-Merging object to master: MISC az_misc_com_scales_01
-Merging object to master: MISC az_misc_icon_az_rich
-Merging object to master: MISC az_misc_stn_jug
-Merging object to master: CONT az_o_Crate01OreClay
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 02
-Merging object to master: CONT az_o_Crate01Pos
-Copying object to master: MISC az_Misc_IdolTeeth_Uni
-Merging object to master: CELL Azura, Palace: North Wing
-Merging object to master: CONT az_o_Sack03Pos
-Merging object to master: NPC_ az_Nammu
-Copying object to master: MISC az_Misc_WoodLadle
-Merging object to master: MISC az_misc_pan_01
-Merging object to master: CELL Azura, Resk Tarrampto: Food Vendor
-Merging object to master: MISC az_misc_jar_netted
-Merging object to master: CELL Dor Dalla, Guild of Mages, Order of the Lamp Barracks
-Merging object to master: NPC_ az_Shem Fen
-Merging object to master: CELL Azura, Catacombs, Dredanni Ashvaults
-Merging object to master: NPC_ az_Turtho Fram
-Merging object to master: NPC_ az_Nals Rosaren
-Copying object to master: MISC az_Misc_DeRedwareShaker01
-Merging object to master: MISC az_junk_paper_02
-Copying object to master: LEVI az_lvl_TablewareAllExpensive
-Merging object to master: CELL Dor Dalla, Guild of Mages, Pneumological Studies
-Copying object to master: MISC az_Misc_CrystalBall02
-Merging object to master: MISC az_misc_stn_plate_05
-Merging object to master: CELL Lyithdonea, Hataz Cave, Secluded Chambers
-Merging object to master: CONT az_o_Crate01LongPos
-Copying object to master: WEAP az_w_ToolBargePole
-Merging object to master: MISC az_misc_bath_towel
-Merging object to master: CONT az_o_bambooBasket03Pos
-Merging object to master: NPC_ az_Daynes Evoro
-Merging object to master: NPC_ az_Baroll
-Merging object to master: NPC_ az_Galda Hlotar
-Merging object to master: NPC_ az_Yhaz Drelau
-Merging object to master: CELL Azura, Port Authority
-Merging object to master: NPC_ az_Redolo Laranyon
-Copying object to master: MISC az_Misc_WoodSpoonLarge
-Copying object to master: MISC az_Misc_ArgBowl01
-Merging object to master: MISC az_misc_stn_plate_01
-Merging object to master: CELL Azura, Saurale's House
-Merging object to master: CELL Azura, Palace: Magnate's Chambers
-Copying object to master: MISC az_Misc_ComSilverPlateCover
-Merging object to master: MISC az_misc_bookend_poor
-Merging object to master: CELL Azura, The Gathering Hole
-Copying object to master: LEVI az_lvl_TablewareArg
-Merging object to master: MISC az_misc_de_weight_04
-Merging object to master: MISC az_misc_pot_red
-Merging object to master: MISC az_misc_pot_clay
-Merging object to master: NPC_ az_Yahahul Ilaltu
-Merging object to master: MISC az_misc_stn_pitcher
-Merging object to master: CONT az_o_ComChestSmlPos
-Merging object to master: MISC az_misc_bowl_peacock
-Copying object to master: MISC az_Misc_HideDunguar
-Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Copying object to master: MISC az_Misc_ClayBowl01
-Merging object to master: CELL Azura, Royalway Apartments, Upper North-One
-Merging object to master: CELL Azura, Talio Assen's House
-Merging object to master: MISC az_misc_PaintBottle_Y
-Merging object to master: MISC az_misc_idol_teeth_uni
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Copying object to master: LEVI az_lvl_TablewareImportPI
-Copying object to master: MISC az_Misc_Spyglass02
-Merging object to master: MISC az_misc_Sextant
-Merging object to master: MISC az_misc_shell_kollop00
-Merging object to master: MISC az_misc_cutting_board_02
-Merging object to master: MISC az_misc_shell_turritella
-Copying object to master: MISC az_Misc_ShellKollop10Half
-Merging object to master: MISC az_misc_cutting_board_01
-Merging object to master: MISC az_misc_display_sword
-Merging object to master: MISC az_misc_PaintBottle_B
-Merging object to master: LEVI az_lvl_Dunguar
-Merging object to master: MISC az_misc_bard_erhu
-Merging object to master: NPC_ az_Lilia
-Copying object to master: LEVI az_lvl_PosExpensiveAll
-Merging object to master: LEVI az_rand_clay
-Merging object to master: CELL Azura, The Golem's Hearth
-Merging object to master: MISC az_misc_stn_pot_01
-Merging object to master: MISC az_misc_crystalball_06
-Merging object to master: MISC az_misc_pot_silver
-Copying object to master: MISC az_Misc_WoodCuttingBoard01
-Merging object to master: CONT az_o_ClayPot01Pos
-Merging object to master: CONT az_o_DePlnCupboard01
-Merging object to master: LEVI az_rand_Misc_household
-Copying object to master: MISC az_Misc_ShellSandDollar02
-Merging object to master: MISC az_misc_spyglass_02
-Merging object to master: MISC az_misc_de_scales_02
-Copying object to master: MISC az_Misc_IdolMaormer
-Merging object to master: NPC_ az_Vera Dawn
-Merging object to master: NPC_ az_Orthos Bandremmil
-Merging object to master: NPC_ az_Nals Mencele
-Merging object to master: MISC az_misc_stn_bowl_01
-Merging object to master: NPC_ az_Rols Orelu
-Copying object to master: MISC az_Mus_Erhu
-Merging object to master: CELL Azura, Royalway Apartments, Office
-Merging object to master: CELL Dor Dalla, Guild of Mages, Staff Quarters
-Merging object to master: MISC az_misc_stn_bowl_02
-Merging object to master: MISC az_misc_idol_maor
-Merging object to master: NPC_ az_Tinny Feldroon
-Copying object to master: LEVI az_lvl_TablewareQuartz
-Merging object to master: CELL Azura, Llaala Sendal's House
-Merging object to master: CELL Azura, Saurale's Quayside Tavern
-Merging object to master: CONT az_o_pirateTable01Pos
-Merging object to master: NPC_ az_Sorchalas
-Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
-Merging object to master: CONT AB_o_DeRchDrawersPos
-Merging object to master: MISC az_misc_bottlet_green
-Merging object to master: NPC_ az_Biben Glindri
-Merging object to master: CELL Azura, Nerben Vassali's House
-Merging object to master: NPC_ az_Nalcarum
-Merging object to master: NPC_ az_Farand Telith
-Merging object to master: NPC_ az_Weth Hammarnibi
-Merging object to master: CELL Dor Dalla, Guild of Mages, Student Quarters
-Merging object to master: CONT az_o_DePlnChestPos
-Merging object to master: MISC az_misc_wood_ladle
-Merging object to master: CELL Azura, Gutho's Apartment
-Merging object to master: CONT az_o_ComMidChestMG
-Merging object to master: MISC az_misc_com_covered_plate
-Merging object to master: CELL Azura, Vyne Manor
-Copying object to master: WEAP az_w_ToolSoulgemHammer
-Copying object to master: MISC az_Misc_ComSilverLadle
-Merging object to master: CONT az_o_Sack01Pos
-Merging object to master: MISC az_misc_stn_pot_03
-Merging object to master: MISC az_misc_conchtrumpet
-Merging object to master: CONT az_o_bambooCrate01Pos1
-Merging object to master: CELL Azura, Old Town (87, -77)
-Merging object to master: MISC az_misc_shell_kollop10
-Merging object to master: NPC_ az_Evenstar
-Merging object to master: MISC az_misc_com_scales_02
-Merging object to master: MISC az_misc_clay_pitcher
-Merging object to master: NPC_ az_Emolu Shan
-Merging object to master: MISC az_misc_clay_bowl2
-Merging object to master: NPC_ az_Vip Velodred
-Merging object to master: MISC az_misc_shell_kollop20_open
-Merging object to master: CONT az_o_bambooBasket02Pos
-Merging object to master: CELL Azura, Uthara Kishtapi's House
-Copying object to master: LEVI az_lvl_TablewareAllCheap
-Merging object to master: CELL Lyithdonea, Keen (91, -74)
-Merging object to master: MISC az_misc_wood_spoon
-Merging object to master: MISC az_misc_skull_khj_jaw
-Merging object to master: NPC_ az_Felqua
-Merging object to master: CONT az_o_DePlnBuffetPos
-Merging object to master: MISC az_misc_idol_azura
-Copying object to master: MISC az_Misc_ClayCup01
-Merging object to master: CELL Lyithdonea, Delaruhn, Laniel Eteche's Shack
-Merging object to master: CELL Azura, Hestus Ram's House
-Merging object to master: MISC az_misc_bookend_stone_R
-Merging object to master: NPC_ az_Aughroth
-Merging object to master: CELL Azura, Palace: Upper Halls
-Merging object to master: NPC_ az_Azale Umbrayn
-Merging object to master: CELL Azura, Faest Ratha Market, Upper Level
-Copying object to master: MISC az_Misc_HideScarletSabre
-Merging object to master: CELL Azura, Saffend: Fine Clothier
-Merging object to master: CELL Azura, Glaneth's House
-Merging object to master: CELL Azura, Palace: South Wing
-Merging object to master: MISC az_misc_cloth_folded
-Merging object to master: NPC_ az_Llanto Hammarnibi
-Merging object to master: CELL Azura, Palace: Servants' Wing
-Merging object to master: MISC az_misc_statuette_azura
-Merging object to master: MISC az_misc_skull_orc_02
-Merging object to master: CELL AZ_Region_Scabrous Residuum (78, -75)
-Merging object to master: CONT az_o_ComMidDeskPos
-Copying object to master: LEVI az_lvl_PosCheapSmall
-Merging object to master: CONT az_o_Barrel02Pos
-Merging object to master: CELL Lyithdonea, Dor Dalla (84, -73)
-Merging object to master: MISC az_misc_arg_bowl_1
-Merging object to master: MISC az_misc_shell_kriin
-Merging object to master: MISC az_misc_com_weight_04
-Merging object to master: MISC az_misc_crystalball_03
-Merging object to master: MISC az_misc_skull_arg_01
-Merging object to master: MISC az_misc_de_weight_03
-Merging object to master: NPC_ az_Cheos Andalara
-Merging object to master: CELL Azura, Bailaman's House
-Copying object to master: MISC az_Misc_ShellSandDollar01
-Merging object to master: MISC az_misc_pearl_flawless
-Copying object to master: MISC az_Misc_ShellKollop00
-Copying object to master: MISC az_Misc_ShellKollop20Half
-Merging object to master: NPC_ az_Bethanye Sest
-Merging object to master: NPC_ az_Goruk gro-Lurba
-Merging object to master: NPC_ az_Ana
-Merging object to master: CELL Azura, Underworks, Istharis Residence
-Merging object to master: NPC_ az_Ragq gro-Shum
-Merging object to master: LEVI az_rand_Misc_small
-Merging object to master: MISC az_misc_shell_kollop00_open
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 01
-Merging object to master: NPC_ az_Mirae
-Merging object to master: NPC_ az_Svorelhe
-Copying object to master: MISC az_Misc_WaterskinFull
-Merging object to master: NPC_ az_Cluenelm
-Merging object to master: CELL Azura, Gale Rider, Cabin
-Merging object to master: NPC_ az_Gamma Tunel
-Merging object to master: NPC_ az_Scasellis Hinder
-Copying object to master: MISC az_Misc_ArgBowl02
-Merging object to master: NPC_ az_Eduard
-Merging object to master: NPC_ az_Hin-ust
-Merging object to master: MISC az_misc_bard_erhu_bow
-Copying object to master: MISC az_Misc_WoodCuttingBoard02
-Merging object to master: NPC_ az_Falcan Sceroni
-Merging object to master: MISC az_misc_pan_03
-Merging object to master: CELL Azura, Voath Manor
-Merging object to master: NPC_ az_Ri'Seyerrad
-Merging object to master: CONT az_o_DeRchChestPos
-Merging object to master: NPC_ az_Bog-Ku
-Merging object to master: MISC az_misc_bottleb_blue
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -72)
-Merging object to master: CELL Azura, Hammarnibi Residence
-Merging object to master: CELL Azura, Gamma Tunel's House
-Copying object to master: MISC az_Misc_QuartzVase
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Copying object to master: MISC az_Misc_ArgScoop
-Copying object to master: MISC az_Misc_ShellSandDollar03
-Merging object to master: MISC az_misc_silk_spool_full
-Merging object to master: MISC az_misc_quartz_goblet
-Merging object to master: NPC_ az_Vedril Sarethi
-Merging object to master: CELL Azura, Edrette's House
-Merging object to master: CONT az_o_Crate01OreIron
-Merging object to master: MISC az_misc_arg_bowl_3
-Merging object to master: CONT az_o_SatchelSmlPos
-Copying object to master: MISC az_Misc_OreIron
-Merging object to master: CELL Azura, Slums, Cluenelm's Shack
-Merging object to master: CELL Azura, Golam Uliran's House
-Merging object to master: LEVI az_rand_tomb
-Merging object to master: LEVI az_rand_kriin_shell
-Copying object to master: MISC az_Mus_ErhuBow
-Copying object to master: MISC az_Misc_AzCloth01Folded
-Merging object to master: MISC az_misc_paintbrush_02
-Copying object to master: MISC az_Misc_IconAzura01
-Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: CELL Dor Dalla, Guild of Mages, Magister Quarters
-Merging object to master: NPC_ az_Athyn Salms
-Merging object to master: MISC az_misc_waterskin_empty
-Merging object to master: MISC az_misc_com_weight_03
-Merging object to master: MISC az_misc_skull_vamp
-Merging object to master: MISC az_misc_shell_sanddollar_02
-Merging object to master: CELL Azura, Underworks, Vando Block 1
-Copying object to master: MISC az_Misc_SilkSpool
-Merging object to master: MISC az_misc_silk_hank
-Merging object to master: CONT az_o_UrnGreen01Pos
-Merging object to master: CONT az_o_ComMidChestPos
-Merging object to master: CELL Azura, Old Town (88, -77)
-Merging object to master: NPC_ az_Jaytrom Mennotal
-Merging object to master: CELL Dor Dalla, Guild of Mages
-Merging object to master: NPC_ az_Sishk gro-Tarmak
-Merging object to master: MISC az_misc_crystalball_01
-Merging object to master: MISC az_misc_icon_az_common
-Merging object to master: MISC az_misc_stn_plate_02
-Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
-Merging object to master: CELL AZ_Clutter
-Merging object to master: NPC_ az_Solia Dalas
-Merging object to master: MISC az_misc_pan_00
-Merging object to master: MISC az_misc_skull_orc_jaw
-Merging object to master: NPC_ az_Scummy Froestri
-Merging object to master: NPC_ az_Vadenni Ortham
-Merging object to master: MISC az_misc_dunguar_hide
-Copying object to master: MISC az_Mus_Chimes
-Merging object to master: CELL Kannika Grotto, Shack 01
-Copying object to master: MISC az_Misc_PeacockBowl
-Merging object to master: NPC_ az_Marvinna
-Copying object to master: MISC az_Misc_ClayJar01
-Merging object to master: CELL Dor Dalla, Guild of Mages, Infirmary
-Copying object to master: LEVI az_lvl_TablewareShellware
-Merging object to master: MISC az_misc_bottlet_brown
-Copying object to master: LEVI az_lvl_PosExpensiveSmall
-Merging object to master: MISC az_misc_abacus
-Merging object to master: MISC az_misc_dice
-Merging object to master: CELL Azura, Ferabi Gaddad's House
-Merging object to master: SCPT az_scr_MQ_Nep_platter
-Merging object to master: MISC az_misc_com_weight_01
-Merging object to master: NPC_ az_Frase Nuance
-Merging object to master: MISC az_misc_satchel
-Copying object to master: MISC az_Misc_ArgBowl03
-Merging object to master: CELL Azura, Baalur Fendris: Trader
-Merging object to master: MISC az_misc_PaintBottle_G
-Merging object to master: MISC az_misc_quartz_pot
-Merging object to master: CELL Azura, Solia Dalas's House
-Merging object to master: NPC_ az_Usibael Doroon
-Merging object to master: MISC az_misc_empty pot_standard
-Merging object to master: LEVI az_rand_Misc_rich
-Merging object to master: MISC az_misc_crystalball_04
-Copying object to master: LEVI az_lvl_SewingSmall
-Merging object to master: MISC az_misc_shell_sanddollar_04
-Merging object to master: CONT az_o_ShopSackShells
-Merging object to master: CELL Azura, Pike's Sundries
-Merging object to master: MISC az_misc_skull_arg_02
-Merging object to master: MISC az_misc_de_punt_skiff
-Merging object to master: NPC_ az_Ovorias Amanahaz
-Merging object to master: NPC_ az_Zetunani Starwand
-Merging object to master: MISC az_misc_paintpalette
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CELL Kannika Grotto
-Merging object to master: MISC az_misc_ship_bottle
-Merging object to master: NPC_ az_Anale Dralas
-Merging object to master: NPC_ az_Felicia Civilius
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 04
-Copying object to master: MISC az_Misc_WaterskinEmpty
-Merging object to master: MISC az_misc_shell_conch_02
-Merging object to master: NPC_ az_Folms Arvel
-Merging object to master: MISC az_misc_shell_kollop20
-Merging object to master: CONT az_o_Sack05Pos
-Merging object to master: CELL Dor Dalla, Guild of Mages, Mess Hall
-Merging object to master: CONT az_o_Crate03Pos
-Copying object to master: MISC az_Mus_DeLuteGold
-Merging object to master: MISC az_misc_clay_bowl
-Merging object to master: CONT az_o_Barrel01PosPoor
-Merging object to master: MISC az_misc_icon_az_poor
-Copying object to master: LEVI az_lvl_PosCheapAll
-Merging object to master: MISC az_misc_arg_bowl_4
-Merging object to master: CELL Azura, Royalway Apartments, Lower South-One
-Merging object to master: MISC az_junk_paper_01
-Merging object to master: MISC az_misc_pelt_redsabre
-Merging object to master: NPC_ az_Golam Uliran
-Merging object to master: MISC az_misc_bottlet_blue
-Merging object to master: MISC az_misc_stn_cup_02
-Merging object to master: CELL Azura, Zaimora Manor
-Merging object to master: NPC_ az_Llaala Sendal
-Copying object to master: MISC az_Misc_KriinScute
-Merging object to master: MISC az_misc_bard_zither
-Merging object to master: NPC_ az_Odaisal Viane
-Merging object to master: MISC az_misc_grill_02
-Merging object to master: MISC az_misc_de_lute_gold
-Merging object to master: MISC az_misc_waterskin_full
-Copying object to master: MISC az_Misc_PipeShell
-Merging object to master: NPC_ az_Bandon Istharis
-Merging object to master: MISC az_misc_bookend_stone_L
-Merging object to master: MISC az_misc_ore_iron
-Merging object to master: MISC az_misc_skull_khj_01
-Merging object to master: CELL Azura, Stars Above Apartments: Flat 03
-Merging object to master: MISC az_misc_stn_plate_04
-Merging object to master: NPC_ az_Malpo
-Copying object to master: MISC az_Misc_ShellKollop20
-Merging object to master: NPC_ az_Uralaa
-Merging object to master: NPC_ az_Giron Sendal
-Copying object to master: WEAP az_w_ToolSoulgemChisel
-Merging object to master: CELL Azura, The Turquoise Canvas
-Merging object to master: CELL AZ_Region_Thousand Isles (88, -78)
-Merging object to master: NPC_ az_Nashoura Duskruhn
-Copying object to master: MISC az_Misc_Spyglass01
-Merging object to master: CELL Lyithdonea, Eastern Lighthouse (94, -75)
-Merging object to master: MISC az_misc_de_weight_02
-Merging object to master: CELL Azura, Faest Ratha Market, Lower Level
-Merging object to master: CONT az_o_WoodCase01Pos
-Merging object to master: MISC az_misc_shaker_redware_01
-Copying object to master: MISC az_Misc_ShellKollop10
-Merging object to master: MISC az_misc_de_weight_01
-Merging object to master: MISC az_misc_bottleb_green
-Merging object to master: MISC az_misc_clay
-Merging object to master: MISC az_misc_hourglass_rich
-Merging object to master: CONT az_o_bambooCrate01Pos2
-Copying object to master: MISC az_Misc_IconAzura02
-Copying object to master: MISC az_Mus_Zither
-Merging object to master: CONT az_o_Barrel01PosRich
-Merging object to master: CELL Azura, Mona's Spell Boutique
-Merging object to master: MISC az_misc_bard_flute
-Merging object to master: CELL Azura, Kether's Fine Alchemy Shop
-Merging object to master: NPC_ az_Gutho Barandas
-Merging object to master: MISC az_misc_shell_kollop10_open
-Merging object to master: MISC az_misc_easel_painting_01
-Merging object to master: MISC az_misc_shell_sanddollar_03
-Merging object to master: MISC az_misc_brush
-Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
-Merging object to master: NPC_ az_Bailaman
-Merging object to master: NPC_ az_Kham Dredanni
-Copying object to master: MISC az_Misc_ClayBowl02
-Merging object to master: CELL Azura, Scasellis Hinder's House
-Merging object to master: CONT az_o_UrnOrnate01Pos
-Copying object to master: MISC az_Misc_AzRchBookendL
-Copying object to master: MISC az_Misc_ArgBowl04
-Merging object to master: MISC az_misc_stn_cup_01
-Copying object to master: MISC az_Misc_ArtPaintEasel01_Uni
-Merging object to master: MISC az_misc_bottle_cork
-Copying object to master: LEVI az_lvl_MusicalInstruments
-Merging object to master: CELL Bnay (84, -83)
+Copying object to master: ACTI Ex_Vivec_waterfall_05
+Copying object to master: MISC Misc_flask_grease
+Copying object to master: SCPT changeWater_-550_400
+Copying object to master: PGRD Mournhold, Pawnbroker (0, 0)
+Copying object to master: ENCH her dart_EN
+Copying object to master: CREA centurion_projectile_C
+Copying object to master: NPC_ vonos veri
+Copying object to master: SCPT Sound_MournTempleAm
+Copying object to master: PGRD Bamz-Amschend, Hall of Wails (0, 0)
+Copying object to master: ACTI Furn_shrine_Tribunal_cure_01
+Copying object to master: NPC_ ilnori_faustus
+Copying object to master: LEVC db_assassins
+Copying object to master: SCPT helsethScript
+Copying object to master: BODY A_DarkBrotherhood_Pauldron_FA
+Copying object to master: DOOR EX_MH_door_02_ignatius
+Copying object to master: ACTI act_dwe_lever_b
+Copying object to master: SCPT PlagueRat1
+Copying object to master: ARMO Indoril_MH_Guard_gauntlet_L
+Copying object to master: LTEX AI_Grass_Dirt
+Copying object to master: BOOK bk_Adren
+Copying object to master: MISC misc_com_bottle_11
+Copying object to master: GMST fWereWolfShortBlade
+Copying object to master: NPC_ Fons Beren
+Copying object to master: ARMO Helsethguard_pauldron_left
+Copying object to master: INGR ingred_durzog_meat_01
+Copying object to master: SCPT MatchMakerTimer
+Copying object to master: MISC misc_com_redware_vase
+Copying object to master: STAT light_bar5_OUT_unique
+Copying object to master: SPEL Her_Mirror_2
+Copying object to master: GMST iWereWolfFightMod
+Copying object to master: SCPT DetritusScript
+Copying object to master: SCPT tr_weathlev1
+Copying object to master: ACTI act_sotha_lever4b
+Copying object to master: STAT in_dwe_turbine00_exp
+Copying object to master: ALCH Potion_Local_Brew_01
+Copying object to master: SCPT TestMoveRock
+Copying object to master: CONT crate_02_imp_armor
+Copying object to master: WEAP adamantium_mace
+Copying object to master: CONT de_r_chest_01_dralen
+Copying object to master: SPEL Her_Mirror
+Copying object to master: WEAP longsword_umbra_unique_x
+Copying object to master: PGRD Mournhold Temple: Hall of Ministry (0, 0)
+Copying object to master: PGRD Mournhold, Royal Palace: Reception Area (0, 0)
+Copying object to master: SCPT trapProjScript
+Copying object to master: SCPT LorkhanHeart
+Copying object to master: ARMO helm_bearclaw_unique_x
+Copying object to master: FACT Dark Brotherhood
+Copying object to master: STAT In_M_sewer_ramp
+Copying object to master: NPC_ drathas nerus
+Copying object to master: STAT EX_MH_wall_01
+Copying object to master: SCPT MuseumDragonBone
+Copying object to master: CONT de_r_chest_01_Drusus
+Copying object to master: ACTI teleport_enabler
+Copying object to master: STAT in_sotha_lab_panel00
+Copying object to master: STAT in_moldcave_08
+Copying object to master: DOOR door_sotha_mach_door
+Copying object to master: CELL Ald-ruhn, Arobar Manor Bedrooms
+Copying object to master: FACT Royal Guard
+Copying object to master: STAT in_sotha_gear03
+Copying object to master: ACTI Ex_gg_particles_01_bbot1
+Copying object to master: STAT Ex_MH_Palacewin_02
+Copying object to master: BOOK bk_Anticipations
+Copying object to master: CELL Sotha Sil, Outer Flooded Halls
+Copying object to master: NPC_ melur savil
+Copying object to master: STAT in_MH_3way_01
+Copying object to master: STAT ex_gg_fence_01_bbot
+Copying object to master: BODY C_M_Pants_Common_6_K
+Copying object to master: WEAP Bipolar Blade_x
+Copying object to master: ENCH almalexia's blessing_en
+Copying object to master: CELL Ebonheart (1, -13)
+Copying object to master: SOUN FabBossHit
+Copying object to master: SOUN lich lord roar
+Copying object to master: STAT in_moldcave_15
+Copying object to master: NPC_ db_assassin4
+Copying object to master: SCPT replenishammoShock
+Copying object to master: STAT in_MH_int_column_01
+Copying object to master: ACTI Sound_pipebreak
+Copying object to master: CREA centurion_sphere_summon
+Copying object to master: DOOR EX_MH_temple_door_01_ch
+Copying object to master: SCPT karrodguardScript
+Copying object to master: SCPT packrat
+Copying object to master: BOOK bk_tamrielicreligions
+Copying object to master: ACTI Sound_Rocks00
+Copying object to master: NPC_ barenziah
+Copying object to master: CREA golden saint_velas2
+Copying object to master: CREA fabricant_verm_attack
+Copying object to master: ARMO towershield_eleidon_unique
+Copying object to master: SNDG durzog_wild0007
+Copying object to master: CONT chest_01_v_potion_h_04
+Copying object to master: LTEX AI_Grass_Cobbles
+Copying object to master: BOOK book_dwe_cogs00
+Copying object to master: INGR Ingred_meadow_rye_01
+Copying object to master: STAT EX_MH_building_09
+Copying object to master: BODY A_AlmIndoril_Cuirass
+Copying object to master: CONT de_r_chest_01_mcloth4
+Copying object to master: SCPT MuseumRingVampiric
+Copying object to master: SCPT Sound_SothaAmbient
+Copying object to master: ACTI active_6th_bell_01
+Copying object to master: ARMO bonemold_helm
+Copying object to master: CELL Old Mournhold: Temple Sewers
+Copying object to master: STAT EX_MH_building_10
+Copying object to master: WEAP silver staff
+Copying object to master: LEVI random_cabbage
+Copying object to master: BODY A_AlmIndoril_boots
+Copying object to master: ACTI act_flora_tree_MH_01
+Copying object to master: DOOR ex_velothicave_door_01
+Copying object to master: CELL Mournhold, Llethan Manor
+Copying object to master: CONT chest_small_02_silverwa
+Copying object to master: STAT Furn_Planter_MH_05
+Copying object to master: STAT in_moldcave2_s_00
+Copying object to master: LEVC in_tomb_all_lev_trib
+Copying object to master: ACTI act_sotha_lever6b
+Copying object to master: CELL Old Mournhold: Forgotten Sewer
+Copying object to master: LIGH yellow_256_pulse
+Copying object to master: SOUN MournGatesClose
+Copying object to master: CONT crate_01
+Copying object to master: STAT in_OM_connect_01
+Copying object to master: DOOR ex_nord_door_01_ignatius1
+Copying object to master: NPC_ Ervis Verano
+Copying object to master: SNDG lich0005
+Copying object to master: ACTI act_sotha_lever6a
+Copying object to master: ACTI act_sotha_monster2
+Copying object to master: CELL West Gash Region (-16, 8)
+Copying object to master: SCPT fab_attack_enable
+Copying object to master: CREA scrib
+Copying object to master: STAT in_sotha_mon_mach
+Copying object to master: NPC_ denegor
+Copying object to master: NPC_ hels_assassin3
+Copying object to master: STAT EX_MH_building_08
+Copying object to master: ACTI act_plague_starter
+Copying object to master: NPC_ Calvus Horatius
+Copying object to master: STAT Ex_MH_Temple
+Copying object to master: STAT in_moldcave_21_1
+Copying object to master: BODY C_M_Helseth_Robe
+Copying object to master: NPC_ Drusus Gratus
+Copying object to master: STAT ex_de_shack_steps
+Copying object to master: GMST sCompanionWarningButtonTwo
+Copying object to master: STAT in_sotha_plank_oil00
+Copying object to master: ACTI act_sotha_mach_door2
+Copying object to master: DOOR Ex_MH_sewer_trapdoor_01
+Copying object to master: STAT EX_MH_road_01
+Copying object to master: BODY shield_goblin
+Copying object to master: CELL Mournhold, Geon Auline's House
+Copying object to master: BODY C_M_Shirt_Mournhold_F
+Copying object to master: PGRD Old Mournhold: Battlefield (0, 0)
+Copying object to master: ENCH her left pauldron_EN
+Copying object to master: MISC misc_de_pot_blue_02
+Copying object to master: ARMO dwemer_shield_battle_unique
+Copying object to master: NPC_ Ravani Llethan
+Copying object to master: ARMO Indoril_Almalexia_gauntlet_L
+Copying object to master: GMST fWereWolfSpear
+Copying object to master: SPEL prox_mine_fire
+Copying object to master: SOUN fabVermMoan
+Copying object to master: NPC_ Bels Uvenim
+Copying object to master: PGRD Sotha Sil, Central Gearworks (0, 0)
+Copying object to master: BODY A_AlmIndoril_gauntlets
+Copying object to master: SCPT MuseumBootsTenPace
+Copying object to master: CREA centurion_spider_bbot1
+Copying object to master: ARMO DarkBrotherhood gauntlet_L
+Copying object to master: ACTI Ex_MH_Pav_BStatue_08
+Copying object to master: ACTI In_moldboulder01_UNI
+Copying object to master: GLOB MuseumDonations
+Copying object to master: ACTI in_m_sewer_drain_UNI
+Copying object to master: STAT in_m_sewer_hall_02
+Copying object to master: NPC_ Gee-Pop Varis
+Copying object to master: PGRD Old Mournhold: Temple Sewers West (0, 0)
+Copying object to master: BODY a_adamantium_boot_a
+Copying object to master: MISC misc_uni_pillow_01
+Copying object to master: MISC key_Indalen
+Copying object to master: SCPT fab_attack_enable2
+Copying object to master: SNDG durzog_war0005
+Copying object to master: STAT in_sotha_corr2_00
+Copying object to master: SCPT explosion_pushout
+Copying object to master: GMST fWereWolfMerchantile
+Copying object to master: SCPT SothaImperfectDoor
+Copying object to master: STAT In_root_stairs
+Copying object to master: CELL Mournhold, Pawnbroker
+Copying object to master: NPC_ Shunari Eye-Fly
+Copying object to master: CONT chest_small_02_gold_25
+Copying object to master: ACTI Script_IgnBBot2
+Copying object to master: ACTI act_dwe_gyro00
+Copying object to master: CONT de_r_chest_01_gold1
+Copying object to master: GLOB MatchMakeSwitch
+Copying object to master: PGRD Sotha Sil, Dome of Kasia (0, 0)
+Copying object to master: ARMO trollbone_helm
+Copying object to master: GMST sWerewolfPopup
+Copying object to master: SOUN goblin large moan
+Copying object to master: ACTI Ex_gg_particles_01_bbot2
+Copying object to master: SCPT PlagueRock2
+Copying object to master: NPC_ dandras vules
+Copying object to master: PGRD Mournhold, Plaza Brindisi Dorom (0, 0)
+Copying object to master: SOUN lich lord scream
+Copying object to master: SCPT IgnatiusScript
+Copying object to master: ACTI act_dwe_cavein00
+Copying object to master: SOUN fabVermScream
+Copying object to master: ARMO bonemold_boots
+Copying object to master: ARMO cuirass_savior_unique_x
+Copying object to master: SCPT MuseumSpellBreaker
+Copying object to master: SCPT dbcontractScript
+Copying object to master: DOOR in_redoran_hut_door_01
+Copying object to master: ACTI act_sotha_gear02
+Copying object to master: CELL Old Mournhold: Palace Sewers
+Copying object to master: CLOT common_skirt_07
+Copying object to master: SCPT Warlord_aScript
+Copying object to master: ACTI act_sotha_pre_door8
+Copying object to master: SOUN FabHulkLeft
+Copying object to master: STAT Flora_grass_05
+Copying object to master: STAT In_OM_rubble_Sm
+Copying object to master: STAT in_sotha_bladeroom
+Copying object to master: GMST sProfitValue
+Copying object to master: WEAP staff_hasedoki_unique_x
+Copying object to master: BOOK bk_LivesOfTheSaints
+Copying object to master: GMST sNeedOneSkill
+Copying object to master: SCPT bladefixScript
+Copying object to master: BODY C_M_Pants_Common_7_K
+Copying object to master: NPC_ Suldreni Salandas
+Copying object to master: LIGH Blue Candle Bulb_177
+Copying object to master: STAT furn_de_pathspear_04_uni1
+Copying object to master: LTEX RM_grayrock
+Copying object to master: GMST sLoadingMessage3
+Copying object to master: STAT furn_de_pathspear_04_uni2
+Copying object to master: CREA slaughterfish
+Copying object to master: SCPT denegorScript
+Copying object to master: CREA ancestor_ghost_summon
+Copying object to master: CLOT mazed_band
+Copying object to master: CLOT robe_lich_unique_x
+Copying object to master: DOOR ex_t_door_sphere_01
+Copying object to master: WEAP daedric warhammer_ttgd_x
+Copying object to master: GLOB MournholdAttack
+Copying object to master: BOOK bk_Irano_note
+Copying object to master: BODY C_M_Shirt_Common_6_C
+Copying object to master: DOOR In_MH_door_02_bar3_uni
+Copying object to master: CELL Wilderness (-15, -8)
+Copying object to master: SCPT sothasteam1Script
+Copying object to master: STAT EX_MH_bar_01
+Copying object to master: DOOR in_impsmall_d_cave_01
+Copying object to master: STAT Ex_MH_bazaar_planter_02
+Copying object to master: NPC_ rerlas mon
+Copying object to master: SPEL almalexia's blessing
+Copying object to master: MISC bladepiece_03
+Copying object to master: STAT Ex_MH_Pavillion_Wall_W
+Copying object to master: ACTI In_moldrock06_UNI
+Copying object to master: SNDG goblin_grunt0006
+Copying object to master: ACTI act_sotha_pre_door1
+Copying object to master: NPC_ Sanaso Sarothran
+Copying object to master: BODY A_Adamantium_Pauldron_FA
+Copying object to master: SCPT powerboxScript
+Copying object to master: STAT furn_de_tapestry_10
+Copying object to master: GMST sNeedTwoSkills
+Copying object to master: NPC_ Sendel Tedas
+Copying object to master: STAT in_dwe_hall00_exp
+Copying object to master: STAT light_bar7_OUT_unique
+Copying object to master: MISC misc_de_bowl_white_01
+Copying object to master: DOOR Ex_De_SN_Gate
+Copying object to master: SPEL grace of almsivi
+Copying object to master: MISC misc_clothbolt_02_uni
+Copying object to master: SOUN Gate Large Locked
+Copying object to master: SCPT fab_cent_fight_watch
+Copying object to master: STAT ex_hlaalu_fb_01
+Copying object to master: LIGH blue water ref 256
+Copying object to master: ACTI Ex_MH_city_gate
+Copying object to master: PGRD Old Mournhold: Teran Hall (0, 0)
+Copying object to master: ARMO Helsethguard_Helmet
+Copying object to master: STAT in_moldcave_00
+Copying object to master: LIGH light_com_torch_burnedout_UNI
+Copying object to master: SOUN SothaFabMachine
+Copying object to master: SCPT MuseumStaffMagnus
+Copying object to master: ARMO Indoril_MH_Guard_boots
+Copying object to master: STAT in_dwrv_corr1_00
+Copying object to master: BOOK bk_playscript
+Copying object to master: GMST sEffectSummonCreature01
+Copying object to master: GLOB Droth_var
+Copying object to master: SPEL rotbone
+Copying object to master: BODY C_M_Pants_Common_7_G
+Copying object to master: MISC key_dwe_satchel00
+Copying object to master: NPC_ Guard_Helseth_attack
+Copying object to master: SOUN MournDayAmb
+Copying object to master: PGRD Sotha Sil, Outer Flooded Halls (0, 0)
+Copying object to master: STAT in_moldcave_02
+Copying object to master: GMST fWereWolfSneak
+Copying object to master: BOOK bk_AnnotatedAnuad
+Copying object to master: CONT crate_02_steel_armor
+Copying object to master: MISC Misc_Potion_Cheap_01
+Copying object to master: ENCH almalexia_blade
+Copying object to master: PGRD Old Mournhold: Gedna Relvel's Tomb (0, 0)
+Copying object to master: GMST fWereWolfSpeed
+Copying object to master: CREA scrib_rerlas
+Copying object to master: STAT in_m_sewer_cistern_01
+Copying object to master: CREA fabricant_hulking
+Copying object to master: ARMO DarkBrotherhood Boots
+Copying object to master: STAT in_dwe_slate09
+Copying object to master: STAT Ex_MH_Pav_Land_E
+Copying object to master: STAT in_dwe_slate01
+Copying object to master: BOOK bk_ConsolationsOfPrayer
+Copying object to master: STAT in_MH_int_corner_01
+Copying object to master: SCPT dulniScript
+Copying object to master: CONT contain_corpse_Teran
+Copying object to master: SCPT fab_attack_highord
+Copying object to master: LIGH Light_MH_streetlamp_01
+Copying object to master: SCPT fab_attack_1
+Copying object to master: BODY A_ImperialChain _C_female
+Copying object to master: ARMO fur_helm
+Copying object to master: GLOB PCGold
+Copying object to master: ACTI a_light_dw_neon
+Copying object to master: INGR Ingred_scrib_cabbage_01
+Copying object to master: NPC_ Black Dart Malar
+Copying object to master: SCPT goblinchiefScript1
+Copying object to master: LIGH light_bar2_unique
+Copying object to master: STAT Ex_MH_Palace_Courtyard
+Copying object to master: NPC_ gavis velas
+Copying object to master: SCPT Collide_damage_kill
+Copying object to master: PGRD Mournhold, Royal Palace: Basement (0, 0)
+Copying object to master: NPC_ Soscean
+Copying object to master: ACTI Inviso_wall_4
+Copying object to master: CREA ancestor_guardian_fgdd
+Copying object to master: BOOK bk_AncestorsAndTheDunmer
+Copying object to master: SOUN SothaBlade
+Copying object to master: DOOR door_sotha_imp_door
+Copying object to master: STAT in_sotha_pre_arch00
+Copying object to master: ACTI act_sotha_lever2b
+Copying object to master: SCPT BolsIndalen
+Copying object to master: STAT In_OM_column16
+Copying object to master: DOOR In_MH_door_02_hels_uni
+Copying object to master: CELL Mournhold, Royal Palace: Imperial Cult Services
+Copying object to master: SCPT Sound_MournEnv
+Copying object to master: STAT in_dwe_hall_wall00_exp
+Copying object to master: STAT light_bar8_OUT_unique
+Copying object to master: STAT furn_shrinedead_01
+Copying object to master: LEVI goblin_weapons_random
+Copying object to master: CREA centurion_steam_bbot8
+Copying object to master: CREA fabricant_hulking_ss
+Copying object to master: ARMO DarkBrotherhood pauldron_L
+Copying object to master: WEAP King's_Oath
+Copying object to master: ACTI act_sotha_green10
+Copying object to master: GMST sMagicCreature03ID
+Copying object to master: NPC_ mehra drora
+Copying object to master: NPC_ savor hlan
+Copying object to master: GMST fNPCHealthBarFade
+Copying object to master: REGN Mournhold Region
+Copying object to master: SOUN sludgeworm left
+Copying object to master: DOOR ex_r_pcfort_d_02
+Copying object to master: ENCH King's_Oath_EN
+Copying object to master: INGR Ingred_sweetpulp_01
+Copying object to master: ACTI prox_proj_mine
+Copying object to master: STAT Ex_MH_Pavillion_Gate
+Copying object to master: CONT de_r_chest_01_Diradeni2
+Copying object to master: ACTI Furn_shrine_Veloth_cure_01
+Copying object to master: SCPT BILL_MT_redeem_writs
+Copying object to master: STAT ex_ship_plank
+Copying object to master: CELL Sotha Sil, Chamber of Sohleh
+Copying object to master: CELL Sotha Sil, Dome of Serlyn
+Copying object to master: SCPT highPocketsScript
+Copying object to master: ARMO fur_pauldron_right
+Copying object to master: SCPT MuseumMaceMolagBal
+Copying object to master: STAT in_sotha_oilcan00
+Copying object to master: PGRD Mournhold, Royal Palace: Guards' Quarters (0, 0)
+Copying object to master: STAT in_moldcave_09
+Copying object to master: ACTI furn_dwrv_beltdrive
+Copying object to master: SOUN cent proj shoot
+Copying object to master: SPEL relvel_shield
+Copying object to master: SCPT Sotha_SothaSil
+Copying object to master: DOOR Ex_imp_loaddoor_02
+Copying object to master: WEAP silver dagger_droth_unique
+Copying object to master: CREA golden saint_velas1
+Copying object to master: BODY A_HelsethGuard_FA
+Copying object to master: STAT in_lava_rock_07
+Copying object to master: ACTI Column_Cast
+Copying object to master: NPC_ ignatius_flaccus2
+Copying object to master: SCPT audienceScript1
+Copying object to master: SCPT galmsScript
+Copying object to master: CREA centurion_fire_dead
+Copying object to master: STAT In_OM_platform
+Copying object to master: ALCH hulking_fabricant_elixir
+Copying object to master: CONT de_r_chest_01_aren
+Copying object to master: CELL Bitter Coast Region (-14, 2)
+Copying object to master: SCPT MuseumBootsBlinding
+Copying object to master: CREA centurion_sphere_bbot1
+Copying object to master: SCPT sothasteam2Script
+Copying object to master: GLOB KarrodFightStart
+Copying object to master: MISC misc_dwrv_weather2
+Copying object to master: GLOB DaysPassed
+Copying object to master: MISC misc_imp_silverware_pitcher_uni
+Copying object to master: ARMO iron_helmet
+Copying object to master: DOOR ex_v_palace_grate_01
+Copying object to master: BODY A_AlmIndoril_Greave_K
+Copying object to master: BODY C_M_Pants_Mournhold_A
+Copying object to master: ACTI Sotha Alma Appear Effect
+Copying object to master: GMST fWereWolfLuck
+Copying object to master: BODY B_N_Dark Elf_F_Barenziah
+Copying object to master: CELL Bitter Coast Region (-12, 2)
+Copying object to master: ACTI Furn_De_Bar_04
+Copying object to master: PGRD Mournhold, Great Bazaar (0, 0)
+Copying object to master: BODY C_M_Shirt_Common_7_W
+Copying object to master: DOOR in_hlaalu_door
+Copying object to master: CONT rock_adam_py14
+Copying object to master: ACTI Column_Cast5
+Copying object to master: SNDG goblin_warchief10004
+Copying object to master: CELL Mournhold, Trader
+Copying object to master: SNDG Almalexia_warrior0006
+Copying object to master: BODY A_AlmIndoril_Pauldron_FA
+Copying object to master: CONT de_r_chest_01_Diradeni
+Copying object to master: CREA fabricant_summon
+Copying object to master: WEAP fine black dart
+Copying object to master: STAT EX_MH_bazaar_bridge
+Copying object to master: SCPT TribunalMain
+Copying object to master: GMST sDeleteNote
+Copying object to master: CREA golden saint_staada
+Copying object to master: STAT in_MH_palacewin_01
+Copying object to master: NPC_ Crito Olcinius
+Copying object to master: CELL Old Mournhold: Residential Ruins
+Copying object to master: ACTI act_sotha_dicer
+Copying object to master: ARMO DarkBrotherhood greaves
+Copying object to master: CELL Sotha Sil, Dome of Udok
+Copying object to master: SPEL resist paralysis_50
+Copying object to master: STAT Ex_MH_Palace_Tower
+Copying object to master: SSCR 67322826825112137
+Copying object to master: CELL Norenen-dur, The Wailingdelve
+Copying object to master: GLOB karrodBribe
+Copying object to master: ACTI alma talker
+Copying object to master: STAT in_t_council_beams_02
+Copying object to master: STAT in_dwe_slate11
+Copying object to master: SCPT drowned
+Copying object to master: SOUN Dwemer Fan
+Copying object to master: ARMO chitin boots
+Copying object to master: SCPT EndGame
+Copying object to master: GMST fWereWolfSilverWeaponDamageMult
+Copying object to master: STAT in_moldcave_21
+Copying object to master: NPC_ drofarahn
+Copying object to master: WEAP ebony arrow_sadri
+Copying object to master: CLOT robe_lich_unique
+Copying object to master: GMST s3dSoftware
+Copying object to master: BOOK bookskill_speechcraft2
+Copying object to master: MISC ashes_Dwemer
+Copying object to master: LIGH Light_sotha_fire_unique2
+Copying object to master: CREA winged twilight_summon
+Copying object to master: BOOK book_dwe_mach00
+Copying object to master: NPC_ db_assassin1c
+Copying object to master: CONT com_chest_02_v_sosia
+Copying object to master: SCPT GaenorScript
+Copying object to master: SCPT alusannahScript
+Copying object to master: CREA fabricant_hulking_C
+Copying object to master: ACTI active_chimney_smoke02_ovis2
+Copying object to master: SCPT Sound_Water_break
+Copying object to master: WEAP silver dagger_iryon_unique
+Copying object to master: SCPT gateSound
+Copying object to master: BODY A_HelsethGuard_UL
+Copying object to master: ARMO Helsethguard_greaves
+Copying object to master: ARMO netch_leather_gauntlet_left
+Copying object to master: DOOR ex_nord_door_01-back
+Copying object to master: STAT in_dwe_slate10
+Copying object to master: SCPT ThendasTravel
+Copying object to master: STAT in_m_sewer_cap_01
+Copying object to master: SCPT TherdonScript
+Copying object to master: INGR ingred_adamantium_ore_01
+Copying object to master: CELL Mournhold, Bookseller
+Copying object to master: CELL Mournhold Temple: Office of the Lord Archcanon
+Copying object to master: ACTI In_OM_waterfall
+Copying object to master: STAT in_sotha_pre2_00
+Copying object to master: SOUN CrowdBoo
+Copying object to master: MISC key_trib_dwe01
+Copying object to master: STAT Furn_Planter_MH_02
+Copying object to master: SCPT OvisScript
+Copying object to master: DOOR Velothi_Sewer_Door
+Copying object to master: ACTI act_sotha_spikes
+Copying object to master: ARMO adamantium_cuirass
+Copying object to master: DOOR ex_emp_tower_01_b
+Copying object to master: SCPT MuseumHelmBloodworm
+Copying object to master: SNDG Imperfect0007
+Copying object to master: BOOK bk_HouseOfTroubles_c
+Copying object to master: STAT In_OM_3way_01
+Copying object to master: SCPT PlagueNerile
+Copying object to master: PGRD Old Mournhold: Temple Shrine (0, 0)
+Copying object to master: SCPT Museum
+Copying object to master: SCPT IlnoriScript
+Copying object to master: STAT EX_MH_building_05
+Copying object to master: ACTI act_sotha_lever2a
+Copying object to master: BODY a_adamantium_bracer_w
+Copying object to master: CONT chest_01_v_potion_al_04
+Copying object to master: ACTI Sound_Sotha_Roll
+Copying object to master: ACTI Column_Cast2
+Copying object to master: ACTI Inviso_wall_2
+Copying object to master: CELL Mournhold Temple: Infirmary
+Copying object to master: PGRD Norenen-dur, The Teeth that Gnash (0, 0)
+Copying object to master: SOUN FabBossAlive
+Copying object to master: BODY A_DarkBrotherhood_Pauldron_UA
+Copying object to master: MISC misc_de_goblet_02
+Copying object to master: SOUN fabVermRight
+Copying object to master: GMST fWereWolfHandtoHand
+Copying object to master: CLOT common_robe_EOT
+Copying object to master: ACTI act_black_load01
+Copying object to master: PGRD Bamz-Amschend, Radac's Forge (0, 0)
+Copying object to master: ACTI in_sotha_sil00
+Copying object to master: PGRD Mournhold, Royal Palace: Courtyard (0, 0)
+Copying object to master: GMST fWereWolfSpeechcraft
+Copying object to master: CONT rock_adam_mold21
+Copying object to master: INGR Ingred_timsa-come-by_01
+Copying object to master: ACTI Inviso_wall
+Copying object to master: DOOR Ex_De_Shack_Door
+Copying object to master: PGRD Mournhold, Vacant Manor (0, 0)
+Copying object to master: ACTI act_sotha_lever4a
+Copying object to master: ACTI act_sotha_tenderizer
+Copying object to master: ARMO Indoril_Almalexia_boots
+Copying object to master: CREA Rat_plague_hall1a
+Copying object to master: ACTI act_black_load00
+Copying object to master: SNDG goblin_warchief20004
+Copying object to master: SNDG goblin_footsoldier0005
+Copying object to master: SCPT mazedbandEnd_Script
+Copying object to master: STAT in_moldcave_lroom4_01
+Copying object to master: WEAP carmine dart
+Copying object to master: SNDG DEFAULT0005
+Copying object to master: SNDG Almalexia_warrior0007
+Copying object to master: STAT In_OM_Arch03
+Copying object to master: NPC_ arnas therethi
+Copying object to master: SCPT MuseumMaceSlurring
+Copying object to master: NPC_ player
+Copying object to master: ACTI Inviso_wall_7
+Copying object to master: DOOR EX_MH_door_02_velas
+Copying object to master: STAT in_moldcave_26
+Copying object to master: STAT In_OM_rubble01
+Copying object to master: CREA bonelord_summon
+Copying object to master: PGRD Old Mournhold: Temple Gardens (0, 0)
+Copying object to master: PGRD Old Mournhold: Abandoned Passageway (0, 0)
+Copying object to master: ACTI chimney_smoke_small_velas5
+Copying object to master: CREA dwarven ghost_radac
+Copying object to master: WEAP dire viperarrow
+Copying object to master: DOOR ex_de_ship_trapdoor
+Copying object to master: PGRD Sotha Sil, Dome of Sotha Sil (0, 0)
+Copying object to master: SPEL her_tamed_lightning
+Copying object to master: CELL Sotha Sil, Hall of Theuda
+Copying object to master: NPC_ Ekkhi
+Copying object to master: SPEL her_ironskin
+Copying object to master: SCPT drownOnExit
+Copying object to master: PGRD Sotha Sil, Hall of Theuda (0, 0)
+Copying object to master: DOOR In_DB_door01
+Copying object to master: ACTI act_sotha_steam10
+Copying object to master: SCPT reeh_jahScript
+Copying object to master: GMST fWereWolfAthletics
+Copying object to master: WEAP goblin_club
+Copying object to master: NPC_ detritus caria
+Copying object to master: STAT in_MH_int_wall_01
+Copying object to master: CELL Mournhold Temple: Reception Area
+Copying object to master: SCPT SadriTadera
+Copying object to master: STAT In_OM_column08
+Copying object to master: BODY C_M_Pants_Mournhold_UL
+Copying object to master: CELL Old Mournhold: City Gate
+Copying object to master: BODY A_HelsethGuard_A
+Copying object to master: MISC misc_com_bottle_02
+Copying object to master: WEAP staff_magnus_unique_x
+Copying object to master: LEVI goblin_health
+Copying object to master: SNDG fabricant_hulking0006
+Copying object to master: ARMO Indoril_Almalexia_gauntlet_R
+Copying object to master: ARMO spell_breaker_unique_x
+Copying object to master: CONT flora_sedge_01
+Copying object to master: WEAP longsword_umbra_unique
+Copying object to master: SCPT dbHideoutScript
+Copying object to master: BOOK book_dwe_power_con00
+Copying object to master: PGRD Mournhold, Royal Palace: Helseth's Chambers (0, 0)
+Copying object to master: ARMO Indoril_Almalexia_Cuirass
+Copying object to master: CREA centurion_spider
+Copying object to master: ACTI steam_lavariver
+Copying object to master: NPC_ Tadera Andules
+Copying object to master: BODY C_M_Shirt_Common_6_W
+Copying object to master: SCPT cryptboulderScript
+Copying object to master: ARMO adamantium_greaves
+Copying object to master: SNDG durzog_war0001
+Copying object to master: LIGH light_bar6_unique
+Copying object to master: SCPT MuseumEleidonsward
+Copying object to master: SCPT PlagueRock1
+Copying object to master: SPEL proj_trap_spell
+Copying object to master: STAT furn_de_rug_big_06
+Copying object to master: CREA centurion_steam
+Copying object to master: CLOT amulet of verbosity
+Copying object to master: ARMO bonemold_cuirass
+Copying object to master: SCPT mitanneScript
+Copying object to master: BODY shield_indoril_almalexia
+Copying object to master: GMST sTeleportDisabled
+Copying object to master: SCPT sothalightScript
+Copying object to master: STAT In_OM_platform_S
+Copying object to master: SCPT MuseumLordsMail
+Copying object to master: STAT In_OM_Arch01
+Copying object to master: CLOT amulet_salandas
+Copying object to master: CONT com_chest_02_v_trader02
+Copying object to master: NPC_ Golena Sadri
+Copying object to master: NPC_ Trels Varis
+Copying object to master: PGRD Sotha Sil, Inner Flooded Halls (0, 0)
+Copying object to master: ENCH axe_elanande_en
+Copying object to master: SCPT Sound_Power_Thrum
+Copying object to master: BODY A_DarkBrotherhood_gauntlet
+Copying object to master: CREA bonewalker_summon
+Copying object to master: SOUN SothaBladeRoll
+Copying object to master: SCPT WarlordOren
+Copying object to master: WEAP iron mace
+Copying object to master: BODY B_N_Dark Elf_M_HelsethHair
+Copying object to master: WEAP ebony dart_db_unique
+Copying object to master: MISC key_Bols
+Copying object to master: STAT Active_MH_Forcefield_03
+Copying object to master: CELL Bamz-Amschend, Hearthfire Hall
+Copying object to master: ACTI Ex_MH_Pav_Water_Spray
+Copying object to master: PGRD Old Mournhold: Moril Manor, East Building (0, 0)
+Copying object to master: SOUN sludgeworm moan
+Copying object to master: WEAP silver spear_uvenim
+Copying object to master: CLOT Expensive_shirt_Mournhold
+Copying object to master: SCPT MuseumAurielBow
+Copying object to master: WEAP steel mace
+Copying object to master: DOOR hlaalu_loaddoor_ 02
+Copying object to master: STAT In_OM_column02
+Copying object to master: CELL Bamz-Amschend, Passage of Whispers
+Copying object to master: CELL Clutter Warehouse - Everything Must Go!
+Copying object to master: MISC Key_Gatekeeper
+Copying object to master: CONT rock_adam_py09
+Copying object to master: PGRD Bamz-Amschend, Hall of Winds (0, 0)
+Copying object to master: SCPT fab_cent_attack
+Copying object to master: SOUN fabVermLeft
+Copying object to master: SCPT TherdonCellCheck
+Copying object to master: BODY A_AlmIndoril_Pauldron_CL
+Copying object to master: NPC_ meryn othralas
+Copying object to master: CLOT common_shirt_07
+Copying object to master: CELL Mournhold, Royal Palace: Courtyard
+Copying object to master: LIGH sewers
+Copying object to master: STAT in_sotha_corr1
+Copying object to master: LTEX AI_Grass_02
+Copying object to master: STAT in_MH_window_01
+Copying object to master: WEAP silver war axe
+Copying object to master: CONT rock_adam_py13
+Copying object to master: STAT light_bar2_OUT_unique
+Copying object to master: STAT In_OM_wallruin01
+Copying object to master: ARMO chitin greaves
+Copying object to master: STAT in_MH_wall_01_sadri
+Copying object to master: CELL Old Mournhold: Battlefield
+Copying object to master: SNDG durzog_diseased0000
+Copying object to master: DOOR Indalen_closet_door
+Copying object to master: SCPT PlagueHallRat1a
+Copying object to master: ACTI a_furn_de_table_8
+Copying object to master: STAT Furn_Planter_MH_04
+Copying object to master: WEAP adamantium_claymore
+Copying object to master: WEAP silver dagger_droth_unique_a
+Copying object to master: CELL Bitter Coast Region (-14, 5)
+Copying object to master: STAT Ex_MH_Pav_Walk_S
+Copying object to master: CELL Bthuand
+Copying object to master: CONT chest_small_02_ingredie
+Copying object to master: STAT Ex_MH_Palace_Tower02
+Copying object to master: BODY A_HelsethGuard_G
+Copying object to master: GMST sCompanionWarningButtonOne
+Copying object to master: CONT de_r_chest_01_Ervis
+Copying object to master: PGRD Mournhold, Royal Palace: Barenziah's Chambers (0, 0)
+Copying object to master: STAT EX_MH_building_01
+Copying object to master: SCPT Collide_damage_100
+Copying object to master: ACTI Inviso_wall_8
+Copying object to master: BODY C_M_Shirt_Mournhold_W
+Copying object to master: DOOR Ex_MH_Door_01
+Copying object to master: CELL Sotha Sil, Dome of Sotha Sil
+Copying object to master: GMST fWereWolfMagicka
+Copying object to master: ACTI Ex_MH_Pav_BStatue_09
+Copying object to master: SCPT GetPCGold
+Copying object to master: STAT Active_MH_Forcefield_05
+Copying object to master: SCPT AhniaDead
+Copying object to master: GLOB PlagueStage
+Copying object to master: CLOT common_shoes_07
+Copying object to master: CLAS Caretaker
+Copying object to master: PGRD Mournhold, Royal Palace: Legion Depot (0, 0)
+Copying object to master: SNDG alit0006
+Copying object to master: LTEX RM_rock_01
+Copying object to master: STAT In_OM_column04
+Copying object to master: SPEL almalexia's wrath
+Copying object to master: CREA lich_profane_unique
+Copying object to master: SOUN cent proj moan
+Copying object to master: NPC_ gureryne selvilo
+Copying object to master: STAT Flora_tree_MH_01
+Copying object to master: BOOK bk_bartendersguide
+Copying object to master: GLOB ShrineCleanse
+Copying object to master: CREA ancestor_ghost_Variner
+Copying object to master: CONT chest_small_01_gold_05
+Copying object to master: SOUN cent proj scream
+Copying object to master: CREA Bonewalker_Greater_summ
+Copying object to master: STAT In_OM_column14
+Copying object to master: CELL Mournhold, Andoren Manor
+Copying object to master: CELL Old Mournhold: Armory Ruins
+Copying object to master: CELL Old Mournhold: Temple Gardens
+Copying object to master: STAT In_DB_front01
+Copying object to master: SNDG centurion_projectile0004
+Copying object to master: DOOR In_MH_door_02_play
+Copying object to master: STAT In_OM_walkway
+Copying object to master: NPC_ Dirver Relas
+Copying object to master: ENCH cuirass_soscean_en
+Copying object to master: STAT in_MH_int_rail_01
+Copying object to master: CONT chest_small_02_gold_05
+Copying object to master: PGRD Mournhold, Bookseller (0, 0)
+Copying object to master: SCPT PlagueWarning
+Copying object to master: ARMO silver_helm_uvenim
+Copying object to master: SCPT Sound_Rock_Crumble
+Copying object to master: STAT ex_dae_ruin_platform_01
+Copying object to master: SCPT MatchMakeGoval
+Copying object to master: SCPT SothaLever6
+Copying object to master: CONT rock_adam_py10
+Copying object to master: ARMO imperial_chain_greaves
+Copying object to master: SCPT dravilScript
+Copying object to master: CELL Dagoth Ur, Facility Cavern
+Copying object to master: CONT flora_plant_07
+Copying object to master: NPC_ Tienius Delitian
+Copying object to master: ENCH nerevar_blade
+Copying object to master: LTEX AI_Grass_Rocky
+Copying object to master: GMST fWereWolfMysticism
+Copying object to master: ACTI act_plague_rock2
+Copying object to master: ACTI act_sotha_gear00
+Copying object to master: CLOT expensive_skirt_04
+Copying object to master: CREA scamp_summon
+Copying object to master: PGRD Mournhold, Ignatius Flaccus' House (0, 0)
+Copying object to master: BODY C_shoes_Mournhold
+Copying object to master: SCPT MuseumIceblade
+Copying object to master: STAT in_m_sewer_drain_01
+Copying object to master: GMST fWereWolfEndurance
+Copying object to master: BOOK bk_ChroniclesNchuleft
+Copying object to master: NPC_ Narisa Adus
+Copying object to master: ACTI active_6th_bell_04
+Copying object to master: STAT in_MH_doorjamb_02
+Copying object to master: BODY A_AlmIndoril_Helmet
+Copying object to master: PGRD Bamz-Amschend, King's Walk (0, 0)
+Copying object to master: SNDG Almalexia_warrior0004
+Copying object to master: ARMO steel_cuirass
+Copying object to master: GMST sCompanionShare
+Copying object to master: SCPT playScript
+Copying object to master: STAT In_OM_Aquaduct_End
+Copying object to master: SCPT TribFabAttackCheck
+Copying object to master: ACTI act_flora_treedead_MH_01
+Copying object to master: DOOR in_hlaalu_door_uni
+Copying object to master: SOUN FabBossClank
+Copying object to master: NPC_ holmar
+Copying object to master: STAT flora_treedead_MH_02
+Copying object to master: CELL Bamz-Amschend, Skybreak Gallery
+Copying object to master: STAT in_dwe_utilcorr00_exp
+Copying object to master: DOOR In_MH_jaildoor_01
+Copying object to master: PGRD Mournhold, Museum of Artifacts (0, 0)
+Copying object to master: STAT in_moldcave2_s_04
+Copying object to master: GMST fWereWolfEnchant
+Copying object to master: ACTI act_sotha_pre_door3
+Copying object to master: SCPT MuseumBiPolarBlade
+Copying object to master: SCPT weatherScript
+Copying object to master: CONT com_chest_02_books
+Copying object to master: CREA lich_relvel
+Copying object to master: NPC_ Daron
+Copying object to master: PGRD Old Mournhold: Bazaar Sewers (0, 0)
+Copying object to master: STAT In_OM_spike01
+Copying object to master: LEVI random_golden_sedge
+Copying object to master: CELL Mournhold, Royal Palace: Barenziah's Chambers
+Copying object to master: STAT in_moldcave_06
+Copying object to master: STAT in_dwe_pill_bk00
+Copying object to master: SCPT SothaOilLever
+Copying object to master: DOOR In_MH_Pav_Ladder
+Copying object to master: CELL Old Mournhold: Temple Catacombs
+Copying object to master: ACTI Script_PlayScript
+Copying object to master: CREA centurion_steam_hts
+Copying object to master: MISC misc_de_bowl_01
+Copying object to master: SCPT MuseumDaggerFang
+Copying object to master: SPEL trap_shock_killer
+Copying object to master: STAT Furn_banner_imp_01
+Copying object to master: CONT chest_small_01_gold_25
+Copying object to master: BODY C_M_Shirt_Common_7_C
+Copying object to master: WEAP black dart
+Copying object to master: STAT in_m_sewer_cap_03
+Copying object to master: NPC_ Catia Sosia
+Copying object to master: PGRD Mournhold, Royal Palace: Jail (0, 0)
+Copying object to master: PGRD Old Mournhold: Temple Sewers East (0, 0)
+Copying object to master: NPC_ yarnar
+Copying object to master: BODY A_DarkBrotherhood_cuirass
+Copying object to master: SNDG durzog_diseased0007
+Copying object to master: DOOR door_dwe_00_exp
+Copying object to master: ACTI act_dwe_weather00
+Copying object to master: ARMO Indoril_MH_Guard_Pauldron_L
+Copying object to master: ACTI furn_dwrv_dynamo
+Copying object to master: CELL Bamz-Amschend, Radac's Forge
+Copying object to master: STAT In_OM_hall_02
+Copying object to master: STAT in_sotha_lab00
+Copying object to master: BODY C_M_Shirt_Mournhold_Chest
+Copying object to master: WEAP ebony_bow_auriel_X
+Copying object to master: BOOK bk_ChildrensAnuad
+Copying object to master: CREA almalexia
+Copying object to master: BODY A_adamantium_helm
+Copying object to master: STAT Ex_MH_Lantern_Post
+Copying object to master: SNDG fabricant_hulking0000
+Copying object to master: BODY C_M_Shirt_Common_6_UA
+Copying object to master: STAT in_pycave_lroom4_04
+Copying object to master: CONT crate_01_mevelfererus
+Copying object to master: STAT in_sotha_corr_dj00
+Copying object to master: DOOR door_cavern_doors10
+Copying object to master: SCPT IgnatiusCellCheck
+Copying object to master: STAT in_moldcave_18
+Copying object to master: ACTI act_sotha_lever9a
+Copying object to master: SCPT JournalistCombat
+Copying object to master: SOUN Alma_att0
+Copying object to master: STAT In_OM_corner_01
+Copying object to master: STAT in_sotha_pillar_wings00
+Copying object to master: SCPT MuseumScript
+Copying object to master: STAT Furn_Planter_MH_01
+Copying object to master: ACTI act_sotha_powertubes
+Copying object to master: ACTI act_sotha_lever11b
+Copying object to master: SOUN goblin moan
+Copying object to master: WEAP glass dagger_symmachus_unique
+Copying object to master: STAT in_dwe_slate03
+Copying object to master: ENCH helseth's collar_en
+Copying object to master: LIGH Light_MH_streetlamp_01_550
+Copying object to master: ACTI furn_dwrv_fitting40
+Copying object to master: CREA Rat_plague_hall2
+Copying object to master: CREA ancestor_ghost_greater
+Copying object to master: GMST sand
+Copying object to master: CONT com_chest_02_v_weapon05
+Copying object to master: STAT in_m_sewer_hall_01
+Copying object to master: STAT In_MH_temple_01
+Copying object to master: BODY C_Skirt_Mournhold
+Copying object to master: GMST sEffectSummonCreature05
+Copying object to master: SCPT DrathasThugScript
+Copying object to master: STAT in_moldcave_25
+Copying object to master: ARMO Indoril_Almalexia_helmet
+Copying object to master: GMST iWereWolfFleeMod
+Copying object to master: STAT EX_MH_platform_02
+Copying object to master: PGRD Sotha Sil, Dome of Udok (0, 0)
+Copying object to master: CELL Vivec, High Fane
+Copying object to master: SPEL prox_mine_frost
+Copying object to master: NPC_ db_assassin3
+Copying object to master: STAT EX_MH_platform_01
+Copying object to master: STAT in_sotha_pre4_00
+Copying object to master: SPEL prox_mine_shock
+Copying object to master: CELL Bitter Coast Region (-14, 4)
+Copying object to master: ACTI chimney_smoke_small_velas6
+Copying object to master: BOOK book_dwe_metal_fab00
+Copying object to master: CONT de_r_chest_01_drusus_g
+Copying object to master: ACTI act_sotha_pre_door7
+Copying object to master: STAT EX_MH_building_04
+Copying object to master: SCPT SalasDead
+Copying object to master: CREA centurion_steam_exhibit
+Copying object to master: DOOR in_r_s_door_01
+Copying object to master: CLOT Expensive_pants_Mournhold
+Copying object to master: SOUN sludgeworm right
+Copying object to master: ARMO dreugh_shield
+Copying object to master: SCPT MuseumSkullCrusher
+Copying object to master: BOOK book_dwe_boom00
+Copying object to master: CELL Old Mournhold: Bazaar Sewers
+Copying object to master: ENCH bipolar blade_en
+Copying object to master: DOOR in_v_s_jaildoor_01
+Copying object to master: ENCH robe_lich_en
+Copying object to master: SNDG durzog_diseased0001
+Copying object to master: GMST fWereWolfArmorer
+Copying object to master: ACTI fab_cent_fight_watcher
+Copying object to master: BODY C_M_Pants_Mournhold_G
+Copying object to master: STAT in_MH_int_center_01
+Copying object to master: DOOR ex_nord_door_01_ignatius
+Copying object to master: STAT in_dwe_rubble00
+Copying object to master: GMST fWereWolfLongBlade
+Copying object to master: GLOB KarrodBeaten
+Copying object to master: FACT Hands of Almalexia
+Copying object to master: STAT in_redoran_tavern_01
+Copying object to master: ARMO steel_gauntlet_right
+Copying object to master: STAT In_OM_center
+Copying object to master: SCPT MuseumBootsApostle
+Copying object to master: BOOK bk_nermarcnotes
+Copying object to master: STAT in_sotha_gear00
+Copying object to master: STAT Ex_MH_doorjamb_03
+Copying object to master: WEAP goblin_sword
+Copying object to master: CONT com_chest_02_Retene
+Copying object to master: WEAP centurion_projectile_dart_shock
+Copying object to master: GMST fWereWolfHealth
+Copying object to master: BODY A_DarkBrotherhood_Greav_K
+Copying object to master: GMST sServiceRefusal
+Copying object to master: WEAP her dart
+Copying object to master: CONT chest_01_v_potion_al_02
+Copying object to master: ARMO adamantium_bracer_left
+Copying object to master: CREA centurion_steam_bbot2
+Copying object to master: STAT In_OM_doorjam
+Copying object to master: STAT in_mudcave_lroom4_03
+Copying object to master: BOOK bk_SaryonisSermons
+Copying object to master: NPC_ forstaag the sweltering
+Copying object to master: STAT in_dwe_rubble02
+Copying object to master: PGRD Bamz-Amschend, Skybreak Gallery (0, 0)
+Copying object to master: SOUN SatchelBlast
+Copying object to master: SCPT SothaHotOil
+Copying object to master: CONT crate_01_armornetch_mel
+Copying object to master: GLOB contractCalvusMonth
+Copying object to master: CLOT belt_goval
+Copying object to master: NPC_ ordinator_mournhold
+Copying object to master: CONT de_r_closet_01
+Copying object to master: ACTI active_tikitorch_UNI
+Copying object to master: GMST fWereWolfMediumArmor
+Copying object to master: STAT in_dwe_pipe00_exp
+Copying object to master: SNDG fabricant_verminous0001
+Copying object to master: ALCH p_dwemer_lubricant00
+Copying object to master: NPC_ Glonagoth
+Copying object to master: ARMO bonemold_shield
+Copying object to master: CELL Old Mournhold: West Sewers
+Copying object to master: WEAP steel battle axe
+Copying object to master: ACTI In_moldboulder00_UNI
+Copying object to master: STAT EX_MH_window_03
+Copying object to master: SNDG almalexia0004
+Copying object to master: SOUN goblin scream
+Copying object to master: GMST fWereWolfRestoration
+Copying object to master: SCPT SothaImperfect
+Copying object to master: MISC misc_com_bottle_15
+Copying object to master: SCPT SothaLever8
+Copying object to master: NPC_ Geon Auline
+Copying object to master: CONT flora_plant_05
+Copying object to master: SCPT bardoor2Script
+Copying object to master: CREA centurion_spider_dead
+Copying object to master: WEAP Sword of Almalexia
+Copying object to master: BODY A_AlmIndoril_Pauldron_UA
+Copying object to master: ENCH helseth_ring_en
+Copying object to master: CONT com_sack_02_pos
+Copying object to master: BOOK writ_Alen
+Copying object to master: ARMO Indoril_Almalexia_Greaves
+Copying object to master: ARMO DarkBrotherhood Helm
+Copying object to master: LIGH light_com_torch_01_256
+Copying object to master: NPC_ fedris hler
+Copying object to master: ACTI Ex_MH_Pav_BStatue_03
+Copying object to master: CELL Seyda Neen (-2, -9)
+Copying object to master: STAT In_OM_wallruin04
+Copying object to master: SPEL Royal_Blood
+Copying object to master: CREA skeleton_summon
+Copying object to master: SCPT chapeldoorScript
+Copying object to master: CREA durzog_wild_weaker
+Copying object to master: SCPT MuseumEbonyMail
+Copying object to master: SCPT SadriFight
+Copying object to master: STAT in_moldboulder05
+Copying object to master: WEAP dagger_fang_unique_x
+Copying object to master: CELL West Gash Region (-16, 7)
+Copying object to master: CLOT ring_warlock_unique_x
+Copying object to master: DOOR EX_MH_door_02_sadri
+Copying object to master: CONT chest_01_v_potion_p_03
+Copying object to master: GMST fWereWolfAxe
+Copying object to master: SCPT MatchMakeSunel
+Copying object to master: DOOR In_MH_door_02_bar1_uni
+Copying object to master: STAT Ex_MH_road_02
+Copying object to master: CONT rock_adam_mold20
+Copying object to master: GLOB Contract_Calvus_Days_left
+Copying object to master: SCPT MuseumSaviorsHide
+Copying object to master: CREA goblin_officer
+Copying object to master: BODY C_F_Shirt_Common6_Skin
+Copying object to master: PGRD Mournhold, Royal Palace Throne Room (0, 0)
+Copying object to master: STAT in_MH_int_corner_02
+Copying object to master: CLOT extravagant_robe_02_elanande
+Copying object to master: GLOB KarrodCheapShot
+Copying object to master: LIGH light_bar4_unique
+Copying object to master: STAT Active_MH_Forcefield_04
+Copying object to master: STAT in_hlaalu_ashpit_01
+Copying object to master: NPC_ Elbert Nermarc
+Copying object to master: ACTI Ex_Vivec_waterfall_03
+Copying object to master: STAT In_OM_doorjam_03
+Copying object to master: BODY A_HelsethGuard_UA
+Copying object to master: INGR Ingred_nirthfly_stalks_01
+Copying object to master: ARMO goblin_shield_durgok_uni
+Copying object to master: CELL Mournhold Temple: Basement
+Copying object to master: BODY A_HelsethGuard_CL
+Copying object to master: CONT Com_Basket_01_POS
+Copying object to master: GMST sLoadingMessage5
+Copying object to master: SCPT helsAssScript
+Copying object to master: NPC_ Diradeni Farano
+Copying object to master: DOOR ex_h_pcfort_exdoor_ 03-3
+Copying object to master: STAT EX_MH_building_02
+Copying object to master: BODY A_Netch_F_cuirass
+Copying object to master: MISC dwemer_satchel00
+Copying object to master: STAT in_dwe_corr4_exp
+Copying object to master: SPEL regenerate [ability]
+Copying object to master: CELL Bitter Coast Region (-13, 2)
+Copying object to master: LTEX AI_Grass
+Copying object to master: STAT In_M_sewer_bend
+Copying object to master: WEAP silver dagger_rathalas_unique
+Copying object to master: SOUN MournGates
+Copying object to master: WEAP ebony war axe_elanande
+Copying object to master: CONT crate_Malar_UNI
+Copying object to master: STAT furn_de_ex_bench_01
+Copying object to master: BODY C_shoes_Common_7
+Copying object to master: ACTI act_sotha_long_gear00
+Copying object to master: GMST fDifficultyMult
+Copying object to master: DOOR In_MH_door_02_bar4_uni
+Copying object to master: ACTI act_dwe_fan00
+Copying object to master: CLOT common_skirt_06
+Copying object to master: SPEL Her_Hand_2
+Copying object to master: STAT in_sotha_pillars01
+Copying object to master: SCPT Sound_MournFount
+Copying object to master: BODY c_m_robe_white_1
+Copying object to master: ACTI act_sotha_lever5b
+Copying object to master: GMST fWereWolfAcrobatics
+Copying object to master: DOOR in_t_s_plain_door
+Copying object to master: BODY A_AlmIndoril_Greave_UL
+Copying object to master: ACTI Column_Cast4
+Copying object to master: SPEL dread curse: health
+Copying object to master: SCPT SothaLever10
+Copying object to master: CELL Mournhold Temple: Hall of Ministry
+Copying object to master: SOUN Cave Drip
+Copying object to master: STAT light_bar6_OUT_unique
+Copying object to master: SOUN sludgeworm roar
+Copying object to master: SCPT radacScript
+Copying object to master: NPC_ therdon
+Copying object to master: ARMO fur_boots
+Copying object to master: NPC_ sadas mavandes
+Copying object to master: NPC_ Jeanne Andre
+Copying object to master: SPEL gaenor_spell
+Copying object to master: ENCH ebony_arrow_sadri_en
+Copying object to master: CLOT Variner's Ring
+Copying object to master: LEVI random_sweetpulp
+Copying object to master: GLOB MatchMakeGoval
+Copying object to master: SCPT ExitBlockMessage
+Copying object to master: SCPT poisonsteam
+Copying object to master: ARMO ebony_shield_auriel_x
+Copying object to master: LIGH Light_logpile_burnedout
+Copying object to master: LIGH orange_300_01_d
+Copying object to master: STAT In_OM_trap
+Copying object to master: CREA Imperfect
+Copying object to master: ACTI act_black_load04
+Copying object to master: NPC_ ordinator_mh_TBasement
+Copying object to master: CELL Mournhold, Royal Palace Throne Room
+Copying object to master: PGRD Sotha Sil, Chamber of Sohleh (0, 0)
+Copying object to master: SCPT fab_attack_2
+Copying object to master: ALCH verminous_fabricant_elixir
+Copying object to master: SCPT Float
+Copying object to master: CREA Rat_rerlas
+Copying object to master: CREA Rat_plague
+Copying object to master: NPC_ bols indalen
+Copying object to master: STAT In_OM_column13
+Copying object to master: SNDG lich0004
+Copying object to master: SOUN Bubbles
+Copying object to master: SOUN MournTempleAmb
+Copying object to master: SCPT almaScript
+Copying object to master: NPC_ meralyn othan
+Copying object to master: CONT rock_adam_mold16
+Copying object to master: BODY C_M_Robe_Liche.1st
+Copying object to master: SCPT helsdoorScript
+Copying object to master: STAT In_OM_Amalexia
+Copying object to master: CREA fabricant_hulkin_attack
+Copying object to master: CONT rock_adam_mold15
+Copying object to master: ARMO chitin cuirass
+Copying object to master: STAT In_OM_ductcap
+Copying object to master: STAT in_dwe_pill_bk02
+Copying object to master: WEAP nerevarblade_01
+Copying object to master: NPC_ Felvan Ienith
+Copying object to master: SCPT CharGen_ring_keley
+Copying object to master: CREA daedroth_summon
+Copying object to master: SCPT DrothCopy
+Copying object to master: STAT in_MH_stairs_01
+Copying object to master: WEAP nerevarblade_01_flame
+Copying object to master: SCPT MuseumStaffHasedoki
+Copying object to master: STAT in_MH_4way_01
+Copying object to master: STAT in_sotha_pre2_trap00
+Copying object to master: STAT in_MH_throne_room_01
+Copying object to master: STAT light_bar3_OUT_unique
+Copying object to master: GLOB MatchMakeFons
+Copying object to master: ACTI active_chimney_smoke02_ovis1
+Copying object to master: NPC_ ignatius_flaccus
+Copying object to master: BOOK bk_easternprovincesimpartial
+Copying object to master: CREA goblin_bruiser
+Copying object to master: LEVC in_goblins
+Copying object to master: SCPT rockslide
+Copying object to master: STAT in_dwe_end00_exp
+Copying object to master: CELL Mournhold, Sadri Manor
+Copying object to master: GLOB FabAttack
+Copying object to master: CELL Vivec, Palace of Vivec
+Copying object to master: STAT In_OM_statue2
+Copying object to master: SPEL gaenor_abilities
+Copying object to master: SCPT cavein_script
+Copying object to master: ENCH her greaves_EN
+Copying object to master: ENCH dagger_symmachus_en
+Copying object to master: CELL Old Mournhold: Temple Crypt
+Copying object to master: ACTI act_dwe_lever_a
+Copying object to master: NPC_ Salas Valor
+Copying object to master: SNDG almalexia0007
+Copying object to master: CELL Bitter Coast Region (-13, 4)
+Copying object to master: MISC misc_dwrv_goblet10_uni
+Copying object to master: DOOR Ex_MH_sewer_trapdoor_sadri
+Copying object to master: CONT rock_adam_py12
+Copying object to master: STAT in_MH_cap_01
+Copying object to master: STAT In_OM_wallruin03
+Copying object to master: CREA fabricant_machine_1
+Copying object to master: STAT teststeps
+Copying object to master: SNDG goblin_warchief20006
+Copying object to master: SCPT SothaLever9
+Copying object to master: NPC_ danaronea daryon
+Copying object to master: CLOT common_pants_07
+Copying object to master: SNDG Imperfect0004
+Copying object to master: ARMO imperial_chain_pauldron_right
+Copying object to master: ACTI act_sotha_red10
+Copying object to master: CONT flora_plant_06
+Copying object to master: STAT Furn_banner_helseth_01
+Copying object to master: GLOB helsassdead
+Copying object to master: CELL Bitter Coast Region (-12, 3)
+Copying object to master: LIGH light_tikitorch00_UNI
+Copying object to master: CELL Vivec, Temple (4, -14)
+Copying object to master: NPC_ Golena Sadri_a
+Copying object to master: STAT in_dwe_pill_bk01
+Copying object to master: WEAP adamantium_axe
+Copying object to master: CELL Mournhold, Museum of Artifacts
+Copying object to master: GMST sAdmireSuccess
+Copying object to master: STAT In_OM_wallruin06
+Copying object to master: CELL Mournhold Temple: High Chapel
+Copying object to master: ACTI Inviso_wall_9
+Copying object to master: CELL Sotha Sil, Central Gearworks
+Copying object to master: ACTI Inviso_wall_5
+Copying object to master: SNDG durzog_diseased0004
+Copying object to master: SNDG fabricant_hulking0004
+Copying object to master: ENCH amulet_gaenor_en
+Copying object to master: CELL Sotha Sil, Dome of Kasia
+Copying object to master: SOUN FabBossRoar
+Copying object to master: CLOT expensive_shoes_01
+Copying object to master: STAT in_dwe_rod00_exp
+Copying object to master: SCPT weatherpowerScript
+Copying object to master: ACTI trapProjectile
+Copying object to master: STAT in_hlaalu_room_side
+Copying object to master: NPC_ King Hlaalu Helseth
+Copying object to master: BOOK writ_Berano
+Copying object to master: CONT dwrv_chest_satchel01
+Copying object to master: ACTI act_sotha_green00
+Copying object to master: GMST fWereWolfHeavyArmor
+Copying object to master: SNDG goblin_warchief20005
+Copying object to master: NPC_ Nerile Andaren
+Copying object to master: PGRD Norenen-dur (0, 0)
+Copying object to master: GMST sAuto_Run
+Copying object to master: STAT In_OM_ruin02
+Copying object to master: CONT chest_small_02_gold_50
+Copying object to master: CONT de_r_chest_01_gold2
+Copying object to master: STAT EX_MH_building_03
+Copying object to master: LEVC in_durzogs
+Copying object to master: NPC_ Alvan Llarys
+Copying object to master: SNDG goblin_grunt0005
+Copying object to master: NPC_ ordinator_mh_stationary
+Copying object to master: SOUN goblin large scream
+Copying object to master: SOUN MournSpray
+Copying object to master: CONT de_r_chest_01_fcloth2
+Copying object to master: LIGH dwe_pulse_Bamz
+Copying object to master: SCPT ScrollSales
+Copying object to master: SPEL prox_mine_poison
+Copying object to master: BOOK bk_graspingfortune
+Copying object to master: NPC_ Galsa Andrano
+Copying object to master: ACTI Ex_waterfall_mist_01
+Copying object to master: SSCR 13890312922079811704
+Copying object to master: WEAP adamantium_spear
+Copying object to master: NPC_ Roner Arano
+Copying object to master: BODY C_M_Robe_White_1.1st
+Copying object to master: PGRD Mournhold, Royal Palace: Imperial Cult Services (0, 0)
+Copying object to master: BODY C_Skirt_Common_6
+Copying object to master: LEVI random_bulbs
+Copying object to master: STAT Furn_banner_helseth_02
+Copying object to master: GMST sLevitateDisabled
+Copying object to master: BOOK bk_legionsofthedead
+Copying object to master: SCPT sotha_machine2
+Copying object to master: BODY A_Imperial_C_Female
+Copying object to master: STAT in_dae_room_l_side_01
+Copying object to master: BOOK bk_AlchemistsFormulary
+Copying object to master: NPC_ Goval Ralen
+Copying object to master: NPC_ alam merys
+Copying object to master: PGRD Old Mournhold: Moril Manor, North Building (0, 0)
+Copying object to master: SPEL shockimperfect
+Copying object to master: SCPT PlagueOrdHall
+Copying object to master: SCPT IgnatiusScript2
+Copying object to master: SCPT MuseumVelothJudgment
+Copying object to master: STAT Flora_grass_06
+Copying object to master: NPC_ urvel dulni
+Copying object to master: STAT in_MH_int_entrance_01
+Copying object to master: CREA hunger_summon
+Copying object to master: LIGH green light_256
+Copying object to master: MISC misc_de_goblet_04
+Copying object to master: ENCH her boot_EN
+Copying object to master: SOUN goblin roar
+Copying object to master: CONT de_p_desk_01_pos2
+Copying object to master: PGRD Mournhold, The Winged Guar (0, 0)
+Copying object to master: BODY C_F_Shirt_Common7_Skin
+Copying object to master: SPEL Her_reflected_glory
+Copying object to master: SOUN SothaSpikes
+Copying object to master: SCPT HolmarCellCheck
+Copying object to master: STAT in_mold_rock_07
+Copying object to master: SOUN cent proj roar
+Copying object to master: SCPT Shunari_Plague
+Copying object to master: SCPT karrodfightstopScript
+Copying object to master: BODY C_M_Robe_Liche
+Copying object to master: SCPT DrathasScript
+Copying object to master: NPC_ Belwen
+Copying object to master: STAT Ex_MH_Paldoorjamb_01
+Copying object to master: BOOK bk_ChildrenOfTheSky
+Copying object to master: SNDG goblin_warchief10006
+Copying object to master: ENCH sword_soscean_en
+Copying object to master: STAT in_moldcave_13
+Copying object to master: ACTI active_de_r_bed_01
+Copying object to master: CREA durzog_diseased
+Copying object to master: CREA centurion_steam_A_C
+Copying object to master: NPC_ Feranos Hlando
+Copying object to master: LIGH light_com_torch_01_UNI
+Copying object to master: DOOR In_OM_door_round
+Copying object to master: BODY A_dwemer_shield_battle
+Copying object to master: SCPT yarnarScript
+Copying object to master: BOOK writ_Hloggar
+Copying object to master: ARMO netch_leather_boots
+Copying object to master: CLOT Helseth's Ring
+Copying object to master: CELL Old Mournhold: Manor District
+Copying object to master: ENCH robe_elanande_en
+Copying object to master: WEAP dwarven mace_salandas
+Copying object to master: CELL Mournhold, Clothier
+Copying object to master: ACTI chimney_smoke_green
+Copying object to master: CELL Mournhold, Royal Palace: Helseth's Chambers
+Copying object to master: CONT de_r_chest_01_irano
+Copying object to master: GMST fWereWolfBlock
+Copying object to master: BOOK bk_Alen_note
+Copying object to master: STAT In_OM_temple_ruins
+Copying object to master: ACTI act_flora_tree_MH_02
+Copying object to master: CONT crate_Andren_UNI
+Copying object to master: STAT in_OM_stone_ramp02
+Copying object to master: CONT com_chest_02_v_armor09
+Copying object to master: PGRD Mournhold, Godsreach (0, 0)
+Copying object to master: SCPT bladeScript
+Copying object to master: DOOR in_dae_door_01
+Copying object to master: ACTI Ex_MH_Pav_BStatue_10
+Copying object to master: GMST fWereWolfSecurity
+Copying object to master: CONT dwrv_closet00
+Copying object to master: LEVI random_adamantium
+Copying object to master: ACTI chimney_smoke_green_uni2
+Copying object to master: LIGH Light_MH_Rope_Lantern
+Copying object to master: SCPT VarninerGhost
+Copying object to master: ACTI act_sotha_oilbridge
+Copying object to master: CELL Bamz-Amschend, King's Walk
+Copying object to master: STAT In_OM_plat512
+Copying object to master: CONT com_chest_02_thendas1
+Copying object to master: STAT in_sotha_pre1_00
+Copying object to master: STAT in_MH_int_corner_04
+Copying object to master: NPC_ Aleri Aren
+Copying object to master: CONT de_r_chest_01_mcloth2
+Copying object to master: GMST sMagicCreature02ID
+Copying object to master: CONT chest_small_01_ingred10
+Copying object to master: SCPT fab_attack_helseth
+Copying object to master: GMST fWereWolfAgility
+Copying object to master: STAT in_m_sewer_column_01
+Copying object to master: WEAP Bipolar Blade
+Copying object to master: MISC bladepiece_02
+Copying object to master: CONT de_r_chest_01_Ervis_V
+Copying object to master: SCPT velnyaWalkScript
+Copying object to master: DOOR ex_cave_door_01
+Copying object to master: CONT rock_adam_py11
+Copying object to master: BOOK bk_ArcturianHeresy
+Copying object to master: STAT in_sotha_dorjam_oil00
+Copying object to master: BODY C_M_Pants_Mournhold_K
+Copying object to master: CREA centurion_steam_C_L
+Copying object to master: STAT in_m_sewer_arch_01
+Copying object to master: SCPT Alen_note
+Copying object to master: SCPT MuseumChrysamere
+Copying object to master: NPC_ eno romari
+Copying object to master: ENCH dwrv_dart_area_shock
+Copying object to master: ACTI act_sotha_red00
+Copying object to master: WEAP ebony spear_blessed_unique
+Copying object to master: CELL Sotha Sil, Dome of the Imperfect
+Copying object to master: CELL Old Mournhold: Temple Shrine
+Copying object to master: SCPT raiseWaterToOpen
+Copying object to master: STAT EX_MH_window_01
+Copying object to master: WEAP spear_mercy_unique_x
+Copying object to master: ACTI Ex_MH_Pav_BStatue_13
+Copying object to master: STAT in_sotha_pre2_01
+Copying object to master: NPC_ jodhur
+Copying object to master: STAT furn_de_pathspear_04_uni3
+Copying object to master: ARMO ebony_cuirass_soscean
+Copying object to master: LEVI random_rye
+Copying object to master: ENCH am_verbosity_en
+Copying object to master: NPC_ hels_assassin2
+Copying object to master: MISC misc_com_silverware_fork_uni
+Copying object to master: ARMO netch_leather_pauldron_right
+Copying object to master: GMST sEffectSummonCreature02
+Copying object to master: CELL Mournhold, Ignatius Flaccus' House
+Copying object to master: CELL Mournhold, Armory
+Copying object to master: NPC_ Forven Berano
+Copying object to master: WEAP longbow_shadows_unique_x
+Copying object to master: GMST sTauntSuccess
+Copying object to master: MISC misc_de_foldedcloth00
+Copying object to master: NPC_ Narissa Adus
+Copying object to master: ACTI act_sotha_monster3
+Copying object to master: BODY A_DarkBrotherhood_Greav_G
+Copying object to master: SCPT BattleBot2Script
+Copying object to master: SCPT MuseumGoldbrand
+Copying object to master: CREA goblin_handler
+Copying object to master: GMST fNPCHealthBarTime
+Copying object to master: LIGH Green_SPulse_256
+Copying object to master: SOUN fabVermRoar
+Copying object to master: BODY a_adamantium_boot_f
+Copying object to master: INGR ingred_russula_01
+Copying object to master: CLAS Journalist
+Copying object to master: CELL Norenen-dur, Citadel of Myn Dhrur
+Copying object to master: BOOK BookSkill_Alchemy1
+Copying object to master: PGRD Old Mournhold: Teran Hall, East Bldg (0, 0)
+Copying object to master: STAT in_m_sewer_fountain_01
+Copying object to master: NPC_ Anrel
+Copying object to master: SOUN crowd booing
+Copying object to master: STAT In_OM_steps
+Copying object to master: MISC misc_de_pot_redware_04_uni
+Copying object to master: CLOT common_shoes_06
+Copying object to master: ACTI act_sotha_lever10a
+Copying object to master: STAT in_dwe_archway00_exp
+Copying object to master: SCPT barilzarScript
+Copying object to master: ACTI act_sotha_lever5a
+Copying object to master: BODY A_Adamantium_Greaves_K
+Copying object to master: ARMO netch_leather_pauldron_left
+Copying object to master: PGRD Old Mournhold: Temple Catacombs (0, 0)
+Copying object to master: SOUN SothaDoorClose
+Copying object to master: DOOR in_impsmall_door_01
+Copying object to master: STAT in_dwe_rubble01
+Copying object to master: STAT in_dwe_weathmach00_exp
+Copying object to master: WEAP claymore_iceblade_unique_x
+Copying object to master: SCPT MHTransportScript
+Copying object to master: CELL Bamz-Amschend, Hall of Winds
+Copying object to master: SCPT treedeadScript
+Copying object to master: CONT de_r_chest_01_drink01
+Copying object to master: SOUN Alma_att2
+Copying object to master: SCPT Sound_SothaSparks
+Copying object to master: STAT in_sotha_pre2_02
+Copying object to master: STAT In_OM_wallruin02
+Copying object to master: CONT Flora_plant_01
+Copying object to master: MISC misc_dwrv_weather
+Copying object to master: STAT in_dwe_hall_wall00_bk
+Copying object to master: CREA Almalexia_warrior
+Copying object to master: CELL Bitter Coast Region (-12, 1)
+Copying object to master: GMST sBribeFail
+Copying object to master: ACTI active_6th_bell_02
+Copying object to master: CREA dremora_summon
+Copying object to master: STAT in_m_sewer_3way_01
+Copying object to master: PGRD Norenen-dur, The Grand Stair (0, 0)
+Copying object to master: ACTI Furn_De_Bar_03
+Copying object to master: CELL Old Mournhold: Teran Hall, East Bldg
+Copying object to master: SCPT waterstate_torchenable
+Copying object to master: CREA fabricant_hulking_attac
+Copying object to master: GMST sMagicFabricantID
+Copying object to master: ARMO Indoril_Almalexia_shield
+Copying object to master: ACTI Inviso_wall_10
+Copying object to master: SCPT Mercenary_Calvus
+Copying object to master: SPEL prox_mine_life
+Copying object to master: ACTI Sound_Waterfall00
+Copying object to master: ARMO steel_gauntlet_left
+Copying object to master: SOUN FabBossWhir
+Copying object to master: SOUN Alma_hit1
+Copying object to master: SPEL relvel_regenerate
+Copying object to master: ARMO chitin guantlet - left
+Copying object to master: CREA goblin_officerUNI
+Copying object to master: STAT in_sotha_corr2_stairs
+Copying object to master: SNDG fabricant_hulking0001
+Copying object to master: GMST fCombatDistanceWerewolfMod
+Copying object to master: ALCH p_Imperfect_Elixir
+Copying object to master: STAT EX_MH_road_03
+Copying object to master: SCPT DrothChest
+Copying object to master: GMST sWerewolfRefusal
+Copying object to master: CONT chest_small_02_rndgold
+Copying object to master: WEAP mace of molag bal_unique_x
+Copying object to master: GMST fWereWolfLightArmor
+Copying object to master: WEAP katana_goldbrand_unique_x
+Copying object to master: LIGH purple_1600
+Copying object to master: CELL Ebonheart, Grand Council Chambers
+Copying object to master: SNDG durzog_war0007
+Copying object to master: SCPT NarisaAdus
+Copying object to master: CONT com_sack_01_saltrice_10
+Copying object to master: BOOK sc_chridittepanacea
+Copying object to master: SCPT MuseumDagSym
+Copying object to master: MISC misc_skull00
+Copying object to master: SCPT SothaLever2
+Copying object to master: STAT in_mold_rock_26
+Copying object to master: NPC_ galms seles
+Copying object to master: ACTI chimney_smoke_green_uni1
+Copying object to master: STAT In_OM_casket
+Copying object to master: ACTI active_de_r_bed_06
+Copying object to master: GMST sEditNote
+Copying object to master: STAT in_sotha_doorjam00
+Copying object to master: PGRD Mournhold Temple: Infirmary (0, 0)
+Copying object to master: SNDG goblin_officer0005
+Copying object to master: STAT in_moldcave_doorway00
+Copying object to master: NPC_ Arnsa Thendas
+Copying object to master: CELL Mournhold
+Copying object to master: WEAP steel warhammer
+Copying object to master: STAT Ex_Vivec_P_water_01
+Copying object to master: CONT kollop_03
+Copying object to master: GMST sMagicCreature04ID
+Copying object to master: STAT In_MH_temple_tower_01
+Copying object to master: ACTI act_sotha_lever11a
+Copying object to master: STAT in_moldcave_27
+Copying object to master: NPC_ yagak gro-gluk
+Copying object to master: SOUN Machinery
+Copying object to master: STAT furn_com_r_bookshelf_01
+Copying object to master: CONT rock_adam_mold18
+Copying object to master: ARMO netch_leather_cuirass
+Copying object to master: CREA ancestor_ghost_vabdas
+Copying object to master: ENCH her helm_EN
+Copying object to master: LIGH light_bar8_unique
+Copying object to master: CONT de_r_chest_01_Alusan
+Copying object to master: PGRD Mournhold, Magic Shop (0, 0)
+Copying object to master: ENCH her left gauntlet_EN
+Copying object to master: CELL Mournhold, Royal Palace: Basement
+Copying object to master: SNDG fabricant_verminous0006
+Copying object to master: SCPT fab_cent_fight_die
+Copying object to master: DOOR door_dwrv_load00
+Copying object to master: DOOR door_dwrv_loadup00
+Copying object to master: GLOB DBAttack
+Copying object to master: GMST fFleeDistance
+Copying object to master: GMST fWereWolfIllusion
+Copying object to master: SCPT projectileMine
+Copying object to master: STAT in_mudcave_exit00
+Copying object to master: ARMO boots_apostle_unique_x
+Copying object to master: PGRD Old Mournhold: Armory Ruins (0, 0)
+Copying object to master: CREA rat_diseased
+Copying object to master: MISC devote_Brinne_Dust_00
+Copying object to master: ACTI act_sotha_door10
+Copying object to master: DOOR EX_MH_door_02
+Copying object to master: NPC_ mehra helas
+Copying object to master: NPC_ achel
+Copying object to master: NPC_ Gaenor_b
+Copying object to master: CELL Mournhold, Velas Manor
+Copying object to master: CREA atronach_flame_summon
+Copying object to master: STAT EX_MH_palace_wall_01
+Copying object to master: BODY A_Adamantium_Greaves_UL
+Copying object to master: BOOK book_dwe_pipe00
+Copying object to master: SNDG goblin_officer0004
+Copying object to master: SCPT SothaSilTeleport
+Copying object to master: PGRD Bamz-Amschend, Hearthfire Hall (0, 0)
+Copying object to master: SCPT SadriDoor
+Copying object to master: SPEL crimson_plague
+Copying object to master: STAT In_OM_column01
+Copying object to master: NPC_ Torasa Aram
+Copying object to master: STAT In_OM_ruin03
+Copying object to master: SOUN rock and roll
+Copying object to master: ACTI act_sotha_lever9b
+Copying object to master: CONT de_r_chest_01_mcloth3
+Copying object to master: STAT Ex_MH_Pavillion_Gate_02
+Copying object to master: SCPT ThrudScript
+Copying object to master: CELL Old Mournhold: Moril Manor, Courtyard
+Copying object to master: STAT Ex_MH_wall_02
+Copying object to master: SCPT holmarScript
+Copying object to master: SCPT WritBerano
+Copying object to master: NPC_ Black Dart Adren
+Copying object to master: STAT In_OM_statue1
+Copying object to master: STAT in_MH_wall_01
+Copying object to master: NPC_ Dovor Oren
+Copying object to master: STAT in_sotha_pre_door
+Copying object to master: CLOT amulet_gaenor
+Copying object to master: ACTI act_sotha_long_gear01
+Copying object to master: LIGH light_sotha_sparks
+Copying object to master: WEAP fine carmine dart
+Copying object to master: MISC misc_com_bottle_09
+Copying object to master: MISC misc_de_bowl_bugdesign_01
+Copying object to master: LIGH light_com_candle_10_128
+Copying object to master: WEAP bladepiece_01
+Copying object to master: BODY B_N_Dark Elf_M_Helseth
+Copying object to master: WEAP stendar_hammer_unique_x
+Copying object to master: PGRD Mournhold, Geon Auline's House (0, 0)
+Copying object to master: DOOR ex_t_door_stone_large
+Copying object to master: SOUN Alma_hit2
+Copying object to master: ACTI act_sotha_pre_door6
+Copying object to master: STAT Ex_MH_Pav_Land_W
+Copying object to master: CONT flora_plant_04
+Copying object to master: WEAP Ebony Scimitar_her
+Copying object to master: STAT in_m_sewer_corner_01
+Copying object to master: SOUN Alma_hit0
+Copying object to master: NPC_ apelles matius
+Copying object to master: STAT in_MH_ramp_01
+Copying object to master: SPEL heavy_eyes_unique
+Copying object to master: STAT In_OM_column07
+Copying object to master: CREA ancestor_mg_wisewoman
+Copying object to master: NPC_ karrod
+Copying object to master: CONT Chest_gatekeeper
+Copying object to master: SCPT DagothUrCreature1
+Copying object to master: PGRD Old Mournhold: West Sewers (0, 0)
+Copying object to master: STAT in_dwe_slate07
+Copying object to master: PGRD Mournhold, Sadri Manor (0, 0)
+Copying object to master: ACTI act_plague_rock3
+Copying object to master: PGRD Old Mournhold: Residential Ruins (0, 0)
+Copying object to master: SCPT MuseumStendarHammer
+Copying object to master: STAT in_moldcave_12
+Copying object to master: PGRD Old Mournhold: Palace Sewers (0, 0)
+Copying object to master: ACTI furn_dwrv_tranny00
+Copying object to master: ACTI in_sotha_door_broke
+Copying object to master: STAT Ex_MH_Pav_Fountain
+Copying object to master: ENCH her shield_en
+Copying object to master: SCPT dbattackScriptOLD
+Copying object to master: SNDG durzog_war0004
+Copying object to master: STAT ex_t_rock_coastal_01
+Copying object to master: STAT in_MH_int_stairs_01
+Copying object to master: CELL Old Mournhold: Moril Manor, North Building
+Copying object to master: LIGH adamantium
+Copying object to master: GMST fWereWolfIntellegence
+Copying object to master: SCPT treboniusScript
+Copying object to master: NPC_ Granny Varis
+Copying object to master: DOOR door_load_darkness00
+Copying object to master: LIGH Light_OM_brazier
+Copying object to master: LEVI random_spines
+Copying object to master: DOOR Ex_MH_Palace_gate
+Copying object to master: CELL Old Mournhold: Abandoned Crypt
+Copying object to master: ACTI Ex_MH_Pav_BStatue_05
+Copying object to master: NPC_ Ten-Tongues_Weerhat
+Copying object to master: DOOR Ex_MH_Pav_Gate_Door
+Copying object to master: SPEL relvel_damage
+Copying object to master: DOOR In_De_Shack_Trapdoor
+Copying object to master: ARMO Indoril_MH_Guard_Cuirass
+Copying object to master: MISC key_velas
+Copying object to master: SCPT MuseumRingPhynaster
+Copying object to master: STAT in_dwe_slate04
+Copying object to master: BOOK bk_diary_sailor
+Copying object to master: CONT de_r_chest_01_Alusannah
+Copying object to master: PGRD Mournhold, Temple Courtyard (0, 0)
+Copying object to master: NPC_ Ahnia
+Copying object to master: NPC_ ovis velas
+Copying object to master: STAT in_MH_hall_01
+Copying object to master: LIGH Blade Light
+Copying object to master: DOOR In_MH_door_02_throne1
+Copying object to master: CREA Rat_pack_rerlas
+Copying object to master: STAT in_sotha_corr_wall00
+Copying object to master: NPC_ ra'tesh
+Copying object to master: ACTI act_sotha_gear01
+Copying object to master: CLOT common_shirt_06
+Copying object to master: CONT dwrv_chest_satchel00
+Copying object to master: GMST sGeneralMastPlugMismatchMsg
+Copying object to master: SCPT HessionScript
+Copying object to master: STAT in_moldtrans_00
+Copying object to master: ARMO fur_pauldron_left
+Copying object to master: GLOB abelmawiaCounter
+Copying object to master: ARMO lords_cuirass_unique_x
+Copying object to master: CREA durzog_wild
+Copying object to master: CONT crate_01_float1
+Copying object to master: GMST fWereWolfStrength
+Copying object to master: STAT in_m_sewer_cap_02
+Copying object to master: MISC misc_dwrv_goblet00_uni
+Copying object to master: BODY A_Adamantium_CL_Pauldron
+Copying object to master: STAT Ex_MH_Pavillion_Wall_E
+Copying object to master: CREA Rat_plague_hall1
+Copying object to master: STAT in_sotha_pre2_wall00
+Copying object to master: STAT in_sotha_gear_chamber00
+Copying object to master: ARMO DarkBrotherhood pauldron_R
+Copying object to master: SCPT armionScript
+Copying object to master: SCPT barAssScript
+Copying object to master: SCPT tarenScript
+Copying object to master: CELL Bitter Coast Region (-13, 1)
+Copying object to master: STAT in_moldcave_04
+Copying object to master: LIGH Light_OM_censure
+Copying object to master: GMST sCreateClassMenuWarning
+Copying object to master: SOUN SothaSpark
+Copying object to master: ACTI act_sotha_pre_door2
+Copying object to master: LIGH light_sotha_lantern
+Copying object to master: SPEL almalexia's light
+Copying object to master: SCPT SothaLever3
+Copying object to master: STAT In_OM_Dias
+Copying object to master: SCPT MuseumBitterMercy
+Copying object to master: ARMO imperial cuirass_armor
+Copying object to master: SCPT Contract_Calvus
+Copying object to master: ENCH King's_Oath_PC_EN
+Copying object to master: NPC_ mitanne limax
+Copying object to master: SPEL trap_poison_killer
+Copying object to master: PGRD Sotha Sil, Dome of Serlyn (0, 0)
+Copying object to master: STAT in_mold_rock_18
+Copying object to master: SPEL dire shockball
+Copying object to master: STAT in_sotha_dome00
+Copying object to master: BODY A_HelsethGuard_gauntlets
+Copying object to master: CELL Old Mournhold: Tears of Amun-Shae
+Copying object to master: SNDG goblin_footsoldier0006
+Copying object to master: MISC misc_com_silverware_spoon_uni
+Copying object to master: CELL Bamz-Amschend, Hall of Wails
+Copying object to master: CELL Sotha Sil, Hall of Mileitho
+Copying object to master: SPEL fireball_bar_uni
+Copying object to master: CELL Seyda Neen (-2, -10)
+Copying object to master: ENCH amulet_salandas_en
+Copying object to master: PGRD Old Mournhold: Residential Sewers (0, 0)
+Copying object to master: ENCH spite_en
+Copying object to master: ACTI EditorMarker_box_02
+Copying object to master: CELL Mournhold, Royal Palace: Reception Area
+Copying object to master: ARMO ebon_plate_cuirass_unique_x
+Copying object to master: ARMO iron_cuirass
+Copying object to master: NPC_ Black Dart Draren
+Copying object to master: SCPT dilbornScript
+Copying object to master: ACTI Sound_Cave_Wind00
+Copying object to master: ACTI act_sotha_pre_door5
+Copying object to master: NPC_ Guard_HighOrd_Attack
+Copying object to master: CLOT expensive_skirt_Mournhold
+Copying object to master: ACTI act_sotha_lever3a
+Copying object to master: BODY A_DarkBrotherhood_Greav_UL
+Copying object to master: WEAP Mace of Slurring_x
+Copying object to master: CONT de_r_chest_01_fcloth1
+Copying object to master: CELL Old Mournhold: Abandoned Passageway
+Copying object to master: INGR Ingred_golden_sedge_01
+Copying object to master: LTEX Rock_Coastal
+Copying object to master: SCPT karrodDoorScript
+Copying object to master: BOOK bk_BookOfDaedra
+Copying object to master: STAT in_dwe_corr2_00_exp
+Copying object to master: CREA centurion_spider_bbot3
+Copying object to master: CELL Mournhold, Magic Shop
+Copying object to master: DOOR In_MH_door_01
+Copying object to master: DOOR In_DB_door_oval_relvel
+Copying object to master: SNDG durzog_wild0001
+Copying object to master: BODY C_M_Shirt_Common_7_F
+Copying object to master: GLOB KingHit
+Copying object to master: STAT In_OM_wallruin07
+Copying object to master: INGR Ingred_lloramor_spines_01
+Copying object to master: CLOT Helseth's Collar
+Copying object to master: STAT Furn_museum_display_01
+Copying object to master: PGRD Old Mournhold: Temple Sewers (0, 0)
+Copying object to master: GLOB contractCalvusDay
+Copying object to master: WEAP centurion_projectile_dart
+Copying object to master: STAT EX_MH_bazaar_cart_01
+Copying object to master: ACTI act_sotha_lever10b
+Copying object to master: NPC_ hulgarth
+Copying object to master: CLOT mazed_band_end
+Copying object to master: PGRD Old Mournhold: Moril Manor, Courtyard (0, 0)
+Copying object to master: ACTI act_plague_rock1
+Copying object to master: GMST fWereWolfBluntWeapon
+Copying object to master: DOOR hlaal_loaddoor_01
+Copying object to master: STAT in_mold_rock_17
+Copying object to master: DOOR In_M_sewer_door_01
+Copying object to master: ACTI chimney_smoke_small_velas4
+Copying object to master: STAT EX_MH_building_07
+Copying object to master: GMST sDifficulty
+Copying object to master: BODY A_HelsethGuard_K
+Copying object to master: SCPT bardoor1Script
+Copying object to master: NPC_ Fonari Indaren
+Copying object to master: SCPT MarkTRStartScript
+Copying object to master: DOOR In_DB_door_oval
+Copying object to master: ALCH pyroil_tar_unique
+Copying object to master: NPC_ athelyn malas
+Copying object to master: ACTI act_sotha_steam00
+Copying object to master: SNDG Imperfect0000
+Copying object to master: STAT In_OM_DBfloor
+Copying object to master: BODY B_N_Dark Elf_F_BarenziahH
+Copying object to master: ACTI shrine_trigger
+Copying object to master: GMST sAdmireFail
+Copying object to master: ARMO Indoril_MH_Guard_helmet
+Copying object to master: CELL Sotha Sil, Hall of Delirium
+Copying object to master: ARMO adamantium_pauldron_left
+Copying object to master: ACTI act_sotha_door9
+Copying object to master: STAT in_MH_doorjamb_01
+Copying object to master: CELL Old Mournhold: Residential Sewers
+Copying object to master: ARMO netch_leather_gauntlet_right
+Copying object to master: CREA goblin_grunt
+Copying object to master: STAT EX_MH_canal_grate_01
+Copying object to master: ACTI In_moldrock05_UNI
+Copying object to master: ENCH black_dart_EN
+Copying object to master: GMST fWereWolfDestruction
+Copying object to master: SPEL trap_frost_killer
+Copying object to master: WEAP stendar_hammer_unique
+Copying object to master: PGRD Mournhold, Trader (0, 0)
+Copying object to master: NPC_ db_assassin4a
+Copying object to master: SCPT helsMoveScript
+Copying object to master: CREA dremora_lord_khash_uni
+Copying object to master: ARMO adamantium_pauldron_right
+Copying object to master: CREA centurion_shock_baladas
+Copying object to master: CREA dagoth gares
+Copying object to master: PGRD Mournhold Temple: Reception Area (0, 0)
+Copying object to master: SCPT profaneScript
+Copying object to master: GLOB Rent_MH_Guar
+Copying object to master: STAT in_MH_palace_room_01
+Copying object to master: PGRD Mournhold, Andoren Manor (0, 0)
+Copying object to master: CREA fabricant_verminousDead
+Copying object to master: STAT Ex_MH_Palacewin_01
+Copying object to master: ACTI Ex_MH_Pav_BStatue_11
+Copying object to master: SCPT fab_attack_disable
+Copying object to master: SCPT PlagueHallRat2
+Copying object to master: PGRD Sotha Sil, Dome of the Imperfect (0, 0)
+Copying object to master: ACTI Sound_Temple
+Copying object to master: GLOB MatchMakeSunel
+Copying object to master: STAT In_OM_mezzanine
+Copying object to master: GMST sEffectSummonCreature03
+Copying object to master: BODY C_M_Shirt_Common_6_F
+Copying object to master: BOOK bk_firmament
+Copying object to master: STAT EX_MH_bazaar_stage
+Copying object to master: NPC_ Black Dart Urvyn
+Copying object to master: ARMO imperial_chain_cuirass
+Copying object to master: CONT stolen_goods
+Copying object to master: STAT In_OM_skullpile
+Copying object to master: CELL Mournhold, Thendas Manor
+Copying object to master: SCPT cent_fab_attack
+Copying object to master: NPC_ velyna seran
+Copying object to master: SCPT drathasNerusScript
+Copying object to master: SCPT VelasCellCheck
+Copying object to master: NPC_ Elanande
+Copying object to master: STAT in_OM_Aquaduct
+Copying object to master: ARMO adamantium_bracer_right
+Copying object to master: CONT de_r_chest_irano_unique
+Copying object to master: BOOK bk_Artifacts_Tamriel
+Copying object to master: SNDG Imperfect0001
+Copying object to master: CREA clannfear_summon
+Copying object to master: WEAP ebony shortsword_soscean
+Copying object to master: NPC_ Evo Othreloth
+Copying object to master: STAT in_sotha_altar00
+Copying object to master: STAT In_OM_column09
+Copying object to master: ACTI act_dwe_lever_c
+Copying object to master: SPEL blood curse: fatigue
+Copying object to master: ACTI Sound_MournEnv1
+Copying object to master: GMST sMagicCreature05ID
+Copying object to master: CONT de_r_closet_01_mcloth02
+Copying object to master: LIGH light_bar5_unique
+Copying object to master: ARMO Helsethguard_gauntlet_left
+Copying object to master: ACTI act_h20crank_-550_400
+Copying object to master: BODY C_M_Pants_Common_7_UL
+Copying object to master: SNDG goblin_bruiser0005
+Copying object to master: GMST sInfoRefusal
+Copying object to master: NPC_ Donus Serethi
+Copying object to master: STAT in_sotha_corr2_01
+Copying object to master: LTEX AI_Clover
+Copying object to master: CONT com_sack_gold_05
+Copying object to master: CONT flora_plant_08
+Copying object to master: ACTI chimney_smoke_small_velas2
+Copying object to master: STAT in_dwe_ramp00_exp
+Copying object to master: LEVI random_noble_sedge
+Copying object to master: SCPT IgnatiusBBot2Script
+Copying object to master: SCPT MatchMakeFons
+Copying object to master: GMST fWereWolfFatigue
+Copying object to master: STAT In_DB_front
+Copying object to master: CREA centurion_projectile
+Copying object to master: SNDG durzog_diseased0005
+Copying object to master: SOUN Dwe_waterfall
+Copying object to master: STAT in_sotha_resistor00
+Copying object to master: NPC_ venasa sarano
+Copying object to master: CONT crate_01_food_misc01
+Copying object to master: BODY C_M_Pants_Common_6_G
+Copying object to master: GMST fWereWolfAlteration
+Copying object to master: ACTI Ex_MH_Pav_Top
+Copying object to master: DOOR In_MH_door_02_bar2_uni
+Copying object to master: ACTI Ex_MH_Pav_BStatue_12
+Copying object to master: NPC_ sjoring hard-heart
+Copying object to master: BOOK bk_BookDawnAndDusk
+Copying object to master: SCPT SothaLever11
+Copying object to master: BODY A_HelsethGuard_gauntlets.1st
+Copying object to master: SCPT tarenEnableScript
+Copying object to master: BODY C_skirt_Common_7
+Copying object to master: STAT in_sotha_spiral_stair
+Copying object to master: STAT in_sotha_corr_trap
+Copying object to master: ACTI chimney_smoke_small_velas1
+Copying object to master: DOOR ex_nord_door_01
+Copying object to master: NPC_ gavas drin
+Copying object to master: NPC_ taren andoren
+Copying object to master: SOUN fabBossDead
+Copying object to master: STAT Furn_throne_canopy_01
+Copying object to master: SOUN Ambient Factory Ruins
+Copying object to master: SCPT SadriThief
+Copying object to master: CONT de_p_desk_01_llethan
+Copying object to master: CREA durzog_war
+Copying object to master: DOOR ex_h_trapdoor_01
+Copying object to master: CLOT ring_vampiric_unique_x
+Copying object to master: SCPT DrothGeon
+Copying object to master: NPC_ nevama sarobar
+Copying object to master: LIGH MH_Ignatius light
+Copying object to master: PGRD Mournhold, Craftsmen's Hall (0, 0)
+Copying object to master: ARMO Helsethguard_gauntlet_right
+Copying object to master: GLOB HelAss
+Copying object to master: NPC_ Marena Gilnith
+Copying object to master: MISC misc_dwrv_bowl00_uni
+Copying object to master: SCPT PlagueRock3
+Copying object to master: BODY A_AlmIndoril_gauntlets.1st
+Copying object to master: ACTI act_sotha_pre_door9
+Copying object to master: DOOR in_m_sewer_trapdoor_01_blkd
+Copying object to master: ACTI Script_Taren_Enable
+Copying object to master: DOOR In_MH_door_02_throne2
+Copying object to master: STAT Flora_treedead_MH_01
+Copying object to master: LIGH light_dwe_bulb00
+Copying object to master: CELL Mournhold, Plaza Brindisi Dorom
+Copying object to master: ACTI Act_Rockslide01
+Copying object to master: SNDG durzog_wild0000
+Copying object to master: SNDG durzog_wild0006
+Copying object to master: NPC_ thrud
+Copying object to master: ACTI act_sotha_lever1b
+Copying object to master: GMST iWereWolfLevelToAttack
+Copying object to master: ARMO imperial_chain_pauldron_left
+Copying object to master: STAT EX_MH_doorjamb_02a
+Copying object to master: ARMO iron boots
+Copying object to master: SOUN FabBossGyro
+Copying object to master: CELL Mournhold, Craftsmen's Hall
+Copying object to master: CELL Mournhold, Royal Palace: Guards' Quarters
+Copying object to master: STAT in_MH_temple_02
+Copying object to master: MISC misc_com_bottle_10
+Copying object to master: CREA goblin_footsoldier
+Copying object to master: BOOK bk_commontongue_irano
+Copying object to master: LIGH goblin caves
+Copying object to master: SCPT Gaenor_bScript
+Copying object to master: SOUN Alma_att1
+Copying object to master: CELL Norenen-dur, The Teeth that Gnash
+Copying object to master: ACTI Ex_MH_Pav_BStatue_15
+Copying object to master: STAT in_dwe_slate02
+Copying object to master: ARMO Indoril_MH_Guard_Greaves
+Copying object to master: NPC_ hession
+Copying object to master: LIGH green light_400
+Copying object to master: BODY A_DarkBrotherhood_Helmet
+Copying object to master: ACTI act_sotha_mach_door1
+Copying object to master: ARMO addamantium_helm
+Copying object to master: NPC_ ordinator_mh_TH_UNI
+Copying object to master: SCPT goblinchiefScript2
+Copying object to master: ACTI act_flora_treedead_MH_02
+Copying object to master: GLOB HasBlade
+Copying object to master: STAT in_mold_rock_21
+Copying object to master: NPC_ db_assassin1
+Copying object to master: CONT rock_adam_py08
+Copying object to master: CREA durzog_war_trained
+Copying object to master: SNDG durzog_wild0005
+Copying object to master: PGRD Bamz-Amschend, Passage of the Walker (0, 0)
+Copying object to master: CONT chest_small_01_gold_50
+Copying object to master: CELL Bitter Coast Region (-13, 3)
+Copying object to master: NPC_ db_assassin2a
+Copying object to master: NPC_ asciene rane
+Copying object to master: BODY C_M_Shirt_Mournhold_UA
+Copying object to master: CELL Mournhold, Temple Courtyard
+Copying object to master: ARMO Helsethguard_pauldron_right
+Copying object to master: ENCH her scimitar_EN
+Copying object to master: SCPT JournalistPals
+Copying object to master: DOOR ex_t_door_01
+Copying object to master: MISC artifact_bittercup_01
+Copying object to master: PGRD Sotha Sil, Hall of Mileitho (0, 0)
+Copying object to master: SCPT fluctuateWaterLevel
+Copying object to master: BOOK bk_commontongue
+Copying object to master: CREA lich
+Copying object to master: ACTI Sound_Bubbles00
+Copying object to master: WEAP daedric dagger_bar
+Copying object to master: SNDG durzog_wild0004
+Copying object to master: SNDG Almalexia_warrior0005
+Copying object to master: DOOR In_DB_door_oval_02
+Copying object to master: CELL Mournhold, Royal Palace: Jail
+Copying object to master: BOOK bk_MysteriousAkavir
+Copying object to master: ACTI Inviso_wall_3
+Copying object to master: GMST sCompanionWarningMessage
+Copying object to master: CELL Norenen-dur
+Copying object to master: STAT In_OM_rock_stairs
+Copying object to master: STAT furn_com_torch_ring_01
+Copying object to master: ENCH her curiass_EN
+Copying object to master: ACTI act_black_load02
+Copying object to master: CREA centurion_spider_bbot7
+Copying object to master: GLOB KGaveBlade
+Copying object to master: ACTI In_OM_waterfall_small
+Copying object to master: SCPT SothaLever5
+Copying object to master: ENCH her right pauldron_EN
+Copying object to master: STAT Active_MH_Forcefield_01
+Copying object to master: STAT In_OM_wall_spike
+Copying object to master: SNDG almalexia0005
+Copying object to master: SOUN lich lord moan
+Copying object to master: SCPT db_assassinScript
+Copying object to master: SCPT DrothDagger
+Copying object to master: DOOR door_sotha_pre_load
+Copying object to master: NPC_ Laurina Maria
+Copying object to master: WEAP fine spring dart
+Copying object to master: NPC_ db_assassin3a
+Copying object to master: STAT Furn_Planter_MH_03
+Copying object to master: CONT rock_adam_mold17
+Copying object to master: MISC key_trib_dwe00
+Copying object to master: NPC_ Sirollus Saccus
+Copying object to master: WEAP adamantium_shortsword_db
+Copying object to master: ACTI act_black_load03
+Copying object to master: GMST fWereWolfConjuration
+Copying object to master: ARMO imperial_studded_cuirass
+Copying object to master: SCPT replenishammo
+Copying object to master: STAT EX_MH_bazaar_tent
+Copying object to master: ACTI act_sotha_monster1
+Copying object to master: ENCH mace_slurring_en
+Copying object to master: BODY C_M_Helseth_Robe.1st
+Copying object to master: SOUN SothaGiantBlade
+Copying object to master: CREA centurion_sphere_hts2
+Copying object to master: GMST sBribeSuccess
+Copying object to master: INGR Ingred_noble_sedge_01
+Copying object to master: PGRD Mournhold, Velas Manor (0, 0)
+Copying object to master: SNDG goblin_bruiser0004
+Copying object to master: SNDG almalexia0006
+Copying object to master: GLOB PlagueRock
+Copying object to master: STAT ex_gg_fence_03
+Copying object to master: NPC_ Guard_Helseth
+Copying object to master: GMST fWereWolfMarksman
+Copying object to master: STAT ex_dae_ruin_stair01_short
+Copying object to master: NPC_ Milvela Dralen
+Copying object to master: CONT com_chest_02_durgok
+Copying object to master: SNDG fabricant_verminous0005
+Copying object to master: SNDG lich0006
+Copying object to master: DOOR In_MH_door_02
+Copying object to master: SCPT SothaLever1
+Copying object to master: CELL Pelagiad, Ignatius Flaccus' House
+Copying object to master: BODY C_M_Pants_Common_7_A
+Copying object to master: GMST sSaveGameNoMemory
+Copying object to master: SCPT torch_lever
+Copying object to master: ACTI act_sotha_gear03
+Copying object to master: ACTI Inviso_wall_1
+Copying object to master: DOOR In_MH_door_02_chapel
+Copying object to master: STAT EX_MH_bazaar_bench_01
+Copying object to master: SCPT WritHloggar
+Copying object to master: ARMO DarkBrotherhood gauntlet_R
+Copying object to master: STAT in_dwe_slate00
+Copying object to master: ACTI active_6th_bell_03
+Copying object to master: ACTI Ex_MH_Pav_BStatue_02
+Copying object to master: NPC_ db_assassin1a
+Copying object to master: STAT in_sotha_gear02
+Copying object to master: DOOR in_hlaalu_loaddoor_02
+Copying object to master: GMST fWereWolfWillPower
+Copying object to master: CONT chest_small_01_soulgem
+Copying object to master: SCPT AzuraEnd
+Copying object to master: ACTI act_sotha_long_gear03
+Copying object to master: CREA fabricant_verminous-rs
+Copying object to master: SOUN fabBossRight
+Copying object to master: ACTI Inviso_wall_6
+Copying object to master: CELL Bamz-Amschend, Passage of the Walker
+Copying object to master: STAT In_OM_Aquaduct_End02
+Copying object to master: ACTI act_sotha_lever_bridge
+Copying object to master: NPC_ effe_tei
+Copying object to master: LIGH light_bar7_unique
+Copying object to master: ACTI chimney_smoke_small_velas3
+Copying object to master: NPC_ Ungeleb
+Copying object to master: ACTI act_sotha_collide
+Copying object to master: SNDG goblin_grunt0004
+Copying object to master: BODY A_Adamantium_Greaves_G
+Copying object to master: WEAP spring dart
+Copying object to master: ARMO adamantium_helm
+Copying object to master: SPEL resist fire_100
+Copying object to master: ACTI Act_Crystal_01_Pulse
+Copying object to master: STAT Furn_banner_hanger_01
+Copying object to master: SNDG durzog_war0000
+Copying object to master: GLOB MournWeather
+Copying object to master: ACTI act_sotha_lever1a
+Copying object to master: ACTI Furn_De_Bar_01
+Copying object to master: STAT Flora_grass_07
+Copying object to master: STAT in_MH_int_corner_03
+Copying object to master: ARMO Indoril_MH_Guard_gauntlet_R
+Copying object to master: SPEL almalexia's grace
+Copying object to master: DOOR In_MH_door_01_velas
+Copying object to master: ACTI Sound_Sotha_Lab
+Copying object to master: CREA lich_barilzar
+Copying object to master: SCPT MerynScript
+Copying object to master: ACTI Sound_Sotha_Sparks
+Copying object to master: STAT In_M_sewer_niche_02
+Copying object to master: ACTI active_assassin_unique
+Copying object to master: ACTI Ex_MH_Pav_BStatue_01
+Copying object to master: LIGH light_de_lantern_03_700_sway
+Copying object to master: PGRD Sotha Sil, Hall of Sallaemu (0, 0)
+Copying object to master: NPC_ Dilborn
+Copying object to master: SCPT HighPocketsCellCheck
+Copying object to master: ARMO Helsethguard_cuirass
+Copying object to master: SOUN fabHulkScream
+Copying object to master: CELL Mournhold, The Winged Guar
+Copying object to master: ACTI Sound_Sotha_Gears
+Copying object to master: ACTI act_sotha_mach_door
+Copying object to master: STAT Ex_MH_Pav_Walk_N
+Copying object to master: MISC Misc_Com_Redware_Cup
+Copying object to master: ACTI act_waterlevel_changer
+Copying object to master: SCPT dbdartScript
+Copying object to master: SCPT lucan_ostorius
+Copying object to master: CONT com_chest_02_v_armor07
+Copying object to master: NPC_ drathas reyas
+Copying object to master: CLOT Expensive_shoes_Mournhold
+Copying object to master: ENCH Flensing
+Copying object to master: CELL West Gash Region (-15, 7)
+Copying object to master: GMST sWerewolfRestMessage
+Copying object to master: NPC_ armion
+Copying object to master: CELL Old Mournhold: Teran Hall
+Copying object to master: SCPT dandrasScript
+Copying object to master: SCPT Sound_Waterfall
+Copying object to master: SCPT Sotha_Alma
+Copying object to master: STAT in_dwe_pill_bk03
+Copying object to master: LIGH light_bar3_unique
+Copying object to master: STAT in_dwe_slate08
+Copying object to master: ENCH her right gauntlet_EN
+Copying object to master: ACTI Ex_MH_Almalexia_Statue
+Copying object to master: STAT in_sotha_pre_load
+Copying object to master: STAT in_moldboulder01
+Copying object to master: SCPT rerlas
+Copying object to master: SPEL almalexia's shield
+Copying object to master: SCPT PlagueHallRat1
+Copying object to master: STAT in_pycave_04
+Copying object to master: CONT urn_02_food
+Copying object to master: STAT EX_MH_steps_01
+Copying object to master: STAT In_OM_floor_1024
+Copying object to master: NPC_ Black Dart Gilur
+Copying object to master: WEAP glass dagger_symmachus_unique_x
+Copying object to master: ARMO tenpaceboots_x
+Copying object to master: NPC_ Bedal Alen
+Copying object to master: CELL Mournhold Temple
+Copying object to master: ACTI act_sotha_door3
+Copying object to master: BODY A_DarkBrotherhood_gauntlet.1st
+Copying object to master: CREA goblin_warchief2
+Copying object to master: GMST sEffectSummonFabricant
+Copying object to master: CREA centurion_sphere_bbot5
+Copying object to master: STAT Broken_Imperfect
+Copying object to master: STAT ex_gg_fence_02_bbot
+Copying object to master: ACTI Shrine Cleanse
+Copying object to master: CELL Sotha Sil, Inner Flooded Halls
+Copying object to master: ACTI act_hot_oil_512
+Copying object to master: ACTI act_dwe_powerbox00
+Copying object to master: CELL Norenen-dur, The Grand Stair
+Copying object to master: PGRD Old Mournhold: City Gate (0, 0)
+Copying object to master: SNDG fabricant_hulking0005
+Copying object to master: PGRD Old Mournhold: Forgotten Sewer (0, 0)
+Copying object to master: SCPT MuseumUmbraSword
+Copying object to master: CELL Sotha Sil, Hall of Sallaemu
+Copying object to master: STAT Active_MH_Forcefield_02
+Copying object to master: SOUN sludgeworm scream
+Copying object to master: CELL Mournhold, Godsreach
+Copying object to master: CONT chest_01_v_potion_ap_01
+Copying object to master: BODY C_M_Pants_Common_6_A
+Copying object to master: ACTI act_sotha_fabsteam
+Copying object to master: SOUN FabHulkRight
+Copying object to master: MISC misc_de_pot_glass_peach_02
+Copying object to master: GMST sMaxSale
+Copying object to master: STAT In_M_sewer_wall
+Copying object to master: ENCH mace_salandas_en
+Copying object to master: WEAP adamantium_shortsword
+Copying object to master: STAT in_dwe_slate06
+Copying object to master: ARMO Indoril_MH_Guard_shield
+Copying object to master: DOOR in_de_shack_door
+Copying object to master: NPC_ Hloggar the Bloody
+Copying object to master: NPC_ ordinator_MH_Sadri
+Copying object to master: ENCH durgok's shield
+Copying object to master: CONT urn_04_food
+Copying object to master: STAT in_MH_corner_01
+Copying object to master: STAT In_MH_Pav_Lava_Cave
+Copying object to master: SNDG goblin_footsoldier0004
+Copying object to master: STAT in_moldcave_10
+Copying object to master: DOOR Ex_MH_swr_trapdr_blkd
+Copying object to master: SCPT enable_teleport
+Copying object to master: SCPT MuseumAurielShield
+Copying object to master: ARMO goblin_shield
+Copying object to master: CREA atronach_storm_summon
+Copying object to master: STAT in_m_sewer_connect_01
+Copying object to master: STAT in_v_s_int_corner_02
+Copying object to master: CREA skeleton_relvel
+Copying object to master: CLAS Queen Mother
+Copying object to master: CONT de_r_chest_01_aleri
+Copying object to master: CELL Mournhold, Secret Office
+Copying object to master: BODY A_Adamantium_Pauldron_UA
+Copying object to master: STAT in_sotha_stairs00
+Copying object to master: ACTI Ex_MH_Pav_BStatue_07
+Copying object to master: SOUN power hummer
+Copying object to master: SOUN fabHulkMoan
+Copying object to master: SCPT IlnoriCellCheck
+Copying object to master: STAT In_OM_pillar
+Copying object to master: WEAP fine bleeder dart
+Copying object to master: GMST sEasy
+Copying object to master: SCPT Sound_Dwemer_Fan
+Copying object to master: STAT in_sotha_corr4_00
+Copying object to master: SCPT sotha_machine1
+Copying object to master: ARMO adamantium boots
+Copying object to master: ENCH sc_chridittespanacea_en
+Copying object to master: CELL Mournhold, Royal Palace: Legion Depot
+Copying object to master: DOOR door_sotha_load
+Copying object to master: SCPT Sound_SothaLab
+Copying object to master: STAT EX_MH_bazaar_stage_02
+Copying object to master: MISC key_trib_dwe02
+Copying object to master: ARMO Indoril_Almalexia_Pauldron_R
+Copying object to master: BODY A_Steel_Cuir_Female
+Copying object to master: STAT EX_MH_palace_wall_02
+Copying object to master: BODY A_HelsethGuard_F
+Copying object to master: CREA centurion_sphere_bbot6
+Copying object to master: DOOR Ex_MH_Pav_Ladder_01
+Copying object to master: SNDG centurion_projectile0005
+Copying object to master: SOUN SothaAmbient
+Copying object to master: SCPT PlagueStart
+Copying object to master: NPC_ bakh gro-sham
+Copying object to master: CONT de_r_chest_01_Velas
+Copying object to master: CREA golden saint
+Copying object to master: WEAP bleeder dart
+Copying object to master: ACTI active_de_pr_bed_23
+Copying object to master: CONT dwrv_chest_Bam
+Copying object to master: WEAP spite_dart
+Copying object to master: MISC misc_com_metal_plate_03_uni
+Copying object to master: STAT EX_MH_wall_tower_01
+Copying object to master: STAT in_sotha_gear01
+Copying object to master: LIGH Light_MH_streetlamp_01_750
+Copying object to master: NPC_ Gaenor
+Copying object to master: SNDG fabricant_verminous0004
+Copying object to master: ACTI Ex_MH_Pav_BStatue_04
+Copying object to master: STAT in_dwe_hall_enter_00
+Copying object to master: ARMO bonemold_pauldron_r
+Copying object to master: SOUN SothaDoorOpen
+Copying object to master: STAT furn_crate_open_01
+Copying object to master: WEAP Gravedigger
+Copying object to master: CREA fabricant_hulking_C_L
+Copying object to master: STAT Ex_MH_Pav_Spout
+Copying object to master: STAT in_py_rock_07
+Copying object to master: BODY C_M_Shirt_Common_7_UA
+Copying object to master: STAT in_dwe_archway00_end
+Copying object to master: SCPT GavisScript
+Copying object to master: SCPT BattleBot1Script
+Copying object to master: BOOK bk_suicidenote
+Copying object to master: CREA golden saint_summon
+Copying object to master: SCPT PlagueOrdBasement
+Copying object to master: ENCH carmine_dart_EN
+Copying object to master: BOOK bk_Teran_invoice
+Copying object to master: SCPT bardoor4Script
+Copying object to master: STAT In_OM_column15
+Copying object to master: DOOR Rent_MH_Guar_Door
+Copying object to master: GLOB bladefix
+Copying object to master: ACTI Sound_Sotha_Amb
+Copying object to master: NPC_ db_assassin1b
+Copying object to master: PGRD Mournhold, Secret Office (0, 0)
+Copying object to master: BOOK bk_Yagrum's_Book
+Copying object to master: STAT in_dwe_utilcorr01_exp
+Copying object to master: GMST fWereWolfPersonality
+Copying object to master: SCPT AhniaNote
+Copying object to master: DOOR In_MH_trapdoor_01
+Copying object to master: GMST sHard
+Copying object to master: SCPT mazedbandScript
+Copying object to master: SCPT SothaLever4
+Copying object to master: ACTI act_sotha_lever8b
+Copying object to master: NPC_ royal guard_karrod
+Copying object to master: BODY a_adamantium_cuirass_c
+Copying object to master: SOUN SothaLever
+Copying object to master: CONT de_r_closet_01_nermarc
+Copying object to master: SCPT Irano_note
+Copying object to master: SCPT GaenorTimer
+Copying object to master: DOOR door_sotha_mach_door2
+Copying object to master: GLOB MercenaryNear
+Copying object to master: GMST sEffectSummonCreature04
+Copying object to master: GMST sMagicCreature01ID
+Copying object to master: SNDG Imperfect0005
+Copying object to master: CONT flora_sedge_02
+Copying object to master: SOUN goblin large roar
+Copying object to master: ARMO bloodworm_helm_unique_x
+Copying object to master: LIGH light_sotha_sparks_hi
+Copying object to master: DOOR EX_MH_temple_door_01
+Copying object to master: BODY A_AlmIndoril_Greaves_G
+Copying object to master: STAT light_bar1_OUT_unique
+Copying object to master: STAT In_OM_spike02
+Copying object to master: STAT Ex_MH_Pav_Steps
+Copying object to master: ACTI Sound_MournSpray
+Copying object to master: ARMO Indoril_Almalexia_Pauldron_L
+Copying object to master: BOOK bk_ahnia
+Copying object to master: SCPT VarisDead
+Copying object to master: STAT EX_MH_bazaar_booth_01
+Copying object to master: PGRD Old Mournhold: Abandoned Crypt (0, 0)
+Copying object to master: GMST fWereWolfUnarmored
+Copying object to master: NPC_ deldrise andoren
+Copying object to master: PGRD Mournhold, Thendas Manor (0, 0)
+Copying object to master: DOOR in_m_sewer_trapdoor_01
+Copying object to master: ACTI active_dbhideout
+Copying object to master: PGRD Bamz-Amschend, Passage of Whispers (0, 0)
+Copying object to master: PGRD Norenen-dur, The Wailingdelve (0, 0)
+Copying object to master: SCPT proximityMine
+Copying object to master: CLOT common_pants_06
+Copying object to master: WEAP silver dagger_othril_unique
+Copying object to master: STAT in_m_sewer_4way_01
+Copying object to master: ACTI act_sotha_clockwork
+Copying object to master: SNDG goblin_bruiser0006
+Copying object to master: SSCR 2463520003161225181
+Copying object to master: CONT flora_plant_03
+Copying object to master: STAT in_dwe_pillar00_exp
+Copying object to master: ACTI Ex_MH_Pav_BStatue_14
+Copying object to master: SOUN MournNightAmb
+Copying object to master: SPEL her_protection
+Copying object to master: STAT In_OM_wallruin05
+Copying object to master: NPC_ Veros Nerethi
+Copying object to master: SCPT DrothPost
+Copying object to master: GMST sIntimidateFail
+Copying object to master: SCPT MHCityGates
+Copying object to master: STAT in_mold_rock_12
+Copying object to master: GMST sLoadingMessage2
+Copying object to master: MISC misc_de_pot_blue_01
+Copying object to master: NPC_ Olvyne Dobar
+Copying object to master: ACTI act_sotha_long_gear02
+Copying object to master: LEVI random_stalks
+Copying object to master: PGRD Mournhold, Clothier (0, 0)
+Copying object to master: CONT chest_01_v_potion_p_01
+Copying object to master: NPC_ Ivulen Irano
+Copying object to master: CONT de_r_chest_01_mcloth1
+Copying object to master: SOUN cavein
+Copying object to master: SCPT treeliveScript
+Copying object to master: CREA fabricant_verminous
+Copying object to master: ENCH helm_uvenim_en
+Copying object to master: ENCH bleeder_dart_EN
+Copying object to master: STAT Furn_banner_stage_01
+Copying object to master: SOUN Cave Wind
+Copying object to master: NPC_ Sunel Hlas
+Copying object to master: ARMO DarkBrotherhood Cuirass
+Copying object to master: CREA ogrim titan_velas
+Copying object to master: NPC_ Imperial Guard_M_Sadri
+Copying object to master: LTEX Tx_AI_mainroad_01.tga
+Copying object to master: NPC_ therdon2
+Copying object to master: LIGH Light_logpile_UNI
+Copying object to master: SCPT PlagueAthelyn
+Copying object to master: NPC_ db_assassin2
+Copying object to master: CREA centurion_sphere
+Copying object to master: INGR Ingred_horn_lily_bulb_01
+Copying object to master: LIGH light_bar1_unique
+Copying object to master: CLOT ring_phynaster_unique_x
+Copying object to master: ARMO Helsethguard_boots
+Copying object to master: SCPT dbattackScript
+Copying object to master: ARMO steel_helm
+Copying object to master: BOOK bk_custom_armor
+Copying object to master: SCPT karrodMovement
+Copying object to master: STAT in_vs_pitfloor_01
+Copying object to master: STAT in_hlaalu_room_entry
+Copying object to master: MISC key_thendas
+Copying object to master: WEAP claymore_chrysamere_unique_x
+Copying object to master: MGEF SummonFabricant
+Copying object to master: LTEX AI_Tilled_Dirt
+Copying object to master: MISC misc_com_bottle_13
+Copying object to master: ACTI act_sotha_lever3b
+Copying object to master: STAT In_OM_column06
+Copying object to master: SOUN SothaGear
+Copying object to master: SCPT MuseumHelmBearclaw
+Copying object to master: ACTI active_de_r_bed_18
+Copying object to master: SCPT MuseumRingWarlock
+Copying object to master: STAT light_bar4_OUT_unique
+Copying object to master: CONT com_chest_02_thendas2
+Copying object to master: CELL Norenen-dur, Basilica of Divine Whispers
+Copying object to master: CONT de_r_chest_01_milvela
+Copying object to master: ARMO dragonbone_cuirass_unique_x
+Copying object to master: STAT In_OM_hall_03
+Copying object to master: ENCH mazedband
+Copying object to master: ACTI act_sotha_pre_door4
+Copying object to master: SNDG durzog_diseased0006
+Copying object to master: CELL Sotha Sil,
+Copying object to master: GMST fWereWolfAlchemy
+Copying object to master: STAT In_OM_column10
+Copying object to master: LIGH Light_sotha_fire_unique3
+Copying object to master: STAT In_OM_4way_01
+Copying object to master: PGRD Mournhold Temple: High Chapel (0, 0)
+Copying object to master: LEVI random_timsa
+Copying object to master: SCPT BILL_MT_calc_legit_kills
+Copying object to master: STAT in_m_sewer_door_broken
+Copying object to master: CELL Mournhold, Vacant Manor
+Copying object to master: PGRD Old Mournhold: Temple Crypt (0, 0)
+Copying object to master: NPC_ dravil indrano
+Copying object to master: CELL Old Mournhold: Temple Sewers West
+Copying object to master: STAT In_OM_column11
+Copying object to master: ACTI misc_dwrv_prox_mine
+Copying object to master: ARMO towershield_eleidon_unique_x
+Copying object to master: STAT in_dwe_slate05
+Copying object to master: LTEX AI_Dirt
+Copying object to master: DOOR ex_velothi_loaddoor_02
+Copying object to master: SCPT passageScript
+Copying object to master: SPEL Royal_Resistance
+Copying object to master: CELL Old Mournhold: Moril Manor, East Building
+Copying object to master: MISC misc_de_bowl_glass_peach_01
+Copying object to master: LEVC in_dwe_all_tribunal
+Copying object to master: CREA centurion_steam_bbot4
+Copying object to master: ENCH belt_goval_en
+Copying object to master: CREA dagoth endus
+Copying object to master: SOUN sludgeworm fall
+Copying object to master: PGRD Mournhold, Armory (0, 0)
+Copying object to master: NPC_ plitinius mero
+Copying object to master: WEAP Mace of Slurring
+Copying object to master: STAT in_moldcave_03
+Copying object to master: WEAP warhammer_crusher_unique_x
+Copying object to master: GMST sMaximumSaveGameMessage
+Copying object to master: SPEL trap_fire_killer
+Copying object to master: LIGH Light_sotha_fire_unique1
+Copying object to master: DOOR ex_velothi_loaddoor_01
+Copying object to master: BODY C_M_Pants_Common_6_UL
+Copying object to master: CELL Mournhold, Royal Palace
+Copying object to master: CELL Mournhold, Great Bazaar
+Copying object to master: SCPT VVTransportScript
+Copying object to master: STAT furn_dwrv_bookshelf00
+Copying object to master: GMST sWerewolfAlarmMessage
+Copying object to master: GMST s3dHardware
+Copying object to master: STAT EX_MH_platform_03
+Copying object to master: CELL Old Mournhold: Gedna Relvel's Tomb
+Copying object to master: SPEL resist paralysis_100
+Copying object to master: STAT Furn_museum_display_02
+Copying object to master: SCPT SpellCast
+Copying object to master: SPEL Her_Hand
+Copying object to master: SCPT trigger_spells
+Copying object to master: NPC_ Alusannah
+Copying object to master: NPC_ Myn Farr
+Copying object to master: ENCH stendarr_hammer_en
+Copying object to master: STAT In_OM_end
+Copying object to master: MISC misc_de_pitcher_01
+Copying object to master: STAT in_MH_temple_hall_01
+Copying object to master: LTEX AI_Dirtroad
+Copying object to master: PGRD Old Mournhold: Tears of Amun-Shae (0, 0)
+Copying object to master: WEAP imperial shortsword
+Copying object to master: ACTI azura spirit_trib
+Copying object to master: GLOB PlagueActivate
+Copying object to master: STAT Ex_MH_Palacewin_03
+Copying object to master: BOOK book_dwe_water00
+Copying object to master: SOUN oil bubbly
+Copying object to master: SCPT floatAboveStartHeight
+Copying object to master: STAT Furn_throne_01
+Copying object to master: STAT Active_MH_Forcefield
+Copying object to master: BODY A_HelsethGuard_Cuirass
+Copying object to master: WEAP King's_Oath_pc
+Copying object to master: SCPT bardoor3Script
+Copying object to master: SCPT SignRotate
+Copying object to master: ARMO indoril helmet
+Copying object to master: PGRD Mournhold Temple: Basement (0, 0)
+Copying object to master: SCPT GoToJailWhenDone
+Copying object to master: GMST sTauntFail
+Copying object to master: SCPT Therdon2Script
+Copying object to master: ENCH db_poison
+Copying object to master: PGRD Old Mournhold: Manor District (0, 0)
+Copying object to master: MISC misc_dwrv_mug00_uni
+Copying object to master: ACTI furn_dwrv_steam_00
+Copying object to master: SNDG durzog_war0006
+Copying object to master: SCPT karrodScript
+Copying object to master: BODY C_shoes_Common_6
+Copying object to master: BODY A_HelsethGuard_Helm
+Copying object to master: ENCH spear_uvenim_en
+Copying object to master: CONT rock_adam_mold19
+Copying object to master: DOOR Ex_DE_ship_cabindoor
+Copying object to master: WEAP Ebony Scimitar
+Copying object to master: SNDG goblin_officer0006
+Copying object to master: STAT In_OM_spike03
+Copying object to master: NPC_ Edre Retene
+Copying object to master: STAT in_mold_rock_08
+Copying object to master: DOOR door_cavern_doors00_velas
+Copying object to master: BODY A_DarkBrotherhood_Boot_F
+Copying object to master: STAT Ex_MH_Temple_base
+Copying object to master: CREA centurion_steam_advance
+Copying object to master: SCPT Sound_SothaGears
+Copying object to master: CREA fabricant_verminous_C
+Copying object to master: PGRD Mournhold Temple: Office of the Lord Archcanon (0, 0)
+Copying object to master: MISC Misc_SoulGem_Greater
+Copying object to master: BODY A_DarkBrotherhood_Boot_A
+Copying object to master: SOUN fabBossLeft
+Copying object to master: SCPT MuseumBowShadows
+Copying object to master: DOOR in_velothismall_ndoor_01
+Copying object to master: ARMO boots of blinding speed_x
+Copying object to master: STAT furn_de_pathspear_04_uni4
+Copying object to master: CLOT Helseth's Robe
+Copying object to master: ARMO Indoril_MH_Guard_Pauldron_R
+Copying object to master: SCPT waterstate_torchdisable
+Copying object to master: PGRD Mournhold, Llethan Manor (0, 0)
+Copying object to master: STAT Ex_MH_bazaar_planter_01
+Copying object to master: SCPT Sound_SothaRoll
+Copying object to master: LIGH Flame Light 768
+Copying object to master: STAT in_OM_stone_ramp
+Copying object to master: ACTI Column_Cast3
+Copying object to master: WEAP iron broadsword
+Copying object to master: CREA goblin_warchief1
+Copying object to master: BOOK bk_dbcontract
+Copying object to master: ENCH viper_enu
+Copying object to master: GMST fWereWolfRunMult
+Copying object to master: ACTI Sound_Power_Hum
+Copying object to master: PGRD Sotha Sil, Hall of Delirium (0, 0)
+Copying object to master: SCPT bakhScript
+Copying object to master: WEAP steel broadsword
+Copying object to master: SCPT TribEnd
+Copying object to master: CONT flora_plant_02
+Copying object to master: STAT In_OM_Arch02
+Copying object to master: NPC_ high_pockets
+Copying object to master: CLAS Gardener
+Copying object to master: ACTI Ex_MH_Pav_Crack
+Copying object to master: ACTI Ex_MH_Pav_Rubble_01
+Copying object to master: CONT com_chest_02_v_indalen
+Copying object to master: STAT in_dwe_rod01_exp
+Copying object to master: SPEL regen_imperfect
+Copying object to master: SCPT MuseumRobeLich
+Copying object to master: SCPT WritAlen
+Copying object to master: GLOB DuelMiss
+Copying object to master: ACTI act_torch_lever_UNI
+Copying object to master: GMST sIntimidateSuccess
+Copying object to master: STAT Flora_tree_MH_02
+Copying object to master: GMST iWereWolfBounty
+Copying object to master: MISC misc_dwrv_pitcher00_uni
+Copying object to master: STAT Ex_MH_Pav_Tower
+Copying object to master: CELL Old Mournhold: Temple Sewers East
+Copying object to master: SCPT tr_weathmachine
+Copying object to master: GLOB gobchiefdead
+Copying object to master: SCPT enoScript
+Copying object to master: SCPT Plague_Gedna
+Copying object to master: CLAS King
+Copying object to master: ACTI act_sotha_lever8a
+Copying object to master: DOOR in_h_trapdoor_01
+Copying object to master: MISC misc_com_silverware_knife_uni
+Copying object to master: SPEL resist normal weapons_50
+Copying object to master: MISC Misc_Com_Bottle_14
+Copying object to master: ACTI Ex_MH_Pav_BStatue_06
+Copying object to master: SOUN SothaLab
+Copying object to master: MISC key_durgok
+Copying object to master: SNDG fabricant_verminous0000
+Copying object to master: NPC_ drals indobar
+Copying object to master: SOUN fabHulkRoar
+Copying object to master: NPC_ hels_assassin1
+Copying object to master: CREA atronach_frost_summon
+Copying object to master: tr09_journalist
+Copying object to master: tr_blade
+Merging object to master: a2_6_ane_teria
+Copying object to master: vampiric ring
+Merging object to master: b5_morvaynhort
+Copying object to master: bipolar blade
+Copying object to master: tr08_hlaalu_berano_a
+Merging object to master: mg_apprentice
+Copying object to master: splendid armor
+Copying object to master: great horror
+Copying object to master: plitinius mero
+Merging object to master: almalexia
+Copying object to master: beliefs
+Merging object to master: mg_nchuleftbook
+Merging object to master: ic14_flacassia
+Merging object to master: hr_courier
+Merging object to master: dissident priests
+Merging object to master: va_vamprich
+Merging object to master: mt_db_darys
+Copying object to master: ms_badpets
+Merging object to master: c2_sunder
+Copying object to master: greater honor
+Merging object to master: chores
+Merging object to master: mg_spycatch
+Merging object to master: ic1_marshmerrow_not
+Merging object to master: fg_telasero
+Merging object to master: ic3_willow
+Merging object to master: eb_clients
+Copying object to master: become an adventurer
+Merging object to master: hr_findgiladren
+Copying object to master: geon auline
+Merging object to master: hr_shishireport
+Merging object to master: b2_ahemmusasafe
+Merging object to master: ic18_silver_not
+Merging object to master: hr_findtharen
+Merging object to master: tt_mountkand
+Merging object to master: ms_whiteguar
+Copying object to master: helm of oreyn bearclaw
+Copying object to master: goblin army
+Copying object to master: adamantium ore
+Merging object to master: background
+Merging object to master: ic26_amanin_free
+Merging object to master: ms_fargothring
+Merging object to master: tt_curingtouch
+Merging object to master: tg_ebonystaff
+Merging object to master: tt_aldsotha
+Copying object to master: auriel's shield
+Merging object to master: mg_wisewoman
+Merging object to master: mg_returnbook
+Merging object to master: ic19_restless_spirit
+Merging object to master: fg_killcronies
+Merging object to master: ic29_crusher
+Copying object to master: sewers and ruins
+Merging object to master: hr_guardguarherds
+Copying object to master: clockwork city
+Merging object to master: hr_redastomb
+Merging object to master: hr_attackuvirith
+Merging object to master: ht_blackjinx
+Copying object to master: my unfortunate brother
+Copying object to master: clay-brained nord
+Copying object to master: black dart gang
+Merging object to master: compensation
+Copying object to master: the mainland
+Merging object to master: a1_sleepers_relur
+Merging object to master: mv_monsterdisease
+Merging object to master: ht_killneloth
+Copying object to master: estate sale
+Copying object to master: back for another round
+Merging object to master: il_rescuehermit
+Merging object to master: town_balmora
+Merging object to master: eb_deed
+Merging object to master: tt_sanctusshrine
+Merging object to master: ic12_bacola
+Copying object to master: fedris hler
+Copying object to master: his madness
+Copying object to master: losing a new customer
+Merging object to master: mg_sharn_necro
+Merging object to master: greeting 7
+Merging object to master: mg_telvanni
+Merging object to master: business
+Merging object to master: dram bero
+Copying object to master: soscean
+Merging object to master: hello
+Merging object to master: a1_11_zainsubaniinformant
+Merging object to master: ic27_oracle_a
+Merging object to master: b7_theranahort
+Merging object to master: tt_dagonfel
+Copying object to master: variner's ghost
+Merging object to master: b4_killwarlovers
+Merging object to master: a1_sleepers_vireveri
+Merging object to master: tg_ss_plutocrats
+Merging object to master: mt_writguril
+Merging object to master: larrius varro
+Merging object to master: ht_dahrkmezalf
+Merging object to master: b2a_kausi
+Merging object to master: hh_capturespy
+Merging object to master: future rewards
+Merging object to master: ms_hentuspants
+Merging object to master: hh_disguisedarmor
+Merging object to master: b7_drathahort
+Merging object to master: hh_sunkentreasure
+Merging object to master: mg_excavation
+Merging object to master: mt_writbero
+Copying object to master: ms_barbarianbook_b
+Merging object to master: hr_arobarkidnap
+Merging object to master: ht_spybaladas
+Merging object to master: c3_destroydagoth
+Merging object to master: ht_wizardspells
+Merging object to master: ht_odirniran
+Copying object to master: improve my effectiveness
+Copying object to master: change the plan
+Merging object to master: a1_1_findspymaster
+Copying object to master: ms_bouncer
+Merging object to master: mv_paralyzedbarbarian
+Copying object to master: talk to a dwemer
+Merging object to master: fire and faith
+Merging object to master: a2_2_6thhouse
+Copying object to master: talen vandas
+Merging object to master: mg_killtelvanni
+Merging object to master: fg_bigbosses
+Merging object to master: ic17_witch
+Copying object to master: robot arena
+Merging object to master: ic10_galthragoth
+Merging object to master: tt_supplymonk
+Merging object to master: il_grandmaster
+Merging object to master: mg_bethamez
+Merging object to master: da_mehrunes
+Merging object to master: hh_indesp3
+Merging object to master: someone in particular
+Merging object to master: ht_shishi
+Copying object to master: glass armor
+Merging object to master: ic_8_nord_alms
+Merging object to master: b5_arobarhort
+Merging object to master: b8_all_nerevarine
+Merging object to master: a2_6_peakstar
+Merging object to master: hr_billcollect
+Merging object to master: eb_tradespy
+Merging object to master: ic6_rat_not
+Merging object to master: mt_writtherana
+Merging object to master: fg_sanit
+Merging object to master: ic10_merthierry
+Merging object to master: a1_sleepers_neldris
+Merging object to master: hr_calderadisrupt
+Merging object to master: town_ald_bivale
+Merging object to master: il_falseordinator
+Merging object to master: tg_sadrithmoradefenses
+Merging object to master: hh_nordsmugglers
+Merging object to master: mv_thieftrader
+Copying object to master: tr08_hlaalu_hloggar
+Merging object to master: mt_db_contact
+Copying object to master: ms_estatesale
+Merging object to master: mg_vampvol2
+Merging object to master: hr_attackrethan
+Merging object to master: b3_zainabbride
+Merging object to master: town_tel_vos_wise
+Merging object to master: b7_telvannibook
+Copying object to master: ms_battlebots1
+Merging object to master: ic10_lirielle
+Merging object to master: town_tel_vos_she
+Merging object to master: fg_orcbounty
+Copying object to master: tr07_guard
+Copying object to master: plaza brindisi dorom
+Copying object to master: temple informant
+Merging object to master: specific place
+Merging object to master: ic5_corkbulb_not
+Copying object to master: gedna relvel
+Copying object to master: new recruits
+Merging object to master: hr_orethisisters
+Merging object to master: il_necromancer
+Merging object to master: ms_jobashaabolitionist
+Merging object to master: ic14_okan
+Copying object to master: service to your king
+Merging object to master: b3_zainabkill
+Merging object to master: ht_cureblight
+Merging object to master: mg_escortscholar2
+Merging object to master: va_vampamulet
+Merging object to master: mv_outcastashlanders
+Merging object to master: b7_gothrenhort
+Merging object to master: hr_ransommandas
+Merging object to master: mg_killnecro1
+Merging object to master: a2_3_corprus_vistha
+Copying object to master: ms_matchmaker
+Copying object to master: tr_assassins
+Merging object to master: mg_warlocksring
+Copying object to master: ms_blackdart
+Merging object to master: ic26_amanin
+Copying object to master: ms_museum
+Merging object to master: da_azura
+Merging object to master: fg_vas
+Merging object to master: ic25_jonhawker
+Merging object to master: mv_richtrader
+Copying object to master: transport to vvardenfell
+Merging object to master: ic13_rich
+Merging object to master: a2_4_milogone
+Copying object to master: reorganize the temple
+Copying object to master: gates of symmachus
+Copying object to master: suldreni salandas
+Merging object to master: b6_hlaaluhort
+Merging object to master: mg_sabotage
+Merging object to master: mistress therana
+Copying object to master: elbert nermarc
+Copying object to master: custom armor
+Copying object to master: umbra sword
+Copying object to master: ms_scrollsales
+Merging object to master: tt_ruddyman
+Merging object to master: mg_potion
+Merging object to master: travel together
+Merging object to master: town_tel_vos_he
+Copying object to master: fang of haynekhtnamet
+Merging object to master: b7_telvannihort
+Merging object to master: mg_stopcompetition
+Copying object to master: this matter
+Copying object to master: royal guard
+Merging object to master: greeting 5
+Merging object to master: ic14_demand
+Copying object to master: robe of the lich
+Copying object to master: forven berano
+Merging object to master: a1_sleepers_nelmil
+Merging object to master: a2_4_miloprisonsafe
+Merging object to master: ic17_witch_not
+Merging object to master: mt_writmavon
+Merging object to master: b5_venimhort
+Merging object to master: b8_backdoor1
+Merging object to master: ic4_scrib
+Merging object to master: mv_runawayslave
+Merging object to master: auriel's bow
+Merging object to master: mv_innocentashlanders
+Merging object to master: ic5_corkbulb
+Merging object to master: ic15_missing_limeware
+Merging object to master: cx_backpath
+Copying object to master: matters to discuss
+Copying object to master: high ordinators
+Copying object to master: one piece
+Copying object to master: anonymous writer
+Merging object to master: hh_crassius
+Merging object to master: ic8_ingokning
+Merging object to master: tg_ss_generosity1
+Merging object to master: fg_sottilde
+Merging object to master: b6_uleshort
+Merging object to master: fg_rathunt
+Merging object to master: tt_mawia
+Merging object to master: ic16_haunting_not
+Merging object to master: ht_daedraskin
+Copying object to master: disloyalty among the guards
+Copying object to master: caused some damage
+Copying object to master: eleidon's ward
+Merging object to master: mv_victimromance
+Copying object to master: apelles matius
+Copying object to master: see us dead
+Copying object to master: gavas drin
+Merging object to master: guard
+Merging object to master: mv_skoomacorpse
+Merging object to master: ic14_mossanon
+Merging object to master: tg_balmoradefenses
+Merging object to master: a2_3_corprussafe
+Merging object to master: ic7_netch_not
+Merging object to master: ic30_imperial_veteran
+Merging object to master: tt_diseasecarrier
+Merging object to master: ic10_estoril
+Merging object to master: b8_all_hortator
+Merging object to master: b5_sarethihort
+Copying object to master: tr09_granny
+Merging object to master: eb_actor
+Copying object to master: heavy loads
+Merging object to master: mv_slavemule
+Copying object to master: sunel hlas
+Copying object to master: add fire
+Copying object to master: merc_calvus
+Copying object to master: hands
+Merging object to master: mt_db_assernerairan
+Copying object to master: biography
+Merging object to master: il_taxesbaladas
+Merging object to master: ald daedroth
+Copying object to master: tr_dbattack
+Copying object to master: must be cleansed
+Merging object to master: mg_vampirecure
+Merging object to master: romance_ahnassi
+Copying object to master: droth dagger
+Copying object to master: tr09_varis
+Copying object to master: trels varis
+Merging object to master: ic9_slave_hiding
+Copying object to master: strange devices
+Copying object to master: ashstorms in mournhold
+Merging object to master: ic10_dular
+Copying object to master: trueflame
+Copying object to master: goldbrand
+Merging object to master: ic27_oracle
+Merging object to master: hh_theexterminator
+Copying object to master: its own drama
+Merging object to master: tg_hostage
+Copying object to master: scared
+Copying object to master: meralyn othan
+Copying object to master: collector
+Merging object to master: tg_redorancookbook
+Merging object to master: tg_overduepayments
+Merging object to master: fg_dissaplamine
+Merging object to master: tt_palacevivec
+Copying object to master: particular item
+Copying object to master: missing hand
+Copying object to master: eno romari
+Merging object to master: fg_silencemagistrate
+Merging object to master: mv_traderabandoned
+Copying object to master: bels uvenim
+Merging object to master: b2c_yenammu
+Merging object to master: fg_verethigang
+Copying object to master: assist
+Merging object to master: ic10_buckmoth_alms
+Merging object to master: mv_cultistvictim
+Merging object to master: hh_twinlamps1
+Merging object to master: chrysamere
+Merging object to master: ic12_dulnea
+Merging object to master: hr_madmilk
+Merging object to master: beds
+Merging object to master: va_vampblood
+Copying object to master: busy
+Merging object to master: ht_chroniclesnchuleft
+Merging object to master: hit
+Merging object to master: ms_nord_burial
+Merging object to master: ic14_delay
+Copying object to master: disturbing information
+Copying object to master: grace of the lady
+Merging object to master: fg_telvanni_agents
+Merging object to master: tg_brotherthief
+Merging object to master: a2_3_corpruscure
+Merging object to master: ms_arenimtomb
+Merging object to master: ic6_rat
+Copying object to master: looks like tarvus
+Merging object to master: ht_fyrmessage
+Copying object to master: repair my bots
+Merging object to master: idle
+Merging object to master: fg_debtstoine
+Merging object to master: va_vampcult
+Merging object to master: dark brotherhood
+Merging object to master: mt_writbrilnosu
+Copying object to master: tr08_hlaalu
+Merging object to master: va_vampcountess
+Merging object to master: ic13_slave
+Merging object to master: mv_traderlate
+Merging object to master: b8_failed_nerevarine
+Merging object to master: b7_baladashort
+Merging object to master: mv_recoverwidowmaker
+Merging object to master: hh_rentcollector
+Merging object to master: b8_backdoor6
+Merging object to master: ms_nuccius
+Merging object to master: ic10_manis
+Merging object to master: ic14_ponius_not
+Copying object to master: ms_thief
+Merging object to master: ic2_muck_not
+Merging object to master: va_vampchild
+Merging object to master: tt_staralor
+Merging object to master: town_tel_vos_ashur
+Copying object to master: protect barenziah
+Merging object to master: va_vampmarara
+Merging object to master: a1_sleepers_vivyne
+Copying object to master: divine powers
+Merging object to master: tg_killienith
+Merging object to master: b2_ahemmusakill
+Copying object to master: golena sadri
+Merging object to master: il_traitorcoven
+Merging object to master: il_talostreason
+Merging object to master: b6_omanihort
+Merging object to master: ms_piernette
+Merging object to master: mg_flowers
+Merging object to master: greeting 9
+Copying object to master: women
+Merging object to master: hh_eggmine
+Merging object to master: hh_stronghold
+Merging object to master: hh_indesp1
+Copying object to master: shrine has been corrupted
+Merging object to master: hh_bankcourier
+Copying object to master: friendly wager
+Copying object to master: owe me money
+Merging object to master: il_protectentius
+Merging object to master: tt_llothiscrosier
+Merging object to master: hr_ashimanumine
+Merging object to master: hh_destroyteluvirith
+Merging object to master: fg_engaerbounty
+Merging object to master: hr_shurinbaal
+Merging object to master: morrowind lore
+Copying object to master: locked door
+Merging object to master: ht_archmagister
+Copying object to master: tr08_hlaalu_berano
+Merging object to master: hr_cowarddisgrace
+Merging object to master: tt_maargan
+Copying object to master: ms_jobhunt
+Merging object to master: ice blade of the monarch
+Copying object to master: lady of mercy
+Merging object to master: fg_khajiitbounty
+Merging object to master: town_ald_bevene
+Merging object to master: hh_ashlanderebony
+Merging object to master: greeting 0
+Copying object to master: bit of misinformation
+Copying object to master: available for hire
+Merging object to master: b5_ramoranhort
+Merging object to master: hr_oldbluefin
+Merging object to master: town_sadrith
+Merging object to master: town_tel_vos
+Merging object to master: ic18_silver_staff
+Merging object to master: ic1_marshmerrow
+Merging object to master: b5_redoranbook
+Copying object to master: hloggar the bloody
+Merging object to master: a1_sleepersawake
+Merging object to master: ic14_shazgob
+Merging object to master: sotha sil
+Merging object to master: duties
+Copying object to master: ahnia
+Copying object to master: plot
+Merging object to master: ic11_shirt_not
+Merging object to master: hh_berosupport
+Merging object to master: tt_galomdeus
+Merging object to master: ht_monopoly
+Merging object to master: hh_replacedocs
+Copying object to master: tr_mazedband
+Merging object to master: ic15_missing_not
+Merging object to master: hr_hlaanoslanders
+Merging object to master: little advice
+Merging object to master: fg_alofsfarm
+Merging object to master: mt_writgalasa
+Copying object to master: ms_warlords
+Merging object to master: progress of truth
+Copying object to master: crimson plague
+Copying object to master: ilnori faustus
+Copying object to master: recent events
+Copying object to master: great bazaar
+Merging object to master: tg_grandmasterretort
+Merging object to master: mv_bastard
+Copying object to master: selling off
+Copying object to master: tr06_temple
+Copying object to master: dragonbone cuirass
+Copying object to master: living gods
+Merging object to master: b6_ynglinghort
+Merging object to master: attack
+Merging object to master: ic8_bedraflod
+Merging object to master: ht_recruiteddie
+Merging object to master: a2_1_supplies2
+Copying object to master: ms_armor_crafter
+Merging object to master: ms_umbra
+Merging object to master: tg_killhardheart
+Merging object to master: a1_sleepers_daynasa
+Merging object to master: b4_erabenimsunkill
+Merging object to master: il_rescuepilgrim
+Merging object to master: mv_poorpilgrim
+Merging object to master: tt_maskvivec
+Merging object to master: eb_invisible
+Merging object to master: ic14_nottell
+Merging object to master: tt_falseincarnate
+Merging object to master: tg_ss_yngling
+Merging object to master: mg_dwarves
+Merging object to master: antecedents of dwemer law
+Merging object to master: tt_pilgrimspath
+Merging object to master: tt_rilmsshoes
+Copying object to master: tr_dbhunt
+Copying object to master: trained scribs and rats
+Merging object to master: mt_writbemis
+Copying object to master: veloth's judgement
+Merging object to master: mv_missingcompanion
+Merging object to master: tt_puzzlecanal
+Merging object to master: town_sadrith_expert
+Copying object to master: game of shells
+Copying object to master: prove yourself
+Copying object to master: bedal alen
+Merging object to master: my trade
+Merging object to master: ht_dwemerlaw
+Merging object to master: va_vampdust
+Merging object to master: ic25_jonhawker_free
+Merging object to master: tg_ss_greedyslaver
+Merging object to master: a1_4_muzgobinformant
+Merging object to master: a1_dreams
+Copying object to master: brandy
+Merging object to master: tt_balur
+Merging object to master: tg_ss_churchpolice
+Merging object to master: tg_withershins
+Merging object to master: tg_brotherbragor
+Copying object to master: tr_killgoblins
+Copying object to master: ms_summoner
+Copying object to master: barilzar's mazed band
+Merging object to master: ic12_dinner_not
+Copying object to master: my collection
+Copying object to master: help shunari
+Merging object to master: tg_lootaldruhnmg
+Merging object to master: ic10_cienne
+Merging object to master: hr_honorchallenge
+Merging object to master: fg_deseledebt
+Merging object to master: mg_guildmaster
+Copying object to master: tr05_people
+Copying object to master: ten-tongues weerhat
+Merging object to master: a1_sleepers_eralane
+Merging object to master: fg_silencetaxgirl
+Merging object to master: ms_hannat
+Copying object to master: tr_mhattack
+Merging object to master: a1_7huleeyainformant
+Merging object to master: mt_writvarro
+Copying object to master: stendarr's hammer
+Copying object to master: adamantium armor
+Merging object to master: a2_4_milocaiusgone
+Merging object to master: mg_escortscholar1
+Merging object to master: va_vampblood2
+Merging object to master: b6_curiohort
+Merging object to master: ic10_persius
+Merging object to master: ic10_tauryon
+Merging object to master: a2_3_corpruskiller
+Merging object to master: a2_4_milogone_books
+Merging object to master: tt_compassion
+Merging object to master: hr_foundershelm
+Merging object to master: tg_diamonds
+Merging object to master: a1_sleepers_dravasa
+Merging object to master: da_mephala
+Copying object to master: mace of molag bal
+Copying object to master: you are the one
+Merging object to master: ht_nchuleftkey
+Merging object to master: hr_calderacorrupt
+Merging object to master: ic9_argonian_alms
+Merging object to master: tg_badgandosa
+Merging object to master: da_boethiah
+Merging object to master: ms_apologies
+Merging object to master: ic10_codus
+Merging object to master: ht_eddiering
+Merging object to master: ic10_erranil
+Merging object to master: mv_richpilgrim
+Copying object to master: man he once was
+Merging object to master: a2_1_meetsulmatuul
+Merging object to master: ht_attackindarys
+Merging object to master: mv_wanderingpilgrim
+Merging object to master: b6_drenhortator
+Merging object to master: c0_act_c_expo
+Merging object to master: mg_stealbook
+Merging object to master: c0_act_c
+Copying object to master: secret passage
+Copying object to master: the cleansing
+Copying object to master: ebony armor
+Copying object to master: epidemic
+Merging object to master: fg_suranbandits
+Merging object to master: fg_corprusstalker
+Merging object to master: da_malacath
+Copying object to master: dilborn
+Copying object to master: tr08_hlaalu_a
+Copying object to master: author
+Merging object to master: skull-crusher
+Copying object to master: slight inconvenience
+Merging object to master: fg_tonguetoad
+Merging object to master: b8_meetvivec
+Merging object to master: hh_indesp2
+Merging object to master: tg_cookbookalchemy
+Copying object to master: ms_natural
+Copying object to master: marena gilnith
+Merging object to master: a2_4_milo_hola_go
+Merging object to master: b4_warloverkill
+Merging object to master: tg_vintagebrandy
+Merging object to master: a1_2_antabolisinformant
+Merging object to master: hh_wincamonna
+Merging object to master: a2_6_incarnate
+Merging object to master: a2_1_supplies
+Copying object to master: athyn llethan
+Copying object to master: mournhold
+Merging object to master: fg_findpudai
+Merging object to master: romance_ahnassi_a
+Merging object to master: il_widowland
+Copying object to master: evidence of conspiracy
+Copying object to master: dwemer battle shield
+Merging object to master: ic10_buckmoth_not
+Merging object to master: mg_mzuleft
+Merging object to master: ic9_argonian_not
+Copying object to master: know my husband
+Merging object to master: mt_db_carecalmo
+Merging object to master: a2_6_hort-ledd
+Merging object to master: hr_lostbanner
+Merging object to master: il_rescueknight
+Merging object to master: mt_writneloth
+Merging object to master: tt_stopmoon
+Merging object to master: ic14_ponius
+Copying object to master: making ourselves ready
+Merging object to master: hh_odirniran
+Copying object to master: transport to mournhold
+Merging object to master: fg_beneranbounty
+Merging object to master: hr_dagothtanis
+Merging object to master: ic8_briring
+Copying object to master: investigate the disturbance
+Copying object to master: mace of slurring
+Merging object to master: little secret
+Merging object to master: a2_6_erur-dan
+Copying object to master: ms_holyelf
+Copying object to master: salas valor
+Copying object to master: fons beren
+Merging object to master: a1_v_vivecinformants
+Merging object to master: il_courtesy
+Merging object to master: ic14_sinyaramen
+Merging object to master: chronicles of nchuleft
+Copying object to master: pyroil tar
+Merging object to master: ic28_urjorad
+Copying object to master: lesson in power
+Merging object to master: hh_guardmerchant
+Copying object to master: ten pace boots
+Merging object to master: mv_3_charming
+Merging object to master: mv_lostring
+Copying object to master: plans for you
+Merging object to master: ic8_eiruki
+Merging object to master: mv_bugrol
+Merging object to master: mt_writvendu
+Copying object to master: ms_barbarianbookc
+Copying object to master: tr_missinghand_01
+Merging object to master: town_ald_tiras
+Merging object to master: ic4_scrib_a
+Merging object to master: hh_buriedtreasure
+Merging object to master: ht_attackrethan
+Merging object to master: hh_indesp4
+Copying object to master: discontent in the temple
+Copying object to master: assassin would attack
+Copying object to master: ms_performers
 Merging object to master: greeting 1
-Removed deleted object: az_misc_bookend_stone_l
-Removed deleted object: az_misc_silverware_ladle
-Removed deleted object: az_misc_crystalball_03
-Removed deleted object: az_o_crate01oreclay
-Removed deleted object: az_misc_bard_flute
-Removed deleted object: az_misc_conchtrumpet
-Removed deleted object: az_misc_clay
-Removed deleted object: az_misc_skull_orc_02
-Removed deleted object: az_misc_skull_orc_jaw
-Removed deleted object: az_misc_waterskin_empty
-Removed deleted object: az_misc_shell_kollop20_open
-Removed deleted object: az_misc_shell_kollop00_open
-Removed deleted object: az_misc_cloth_folded
-Removed deleted object: az_misc_pearl_fragment
-Removed deleted object: az_misc_arg_bowl_4
-Removed deleted object: az_misc_dice
-Removed deleted object: az_misc_bowl_peacock
-Removed deleted object: az_misc_grill_01
-Removed deleted object: az_rand_misc
-Removed deleted object: az_rand_misc_rich
-Removed deleted object: az_misc_bottlet_blue
-Removed deleted object: az_misc_shell_sanddollar_02
-Removed deleted object: az_misc_icon_az_rich
-Removed deleted object: az_misc_pan_frying
-Removed deleted object: az_misc_spyglass_03
-Removed deleted object: az_junk_paper_01
-Removed deleted object: az_misc_easel_painting_01
-Removed deleted object: az_misc_skull_vamp
-Removed deleted object: az_misc_shell_kriin
-Removed deleted object: az_misc_com_weight_04
-Removed deleted object: az_misc_arg_bowl_3
-Removed deleted object: az_misc_shell_kollop10_open
-Removed deleted object: az_misc_skull_khj_02
-Removed deleted object: az_misc_dunguar_hide
-Removed deleted object: az_misc_stn_plate_02
-Removed deleted object: az_misc_empty pot_standard
-Removed deleted object: az_junk_paper_02
-Removed deleted object: az_misc_shaker_redware_02
-Removed deleted object: az_misc_bath_towel
-Removed deleted object: az_misc_stn_plate_05
-Removed deleted object: az_misc_com_scales_02
-Removed deleted object: az_misc_idol_teeth_uni
-Removed deleted object: az_misc_silverware_platter
-Removed deleted object: az_misc_com_weight_02
-Removed deleted object: az_misc_clay_pitcher
-Removed deleted object: az_misc_de_weight_03
-Removed deleted object: az_misc_shell_kollop20
-Removed deleted object: az_misc_icon_az_poor
-Removed deleted object: az_misc_crystalball_06
-Removed deleted object: az_misc_crystalball_04
-Removed deleted object: az_misc_de_punt_skiff
-Removed deleted object: az_misc_brush
-Removed deleted object: az_misc_stn_plate_03
-Removed deleted object: az_misc_paintbottle_y
-Removed deleted object: az_misc_display_sword
-Removed deleted object: az_misc_sg_hammer
-Removed deleted object: az_misc_stn_plate_04
-Removed deleted object: az_misc_skull_orc_01
-Removed deleted object: az_misc_paintbottle_g
-Removed deleted object: az_misc_clay_bowl2
-Removed deleted object: az_misc_idol_maor
-Removed deleted object: az_misc_silk_spool
-Removed deleted object: az_rand_misc_small
-Removed deleted object: az_misc_shell_conch
-Removed deleted object: az_misc_idol_azura
-Removed deleted object: az_misc_skull_khj_jaw
-Removed deleted object: az_misc_pot_silver
-Removed deleted object: az_misc_sextant
-Removed deleted object: az_misc_stn_jug
-Removed deleted object: az_misc_statuette_azura
-Removed deleted object: az_misc_shell_turritella
-Removed deleted object: az_misc_bookend_stone_r
-Removed deleted object: az_misc_stn_bowl_01
-Removed deleted object: az_misc_paintpalette
-Removed deleted object: az_misc_stn_pot_01
-Removed deleted object: az_misc_bard_erhu
-Removed deleted object: az_misc_clay_cup
-Removed deleted object: az_misc_pan_00
-Removed deleted object: az_misc_com_covered_plate
-Removed deleted object: az_misc_de_scales_01
-Removed deleted object: az_misc_wood_ladle
-Removed deleted object: az_misc_pot_red
-Removed deleted object: az_misc_pan_03
-Removed deleted object: az_misc_pot_cooking
-Removed deleted object: az_misc_paintbottle_r
-Removed deleted object: az_misc_skull_arg_02
-Removed deleted object: az_misc_bottlet_brown
-Removed deleted object: az_misc_bottleb_brown
-Removed deleted object: az_misc_grill_02
-Removed deleted object: az_misc_bottle_cork
-Removed deleted object: az_misc_de_weight_02
-Removed deleted object: az_misc_skull_arg_jaw
-Removed deleted object: az_misc_pan_01
-Removed deleted object: az_misc_shell_sanddollar_03
-Removed deleted object: az_misc_skull_khj_01
-Removed deleted object: az_rand_misc_household
-Removed deleted object: az_misc_shell_sanddollar_01
-Removed deleted object: az_misc_shell_kollop00
-Removed deleted object: az_rand_dunguar
-Removed deleted object: az_misc_quartz_pot
-Removed deleted object: az_misc_crystalball_05
-Removed deleted object: az_misc_bottleb_green
-Removed deleted object: az_misc_paintbottle_b
-Removed deleted object: az_misc_icon_az_common
-Removed deleted object: az_misc_stn_bowl_02
-Removed deleted object: az_misc_waterskin_full
-Removed deleted object: az_misc_stn_cup_02
-Removed deleted object: az_misc_de_weight_04
-Removed deleted object: az_misc_ore_iron
-Removed deleted object: az_misc_arg_bowl_2
-Removed deleted object: az_misc_paintbrush_02
-Removed deleted object: az_misc_bard_zither
-Removed deleted object: az_misc_ship_bottle
-Removed deleted object: az_misc_stn_plate_01
-Removed deleted object: az_misc_com_weight_01
-Removed deleted object: az_misc_shell_kollop10
-Removed deleted object: az_misc_crystalball_01
-Removed deleted object: az_misc_bard_erhu_bow
-Removed deleted object: az_misc_wood_spoon
-Removed deleted object: az_misc_silk_spool_full
-Removed deleted object: az_misc_abacus
-Removed deleted object: az_misc_stn_pot_02
-Removed deleted object: az_misc_bedroll
-Removed deleted object: az_misc_arg_cherpak
-Removed deleted object: az_misc_salt_rake
-Removed deleted object: az_misc_shell_sanddollar_04
-Removed deleted object: az_misc_de_weight_01
-Removed deleted object: az_misc_crystalball_02
-Removed deleted object: az_misc_stn_cup_01
-Removed deleted object: az_misc_icon_az_exquisit
-Removed deleted object: az_misc_pelt_redsabre
-Removed deleted object: az_misc_satchel
-Removed deleted object: az_misc_bottleb_blue
-Removed deleted object: az_misc_jar_netted
-Removed deleted object: az_misc_silk_hank
-Removed deleted object: az_junk_crumpledpaper
-Removed deleted object: az_misc_sg_chisel
-Removed deleted object: az_misc_quartz_goblet
-Removed deleted object: az_misc_stn_pitcher
-Removed deleted object: az_misc_com_weight_03
-Removed deleted object: az_misc_pot_clay
-Removed deleted object: az_misc_skull_arg_01
-Removed deleted object: az_misc_com_scales_01
-Removed deleted object: az_misc_shaker_redware_01
-Removed deleted object: az_misc_spyglass_01
-Removed deleted object: az_misc_ballwilson
-Removed deleted object: az_misc_bard_chimes
-Removed deleted object: az_rand_clay
-Removed deleted object: az_misc_paintbottle_bw
-Removed deleted object: az_misc_bookend_poor
-Removed deleted object: az_misc_spyglass_02
-Removed deleted object: az_misc_hourglass_rich
-Removed deleted object: az_misc_de_lute_gold
-Removed deleted object: az_misc_cutting_board_01
-Removed deleted object: az_misc_clay_bowl
-Removed deleted object: az_misc_cutting_board_02
-Removed deleted object: az_misc_bottlet_green
-Removed deleted object: az_misc_pearl_flawless
-Removed deleted object: az_misc_arg_bowl_1
-Removed deleted object: az_misc_shell_conch_02
-Removed deleted object: az_misc_shellpipe
-Removed deleted object: az_misc_de_scales_02
-Removed deleted object: az_misc_stn_pot_03
-Removed deleted reference: az_misc_stn_plate_05 (0, 50309) from azura, hammarnibi residence
-Removed deleted reference: az_misc_paintbrush_02 (0, 65056) from azura, the turquoise canvas
-Removed deleted reference: az_misc_paintbrush_02 (0, 65058) from azura, the turquoise canvas
-Removed deleted reference: az_misc_paintbrush_02 (0, 65059) from azura, the turquoise canvas
-Removed deleted reference: az_misc_stn_pot_02 (0, 51215) from azura, kar-soom
-Removed deleted reference: az_misc_dice (0, 41394) from az_clutter
-Removed deleted reference: az_misc_paintbrush_02 (0, 41278) from az_clutter
-Removed deleted reference: az_misc_pearl_fragment (0, 41226) from az_clutter
-Removed deleted reference: az_misc_bottle_cork (0, 41129) from az_clutter
-Removed deleted reference: az_misc_paintbrush_02 (0, 41266) from az_clutter
-Removed deleted reference: az_misc_stn_plate_05 (0, 63931) from azura, the gathering hole
-Removed deleted reference: az_misc_stn_plate_05 (0, 64130) from azura, the gathering hole
-Removed deleted reference: az_misc_stn_plate_05 (0, 64134) from azura, the gathering hole
-Removed deleted reference: az_misc_skull_arg_02 (0, 68636) from dor dalla, guild of mages, infirmary
-Removed deleted reference: az_misc_stn_plate_05 (0, 49446) from azura, gamma tunel's house
-Removed deleted reference: az_misc_sextant (0, 55342) from azura, pike's sundries
-Removed deleted reference: az_misc_bottleb_brown (0, 65891) from azura, underworks, vando block 1
-Removed deleted reference: az_misc_bottleb_green (0, 65893) from azura, underworks, vando block 1
-Removed deleted reference: az_misc_bottlet_green (0, 65894) from azura, underworks, vando block 1
-Removed deleted reference: az_misc_bottle_cork (0, 65887) from azura, underworks, vando block 1
-Removed deleted reference: az_misc_bottlet_brown (0, 65890) from azura, underworks, vando block 1
-Removed deleted reference: az_misc_bottle_cork (0, 22285) from azura, port of lyithdonea (88, -76)
-Removed deleted reference: az_o_crate01oreclay (0, 89389) from az_containers
-Removed deleted reference: az_misc_skull_arg_02 (0, 49693) from azura, glaneth's house
+Copying object to master: message
+Merging object to master: favor
+Merging object to master: tg_masterhelm
+Copying object to master: tr09_gee-pop
+Merging object to master: hr_guardsarethi
+Merging object to master: hr_taxcollector
+Merging object to master: mg_stolenreport
+Merging object to master: mv_tradermissed
+Merging object to master: a1_6_addhiranirrinformant
+Merging object to master: tt_alddaedroth
+Merging object to master: mt_writsadus
+Merging object to master: mg_paydues
+Copying object to master: dagger of symmachus
+Merging object to master: a1_sleepers_dralas
+Merging object to master: tg_ss_generosity2
+Merging object to master: hr_rescuesarethi
+Copying object to master: official matter
+Merging object to master: ht_eddieamulet
+Merging object to master: il_traitorwarrior
+Merging object to master: va_vampcurse
+Merging object to master: hr_koalcave
+Merging object to master: mt_writoran
+Merging object to master: eb_shipment
+Copying object to master: reclaim your station
+Copying object to master: sell something
+Merging object to master: b4_waraxe
+Merging object to master: ic12_banor
+Merging object to master: tg_missionreport
+Merging object to master: il_smuggler
+Copying object to master: tr08_hlaalu_hloggar_a
+Merging object to master: a1_sleepers_endris
+Merging object to master: hh_winsaryoni
+Merging object to master: a2_6_conoon
+Merging object to master: il_knightshield
+Merging object to master: eb_bone
+Copying object to master: speak with her directly
+Copying object to master: spear of bitter mercy
+Merging object to master: spell breaker
+Merging object to master: mt_writnavil
+Merging object to master: ht_fireandfaith
+Merging object to master: mt_db_aldsotha
+Copying object to master: ms_cluttercollector
+Merging object to master: ic8_heidmir
+Merging object to master: ic3_willow_not
+Merging object to master: fg_debtorc
+Merging object to master: hr_morvaynmanor
+Merging object to master: a1_sleeperdreamer02
+Copying object to master: tr_shrinedead
+Merging object to master: fg_nchurdamz
+Merging object to master: b2b_dutadalk
+Merging object to master: b8_backdoor3
+Copying object to master: some understanding
+Merging object to master: ic10_baradras
+Merging object to master: ic13_rich_not
+Merging object to master: ht_drakepride
+Copying object to master: what you should know
+Merging object to master: mg_bcshrooms
+Merging object to master: vampire hunter
+Copying object to master: queen mother
+Merging object to master: b8_backdoor5
+Merging object to master: fg_elithpalsupply
+Merging object to master: a1_sleepers_llandras
+Merging object to master: b7_aryonhort
+Merging object to master: ht_theranaclothes
+Merging object to master: fg_killhardheart
+Merging object to master: il_damsel
+Copying object to master: the common tongue
+Merging object to master: ht_aurielbow
+Copying object to master: altmer trainers
+Copying object to master: bloodworm helm
+Merging object to master: camonna tong
+Copying object to master: durzogs
+Merging object to master: a1_11_zainsubanigift
+Merging object to master: il_scrapmetal
+Copying object to master: tr_showpower
+Merging object to master: ic12_dinner
+Merging object to master: ms_gold_kanet_flower
+Merging object to master: ht_slaverebellion
+Copying object to master: tr_bamz
+Merging object to master: mv_bountyhunter
+Copying object to master: cuirass of the savior's hide
+Copying object to master: stolen book
+Copying object to master: goval ralen
+Merging object to master: hh_bankfraud
+Merging object to master: nerevarine
+Merging object to master: town_vivec
+Merging object to master: mv_deadtaxman
+Merging object to master: ht_baladasally
+Merging object to master: ic4_scrib_not
+Merging object to master: b4_heartfire
+Merging object to master: va_shashev
+Merging object to master: eb_pest
+Copying object to master: tr_missinghand_02
+Merging object to master: hh_destroyindarysmanor
+Merging object to master: tg_aldruhndefenses
+Copying object to master: fight my champion
+Merging object to master: b6_hlaalubook
+Copying object to master: ms_warlords_a
+Merging object to master: ic11_shirt
+Copying object to master: merc_calvus_quit
+Merging object to master: boots of blinding speed
+Merging object to master: boots of the apostle
+Copying object to master: uncle's farm
+Merging object to master: ic2_muck
+Copying object to master: myn dhrur
+Merging object to master: staff of magnus
+Copying object to master: clutter
+Copying object to master: keep me healthy
+Copying object to master: tr_sothasil
+Merging object to master: lord's mail
+Merging object to master: tt_ministryheathen
+Merging object to master: tg_ss_enamor
+Merging object to master: hh_twinlamps3
+Merging object to master: hr_clearsarethi
+Copying object to master: ms_crimsonplague
+Merging object to master: il_rescueragash
+Merging object to master: fg_egg_poachers
+Merging object to master: a2_6_idrenie
+Merging object to master: tt_hassour
+Copying object to master: tienius delitian
+Merging object to master: town_aldruhn
+Copying object to master: unstable
+Merging object to master: hr_mudcrabnest
+Copying object to master: asciene rane
+Merging object to master: mv_strayedpilgrim
+Merging object to master: cure disease potion
+Copying object to master: must be stopped
+Copying object to master: sevil
+Merging object to master: ht_fleshamulet
+Merging object to master: b5_llethrihort
+Merging object to master: hr_stronghold
+Merging object to master: mt_writbelvayn
+Merging object to master: mg_staffmagnus
+Merging object to master: tt_hairshirt
+Merging object to master: ic14_promise
+Merging object to master: ic10_tongue
+Merging object to master: va_rimintil
+Merging object to master: eb_unrequited
+Merging object to master: eb_deadmen
+Copying object to master: no public appearance
+Merging object to master: hh_literacycampaign
+Merging object to master: a1_10_mehramilo
+Merging object to master: ic10_edwinna
+Merging object to master: hr_sixthhousebase
+Merging object to master: hr_finddalobar
+Merging object to master: ms_lookout
+Copying object to master: ring of phynaster
+Copying object to master: karstangz-bcharn
+Merging object to master: advancement
+Merging object to master: tg_bitterbribe
+Merging object to master: services
+Copying object to master: contract
+Copying object to master: helseth
+Copying object to master: karrod
+Merging object to master: ic12_benunius
+Merging object to master: ht_muck
+Merging object to master: ht_stronghold
+Merging object to master: fg_killbosses
+Merging object to master: mg_joinus
+Merging object to master: ic_8_nord_alms_not
+Merging object to master: mv_fakeslave
+Merging object to master: latest rumors
+Merging object to master: mt_grandmaster
+Copying object to master: foolishness
+Copying object to master: goblins
+Merging object to master: tg_dartsjudgement
+Copying object to master: saryoni's sermons
+Merging object to master: ic10_malpenix
+Merging object to master: il_blueprints
+Merging object to master: a1_sleepers_assi
+Merging object to master: mg_killnecro2
+Copying object to master: shrine of the dead
+Copying object to master: ms_blackdart_b
+Merging object to master: hr_kagouti
+Merging object to master: ic13_rumor
+Copying object to master: don't belong here
+Copying object to master: join the royal guards
+Copying object to master: tr08_hlaalu_ravani
+Merging object to master: tg_enemyparley
+Merging object to master: mg_science
+Merging object to master: b2_ahemmusawalk
+Merging object to master: maelkashishi
+Copying object to master: some work
+Copying object to master: profit
+Merging object to master: mv_abusedhealer
+Merging object to master: hh_ebonydelivery
+Merging object to master: ic19_restless_not
+Merging object to master: hh_escortmerchant
+Copying object to master: ms_battlebots2
+Merging object to master: tt_ghostgate
+Merging object to master: ic13_fight
+Copying object to master: tr08_hlaalu_alen
+Merging object to master: eb_false
+Copying object to master: causing problems
+Copying object to master: task
+Copying object to master: elanande
+Copying object to master: threat to our monarchy
+Merging object to master: ic10_aengoth
+Copying object to master: service to our lady
+Merging object to master: ic14_tell
+Merging object to master: town_ald_daynes
+Copying object to master: learn more about the attacks
+Copying object to master: hands of almalexia
+Merging object to master: b5_redoranhort
+Copying object to master: whom you may trust
+Copying object to master: ms_barbarianbook
+Merging object to master: b8_nibani_2_vivec
+Merging object to master: fg_hungerloose
+Merging object to master: ms_vampirecure
+Copying object to master: all the problems out there
+Merging object to master: il_gnisisblight
+Merging object to master: a1_sleepers_alvura
+Merging object to master: tt_fieldskummu
+Merging object to master: hr_cultelimination
+Merging object to master: tt_assarnibibi
+Merging object to master: b7_nelothhort
+Merging object to master: mg_soulgem2
+Merging object to master: ht_silverdawn
+Merging object to master: ic10_yak
+Merging object to master: b1_unifyurshilaku
+Merging object to master: ht_sloadsoap
+Merging object to master: eb_express
+Merging object to master: mg_bowl
+Merging object to master: fg_duniraisupply
+Copying object to master: tr_champion
+Merging object to master: da_molagbal
+Copying object to master: bow of shadows
+Copying object to master: special offers
+Merging object to master: ebony mail
+Merging object to master: ms_trerayna_bounty
+Copying object to master: barenziah
+Copying object to master: godsreach
+Copying object to master: forge the blade
+Copying object to master: staff of hasedoki
+Merging object to master: tt_felmscleaver
+Copying object to master: ms_bouncer_galms
+Merging object to master: hr_oldflame
+Merging object to master: tg_manorkey
+Merging object to master: town_ald_llethri
+Merging object to master: ms_hatandskirt
+Copying object to master: pieces of the blade
+Copying object to master: drink away
+Merging object to master: a1_sleepers_drarayne
+Copying object to master: her hands
+Merging object to master: warlock's ring
+Merging object to master: hh_retaliation
+Merging object to master: mt_writsaren
+Merging object to master: b8_backdoor4
+Merging object to master: b4_robe
+Merging object to master: mt_writbaladas
+Copying object to master: see my husband
+Copying object to master: tr08_hlaalu_alen_a
+Copying object to master: king llethan's death
+Copying object to master: had my revenge
+Merging object to master: b6_berohort
+Copying object to master: tr05_people_ravani
+Copying object to master: blessings of almalexia
+Copying object to master: other matters
+Merging object to master: mt_writyasalmibaal
+Merging object to master: a2_1_kurapli_zallay
+Merging object to master: mv_angrytrader
+Merging object to master: il_giantnetch
+Merging object to master: va_vamphunter
+Merging object to master: hr_archmaster
+Merging object to master: ic16_haunting
+Copying object to master: museum of artifacts
+Merging object to master: mv_banditvictim
+Copying object to master: twin blades
+Copying object to master: found dead
+Copying object to master: craftsmen
+Copying object to master: end of times
+Merging object to master: il_maidentoken
+Merging object to master: a1_sleepers_rararyn
+Merging object to master: b1_urshilakukill
+Merging object to master: ht_minecure
+Merging object to master: b8_backdoor2
+Copying object to master: meet someone new
+Copying object to master: ms_adulterer
+Copying object to master: arnsa thendas
+Merging object to master: tt_sevengraces
+Merging object to master: ic7_netch
+Merging object to master: da_sheogorath
+Merging object to master: ic10_hoki
+Merging object to master: fg_tenimbounty
 Creating backup...
 Saving results...
 Finished!
