@@ -1,22 +1,18 @@
 Merging plugins...
+Copying object to master: STAT az_Flora_RhodoBigTrunk00
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Copying object to master: STAT az_Flora_RhodoLow02
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
 Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
-Copying object to master: STAT az_Flora_RhodoBigTrunk01
-Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Copying object to master: STAT az_Flora_RhodoMed01
+Copying object to master: STAT az_Flora_RhodoMed00
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
 Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Copying object to master: STAT az_Flora_RhodoLow00
 Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Copying object to master: STAT az_Flora_RhodoMed02
-Copying object to master: STAT az_Flora_RhodoBigTrunk02
-Copying object to master: STAT az_Flora_RhodoBig01
-Copying object to master: STAT az_Flora_RhodoBig02
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Copying object to master: STAT az_Flora_RhodoLow01
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
+Copying object to master: STAT az_Flora_RhodoBig00
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
 Creating backup...
 Saving results...
