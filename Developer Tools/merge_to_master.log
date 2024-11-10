@@ -1,99 +1,23 @@
 Merging plugins...
-Remapping texture index: (3 -> 25) AI_Grass_Dirt
-Remapping texture index: (15 -> 98) az_tx_VelFound
-Remapping texture index: (10 -> 69) Tx_BC_dirt.tga
-Remapping texture index: (5 -> 28) AI_Dirt
-Remapping texture index: (2 -> 22) AI_Grass
-Remapping texture index: (4 -> 27) AI_Dirtroad
-Remapping texture index: (16 -> 99) az_tx_VelGravel
-Remapping texture index: (6 -> 29) AI_Clover
-Remapping texture index: (7 -> 30) AI_Grass_02
-Remapping texture index: (13 -> 87) az_tx_CIFloor
-Remapping texture index: (14 -> 93) az_tx_rock
-Remapping texture index: (8 -> 44) AI_mudflats_01.tga
-Remapping texture index: (11 -> 71) Tx_BC_moss.tga
-Remapping texture index: (12 -> 77) Tx_BC_undergrowth.tga
-Remapping texture index: (17 -> 101) az_tx_caveGround
-Remapping texture index: (1 -> 4) AI_Grass_Rocky
-Remapping texture index: (9 -> 68) Tx_BC_bank.tga
-Merging object to master: STAT az_ohang_03
-Merging object to master: STAT az_ohang_18b
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -70)
-Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
-Merging object to master: STAT az_ohang_09
-Merging object to master: LTEX Tx_BC_dirt.tga
-Copying object to master: STAT az_Furn_BeachChair
-Merging object to master: LTEX AI_Grass_02
-Merging object to master: NPC_ az_Omat
-Copying object to master: NPC_ az_BeachServer
-Merging object to master: LTEX AI_Grass
-Merging object to master: LAND LAND (88, -71)
-Copying object to master: ARMO az_a_BeachHat01
-Merging object to master: LTEX AI_Clover
-Merging object to master: STAT az_ohang_07
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: STAT az_ohang_arena_03
-Merging object to master: STAT az_ohang_arena_04
-Merging object to master: LTEX AI_Dirt
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Merging object to master: STAT az_ohang_18
-Merging object to master: LTEX AI_mudflats_01.tga
-Merging object to master: STAT az_ohang_05
-Merging object to master: STAT az_ohang_arena_02
-Merging object to master: LTEX AI_Grass_Dirt
-Merging object to master: LTEX Tx_BC_undergrowth.tga
-Merging object to master: LEVI az_rand_food_dry
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: INGR az_food_coconut
-Merging object to master: LEVI az_rand_food_fruit
-Merging object to master: LTEX az_tx_caveGround
-Merging object to master: LTEX AI_Grass_Rocky
-Merging object to master: LTEX Tx_BC_bank.tga
-Merging object to master: LEVI az_rand_food_all
-Merging object to master: LAND LAND (88, -72)
-Merging object to master: LAND LAND (87, -71)
-Copying object to master: STAT az_Furn_BeachStool
-Merging object to master: LTEX az_tx_VelGravel
+Copying object to master: STAT az_Flora_RhodoLow02
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Copying object to master: NPC_ az_OmatWitch
-Merging object to master: LTEX az_tx_rock
-Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: LTEX Tx_BC_moss.tga
-Copying object to master: BODY az_b_c_beachhat01_hr
-Merging object to master: CELL Lyithdonea, Jermora Docks (88, -72)
-Copying object to master: STAT az_Ex_ShipRiverboat
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
-Merging object to master: LAND LAND (88, -70)
-Merging object to master: STAT az_ohang_18a
-Merging object to master: LAND LAND (87, -70)
-Merging object to master: CELL Azura, The Gathering Hole
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (89, -71)
-Merging object to master: STAT az_ohang_01
-Copying object to master: STAT az_Furn_BeachParasol01
-Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
+Copying object to master: STAT az_Flora_RhodoBigTrunk01
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Merging object to master: LTEX AI_Dirtroad
-Merging object to master: STAT az_ohang_04
-Merging object to master: LTEX Sand
+Copying object to master: STAT az_Flora_RhodoMed01
+Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
+Copying object to master: STAT az_Flora_RhodoMed02
+Copying object to master: STAT az_Flora_RhodoBigTrunk02
+Copying object to master: STAT az_Flora_RhodoBig01
+Copying object to master: STAT az_Flora_RhodoBig02
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Copying object to master: STAT az_Flora_RhodoLow01
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Merging object to master: LAND LAND (89, -71)
-Merging object to master: LTEX az_tx_VelFound
-Merging object to master: LTEX az_tx_CIFloor
-Removed deleted object: az_ohang_05
-Removed deleted object: az_ohang_arena_03
-Removed deleted object: az_ohang_01
-Removed deleted object: az_ohang_18b
-Removed deleted object: az_ohang_07
-Removed deleted object: az_ohang_04
-Removed deleted object: az_ohang_18a
-Removed deleted object: az_ohang_arena_04
-Removed deleted object: az_ohang_03
-Removed deleted object: az_ohang_arena_02
-Removed deleted object: az_food_coconut
-Removed deleted object: az_ohang_18
-Removed deleted object: az_ohang_09
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
 Creating backup...
 Saving results...
 Finished!
