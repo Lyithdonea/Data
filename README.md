@@ -110,7 +110,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Doom-DrivenPoster - A letter
 * Dongle
 * DoubleBrewski - Ruined Monster Sword
-* Elrian - Converted Witcher Rhododendron
+* Elrian - Converted Witcher Rhododendron and Roses
 * evolveduk - bamboo
 * Faarp
 * Fallen One - Model for Lamp Guard sword
