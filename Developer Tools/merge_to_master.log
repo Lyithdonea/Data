@@ -1,16 +1,162 @@
 Merging plugins...
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
+Remapping texture index: (4 -> 25) AI_Grass_Dirt
+Remapping texture index: (10 -> 43) GL_Rock_02
+Remapping texture index: (3 -> 22) AI_Grass
+Remapping texture index: (18 -> 98) az_tx_VelFound
+Remapping texture index: (19 -> 99) az_tx_VelGravel
+Remapping texture index: (9 -> 42) GL_Rock_01
+Remapping texture index: (5 -> 27) AI_Dirtroad
+Remapping texture index: (13 -> 85) Tx_AI_mainroad_01.tga
+Remapping texture index: (14 -> 102) AB_tx_VelFloor
+Remapping texture index: (15 -> 89) az_tx_gemBlue
+Remapping texture index: (17 -> 97) az_tx_VelFloor
+Remapping texture index: (6 -> 28) AI_Dirt
+Remapping texture index: (2 -> 4) AI_Grass_Rocky
+Remapping texture index: (1 -> 3) AI_Grass_Cobbles
+Remapping texture index: (12 -> 83) Tx_BC_rock_04.tga
+Remapping texture index: (7 -> 29) AI_Clover
+Remapping texture index: (16 -> 93) az_tx_rock
+Remapping texture index: (8 -> 30) AI_Grass_02
+Remapping texture index: (11 -> 44) AI_mudflats_01.tga
+Copying object to master: STAT az_Ex_VelCantonButtressB03
+Merging object to master: CELL Azura, Magnagerial District (86, -75)
+Merging object to master: CELL Azura, Vacant Building
+Copying object to master: LTEX AB_tx_VelFloor
+Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
 Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: LTEX Tx_BC_rock_04.tga
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -76)
+Merging object to master: LTEX AI_Grass_02
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
+Copying object to master: STAT az_ex_v_canal_corner_03
+Merging object to master: CELL Azura, High Rosery District (86, -76)
+Merging object to master: CELL Azura, Gadresi Manor
+Merging object to master: CELL Azura, Merchant Quarter (88, -75)
+Merging object to master: CELL Azura, Water Tower
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -74)
+Merging object to master: CONT az_f_RoseYellow02
+Merging object to master: LAND LAND (89, -76)
+Merging object to master: LTEX GL_Rock_02
+Merging object to master: LTEX AI_Dirt
+Merging object to master: CELL AZ_Region_Thousand Isles (86, -78)
+Merging object to master: CONT az_f_RosePink01
+Merging object to master: STAT az_flora_palm_bottle_02
+Merging object to master: LAND LAND (89, -75)
+Merging object to master: LTEX AI_mudflats_01.tga
+Merging object to master: LAND LAND (85, -76)
+Merging object to master: LTEX AI_Grass_Dirt
+Merging object to master: STAT az_flora_fern_MS_01
+Copying object to master: STAT az_Ex_Vivec_C_Top2
+Copying object to master: STAT az_ex_topiary_mephala
+Merging object to master: LAND LAND (84, -75)
+Merging object to master: LAND LAND (87, -75)
+Merging object to master: CELL Azura, High Rosery, Foyer
+Merging object to master: CELL Azura, Stars Above Apartments
+Merging object to master: CELL Azura, Underworks, Cistern Market
+Merging object to master: CELL Veltine, Cabin
+Merging object to master: CONT az_f_RoseWhite02
+Merging object to master: LAND LAND (89, -77)
+Merging object to master: NPC_ az_Malpen Truptor
+Merging object to master: NPC_ az_Planda Dresul
+Merging object to master: CELL AZ_Region_Azurian Isles (89, -75)
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
+Merging object to master: CELL AZ_Region_Azurian Isles (89, -76)
+Merging object to master: STAT az_flora_fern_small_KO_02
+Copying object to master: STAT az_Ex_VelTempleTower02
+Merging object to master: CELL Azura, Manor District (86, -77)
+Copying object to master: STAT az_Ex_VelTower02Planter
+Merging object to master: CELL Azura, Port Authority
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
+Merging object to master: NPC_ az_Ilmandi Unakra
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -77)
+Merging object to master: CELL Azura, Port Hostel
+Merging object to master: CONT az_f_RoseRed02
+Copying object to master: STAT az_Ex_VelTempleTower01
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Merging object to master: CELL AZ_Clutter
+Merging object to master: CONT az_f_RosePink02
+Merging object to master: LTEX AI_Dirtroad
+Merging object to master: LAND LAND (88, -76)
+Merging object to master: LAND LAND (85, -75)
+Merging object to master: LAND LAND (86, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (89, -77)
+Copying object to master: STAT az_Flora_VelPlanterVine05
+Merging object to master: CONT az_f_RoseWhite01
+Copying object to master: STAT az_Flora_VelPlanterVine04
+Merging object to master: LTEX az_tx_VelFound
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
+Merging object to master: CELL AZ_Velothi
+Copying object to master: STAT az_Ex_VelAmphitheater
+Merging object to master: CELL Azura, Zaimora Manor
+Merging object to master: CELL Azura, High Rosery District (85, -76)
+Copying object to master: STAT az_Ex_VelTempleTower03
+Merging object to master: LAND LAND (87, -77)
+Merging object to master: LTEX AI_Grass
+Merging object to master: CELL Azura, Voath Manor
+Merging object to master: LTEX az_tx_VelFloor
+Merging object to master: LTEX AI_Grass_Cobbles
+Merging object to master: LAND LAND (88, -75)
+Merging object to master: LTEX AI_Clover
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
+Merging object to master: LAND LAND (86, -75)
+Merging object to master: CELL Azura, Dalag Andis' House
+Merging object to master: CELL Veltine, Upper Deck
+Merging object to master: LTEX Tx_AI_mainroad_01.tga
+Copying object to master: STAT az_Flora_VelPlanterVine01
+Merging object to master: LAND LAND (88, -77)
+Merging object to master: LAND LAND (84, -76)
+Merging object to master: CONT az_f_RoseRed01
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
+Merging object to master: CELL Azura, Slums
+Merging object to master: STAT az_flora_fern_KO_01
+Copying object to master: STAT az_Ex_VelTempleAzura
+Merging object to master: LTEX az_tx_gemBlue
+Merging object to master: LTEX AI_Grass_Rocky
+Merging object to master: NPC_ az_Guwanda Hilovanni
+Merging object to master: CELL Lyithdonea, Tarvur's Landing (87, -78)
+Merging object to master: LAND LAND (85, -77)
+Merging object to master: CELL Azura, Underworks, Port Channel
+Merging object to master: CONT az_f_RoseYellow01
+Merging object to master: LTEX az_tx_VelGravel
+Merging object to master: CELL Azura, Residential District (87, -75)
+Merging object to master: CELL Azura, Palace (87, -76)
+Merging object to master: CELL Azura, Saurale's Quayside Tavern
+Merging object to master: CELL Azura, Daroth Lighthouse
+Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
+Merging object to master: LTEX az_tx_rock
 Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
+Merging object to master: LAND LAND (87, -76)
+Merging object to master: NPC_ az_Darzhul
+Merging object to master: STAT az_flora_palm_bottle_01
+Merging object to master: CELL Azura, Vyne Manor
+Merging object to master: STAT az_flora_fern_01
+Copying object to master: STAT az_Flora_VelPlanterVine03
+Copying object to master: CELL Ashlands Region (0, 0)
+Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: LAND LAND (86, -77)
+Merging object to master: CELL Azura, Manor District, West Waistworks
+Merging object to master: CELL Azura, Old Town (87, -77)
+Copying object to master: STAT az_Ex_VelTower02
+Merging object to master: LTEX Sand
+Merging object to master: CELL Azura, Old Town (88, -77)
+Merging object to master: LTEX GL_Rock_01
+Copying object to master: STAT az_Flora_VelPlanterVine02
+Removed deleted object: az_f_rosepink01
+Removed deleted object: az_flora_fern_01
+Removed deleted object: az_f_rosewhite02
+Removed deleted object: az_flora_fern_ms_01
+Removed deleted object: az_f_roseyellow02
+Removed deleted object: az_flora_fern_ko_01
+Removed deleted object: az_flora_palm_bottle_01
+Removed deleted object: az_f_rosered02
+Removed deleted object: az_f_rosewhite01
+Removed deleted object: az_flora_palm_bottle_02
+Removed deleted object: az_flora_fern_small_ko_02
+Removed deleted object: az_f_rosepink02
+Removed deleted object: az_f_rosered01
+Removed deleted object: az_f_roseyellow01
+Removed deleted reference: az_flora_palm_bottle_01 (0, 89939) from az_flora
 Creating backup...
 Saving results...
 Finished!
