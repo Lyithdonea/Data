@@ -1,48 +1,49 @@
 Merging plugins...
-Remapping texture index: (5 -> 38) GL_Grass_02
-Remapping texture index: (17 -> 109) az_tx_ti_moss
-Remapping texture index: (16 -> 108) az_tx_ti_grass
-Remapping texture index: (34 -> 126) az_tx_v_gravel
-Remapping texture index: (21 -> 113) az_tx_ti_rock_04
-Remapping texture index: (20 -> 112) az_tx_ti_undergrowth
-Remapping texture index: (36 -> 128) az_tx_ti_rock_00
-Remapping texture index: (38 -> 131) az_tx_clay_rainbow
-Remapping texture index: (3 -> 9) AC_darkstone_grass
-Remapping texture index: (12 -> 104) az_tx_ai_grass_dirt
-Remapping texture index: (10 -> 93) az_tx_rock
-Remapping texture index: (7 -> 56) MA_lava02
-Remapping texture index: (2 -> 8) AC_darkgravel
-Remapping texture index: (41 -> 134) az_tx_gem_blue
-Remapping texture index: (15 -> 107) az_tx_ti_scrub
-Remapping texture index: (40 -> 133) az_tx_cave_ground
-Remapping texture index: (19 -> 111) az_tx_ti_scrub_rocky
-Remapping texture index: (13 -> 105) az_tx_ai_dirt_01
-Remapping texture index: (42 -> 136) az_tx_strong_ground
-Remapping texture index: (11 -> 103) az_tx_ai_dirt_road
-Remapping texture index: (18 -> 110) az_tx_ti_mainroad
-Remapping texture index: (14 -> 106) az_tx_ti_bank
-Remapping texture index: (32 -> 124) az_tx_v_floor
-Remapping texture index: (28 -> 120) az_tx_ti_muck
-Remapping texture index: (35 -> 127) az_tx_ocean_rock_green
-Remapping texture index: (39 -> 132) az_tx_ci_floor
-Remapping texture index: (1 -> 6) AC_darkstone01
-Remapping texture index: (44 -> 137) az_tx_coast_rock_02
-Remapping texture index: (31 -> 123) az_tx_ai_dirt_tilled
+Remapping texture index: (4 -> 38) GL_Grass_02
+Remapping texture index: (16 -> 109) az_tx_ti_moss
+Remapping texture index: (15 -> 108) az_tx_ti_grass
+Remapping texture index: (7 -> 64) MA_sulphur_rock03
+Remapping texture index: (33 -> 126) az_tx_v_gravel
+Remapping texture index: (20 -> 113) az_tx_ti_rock_04
+Remapping texture index: (26 -> 119) az_tx_ai_mudflats
+Remapping texture index: (19 -> 112) az_tx_ti_undergrowth
+Remapping texture index: (37 -> 131) az_tx_clay_rainbow
+Remapping texture index: (2 -> 9) AC_darkstone_grass
 Remapping texture index: (43 -> 138) az_tx_coast_rock_01
-Remapping texture index: (24 -> 116) az_tx_ti_dirt
-Remapping texture index: (37 -> 129) az_tx_mineral_ground
-Remapping texture index: (22 -> 114) az_tx_ai_mainroad
-Remapping texture index: (30 -> 122) az_tx_ai_clover
-Remapping texture index: (4 -> 26) Sand_02
-Remapping texture index: (27 -> 119) az_tx_ai_mudflats
-Remapping texture index: (33 -> 125) az_tx_dawn_ground
-Remapping texture index: (23 -> 115) az_tx_ai_cobblestone
-Remapping texture index: (26 -> 118) az_tx_ai_grass_rocky
-Remapping texture index: (9 -> 91) az_tx_gravel
-Remapping texture index: (25 -> 117) az_tx_ai_grass_01
-Remapping texture index: (6 -> 41) GL_Grass_05
-Remapping texture index: (8 -> 64) MA_sulphur_rock03
-Remapping texture index: (29 -> 121) az_tx_ai_grass_00
+Remapping texture index: (11 -> 104) az_tx_ai_grass_dirt
+Remapping texture index: (9 -> 93) az_tx_rock
+Remapping texture index: (6 -> 56) MA_lava02
+Remapping texture index: (23 -> 116) az_tx_ti_dirt
+Remapping texture index: (14 -> 107) az_tx_ti_scrub
+Remapping texture index: (21 -> 114) az_tx_ai_mainroad
+Remapping texture index: (40 -> 134) az_tx_gem_blue
+Remapping texture index: (24 -> 117) az_tx_ai_grass_01
+Remapping texture index: (32 -> 125) az_tx_dawn_ground
+Remapping texture index: (1 -> 8) AC_darkgravel
+Remapping texture index: (5 -> 41) GL_Grass_05
+Remapping texture index: (22 -> 115) az_tx_ai_cobblestone
+Remapping texture index: (18 -> 111) az_tx_ti_scrub_rocky
+Remapping texture index: (25 -> 118) az_tx_ai_grass_rocky
+Remapping texture index: (8 -> 91) az_tx_gravel
+Remapping texture index: (13 -> 106) az_tx_ti_bank
+Remapping texture index: (27 -> 120) az_tx_ti_muck
+Remapping texture index: (31 -> 124) az_tx_v_floor
+Remapping texture index: (42 -> 137) az_tx_coast_rock_02
+Remapping texture index: (0 -> 6) AC_darkstone01
+Remapping texture index: (30 -> 123) az_tx_ai_dirt_tilled
+Remapping texture index: (28 -> 121) az_tx_ai_grass_00
+Remapping texture index: (36 -> 129) az_tx_mineral_ground
+Remapping texture index: (29 -> 122) az_tx_ai_clover
+Remapping texture index: (3 -> 26) Sand_02
+Remapping texture index: (44 -> 139) az_tx_sand_01
+Remapping texture index: (10 -> 103) az_tx_ai_dirt_road
+Remapping texture index: (12 -> 105) az_tx_ai_dirt_01
+Remapping texture index: (41 -> 136) az_tx_strong_ground
+Remapping texture index: (17 -> 110) az_tx_ti_mainroad
+Remapping texture index: (34 -> 127) az_tx_ocean_rock_green
+Remapping texture index: (35 -> 128) az_tx_ti_rock_00
+Remapping texture index: (39 -> 133) az_tx_cave_ground
+Remapping texture index: (38 -> 132) az_tx_ci_floor
 Merging object to master: LAND LAND (85, -68)
 Merging object to master: LAND LAND (95, -81)
 Merging object to master: LAND LAND (83, -73)
@@ -73,6 +74,7 @@ Merging object to master: LAND LAND (96, -72)
 Merging object to master: LAND LAND (84, -70)
 Merging object to master: LAND LAND (85, -82)
 Merging object to master: LAND LAND (89, -82)
+Copying object to master: LTEX az_tx_sand_01
 Merging object to master: LAND LAND (79, -84)
 Merging object to master: LAND LAND (87, -72)
 Merging object to master: LAND LAND (98, -76)
@@ -268,9 +270,9 @@ Merging object to master: LAND LAND (79, -72)
 Merging object to master: LAND LAND (91, -71)
 Merging object to master: LAND LAND (98, -80)
 Merging object to master: LAND LAND (82, -85)
-Merging object to master: LAND LAND (92, -78)
 Merging object to master: LTEX az_tx_ocean_rock_green
 Merging object to master: LAND LAND (91, -78)
+Merging object to master: LAND LAND (92, -78)
 Merging object to master: CELL Azura, Old Town (87, -77)
 Merging object to master: LAND LAND (80, -76)
 Merging object to master: LAND LAND (90, -78)
@@ -336,7 +338,7 @@ Merging object to master: LAND LAND (93, -74)
 Merging object to master: LAND LAND (95, -68)
 Merging object to master: LAND LAND (80, -83)
 Merging object to master: LAND LAND (76, -79)
-Copying object to master: LTEX az_tx_coast_rock_01
+Merging object to master: LTEX az_tx_coast_rock_01
 Merging object to master: LAND LAND (93, -80)
 Merging object to master: LTEX az_tx_ti_dirt
 Merging object to master: LAND LAND (94, -68)
@@ -467,7 +469,7 @@ Merging object to master: LAND LAND (98, -83)
 Merging object to master: LTEX az_tx_ti_muck
 Merging object to master: LAND LAND (81, -74)
 Merging object to master: LAND LAND (97, -81)
-Copying object to master: LTEX az_tx_coast_rock_02
+Merging object to master: LTEX az_tx_coast_rock_02
 Merging object to master: LAND LAND (86, -87)
 Merging object to master: LTEX az_tx_ai_dirt_tilled
 Merging object to master: LAND LAND (82, -83)
@@ -496,7 +498,6 @@ Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
 Merging object to master: LAND LAND (92, -84)
 Merging object to master: LAND LAND (95, -80)
 Merging object to master: LAND LAND (91, -70)
-Merging object to master: LTEX Sand
 Merging object to master: LAND LAND (94, -73)
 Merging object to master: LAND LAND (95, -78)
 Merging object to master: LAND LAND (93, -81)
