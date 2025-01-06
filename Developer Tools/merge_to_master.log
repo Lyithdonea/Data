@@ -1,87 +1,62 @@
 Merging plugins...
-Merging object to master: CELL Dor Dalla, Guild of Mages
-Merging object to master: CREA az_dae_scamp_stray
-Merging object to master: CELL Azura, Zaimora Manor
-Copying object to master: MISC az_Misc_ShellKollop10Half
+Remapping texture index: (1 -> 88) az_tx_dawnGround
+Remapping texture index: (4 -> 92) az_tx_rainbowClay
+Remapping texture index: (6 -> 95) az_tx_strongGround
+Remapping texture index: (3 -> 90) az_tx_gemMulti
+Remapping texture index: (10 -> 99) az_tx_VelGravel
+Remapping texture index: (12 -> 101) az_tx_caveGround
+Remapping texture index: (8 -> 97) az_tx_VelFloor
+Remapping texture index: (2 -> 89) az_tx_gemBlue
+Remapping texture index: (5 -> 94) az_tx_rockWaterGreen
+Remapping texture index: (0 -> 87) az_tx_CIFloor
+Remapping texture index: (9 -> 98) az_tx_VelFound
+Remapping texture index: (11 -> 100) az_tx_MineralGround
+Remapping texture index: (7 -> 96) az_tx_swampRock
+Merging object to master: LTEX az_tx_dawnGround
+Merging object to master: LTEX az_tx_VelGravel
 Merging object to master: CELL Azura, High Rosery District (85, -76)
-Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
-Merging object to master: CELL AZ_Clutter
-Merging object to master: LEVI az_lvl_ShellFragments
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -76)
-Copying object to master: LEVI az_rand_rose_ylw
-Merging object to master: NPC_ az_Alammus Ondyn
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
-Merging object to master: CELL Azura, High Rosery District (86, -76)
-Merging object to master: CELL Azura, Gadresi Manor
-Copying object to master: SCPT az_scr_GH_kollop10
-Merging object to master: CELL Azura, Granderea Salor's House
-Merging object to master: CELL Azura, Voath Manor
-Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Copying object to master: INGR az_ingred_rose_pink
-Merging object to master: LEVI az_lvl_Seashells
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: LEVI az_lvl_JunkSmall
-Merging object to master: SCPT AZ_scr_clam_shucking
-Copying object to master: MISC az_Misc_ShellKollop00Half
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Merging object to master: CREA az_crea_wyvern_air
-Merging object to master: LEVI az_lvl_IngRoseAll
-Merging object to master: CREA az_crea_wyvern_fire
-Merging object to master: CELL Azura, Ferabi Gaddad's House
-Copying object to master: SCPT az_scr_GH_kollop20
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Copying object to master: MISC az_Misc_ShellKollop20
-Merging object to master: CELL Veltine, Cabin
-Merging object to master: CONT az_o_ShopSackShells
-Merging object to master: CELL Azura, Faest Ratha Market, Lower Level
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Copying object to master: MISC az_Misc_ShellKollop10
-Merging object to master: CELL Azura, Daroth Lighthouse
-Merging object to master: CELL Azura, Saurale's House
+Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -76)
 Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
 Merging object to master: CELL Azura, Manor District (86, -77)
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
-Merging object to master: CELL Azura, Port Authority
+Merging object to master: CELL Azura, High Rosery District (86, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CREA az_crea_sewercrab
-Copying object to master: LEVI az_rand_rose_pnk
+Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
+Merging object to master: LTEX az_tx_strongGround
+Merging object to master: CELL Azura, Merchant Quarter (88, -75)
+Merging object to master: LTEX az_tx_gemMulti
+Merging object to master: LTEX az_tx_VelFloor
+Merging object to master: LTEX az_tx_rockWaterGreen
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -77)
-Copying object to master: SCPT az_scr_GH_Picked_kollop
-Copying object to master: MISC az_Misc_ShellKollop00
-Merging object to master: CELL Azura, Port Hostel
-Copying object to master: INGR az_ingred_rose_yellow
-Merging object to master: LEVI az_rand_ingredient
-Copying object to master: LEVI az_rand_rose_red
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
+Merging object to master: LTEX az_tx_MineralGround
 Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Merging object to master: CELL Azura, Underworks, Istharis Residence
-Copying object to master: INGR az_ingred_rose_red
+Merging object to master: LTEX az_tx_swampRock
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
 Merging object to master: CELL Azura, Old Town (87, -77)
-Merging object to master: CELL Azura, Talio Assen's House
-Copying object to master: SCPT az_scr_GH_kollop00
-Merging object to master: CREA az_crea_wyvern_water
-Merging object to master: CREA az_crea_wyvern
-Copying object to master: INGR az_ingred_rose_white
-Copying object to master: LEVI az_rand_rose_wht
+Merging object to master: LTEX az_tx_rainbowClay
+Merging object to master: LTEX az_tx_caveGround
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Removed deleted object: az_scr_gh_kollop00
-Removed deleted object: az_ingred_rose_yellow
-Removed deleted object: az_misc_shellkollop10
-Removed deleted object: az_misc_shellkollop10half
-Removed deleted object: az_scr_gh_kollop10
-Removed deleted object: az_rand_rose_wht
-Removed deleted object: az_misc_shellkollop00
-Removed deleted object: az_rand_rose_pnk
-Removed deleted object: az_scr_gh_picked_kollop
-Removed deleted object: az_ingred_rose_red
-Removed deleted object: az_misc_shellkollop00half
-Removed deleted object: az_misc_shellkollop20
-Removed deleted object: az_scr_gh_kollop20
-Removed deleted object: az_ingred_rose_pink
-Removed deleted object: az_rand_rose_red
-Removed deleted object: az_ingred_rose_white
-Removed deleted object: az_rand_rose_ylw
+Merging object to master: LTEX az_tx_gemBlue
+Merging object to master: LTEX az_tx_CIFloor
+Merging object to master: LTEX az_tx_VelFound
+Removed deleted object: az_tx_velgravel
+Removed deleted object: az_tx_caveground
+Removed deleted object: az_tx_strongground
+Removed deleted object: az_tx_gemblue
+Removed deleted object: az_tx_velfloor
+Removed deleted object: az_tx_cifloor
+Removed deleted object: az_tx_swamprock
+Removed deleted object: az_tx_mineralground
+Removed deleted object: az_tx_velfound
+Removed deleted object: az_tx_rainbowclay
+Removed deleted object: az_tx_rockwatergreen
+Removed deleted object: az_tx_gemmulti
+Removed deleted object: az_tx_dawnground
 Creating backup...
 Saving results...
 Finished!
