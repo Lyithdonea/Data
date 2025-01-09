@@ -1,164 +1,147 @@
 Merging plugins...
-Merging object to master: CELL Dor Dalla, Guild of Mages
-Merging object to master: CREA az_dae_scamp_stray
-Merging object to master: CELL Azura, Zaimora Manor
-Merging object to master: MISC az_Misc_ShellKollop10Half
-Merging object to master: CELL Azura, High Rosery District (85, -76)
-Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
-Merging object to master: CELL AZ_Clutter
-Copying object to master: LEVI az_lvl_ShellFragments
+Remapping texture index: (13 -> 134) az_tx_gem_blue
+Remapping texture index: (10 -> 124) az_tx_v_floor
+Remapping texture index: (4 -> 113) az_tx_ti_rock_04
+Remapping texture index: (11 -> 126) az_tx_v_gravel
+Remapping texture index: (9 -> 122) az_tx_ai_clover
+Remapping texture index: (16 -> 139) az_tx_sand_01
+Remapping texture index: (14 -> 137) az_tx_coast_rock_02
+Remapping texture index: (0 -> 93) az_tx_rock
+Remapping texture index: (7 -> 118) az_tx_ai_grass_rocky
+Remapping texture index: (6 -> 117) az_tx_ai_grass_01
+Remapping texture index: (12 -> 133) az_tx_cave_ground
+Remapping texture index: (15 -> 138) az_tx_coast_rock_01
+Remapping texture index: (8 -> 121) az_tx_ai_grass_00
+Remapping texture index: (1 -> 103) az_tx_ai_dirt_road
+Remapping texture index: (5 -> 115) az_tx_ai_cobblestone
+Remapping texture index: (3 -> 105) az_tx_ai_dirt_01
+Remapping texture index: (2 -> 104) az_tx_ai_grass_dirt
+Merging object to master: CELL Bnay (84, -83)
+Merging object to master: CELL Azura, Magnagerial District (86, -75)
+Merging object to master: CELL AZ_Region_Thousand Isles (83, -79)
+Merging object to master: CELL AZ_Flora
+Merging object to master: CELL AZ_Region_Thousand Isles (88, -81)
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -85)
+Merging object to master: CELL AZ_Region_Thousand Isles (83, -86)
+Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
 Merging object to master: CELL AZ_Region_Azurian Isles (84, -76)
-Merging object to master: LEVI az_rand_rose_ylw
-Merging object to master: NPC_ az_Alammus Ondyn
+Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
 Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
 Merging object to master: CELL Azura, High Rosery District (86, -76)
-Merging object to master: CELL Azura, Gadresi Manor
-Merging object to master: SCPT az_scr_GH_kollop10
-Merging object to master: CELL Azura, Granderea Salor's House
-Merging object to master: CELL Azura, Voath Manor
+Merging object to master: LTEX az_tx_v_gravel
+Merging object to master: CELL AZ_Region_Thousand Isles (84, -85)
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -80)
 Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Merging object to master: INGR az_ingred_rose_pink
-Merging object to master: LEVI az_lvl_Seashells
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Copying object to master: LEVI az_lvl_JunkSmall
-Merging object to master: SCPT AZ_scr_clam_shucking
-Merging object to master: MISC az_Misc_ShellKollop00Half
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Merging object to master: CREA az_crea_wyvern_air
-Copying object to master: LEVI az_lvl_IngRoseAll
-Merging object to master: CREA az_crea_wyvern_fire
-Merging object to master: CELL Azura, Ferabi Gaddad's House
-Merging object to master: SCPT az_scr_GH_kollop20
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
-Merging object to master: MISC az_Misc_ShellKollop20
-Merging object to master: CELL Veltine, Cabin
-Merging object to master: CONT az_o_ShopSackShells
-Merging object to master: CELL Azura, Faest Ratha Market, Lower Level
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -82)
+Merging object to master: CELL AZ_Region_Thousand Isles (88, -79)
+Merging object to master: CELL AZ_Region_Thousand Isles (86, -78)
+Merging object to master: CELL AZ_Region_Azurian Isles (95, -72)
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -81)
+Merging object to master: STAT az_ex_velWallHedgeEnd
+Merging object to master: CELL AZ_Region_Thousand Isles (79, -82)
+Merging object to master: LAND LAND (85, -76)
+Merging object to master: STAT az_flora_tree_fern_00
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -86)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -73)
+Merging object to master: LAND LAND (84, -75)
+Merging object to master: CELL AZ_Region_Thousand Isles (85, -86)
+Merging object to master: LTEX az_tx_ti_rock_04
+Merging object to master: CELL AZ_Region_Thousand Isles (83, -78)
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
+Merging object to master: LTEX az_tx_sand_01
 Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Merging object to master: MISC az_Misc_ShellKollop10
-Merging object to master: CELL Azura, Daroth Lighthouse
-Merging object to master: CELL Azura, Saurale's House
-Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
-Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
+Merging object to master: CELL Lyithdonea, Tamtreskashtu (87, -81)
+Merging object to master: LTEX az_tx_ai_grass_dirt
+Merging object to master: STAT az_flora_tree_fern_02
+Merging object to master: CELL AZ_Region_Thousand Isles (78, -83)
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -85)
+Merging object to master: CELL AZ_Region_Azurian Isles (89, -78)
 Merging object to master: CELL Azura, Manor District (86, -77)
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
-Merging object to master: CELL Azura, Port Authority
+Merging object to master: CELL Lyithdonea, Dor Dalla (84, -73)
+Merging object to master: CELL AZ_Region_Azurian Isles (95, -71)
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -85)
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -79)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -70)
-Merging object to master: CREA az_crea_sewercrab
-Merging object to master: LEVI az_rand_rose_pnk
+Merging object to master: STAT az_ex_velWallHedgeGate
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -77)
+Merging object to master: CELL Kannika Grotto
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -83)
 Merging object to master: CELL AZ_Region_Azurian Isles (85, -77)
-Merging object to master: SCPT az_scr_GH_Picked_kollop
-Merging object to master: MISC az_Misc_ShellKollop00
-Merging object to master: CELL Azura, Port Hostel
-Merging object to master: INGR az_ingred_rose_yellow
-Merging object to master: LEVI az_rand_ingredient
-Merging object to master: LEVI az_rand_rose_red
-Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: STAT az_ex_velWallHedge01
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -86)
+Merging object to master: LTEX az_tx_ai_dirt_01
+Merging object to master: CELL AZ_Region_Azurian Isles (87, -71)
+Merging object to master: LAND LAND (84, -77)
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -80)
+Merging object to master: CELL Bnay, New Argonia (83, -80)
 Merging object to master: CELL Lyithdonea, Ouashallath Island (89, -80)
-Merging object to master: CELL Azura, Underworks, Istharis Residence
-Merging object to master: INGR az_ingred_rose_red
-Merging object to master: CELL Azura, Old Town (87, -77)
-Merging object to master: CELL Azura, Talio Assen's House
-Merging object to master: SCPT az_scr_GH_kollop00
-Merging object to master: CREA az_crea_wyvern_water
-Merging object to master: CREA az_crea_wyvern
-Merging object to master: INGR az_ingred_rose_white
-Merging object to master: LEVI az_rand_rose_wht
+Merging object to master: LAND LAND (88, -76)
+Merging object to master: LAND LAND (85, -75)
+Merging object to master: CELL AZ_Region_Thousand Isles (79, -84)
+Merging object to master: LTEX az_tx_cave_ground
+Merging object to master: CELL AZ_Region_Thousand Isles (80, -86)
 Merging object to master: CELL AZ_Region_Azurian Isles (86, -72)
-Removed deleted object: az_scr_gh_kollop00
-Removed deleted object: az_ingred_rose_yellow
-Removed deleted object: az_misc_shellkollop10
-Removed deleted object: az_misc_shellkollop10half
-Removed deleted object: az_scr_gh_kollop10
-Removed deleted object: az_rand_rose_wht
-Removed deleted object: az_misc_shellkollop00
-Removed deleted object: az_rand_rose_pnk
-Removed deleted object: az_scr_gh_picked_kollop
-Removed deleted object: az_ingred_rose_red
-Removed deleted object: az_misc_shellkollop00half
-Removed deleted object: az_misc_shellkollop20
-Removed deleted object: az_scr_gh_kollop20
-Removed deleted object: az_ingred_rose_pink
-Removed deleted object: az_rand_rose_red
-Removed deleted object: az_ingred_rose_white
-Removed deleted object: az_rand_rose_ylw
-Applying moved reference 'ex_velothi_window_01' (18798) for cell (86, -76)
-Applying moved reference 'ex_velothi_loaddoor_01' (18522) for cell (86, -76)
-Applying moved reference 'ex_velothi_window_01' (18982) for cell (87, -76)
-Applying moved reference 'ex_velothi_loaddoor_01' (18685) for cell (85, -77)
-Applying moved reference 'ex_velothi_window_01' (18912) for cell (87, -76)
-Applying moved reference 'az_AzuranGuardOutM03' (18514) for cell (87, -77)
-Applying moved reference 'ex_velothi_window_01' (18787) for cell (86, -76)
-Applying moved reference 'ex_velothi_window_01' (18913) for cell (87, -76)
-Applying moved reference 'ex_velothi_window_01' (18795) for cell (85, -77)
-Applying moved reference 'ex_velothi_window_01' (18796) for cell (86, -76)
-Applying moved reference 'ex_velothi_window_01' (18788) for cell (85, -77)
-Applying moved reference 'ex_velothi_loaddoor_01' (18526) for cell (87, -76)
-Applying moved reference 'ex_velothi_window_01' (18786) for cell (86, -76)
-Applying moved reference 'ex_velothi_window_01' (18983) for cell (87, -76)
-Applying moved reference 'ex_velothi_loaddoor_01' (18524) for cell (87, -76)
-Applying moved reference 'ex_velothi_loaddoor_01' (18521) for cell (86, -76)
-Applying moved reference 'ex_velothi_window_01' (18797) for cell (86, -76)
-Applying moved reference 'ex_velothi_window_01' (18792) for cell (85, -77)
-Applying moved reference 'ex_vivec_h_01' (18909) for cell (87, -76)
-Applying moved reference 'ex_velothi_window_01' (18791) for cell (85, -77)
-Applying moved reference 'barrel_02_CheapFood5' (37033) for cell (88, -72)
-Applying moved reference 'barrel_01_random_pos' (37031) for cell (88, -72)
-Applying moved reference 'az_o_CrateImportFood' (37027) for cell (88, -72)
-Applying moved reference 'az_o_CrateImportFood' (37026) for cell (88, -72)
-Applying moved reference 'az_o_CrateImportFood' (37025) for cell (88, -72)
-Applying moved reference 'az_Niub' (37018) for cell (88, -72)
-Applying moved reference 'barrel_02_CheapFood5' (37032) for cell (88, -72)
-Applying moved reference 'az_flora_mooncap_01' (21178) for cell (86, -77)
-Applying moved reference 'az_flora_mooncap_02' (21177) for cell (86, -77)
-Applying moved reference 'az_flora_tree_palm_turbo02' (21160) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21166) for cell (86, -77)
-Applying moved reference 'az_flora_plant_nobiax_02' (21181) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21172) for cell (86, -77)
-Applying moved reference 'az_ex_v_spire_01' (21144) for cell (87, -76)
-Applying moved reference 'az_flora_tree_palm_turbo03' (21183) for cell (86, -77)
-Applying moved reference 'az_furn_v_bench_01' (21188) for cell (86, -77)
-Applying moved reference 'light_velothi_brazier' (21141) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21174) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21163) for cell (86, -77)
-Applying moved reference 'az_fx_water_spray' (21156) for cell (86, -77)
-Applying moved reference 'az_fx_water_spray' (21158) for cell (86, -77)
-Applying moved reference 'az_furn_v_bench_01' (21187) for cell (86, -77)
-Applying moved reference 'az_flora_plant_parviflora_01' (21180) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21164) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21168) for cell (86, -77)
-Applying moved reference 'az_Flora_BambooSingle05' (80137) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21173) for cell (86, -77)
-Applying moved reference 'az_fx_water_spray' (21157) for cell (86, -77)
-Applying moved reference 'ex_vivec_g_r_01' (21012) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21165) for cell (86, -77)
-Applying moved reference 'az_flora_mooncap_02' (21176) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21167) for cell (86, -77)
-Applying moved reference 'az_Flora_BambooSingle02' (80136) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21169) for cell (86, -77)
-Applying moved reference 'az_ex_v_obelisk_plat' (21146) for cell (87, -76)
-Applying moved reference 'az_ex_v_spire_01' (21145) for cell (87, -76)
-Applying moved reference 'light_velothi_brazier' (21142) for cell (87, -76)
-Applying moved reference 'az_Yaelyn Indri' (21004) for cell (86, -77)
-Applying moved reference 'light_velothi_brazier' (21189) for cell (86, -77)
-Applying moved reference 'az_water_CircleStatic_1024' (21155) for cell (86, -77)
-Applying moved reference 'ex_vivec_g_01' (21159) for cell (86, -77)
-Applying moved reference 'az_ex_v_pool_rnd' (21185) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21171) for cell (86, -77)
-Applying moved reference 'az_Flora_Fern01' (80415) for cell (86, -77)
-Applying moved reference 'az_Flora_Fern01' (80414) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21170) for cell (86, -77)
-Applying moved reference 'az_flora_water_lily_flower' (21175) for cell (86, -77)
-Applying moved reference 'light_velothi_brazier' (21152) for cell (87, -76)
-Applying moved reference 'az_ex_v_obelisk_plat' (21148) for cell (87, -76)
-Applying moved reference 'az_rock_UW_10' (37649) for cell (85, -70)
-Applying moved reference 'az_rocks_UW_03' (37573) for cell (85, -69)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -71)
+Merging object to master: CELL AZ_Region_Thousand Isles (85, -80)
+Merging object to master: STAT az_flora_tree_fern_03
+Merging object to master: LTEX az_tx_v_floor
+Merging object to master: CELL AZ_Region_Thousand Isles (79, -86)
+Merging object to master: CELL Lyithdonea, Delaruhn (87, -79)
+Merging object to master: CELL Azura, High Rosery District (85, -76)
+Merging object to master: CELL Lyithdonea, Gateway Canton (90, -73)
+Merging object to master: LTEX az_tx_coast_rock_01
+Merging object to master: STAT az_flora_tree_fern_base
+Merging object to master: CELL Bnay, New Argonia (83, -81)
+Merging object to master: CELL Bnay (83, -82)
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
+Merging object to master: CELL AZ_Region_Thousand Isles (82, -84)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
+Merging object to master: LTEX az_tx_coast_rock_02
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -69)
+Merging object to master: LAND LAND (84, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -72)
+Merging object to master: CELL Bnay (82, -82)
+Merging object to master: STAT az_ex_velWallHedgeCorner
+Merging object to master: LTEX az_tx_ai_grass_01
+Merging object to master: CELL Lyithdonea, Tarvur's Landing (87, -78)
+Merging object to master: LTEX az_tx_ai_grass_00
+Merging object to master: CELL AZ_Region_Thousand Isles (88, -78)
+Merging object to master: STAT az_ex_velPath
+Merging object to master: LAND LAND (85, -77)
+Merging object to master: CELL AZ_Region_Thousand Isles (79, -83)
+Merging object to master: CELL AZ_Region_Thousand Isles (78, -80)
+Merging object to master: STAT az_flora_tree_fern_01
+Merging object to master: CELL Azura, Palace (87, -76)
+Merging object to master: CELL AZ_Region_Thousand Isles (79, -80)
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -72)
+Merging object to master: LTEX az_tx_rock
+Merging object to master: LTEX az_tx_ai_clover
+Merging object to master: LTEX az_tx_ai_dirt_road
+Merging object to master: LTEX az_tx_ai_cobblestone
+Merging object to master: CELL AZ_Region_Thousand Isles (87, -80)
+Merging object to master: LAND LAND (87, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
+Merging object to master: CELL AZ_Region_Thousand Isles (85, -78)
+Merging object to master: STAT az_ex_velWallHedge02
+Merging object to master: STAT az_ex_velWallHedge03
+Merging object to master: CELL AZ_Region_Thousand Isles (81, -79)
+Merging object to master: CELL Bnay, Arena (81, -82)
+Merging object to master: LTEX az_tx_ai_grass_rocky
+Merging object to master: CELL AZ_Region_Thousand Isles (86, -80)
+Merging object to master: CELL Lyithdonea, Azurian Isles (89, -81)
+Merging object to master: STAT az_ex_velWallPost
+Merging object to master: CELL Azura, Old Town (87, -77)
+Merging object to master: CELL AZ_Region_Thousand Isles (86, -79)
+Merging object to master: LTEX az_tx_gem_blue
+Merging object to master: CELL AZ_Region_Azurian Isles (86, -73)
+Applying moved reference 'az_ex_v_railpostLight' (90777) for cell (85, -76)
+Applying moved reference 'az_light_paperLantern' (90753) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_end' (20200) for cell (85, -76)
-Applying moved reference 'az_ex_hedge_curve' (20203) for cell (85, -76)
-Applying moved reference 'az_ex_hedge_str_long' (20209) for cell (85, -76)
 Applying moved reference 'az_furn_v_bench_03' (20220) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_end' (20205) for cell (85, -76)
+Applying moved reference 'az_ex_hedge_str_long' (20209) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_str_long' (20202) for cell (85, -76)
+Applying moved reference 'az_ex_hedge_curve' (20203) for cell (85, -76)
 Applying moved reference 'az_flora_PottedTree_MS_02' (20217) for cell (85, -76)
 Applying moved reference 'az_flora_PottedTree_MS_01' (20219) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_end' (20204) for cell (85, -76)
@@ -168,7 +151,6 @@ Applying moved reference 'az_flora_PottedTree_MS_01' (20215) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_end' (20199) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_end' (20208) for cell (85, -76)
 Applying moved reference 'az_flora_PottedTree_MS_03' (20218) for cell (85, -76)
-Applying moved reference 'az_flora_PottedTree_MS_03' (20224) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_curve' (20196) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_str_short' (20206) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_curve' (20198) for cell (85, -76)
@@ -179,58 +161,40 @@ Applying moved reference 'az_ex_hedge_end' (20192) for cell (85, -76)
 Applying moved reference 'az_furn_v_bench_03' (20222) for cell (85, -76)
 Applying moved reference 'az_Mebentre' (20043) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_gate' (20201) for cell (85, -76)
-Applying moved reference 'az_rock_UW_08' (38623) for cell (85, -70)
 Applying moved reference 'az_ex_hedge_str_long' (23732) for cell (85, -75)
+Applying moved reference 'az_ex_hedge_end' (23734) for cell (85, -75)
+Applying moved reference 'az_ex_hedge_str_long' (23722) for cell (85, -75)
 Applying moved reference 'az_ex_hedge_end' (23739) for cell (85, -75)
-Applying moved reference 'az_flora_PottedTree_MS_02' (23743) for cell (85, -75)
+Applying moved reference 'az_flora_PottedTree_MS_02' (23743) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_end' (23738) for cell (85, -75)
-Applying moved reference 'az_rock_openart_mountain' (23731) for cell (84, -76)
 Applying moved reference 'az_ex_hedge_end' (23733) for cell (85, -75)
-Applying moved reference 'az_flora_PottedTree_MS_03' (23744) for cell (85, -75)
+Applying moved reference 'az_flora_PottedTree_MS_03' (23744) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_curve' (23721) for cell (85, -75)
 Applying moved reference 'az_ex_hedge_end' (23736) for cell (85, -75)
 Applying moved reference 'az_ex_hedge_str_short' (23737) for cell (85, -75)
-Applying moved reference 'az_rock_openart_mountain' (23687) for cell (85, -75)
 Applying moved reference 'az_ex_hedge_str_short' (23735) for cell (85, -75)
-Applying moved reference 'az_flora_PottedTree_MS_04' (23745) for cell (85, -75)
-Applying moved reference 'az_rocks_02' (23748) for cell (85, -75)
-Applying moved reference 'az_ex_hedge_end' (23734) for cell (85, -75)
-Applying moved reference 'az_ex_hedge_str_long' (23722) for cell (85, -75)
-Applying moved reference 'az_ex_topiary_malacath' (20698) for cell (85, -75)
-Applying moved reference 'az_Terr_DirtCliffGrass01' (90918) for cell (84, -76)
-Applying moved reference 'az_flora_tree_az_05' (20920) for cell (85, -77)
-Applying moved reference 'az_ex_topiary_molagbal' (20700) for cell (86, -76)
+Applying moved reference 'az_flora_PottedTree_MS_04' (23745) for cell (85, -76)
 Applying moved reference 'az_Flora_Fern01' (20960) for cell (85, -77)
 Applying moved reference 'ex_vivec_w_e_01' (20708) for cell (85, -75)
+Applying moved reference 'az_flora_tree_az_05' (20923) for cell (85, -77)
+Applying moved reference 'az_furn_v_bench_02' (20925) for cell (85, -75)
+Applying moved reference 'az_flora_PottedTree_MS_03' (20961) for cell (85, -75)
+Applying moved reference 'az_flora_PottedTree_MS_02' (20785) for cell (85, -75)
+Applying moved reference 'az_flora_tree_az_05' (20920) for cell (85, -77)
+Applying moved reference 'az_flora_PottedTree_MS_03' (20977) for cell (85, -75)
+Applying moved reference 'az_EruditeRefOutM' (90878) for cell (85, -75)
+Applying moved reference 'az_flora_tree_palm_wax_01' (91216) for cell (84, -76)
 Applying moved reference 'ex_vivec_g_r_01' (20922) for cell (85, -77)
 Applying moved reference 'az_flora_tree_az_05' (20924) for cell (85, -77)
 Applying moved reference 'ex_vivec_g_r_01' (20918) for cell (85, -77)
-Applying moved reference 'az_ex_topiary_dagon' (20699) for cell (86, -75)
-Applying moved reference 'az_flora_tree_az_05' (20923) for cell (85, -77)
-Applying moved reference 'az_ex_topiary_sheogorath' (20701) for cell (86, -76)
 Applying moved reference 'az_Flora_Fern01' (20921) for cell (85, -77)
 Applying moved reference 'az_flora_tree_az_05' (20919) for cell (85, -77)
-Applying moved reference 'az_flora_tree_baobabsplit' (7768) for cell (89, -80)
-Applying moved reference 'az_rocks_04' (80341) for cell (87, -70)
-Applying moved reference 'az_Flora_PlantLeafy02' (9858) for cell (87, -79)
-Applying moved reference 'az_f_Masseranth01' (32631) for cell (86, -72)
-Applying moved reference 'az_f_Masseranth01' (32630) for cell (86, -72)
-Applying moved reference 'az_f_Masseranth01' (32629) for cell (86, -72)
 Applying moved reference 'az_furn_v_bench_03' (17497) for cell (85, -76)
-Applying moved reference 'az_ex_hedge_end' (17495) for cell (85, -76)
-Applying moved reference 'az_flora_PottedTree_MS_02' (17498) for cell (85, -76)
+Applying moved reference 'az_flora_PottedTree_MS_02' (17498) for cell (85, -75)
 Applying moved reference 'az_flora_PottedTree_MS_01' (17496) for cell (85, -76)
+Applying moved reference 'az_ex_hedge_end' (17495) for cell (85, -76)
 Applying moved reference 'az_ex_hedge_end' (17494) for cell (85, -76)
-Applying moved reference 'az_Furn_PlanterTall' (25045) for cell (88, -76)
-Applying moved reference 'az_f_RoseTallRed' (32297) for cell (86, -71)
-Applying moved reference 'az_f_RoseLowRed' (32285) for cell (86, -71)
-Applying moved reference 'az_f_RoseTallRed' (32286) for cell (86, -71)
-Applying moved reference 'az_ex_topiary_boethiah' (24284) for cell (86, -75)
-Applying moved reference 'az_Flora_PlantLeafy01' (24125) for cell (85, -74)
-Applying moved reference 'az_flora_foliage_swamp' (79220) for cell (89, -81)
-Applying moved reference 'az_flora_tree_baobabsplit' (10491) for cell (89, -81)
-Applying moved reference 'az_rock_openart_mountain' (10487) for cell (89, -81)
-Applying moved reference 'az_Usibael Doroon' (19032) for cell (86, -77)
+Applying moved reference 'az_rocks_02' (17356) for cell (84, -76)
 Creating backup...
 Saving results...
 Finished!
