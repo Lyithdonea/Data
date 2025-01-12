@@ -1,8 +1,33 @@
 Merging plugins...
-Copying object to master: SCPT AZ_scr_clam_shucking
-Copying object to master: LEVI az_rand_junk_small
-Removed deleted object: az_rand_junk_small
-Removed deleted object: az_scr_clam_shucking
+Merging object to master: CELL Dor Dalla, Guild of Mages
+Merging object to master: CELL Dor Dalla, Guild of Mages, Infirmary
+Merging object to master: CELL AZ_CaveGeneric
+Merging object to master: STAT az_fx_Blood_03
+Merging object to master: STAT az_fx_Blood_02
+Merging object to master: STAT az_fx_Blood_12
+Merging object to master: STAT az_fx_Blood_08
+Merging object to master: CELL Lyithdonea, Tarshon (79, -78)
+Merging object to master: STAT az_fx_Blood_10
+Merging object to master: CELL Lyithdonea, Tarshon (79, -79)
+Merging object to master: STAT az_fx_Blood_09
+Merging object to master: STAT az_fx_Blood_06
+Merging object to master: STAT az_fx_Blood_07
+Merging object to master: STAT az_fx_Blood_11
+Merging object to master: STAT az_fx_Blood_01
+Merging object to master: STAT az_fx_Blood_05
+Merging object to master: STAT az_fx_Blood_04
+Removed deleted object: az_fx_blood_08
+Removed deleted object: az_fx_blood_12
+Removed deleted object: az_fx_blood_01
+Removed deleted object: az_fx_blood_02
+Removed deleted object: az_fx_blood_06
+Removed deleted object: az_fx_blood_07
+Removed deleted object: az_fx_blood_03
+Removed deleted object: az_fx_blood_09
+Removed deleted object: az_fx_blood_05
+Removed deleted object: az_fx_blood_04
+Removed deleted object: az_fx_blood_11
+Removed deleted object: az_fx_blood_10
 Creating backup...
 Saving results...
 Finished!
