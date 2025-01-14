@@ -115,7 +115,6 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * evolveduk - bamboo
 * Faarp
 * Fallen One - Model for Lamp Guard sword
-* gavinpgamer1 - "brain" coral
 * Ghostnull - Shard Lights
 * Greatness7 - extensive assistance with mesh fixing and optimization, scripting help
 * Greybeard - Better Clothes
