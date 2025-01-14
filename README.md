@@ -96,6 +96,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Cait - for the donkey animations
 * Calinou - Lightning animation texture
 * Calislahn - Better Clothes
+* carolienvanbedaf - coral
 * Chainy - Scripts, technical assistance, Bird of Paradise animations
 * Chaka-ZG
 * Christian Paskota - Stormlord armor
@@ -114,6 +115,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * evolveduk - bamboo
 * Faarp
 * Fallen One - Model for Lamp Guard sword
+* gavinpgamer1 - "brain" coral
 * Ghostnull - Shard Lights
 * Greatness7 - extensive assistance with mesh fixing and optimization, scripting help
 * Greybeard - Better Clothes
@@ -206,6 +208,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Ulrich Metzner - church bell sound
 * Vagabond Angel
 * Vagashan - Gothique architecture
+* Valery.Li - fan coral
 * Vality7 - used some of his billboard meshes
 * Vurt - Flora (models/textures/techniques)
 * waalx - RealSwords: Woodsword
