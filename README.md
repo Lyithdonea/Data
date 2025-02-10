@@ -112,7 +112,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Dongle
 * DoubleBrewski - Ruined Monster Sword
 * Elrian - Converted Witcher Rhododendron and Roses
-* evolveduk - bamboo
+* evolveduk - bamboo and willow tree
 * Faarp
 * Fallen One - Model for Lamp Guard sword
 * Ghostnull - Shard Lights
@@ -198,6 +198,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Stroti - Misc. resources
 * Taddeus - Rocks, Neccessities of Morrowind, and other resources
 * Tamriel Data (PT & PT teams) - Miscellaneous resources
+* TechArtBGN - Jungle tree
 * The Base Mesh - Beach chair and stool models
 * The Metropolitan Museum of Art - Various public domain images
 * The Wanderer
