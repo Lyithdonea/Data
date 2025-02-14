@@ -128,10 +128,10 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Inari - Rahj grass
 * iNaturalist - beehive ginger source images (benchapman77, diegoalvarado13, yariastral, afranco, spectabile_01, twidmer, christiangilli-02)
 * Istreddify
-* [JamesWhite](http://opengameart.org/users/jameswhite) - piranha model
 * jcd13 - Chinese Lantern
 * Jdooby - trees
 * Jester/Spot1st - Stalker Armor
+* Julian Johnson-Mortimer - piranha model
 * Kagz
 * kalikut - black robes, curtain/banner
 * Kevnage - Roots and vines
