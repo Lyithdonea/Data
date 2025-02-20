@@ -1,27 +1,12 @@
 Merging plugins...
-Merging object to master: CELL AZ_Region_Thousand Isles (81, -79)
-Merging object to master: CELL Bnay, New Argonia (84, -81)
-Merging object to master: CELL AZ_Region_Thousand Isles (88, -79)
-Merging object to master: CELL AZ_Region_Thousand Isles (83, -78)
-Merging object to master: CELL AZ_Region_Thousand Isles (88, -78)
-Merging object to master: CELL AZ_Region_Thousand Isles (84, -80)
-Merging object to master: CELL AZ_Region_Thousand Isles (83, -79)
-Merging object to master: CELL AZ_Region_Thousand Isles (82, -80)
-Merging object to master: CELL Lyithdonea, Delaruhn (87, -79)
-Merging object to master: CELL AZ_Region_Thousand Isles (86, -80)
-Merging object to master: CELL AZ_Region_Thousand Isles (85, -82)
-Merging object to master: CELL Bnay (84, -82)
-Merging object to master: CELL Bnay, New Argonia (83, -80)
-Merging object to master: CELL Bnay, New Argonia (83, -81)
-Merging object to master: CELL AZ_Region_Thousand Isles (86, -79)
-Merging object to master: CELL AZ_Region_Thousand Isles (82, -79)
-Merging object to master: STAT az_flora_floatgrass_TI
-Merging object to master: CELL AZ_Region_Thousand Isles (85, -81)
-Merging object to master: CELL AZ_Region_Thousand Isles (81, -78)
-Merging object to master: CELL Lyithdonea, Tarvur's Landing (87, -78)
-Merging object to master: CELL AZ_Region_Thousand Isles (84, -79)
-Removed deleted object: az_flora_floatgrass_ti
-Applying moved reference 'az_flora_lilypad_group_04' (93070) for cell (88, -78)
+Merging object to master: CELL Padomaic Ocean, Nepenthe
+Merging object to master: PGRD Padomaic Ocean, Nepenthe (0, 0)
+Merging object to master: CELL Nepenthe, Cabin
+Merging object to master: SCPT az_scr_MQ_Nep_platter
+Copying object to master: DOOR az_door_nepentheBlocked01
+Merging object to master: CELL Lyithdonea, Dor Dalla (84, -74)
+Merging object to master: CELL Nepenthe, Lower Deck
+Merging object to master: get this ship moving
 Creating backup...
 Saving results...
 Finished!
