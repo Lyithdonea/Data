@@ -1,12 +1,117 @@
 Merging plugins...
-Merging object to master: CELL Padomaic Ocean, Nepenthe
-Merging object to master: PGRD Padomaic Ocean, Nepenthe (0, 0)
-Merging object to master: CELL Nepenthe, Cabin
-Merging object to master: SCPT az_scr_MQ_Nep_platter
-Copying object to master: DOOR az_door_nepentheBlocked01
-Merging object to master: CELL Lyithdonea, Dor Dalla (84, -74)
-Merging object to master: CELL Nepenthe, Lower Deck
-Merging object to master: get this ship moving
+Remapping texture index: (12 -> 124) az_tx_v_floor
+Remapping texture index: (14 -> 133) az_tx_cave_ground
+Remapping texture index: (2 -> 103) az_tx_ai_dirt_road
+Remapping texture index: (18 -> 139) az_tx_sand_01
+Remapping texture index: (6 -> 115) az_tx_ai_cobblestone
+Remapping texture index: (0 -> 102) AB_tx_VelFloor
+Remapping texture index: (13 -> 126) az_tx_v_gravel
+Remapping texture index: (17 -> 138) az_tx_coast_rock_01
+Remapping texture index: (3 -> 104) az_tx_ai_grass_dirt
+Remapping texture index: (1 -> 93) az_tx_rock
+Remapping texture index: (11 -> 122) az_tx_ai_clover
+Remapping texture index: (4 -> 105) az_tx_ai_dirt_01
+Remapping texture index: (5 -> 113) az_tx_ti_rock_04
+Remapping texture index: (15 -> 134) az_tx_gem_blue
+Remapping texture index: (8 -> 118) az_tx_ai_grass_rocky
+Remapping texture index: (7 -> 117) az_tx_ai_grass_01
+Remapping texture index: (9 -> 119) az_tx_ai_mudflats
+Remapping texture index: (10 -> 121) az_tx_ai_grass_00
+Remapping texture index: (16 -> 137) az_tx_coast_rock_02
+Merging object to master: LAND LAND (85, -77)
+Merging object to master: CELL Azura, Magnagerial District (86, -75)
+Merging object to master: LTEX az_tx_v_floor
+Merging object to master: LTEX az_tx_sand_01
+Merging object to master: LTEX AB_tx_VelFloor
+Merging object to master: CELL Azura, High Rosery District (85, -76)
+Merging object to master: LTEX az_tx_coast_rock_01
+Merging object to master: CELL Azura, Palace (87, -76)
+Merging object to master: LTEX az_tx_ai_grass_dirt
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -76)
+Merging object to master: LTEX az_tx_rock
+Merging object to master: LTEX az_tx_ai_clover
+Merging object to master: LTEX az_tx_ai_dirt_road
+Merging object to master: CELL Azura, Manor District (86, -77)
+Merging object to master: LTEX az_tx_ai_cobblestone
+Merging object to master: CELL Azura, High Rosery District (86, -76)
+Merging object to master: LAND LAND (87, -76)
+Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
+Copying object to master: STAT az_Ex_VelTempleTower02-2
+Merging object to master: LTEX az_tx_v_gravel
+Merging object to master: CELL Azura, Gadresi Manor
+Merging object to master: CELL Azura, Voath Manor
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -77)
+Merging object to master: LTEX az_tx_ai_dirt_01
+Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
+Merging object to master: LTEX az_tx_ai_grass_rocky
+Merging object to master: LTEX az_tx_ai_mudflats
+Merging object to master: LAND LAND (86, -75)
+Merging object to master: LTEX az_tx_coast_rock_02
+Merging object to master: LAND LAND (85, -76)
+Merging object to master: LAND LAND (86, -77)
+Merging object to master: LAND LAND (84, -76)
+Copying object to master: STAT az_Ex_VelTempleTower02-1
+Merging object to master: LAND LAND (84, -75)
+Merging object to master: LAND LAND (85, -75)
+Merging object to master: LTEX az_tx_cave_ground
+Merging object to master: LTEX az_tx_ti_rock_04
+Merging object to master: LTEX az_tx_gem_blue
+Merging object to master: LTEX az_tx_ai_grass_01
+Merging object to master: LAND LAND (86, -76)
+Merging object to master: CELL Azura, High Rosery, Foyer
+Merging object to master: LTEX az_tx_ai_grass_00
+Applying moved reference 'in_velothi_platform_01' (90625) for cell (87, -76)
+Applying moved reference 'AB_Ex_VelCantonStr01' (90616) for cell (87, -76)
+Applying moved reference 'az_ex_v_obelisk_02' (90615) for cell (86, -75)
+Applying moved reference 'ex_vivec_lp_01' (90635) for cell (87, -76)
+Applying moved reference 'ex_vivec_lp_01' (90614) for cell (87, -76)
+Applying moved reference 'az_ex_velHouseFound01' (90657) for cell (87, -76)
+Applying moved reference 'ex_vivec_lp_01' (90630) for cell (87, -76)
+Applying moved reference 'ex_vivec_lp_01' (90618) for cell (87, -76)
+Applying moved reference 'in_velothi_platform_01' (90639) for cell (86, -75)
+Applying moved reference 'az_flora_tree_palm_turbo01' (91222) for cell (85, -75)
+Applying moved reference 'az_flora_bush05_nobiax' (90920) for cell (86, -76)
+Applying moved reference 'az_Flora_PlantLeafy01' (90907) for cell (86, -76)
+Applying moved reference 'az_Ex_VelTower02Planter' (90945) for cell (86, -76)
+Applying moved reference 'az_flora_tree_palm_turbo04' (90884) for cell (86, -76)
+Applying moved reference 'az_flora_tree_palm_turbo02' (90932) for cell (86, -76)
+Applying moved reference 'az_flora_tree_palm_turbo03' (90872) for cell (86, -76)
+Applying moved reference 'az_flora_bush03_nobiax_MS' (90913) for cell (86, -76)
+Applying moved reference 'az_flora_plant_nobiax_01' (90892) for cell (86, -76)
+Applying moved reference 'az_Ex_VelTower02Planter' (90866) for cell (86, -76)
+Applying moved reference 'az_Flora_VelPlanterVine02' (90870) for cell (86, -76)
+Applying moved reference 'az_ex_topiary_mephala' (90937) for cell (86, -76)
+Applying moved reference 'az_flora_tree_cedar_01' (90904) for cell (86, -76)
+Applying moved reference 'az_ex_v_planterLarge04' (90868) for cell (86, -76)
+Applying moved reference 'az_flora_tree_cedar_03' (90947) for cell (86, -76)
+Applying moved reference 'az_ex_woodPlatLadder02' (90919) for cell (86, -76)
+Applying moved reference 'az_flora_tree_cedar_03' (90911) for cell (86, -76)
+Applying moved reference 'az_Flora_PlantLeafy01' (90891) for cell (86, -76)
+Applying moved reference 'az_flora_tree_cedar_02' (90912) for cell (86, -76)
+Applying moved reference 'az_flora_tree_palm_turbo04' (90902) for cell (86, -76)
+Applying moved reference 'az_flora_tree_palm_turbo02' (90877) for cell (86, -76)
+Applying moved reference 'az_Flora_VelPlanterVine05' (90924) for cell (86, -76)
+Applying moved reference 'az_flora_flower_flax_02' (90887) for cell (86, -76)
+Applying moved reference 'az_Flora_PlantLeafy01' (90906) for cell (86, -76)
+Applying moved reference 'az_flora_tree_palm_turbo01' (90900) for cell (86, -76)
+Applying moved reference 'az_flora_bush05_nobiax' (90927) for cell (86, -76)
+Applying moved reference 'az_Flora_BambooGroup03' (80096) for cell (85, -75)
+Applying moved reference 'az_Tendryn Olamo' (20672) for cell (86, -76)
+Applying moved reference 'az_flora_bush05_nobiax' (90926) for cell (86, -76)
+Applying moved reference 'az_flora_tree_cedar_01' (90869) for cell (86, -76)
+Applying moved reference 'az_Flora_PlantLeafy01' (90867) for cell (86, -76)
+Applying moved reference 'az_flora_tree_cedar_02' (90883) for cell (86, -76)
+Applying moved reference 'az_flora_bush05_nobiax' (90939) for cell (86, -76)
+Applying moved reference 'az_flora_tree_palm_turbo01' (90882) for cell (86, -76)
+Applying moved reference 'az_flora_bush05_nobiax' (90889) for cell (86, -76)
+Applying moved reference 'az_flora_tree_cedar_03' (90931) for cell (86, -76)
+Applying moved reference 'az_flora_tree_az_05' (91856) for cell (86, -77)
+Applying moved reference 'az_Flora_Fern01' (91507) for cell (86, -77)
+Applying moved reference 'az_flora_tree_az_05' (91847) for cell (86, -77)
+Applying moved reference 'az_ex_v_railing5x' (91510) for cell (86, -77)
+Applying moved reference 'ex_vivec_g_r_01' (91868) for cell (86, -77)
+Applying moved reference 'az_flora_tree_az_05' (91860) for cell (86, -77)
+Applying moved reference 'az_Ex_VelTempleTower02-2' (90962) for cell (86, -75)
 Creating backup...
 Saving results...
 Finished!
