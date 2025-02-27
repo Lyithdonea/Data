@@ -1,22 +1,44 @@
 Merging plugins...
-Merging object to master: CELL Azura, The Gathering Hole
-Merging object to master: NPC_ az_BuoyantArmCaptain
-Merging object to master: NPC_ az_Bothiel
-Merging object to master: NPC_ az_Durmash gro-Aglakh
-Merging object to master: NPC_ az_Ranto-Byn
-Merging object to master: CELL Azura, Palace (87, -76)
-Merging object to master: NPC_ az_Grumpy Old Cat Man
-Merging object to master: CELL Azura, Manor District (86, -77)
-Merging object to master: NPC_ az_Ruthuli Zeba-bal
-Merging object to master: CELL Dor Dalla, Guild of Mages, Boarding Tower
-Merging object to master: NPC_ az_Iddea Gadresi
-Merging object to master: CREA az_und_pighead
-Merging object to master: NPC_ az_Magister Crim
-Merging object to master: NPC_ az_Nil Vulas
-Merging object to master: CELL Lyithdonea, Rufescent Cavern
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -70)
-Merging object to master: greeting 1
-Merging object to master: destination
+Merging object to master: BODY az_TrBo_greave_g
+Merging object to master: BODY az_TrBo_boot_a
+Merging object to master: WEAP az_w_arg_tutuka
+Merging object to master: BODY az_TrBo_boot_f
+Merging object to master: NPC_ az_PadPirateNep04
+Merging object to master: BODY az_TrBo_pauldron_cl
+Merging object to master: ARMO az_a_trollbone_pauldron_R
+Merging object to master: BODY az_TrBo_bracer_w
+Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
+Merging object to master: CELL Padomaic Ocean, Nepenthe
+Merging object to master: WEAP az_w_iron_mace_blunt
+Merging object to master: ARMO az_a_trollbone_boots
+Merging object to master: ARMO az_a_trollbone_bracer_R
+Merging object to master: NPC_ az_Rannithon
+Merging object to master: WEAP az_w_gladiator_iron_trident
+Merging object to master: WEAP az_w_iron_rapier
+Merging object to master: NPC_ az_Ordmir
+Merging object to master: BODY az_TrBo_greave_ul
+Merging object to master: NPC_ az_PadPirateNep08
+Merging object to master: ARMO az_a_trollbone_bracer_L
+Merging object to master: ARMO az_a_trollbone_greaves
+Merging object to master: ARMO az_a_trollbone_pauldron_L
+Merging object to master: CELL Azura, The Iron Hilt
+Merging object to master: BODY az_TrBo_greave_k
+Merging object to master: WEAP az_w_iron_mace_spiked
+Merging object to master: WEAP az_w_iron_mallet
+Merging object to master: follow
+Removed deleted object: az_trbo_greave_k
+Removed deleted object: az_trbo_greave_ul
+Removed deleted object: az_a_trollbone_bracer_r
+Removed deleted object: az_trbo_pauldron_cl
+Removed deleted object: az_trbo_boot_a
+Removed deleted object: az_a_trollbone_greaves
+Removed deleted object: az_trbo_greave_g
+Removed deleted object: az_trbo_bracer_w
+Removed deleted object: az_a_trollbone_bracer_l
+Removed deleted object: az_a_trollbone_pauldron_l
+Removed deleted object: az_a_trollbone_boots
+Removed deleted object: az_trbo_boot_f
+Removed deleted object: az_a_trollbone_pauldron_r
 Creating backup...
 Saving results...
 Finished!
