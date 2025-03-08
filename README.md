@@ -53,9 +53,10 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * griff - interiors
 * Istreddify - interiors
 * Juidius - interiors
+* Lucevar - interiors
 * MassiveJuice - wiki
 * Moritius - interiors
-* Lucevar - interiors
+* Neighgoth - chimer
 * Pluto - interiors
 * Rubberman - interiors
 * SamirA - interiors
