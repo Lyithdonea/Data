@@ -1,15 +1,278 @@
 Merging plugins...
-Merging object to master: MISC az_Misc_ArtPaintWide03
-Merging object to master: MISC az_Misc_ArtPaintWide01
-Merging object to master: MISC az_Misc_ArtPaintWide05
-Merging object to master: MISC az_Misc_ArtPaintSqar01
-Merging object to master: MISC az_Misc_ArtPaintTall01
-Merging object to master: MISC az_Misc_ArtPaintSqar03
-Merging object to master: MISC az_Misc_ArtPaintTall03
-Merging object to master: MISC az_Misc_ArtPaintSqar02
-Merging object to master: MISC az_Misc_ArtPaintTall02
-Merging object to master: MISC az_Misc_ArtPaintWide02
-Merging object to master: MISC az_Misc_ArtPaintWide04
+Merging object to master: BODY az_b_n_chi_m_hair_05
+Merging object to master: BODY az_b_n_chi_m_head_02
+Copying object to master: BODY az_b_Chimer_f_hr18
+Copying object to master: BODY az_b_Chimer_f_hr15
+Copying object to master: BODY az_b_Chimer_m_hr14
+Copying object to master: BODY az_b_Chimer_f_hr20
+Merging object to master: RACE AZ_Chimer
+Merging object to master: BODY az_b_n_chi_f_neck
+Copying object to master: BODY az_b_Chimer_m_hr15
+Merging object to master: BODY az_b_n_chi_f_forearm
+Merging object to master: BODY az_b_n_chi_m_hair_16
+Merging object to master: BODY az_b_n_chi_m_head_05
+Merging object to master: BODY az_b_n_chi_f_hair_19
+Merging object to master: BODY az_b_n_chi_f_hair_17
+Copying object to master: BODY az_b_Chimer_m_an
+Copying object to master: BODY az_b_Chimer_m_ch
+Merging object to master: BODY az_b_n_chi_m_hands
+Copying object to master: BODY az_b_Chimer_f_hr14
+Copying object to master: BODY az_b_Chimer_m_ft
+Copying object to master: BODY az_b_Chimer_f_nk
+Merging object to master: BODY az_b_n_chi_f_hair_23
+Copying object to master: BODY az_b_Chimer_f_hr05
+Copying object to master: BODY az_b_Chimer_f_hr22
+Merging object to master: CELL Azura, Port of Lyithdonea (88, -76)
+Merging object to master: BODY az_b_n_chi_f_foot
+Copying object to master: BODY az_b_Chimer_f_ch
+Merging object to master: BODY az_b_n_chi_m_head_07
+Merging object to master: NPC_ az_Alavesa Ishatale
+Merging object to master: BODY az_b_n_chi_m_hair_24
+Merging object to master: BODY az_b_n_chi_f_hair_10
+Copying object to master: SPEL az_ab_ChimerWeakBlight25
+Merging object to master: BODY az_b_n_chi_f_hair_22
+Copying object to master: BODY az_b_Chimer_m_hr23
+Merging object to master: BODY az_b_n_chi_f_head_01
+Merging object to master: BODY az_b_n_chi_m_hands.1st
+Merging object to master: BODY az_b_n_chi_m_head_04
+Merging object to master: BODY az_b_n_chi_m_hair_12
+Merging object to master: BODY az_b_n_chi_m_head_01
+Merging object to master: BODY az_b_n_chi_m_hair_17
+Merging object to master: BODY az_b_n_chi_m_hair_20
+Copying object to master: BODY az_b_Chimer_f_ul
+Copying object to master: BODY az_b_Chimer_f_hd05
+Copying object to master: BODY az_b_Chimer_m_hd01
+Copying object to master: BODY az_b_Chimer_m_hd02
+Merging object to master: BODY az_b_n_chi_f_hair_02
+Merging object to master: BODY az_b_n_chi_f_upper leg
+Copying object to master: BODY az_b_Chimer_m_hd06
+Copying object to master: BODY az_b_Chimer_f_hr12
+Merging object to master: BODY az_b_n_chi_f_hair_13
+Copying object to master: BODY az_b_Chimer_f_hn
+Copying object to master: BODY az_b_Chimer_m_hr04
+Merging object to master: BODY az_b_n_chi_f_hair_11
+Copying object to master: BODY az_b_Chimer_m_hd03
+Copying object to master: BODY az_b_Chimer_m_hr19
+Merging object to master: BODY az_b_n_chi_m_knee
+Copying object to master: BODY az_b_Chimer_m_hr21
+Copying object to master: BODY az_b_Chimer_m_hr08
+Copying object to master: BODY az_b_Chimer_f_hr04
+Merging object to master: CELL Azura, Old Town (88, -77)
+Merging object to master: BODY az_b_n_chi_m_hair_08
+Merging object to master: BODY az_b_n_chi_m_foot
+Copying object to master: BODY az_b_Chimer_m_hdv
+Copying object to master: BODY az_b_Chimer_m_hn
+Copying object to master: SPEL az_ab_ChimerResistShock25
+Merging object to master: BODY az_b_n_chi_f_hair_21
+Copying object to master: BODY az_b_Chimer_m_hd07
+Merging object to master: BODY az_b_n_chi_f_hair_01
+Merging object to master: BODY az_b_n_chi_f_hair_24
+Copying object to master: BODY az_b_Chimer_f_hd06
+Merging object to master: BODY az_b_n_chi_f_head_06
+Merging object to master: BODY az_b_n_chi_m_upper leg
+Merging object to master: BODY az_b_n_chi_m_hair_14
+Copying object to master: BODY az_b_Chimer_m_hr05
+Merging object to master: BODY az_b_n_chi_m_forearm
+Copying object to master: BODY az_b_Chimer_f_hr19
+Copying object to master: BODY az_b_Chimer_m_hr03
+Copying object to master: BODY az_b_Chimer_f_hr16
+Copying object to master: BODY az_b_Chimer_m_hd04
+Merging object to master: BODY az_b_n_chi_f_knee
+Merging object to master: BODY az_b_n_chi_f_upper arm
+Merging object to master: BODY az_b_n_chi_f_hair_18
+Merging object to master: BODY az_b_n_chi_m_hair_03
+Copying object to master: BODY az_b_Chimer_m_fa
+Merging object to master: BODY az_b_n_chi_m_hair_13
+Merging object to master: BODY az_b_n_chi_m_hair_26
+Merging object to master: BODY az_b_n_chi_f_head_02
+Copying object to master: BODY az_b_Chimer_m_kn
+Copying object to master: BODY az_b_Chimer_f_hn.1st
+Copying object to master: BODY az_b_Chimer_f_hr06
+Copying object to master: BODY az_b_Chimer_m_hr22
+Merging object to master: BODY az_b_n_chi_f_hair_12
+Copying object to master: BODY az_b_Chimer_f_kn
+Merging object to master: BODY az_b_n_chi_m_hair_04
+Merging object to master: BODY az_b_n_chi_f_ankle
+Merging object to master: BODY az_b_n_chi_m_hair_18
+Copying object to master: BODY az_b_Chimer_m_hr17
+Merging object to master: BODY az_b_n_chi_f_hair_03
+Copying object to master: BODY az_b_Chimer_f_hr07
+Copying object to master: BODY az_b_Chimer_f_ft
+Merging object to master: BODY az_b_n_chi_m_head_08
+Copying object to master: BODY az_b_Chimer_m_hr02
+Merging object to master: BODY az_b_n_chi_m_hair_22
+Merging object to master: BODY az_b_n_chi_f_hair_20
+Copying object to master: BODY az_b_Chimer_m_ul
+Merging object to master: BODY az_b_n_chi_f_hair_15
+Copying object to master: BODY az_b_Chimer_f_hr21
+Merging object to master: BODY b_v_chi_f_head_01
+Merging object to master: BODY az_b_n_chi_m_hair_15
+Merging object to master: BODY az_b_n_chi_f_hair_16
+Merging object to master: BODY az_b_n_chi_m_hair_02
+Merging object to master: BODY az_b_n_chi_f_hair_05
+Merging object to master: BODY az_b_n_chi_f_hair_25
+Merging object to master: BODY az_b_n_chi_f_hair_04
+Merging object to master: BODY az_b_n_chi_f_hair_09
+Merging object to master: BODY b_v_chi_m_head_01
+Merging object to master: BODY az_b_n_chi_m_hair_01
+Merging object to master: BODY az_b_n_chi_f_hands
+Merging object to master: BODY az_b_n_chi_m_groin
+Merging object to master: BODY az_b_n_chi_m_hair_07
+Merging object to master: BODY az_b_n_chi_m_chest
+Merging object to master: BODY az_b_n_chi_f_hair_07
+Merging object to master: BODY az_b_n_chi_f_head_03
+Merging object to master: NPC_ az_Nammu
+Copying object to master: BODY az_b_Chimer_m_ua
+Merging object to master: NPC_ az_Ovone Fen
+Copying object to master: BODY az_b_Chimer_f_hd01
+Merging object to master: BODY az_b_n_chi_f_groin
+Merging object to master: BODY az_b_n_chi_m_hair_19
+Merging object to master: BODY az_b_n_chi_m_hair_11
+Merging object to master: NPC_ az_Aman Drys
+Copying object to master: BODY az_b_Chimer_f_fa
+Copying object to master: BODY az_b_Chimer_f_hdv
+Merging object to master: BODY az_b_n_chi_f_head_05
+Copying object to master: BODY az_b_Chimer_f_hr13
+Merging object to master: BODY az_b_n_chi_m_wrist
+Copying object to master: BODY az_b_Chimer_m_hr01
+Merging object to master: BODY az_b_n_chi_f_hair_14
+Merging object to master: BODY az_b_n_chi_f_hair_06
+Copying object to master: SPEL az_pwr_ChimerReflect
+Merging object to master: BODY az_b_n_chi_m_hair_09
+Merging object to master: BODY az_b_n_chi_m_hair_21
+Copying object to master: BODY az_b_Chimer_f_hd03
+Merging object to master: BODY az_b_n_chi_f_hands.1st
+Merging object to master: BODY az_b_n_chi_m_upper arm
+Merging object to master: BODY az_b_n_chi_m_head_06
+Merging object to master: BODY az_b_n_chi_f_chest
+Copying object to master: BODY az_b_Chimer_f_wr
+Copying object to master: BODY az_b_Chimer_m_hr06
+Copying object to master: BODY az_b_Chimer_f_hd04
+Merging object to master: BODY az_b_n_chi_m_hair_10
+Merging object to master: BODY az_b_n_chi_m_hair_23
+Merging object to master: BODY az_b_n_chi_m_hair_25
+Copying object to master: BODY az_b_Chimer_f_an
+Copying object to master: BODY az_b_Chimer_m_hn.1st
+Merging object to master: BODY az_b_n_chi_f_wrist
+Copying object to master: BODY az_b_Chimer_m_gr
+Copying object to master: BODY az_b_Chimer_m_nk
+Copying object to master: BODY az_b_Chimer_m_hr20
+Merging object to master: BODY az_b_n_chi_f_hair_08
+Merging object to master: BODY az_b_n_chi_m_head_03
+Copying object to master: BODY az_b_Chimer_f_ua
+Copying object to master: BODY az_b_Chimer_f_hd02
+Copying object to master: BODY az_b_Chimer_f_hr17
+Copying object to master: BODY az_b_Chimer_f_hr03
+Merging object to master: BODY az_b_n_chi_f_head_04
+Copying object to master: BODY az_b_Chimer_f_hr02
+Copying object to master: BODY az_b_Chimer_m_hr07
+Copying object to master: BODY az_b_Chimer_m_hr09
+Copying object to master: BODY az_b_Chimer_m_hr10
+Merging object to master: BODY az_b_n_chi_m_neck
+Merging object to master: BODY az_b_n_chi_m_hair_mag
+Copying object to master: BODY az_b_Chimer_m_wr
+Merging object to master: BODY az_b_n_chi_m_hair_06
+Copying object to master: BODY az_b_Chimer_f_gr
+Copying object to master: BODY az_b_Chimer_f_hr23
+Merging object to master: CELL Azura, Slums, Alavesa Ishatale's Shack
+Copying object to master: BODY az_b_Chimer_m_hr16
+Copying object to master: BODY az_b_Chimer_m_hd05
+Copying object to master: BODY az_b_Chimer_m_hr18
+Copying object to master: BODY az_b_Chimer_f_hr01
+Merging object to master: BODY az_b_n_chi_m_ankle
+Merging object to master: chimer
+Removed deleted object: az_b_n_chi_f_hair_25
+Removed deleted object: az_b_n_chi_f_hair_12
+Removed deleted object: az_b_n_chi_m_head_08
+Removed deleted object: az_b_n_chi_f_ankle
+Removed deleted object: az_b_n_chi_f_upper leg
+Removed deleted object: az_b_n_chi_f_hair_15
+Removed deleted object: az_b_n_chi_f_hair_05
+Removed deleted object: az_b_n_chi_f_head_04
+Removed deleted object: az_b_n_chi_m_hair_08
+Removed deleted object: az_b_n_chi_f_hair_02
+Removed deleted object: az_b_n_chi_m_hair_18
+Removed deleted object: az_b_n_chi_f_hair_22
+Removed deleted object: az_b_n_chi_f_forearm
+Removed deleted object: az_b_n_chi_f_knee
+Removed deleted object: az_b_n_chi_m_head_05
+Removed deleted object: az_b_n_chi_m_hair_16
+Removed deleted object: az_b_n_chi_m_knee
+Removed deleted object: az_b_n_chi_f_hair_24
+Removed deleted object: az_b_n_chi_m_hair_06
+Removed deleted object: az_b_n_chi_m_hands.1st
+Removed deleted object: az_b_n_chi_m_head_02
+Removed deleted object: az_b_n_chi_f_hair_01
+Removed deleted object: az_b_n_chi_f_hair_14
+Removed deleted object: az_b_n_chi_m_groin
+Removed deleted object: az_b_n_chi_m_hair_26
+Removed deleted object: az_b_n_chi_f_hair_04
+Removed deleted object: az_b_n_chi_f_hair_21
+Removed deleted object: az_b_n_chi_f_wrist
+Removed deleted object: az_b_n_chi_f_hair_11
+Removed deleted object: az_b_n_chi_m_head_04
+Removed deleted object: az_b_n_chi_f_groin
+Removed deleted object: az_b_n_chi_m_hair_11
+Removed deleted object: az_b_n_chi_m_hair_01
+Removed deleted object: az_b_n_chi_m_head_01
+Removed deleted object: az_b_n_chi_f_foot
+Removed deleted object: az_b_n_chi_f_hair_20
+Removed deleted object: az_b_n_chi_m_hair_21
+Removed deleted object: az_b_n_chi_m_wrist
+Removed deleted object: az_b_n_chi_m_forearm
+Removed deleted object: az_b_n_chi_f_head_05
+Removed deleted object: az_b_n_chi_m_head_07
+Removed deleted object: az_b_n_chi_m_hair_10
+Removed deleted object: az_b_n_chi_f_hair_10
+Removed deleted object: b_v_chi_m_head_01
+Removed deleted object: az_b_n_chi_m_upper arm
+Removed deleted object: az_b_n_chi_m_hair_05
+Removed deleted object: az_b_n_chi_f_hair_07
+Removed deleted object: az_b_n_chi_m_hair_15
+Removed deleted object: az_b_n_chi_m_hair_20
+Removed deleted object: az_b_n_chi_f_hands
+Removed deleted object: az_b_n_chi_m_ankle
+Removed deleted object: az_b_n_chi_f_chest
+Removed deleted object: az_b_n_chi_m_hair_25
+Removed deleted object: az_b_n_chi_f_upper arm
+Removed deleted object: az_b_n_chi_f_hair_17
+Removed deleted object: b_v_chi_f_head_01
+Removed deleted object: az_b_n_chi_f_head_06
+Removed deleted object: az_b_n_chi_m_foot
+Removed deleted object: az_b_n_chi_m_hair_03
+Removed deleted object: az_b_n_chi_f_hair_09
+Removed deleted object: az_b_n_chi_f_head_01
+Removed deleted object: az_b_n_chi_f_hands.1st
+Removed deleted object: az_b_n_chi_m_upper leg
+Removed deleted object: az_b_n_chi_m_hair_23
+Removed deleted object: az_b_n_chi_m_hair_mag
+Removed deleted object: az_b_n_chi_f_hair_06
+Removed deleted object: az_b_n_chi_m_hair_04
+Removed deleted object: az_b_n_chi_f_hair_19
+Removed deleted object: az_b_n_chi_m_hands
+Removed deleted object: az_b_n_chi_m_hair_13
+Removed deleted object: az_b_n_chi_m_hair_14
+Removed deleted object: az_b_n_chi_f_hair_13
+Removed deleted object: az_b_n_chi_f_hair_03
+Removed deleted object: az_b_n_chi_f_head_03
+Removed deleted object: az_b_n_chi_m_hair_24
+Removed deleted object: az_b_n_chi_m_hair_19
+Removed deleted object: az_b_n_chi_m_hair_09
+Removed deleted object: az_b_n_chi_f_hair_16
+Removed deleted object: az_b_n_chi_f_hair_23
+Removed deleted object: az_b_n_chi_m_hair_12
+Removed deleted object: az_b_n_chi_f_hair_18
+Removed deleted object: az_b_n_chi_f_hair_08
+Removed deleted object: az_b_n_chi_f_head_02
+Removed deleted object: az_b_n_chi_m_neck
+Removed deleted object: az_b_n_chi_m_hair_22
+Removed deleted object: az_b_n_chi_m_head_06
+Removed deleted object: az_b_n_chi_m_chest
+Removed deleted object: az_b_n_chi_m_hair_07
+Removed deleted object: az_b_n_chi_f_neck
+Removed deleted object: az_b_n_chi_m_hair_02
+Removed deleted object: az_b_n_chi_m_head_03
+Removed deleted object: az_b_n_chi_m_hair_17
 Creating backup...
 Saving results...
 Finished!
