@@ -135,6 +135,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Julian Johnson-Mortimer - piranha model
 * Kagz
 * kalikut - black robes, curtain/banner
+* Kartoffels - Facelift textures
 * Kevnage - Roots and vines
 * Killyone – “beetle golem” model and white death creature art
 * Kir - scripting help
