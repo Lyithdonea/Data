@@ -11,36 +11,28 @@ To get to Lyithdonea, talk with someone on Azura’s Coast (such as in Sadrith M
 **Morrowind - Tribunal - Bloodmoon - [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042) - [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)**
 
 ### Recommended Mods
-* **[MGE XE](https://www.nexusmods.com/morrowind/mods/26348/)** - Whether you're using MGE XE or OpenMW, distant land is recommended.
 * **[Morrowind Optimization Project](https://www.nexusmods.com/morrowind/mods/45384)** - It is highly recommended that you install MOP to improve performance with this mod.
-* **[Project Atlas](https://www.nexusmods.com/morrowind/mods/45399) + [AtlAd](https://github.com/revenorror/AtlAd)** - It is highly recommended that you use Project Atlas and the addendum on GitHub. This will significantly improve performance in the main city in particular.
-* **[Robert's Bodies](https://www.nexusmods.com/morrowind/mods/43138) or [Better Bodies](https://www.nexusmods.com/morrowind/mods/3880)** - The chimer race added in this mod uses Robert's Bodies for now. A vanilla-style body version may be added in the future, but for now they will fit into your game better with one of these body replacers.
-* **[Better Clothes](https://www.nexusmods.com/morrowind/mods/42262) ([Vol 1](https://www.nexusmods.com/morrowind/mods/36406),[Plus](http://download.fliggerty.com/download-21-804)), [Robes](https://www.nexusmods.com/morrowind/mods/42773), [Armor](https://www.nexusmods.com/morrowind/mods/42509)** - The new clothing added by this mod is BB-style. So they will fit into your game better if you are using BB clothing and armor.
+* **[Project Atlas](https://www.nexusmods.com/morrowind/mods/45399) - It is highly recommended that you use Project Atlas. This will significantly improve performance in the main city in particular.
 * **[Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)** - This mod includes custom waterfalls which are designed to match this replacer.
 * **[Arukinn’s Better Books](https://www.nexusmods.com/morrowind/mods/43100) + [MD Book Replacer](https://www.nexusmods.com/morrowind/mods/45626)** - Using these replacers will make the vanilla books match the quality of book models in Lyithdonea.
 
 ### Installation
 1. Manual: Unzip the archive and extract to the Morrowind Data Files directory
-1. Mod Manager: Install the archive
-1. Activate “MD_Azurian Isles.esp”
-1. If you use MGE XE, make sure to select “MD_Azurian Isles_Coral.esp” and “MD_Azurian Isles_Grass.esp” in addition to “MD_Azurian Isles.esp” when generating distant land.
+2. Mod Manager: Install the archive
+3. Activate “MD_Azurian Isles.esm”
 
 ### Incompatibility
-1. Mash may note some overlap if you’re using either NoM or Animated Morrowind as I have included resources from both mods.
 1. RR Mod Series – Better Ships and Boats currently causes some visual issues with Lyithdonea (especially in New Argonia) due to the new model shapes.
-1. Currently compatible with Tamriel Rebuilt.
+2. Currently compatible with Tamriel Rebuilt.
 
 ### Load Order
-Should be loaded before Necessities of Morrowind (NoM) and Animated Morrowind.
+No special requirements.
 
 ### Known Issues
 It’s in alpha… please report any bugs you find. Missing features are not bugs.
 
 ### Credits
 **Mrs. MD - Thank you for encouraging me and for putting up with my constant requests for your opinion!**
-
-#### Team Members
-* TheDrunkenMudcrab - Quest Developer
 
 #### Key Contributors
 * Abot - scripting, publicity
