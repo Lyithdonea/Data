@@ -1,0 +1,98 @@
+# Changelog
+## Version 0.1.5
+- Fixed guard AI (alarm)
+- Completed Saurale's Quayside Tavern and made it have a rentable bed
+- Completed multiple interiors
+- Made Winged Twilights react negatively if you're carrying Winged Twilight Ichor
+- Filled in the "Guide to Azura" document
+- Added Azuran Priestess Robe
+- Disabled currently unused start scripts
+- Added Leather Jerkin and Pants clothing pieces
+- Added green glassware pieces
+- Merged in interiors from Istreddify (thanks!)
+## Version 0.1.4
+- Completed first 2 quests in main quest - talk to an NPC on Azura's Coast (such as in Sadrith mora or Tel Branora)
+- Removed hundreds of objects from Azura City to improve performance
+- Replaced Temple of Azura with a single mesh
+- Moved the Slums District into an interior cell under the manor district
+- Remodeled the moon and star to optimize face count and retextured
+- Added more pathgridding to Azura City
+- Added new dialogue greetings and topics
+- Cleaned up ID list and removed unused objects to reduce file size
+- Added "caution tape" in front of teleporting doors to unfinished interior (only appear when player is close)
+- Added some new drinks (to start replacing placeholders)
+- Added Paatru Vesicae plant
+- Created add-on for Ashiraniir's More Argonian Hair mod
+- Replaced the Drakhis city with "Azularrabel", the ancient holy site
+- Added "Lyithdonea, " to all cells aside from "Azura, " and "Bnay, " to help filter dialogue
+- Added root trees to Thousand Isles region
+- Fixed vertex shading issues on Dunguar and Ko'tau
+- Fixed error in Elven Ship model (finder's credit to WH-Reaper)
+- Fixed detached wall in Magnagerial District (finder's credit to WH-Reaper)
+- Made canal water in manor district flow the right direction
+- Fixed western lighthouse trapdoor to roof area
+- Corrected floating "az_flora_moss_vurt_01" in the Thousand Isles region
+- Applied ownership in Eastern Sea Cornerclub and Fishing Supplies
+- Added Malyvel Ancestral Tomb (thanks, Moritius!)
+- Merged Griff's claim (thanks!)
+- Added some detail to the salt pan area
+- Added a "pighead" monster
+- Added details to the exterior of Ouashallath Island Ouag Tong Guild Hall
+- Began work on Tarshon interior
+- Removed some unused flora meshes (put into extras folder)
+- Detailing for Eastern Lighthouse exterior
+- Replaced references of hound meat with kriin meat
+- Added some clutter to Azura's port
+- Added iron item and began work on an iron mine
+- Added ambiance Bloodflies to Tarshon
+- Added Quilled Betty Netch
+- Replaced some houses on the South side of Bnay with a quilled netch ranch
+- Added netch jelly items and objects
+- Added Glenda Fruit
+- Added Pomu Beetles plus associated items: bug bowl and shield
+- Replaced Common Guar textures on overhangs with a new Dunguar texture
+- Finalized Pitchfork and Fish Net tools
+- Fixed placement of waterfall in Isles of Dusk (thanks, Lord Berandas!)
+- Made fisherman in Keen have 0 hello
+- Replaced Small Chest model
+- Made new rug and tapestry textures
+- Made moths in Keen disappear at night
+- Made certain small boats rock in the water
+- Fixed some object placement in Tarshon (thanks, Lord Berandas!)
+- Fixed some grass placement in Poor Town and the Palace District (thanks, Lord Berandas!)
+- Removed several unused and bloated statue models
+- Optimized bamboo model - reduced file size and face count (billboard rather than static leaves)
+- Replaced hanging rugs in Residential District with single-piece models to improve performance
+- Sped up animation and improved UV on waterfall_03.nif, waterfall_04.nif, mvr_waterfall_wide.nif, mvr_waterfall_wide2.nif, Mir_Waterfall_Fin_01.NIF
+- Added (or removed) collision, optimized, fixed UV, improved a number of meshes
+- Removed dirty "Almalexia" topic deletion (thanks Arvisrend!)
+## Version 0.1.3
+- Fixed collision on more objects
+- Made all inhabited exterior cells illegal to rest in
+- Tweaked ko'tau creature to be more fish-like
+- Added interiors made by Arrianas and Moritius (thank you!)
+- Made Docents in Azura City able to transport you to several districts
+- More water transportation nodes
+- Gave the Chimer Dunmer voices as they were the most fitting
+- Added loot to Dunguars, Bandum Stalks, and Water Hyacinths
+- Improved underworks tileset
+- Fixed pathgrid in underworks
+- Added missing NoM book resources
+- Added boiled netch pauldrons& quorn's leafweave, imperial chain, and netch armor
+- Added all missing icons for Miscellaneous items, Books, and Ingredients
+- Removed problematic MGE textures
+- Bug fixes (thanks, berry, from Project Tamriel!)
+## Version 0.1.2
+- Tweaked the starting area where you get off the ship from Sadrith Mora
+- Removed duplicate NPC references
+- Removed a duplicate script reference
+- Fixed, optimized, and added collision to a large quantity of meshes – thank you, Abot for your help!
+## Version 0.1.1
+- Optimized textures (file size reduced by ~220 mb)
+- Added bounding box to Wyvern
+- Fixed missing textures on several meshes
+- Fixed collision on several meshes (bug fix incomplete)
+- Fixed pixelated piranha texture
+- Fixed Darkwood armor pauldrons
+## Version 0.1.0
+- Initial release
