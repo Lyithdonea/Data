@@ -1,4 +1,11 @@
 # Changelog
+## Version 0.2.0
+- Updated to align with latest GitHub release
+- Overhauled layout for Azura City
+- Updated exterior design in many areas
+- Redesigned and optimized hundreds of assets
+- Replaced the Chimer race
+- Many, many more undocumented changes
 ## Version 0.1.5
 - Fixed guard AI (alarm)
 - Completed Saurale's Quayside Tavern and made it have a rentable bed
