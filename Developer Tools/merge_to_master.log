@@ -1,6 +1,18 @@
 Merging plugins...
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -74)
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -74)
+Merging object to master: ARMO az_a_conicalhat_01_RG
+Merging object to master: ARMO az_a_conicalhat_02
+Merging object to master: ARMO az_a_conicalhat_03
+Merging object to master: ARMO az_a_conicalhat_03b
+Merging object to master: BODY az_b_n_bre_f_head_05
+Merging object to master: BODY az_b_n_bre_f_hair_00
+Merging object to master: ARMO az_a_conicalhat_01
+Removed deleted object: az_b_n_bre_f_head_05
+Removed deleted object: az_a_conicalhat_01_rg
+Removed deleted object: az_a_conicalhat_02
+Removed deleted object: az_a_conicalhat_03b
+Removed deleted object: az_a_conicalhat_03
+Removed deleted object: az_a_conicalhat_01
+Removed deleted object: az_b_n_bre_f_hair_00
 Creating backup...
 Saving results...
 Finished!
