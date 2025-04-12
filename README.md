@@ -127,6 +127,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Julian Johnson-Mortimer - piranha model
 * Kagz
 * kalikut - black robes, curtain/banner
+* Katya - Screenshots
 * Kartoffels - Facelift textures
 * Kevnage - Roots and vines
 * Killyone – “beetle golem” model and white death creature art
@@ -184,6 +185,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Sachiel - set of rocks
 * Saint Jiub - Jiub's Resources
 * Senten - Cliff meshes, rowboat, and various other resources
+* Shivatheo - Screenshots
 * Siberian Crab / Resdayn Revival Team - various resources
 * Silaria
 * Silgrad Tower
