@@ -131,6 +131,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Kevnage - Roots and vines
 * Killyone – “beetle golem” model and white death creature art
 * Kir - scripting help
+* K.M. Alexander - Map brushes
 * Koniption - For many misc plants: sugar cane, hala tree, etc. And a mop.
 * Korana
 * Lady E
