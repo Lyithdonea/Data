@@ -2,7 +2,7 @@
 by Melchior Dahrk
 
 ### Disclaimer
-Lyithdonea is currently in an ALPHA state which means that the mod is still very incomplete. You will encounter bugs and missing content. Proceed to install and play at your own risk.
+Lyithdonea is currently in an ALPHA state which means that the mod is still very incomplete. You will encounter bugs, performance issues, and missing content. Proceed to install and play at your own risk.
 
 ### Description
 _Lyithdonea: The Azurian Isles_ is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the lore and much yet to come!
