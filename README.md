@@ -1,6 +1,9 @@
 # Lyithdonea: The Azurian Isles
 by Melchior Dahrk
 
+### Disclaimer
+Lyithdonea is currently in an ALPHA state which means that the mod is still very incomplete. You will encounter bugs and missing content. Proceed to install and play at your own risk.
+
 ### Description
 _Lyithdonea: The Azurian Isles_ is a landmass mod for Morrowind featuring a tropical paradise between Tamriel and Akavir. The mod has a strong influence from the Daedric Lord Azura with dusk and dawn themes and Azura being the focus of religion in the region. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the lore and much yet to come!
 
@@ -185,7 +188,6 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Sachiel - set of rocks
 * Saint Jiub - Jiub's Resources
 * Senten - Cliff meshes, rowboat, and various other resources
-* Shivatheo - Screenshots
 * Siberian Crab / Resdayn Revival Team - various resources
 * Silaria
 * Silgrad Tower
