@@ -1,18 +1,25 @@
 Merging plugins...
-Merging object to master: ARMO az_a_conicalhat_01_RG
-Merging object to master: ARMO az_a_conicalhat_02
-Merging object to master: ARMO az_a_conicalhat_03
-Merging object to master: ARMO az_a_conicalhat_03b
-Merging object to master: BODY az_b_n_bre_f_head_05
-Merging object to master: BODY az_b_n_bre_f_hair_00
-Merging object to master: ARMO az_a_conicalhat_01
-Removed deleted object: az_b_n_bre_f_head_05
-Removed deleted object: az_a_conicalhat_01_rg
-Removed deleted object: az_a_conicalhat_02
-Removed deleted object: az_a_conicalhat_03b
-Removed deleted object: az_a_conicalhat_03
-Removed deleted object: az_a_conicalhat_01
-Removed deleted object: az_b_n_bre_f_hair_00
+Merging object to master: BODY az_UCM_Shirt_F_001a
+Merging object to master: NPC_ az__tester_12
+Merging object to master: BODY az_UCM_Shirt_M_001h
+Merging object to master: CLOT az_c_common_shirt_open_c
+Merging object to master: BODY az_UCM_Shirt_M_001b
+Merging object to master: BODY az_UCM_Shirt_M_001g
+Merging object to master: NPC_ az_Undioth Novtrammu
+Merging object to master: CLOT az_c_common_shirt_open_f
+Merging object to master: CLOT az_c_common_shirt_open_e
+Merging object to master: BODY az_UCM_Shirt_M_001e
+Merging object to master: CLOT az_c_common_shirt_open_g
+Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
+Merging object to master: BODY az_UCM_Shirt_M_001f
+Merging object to master: BODY az_UCM_Shirt_M_001a
+Merging object to master: CLOT az_c_common_shirt_open_b
+Merging object to master: CLOT az_c_common_shirt_open_d
+Merging object to master: BODY az_UCM_Shirt_M_001c
+Merging object to master: CLOT az_c_common_shirt_open_h
+Merging object to master: BODY az_UCM_Shirt_M_001d
+Merging object to master: NPC_ az_Dather Dols
+Merging object to master: CLOT az_c_common_shirt_open_a
 Creating backup...
 Saving results...
 Finished!
