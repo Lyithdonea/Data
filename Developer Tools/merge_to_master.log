@@ -1,25 +1,34 @@
 Merging plugins...
-Merging object to master: BODY az_UCM_Shirt_F_001a
-Merging object to master: NPC_ az__tester_12
-Merging object to master: BODY az_UCM_Shirt_M_001h
-Merging object to master: CLOT az_c_common_shirt_open_c
-Merging object to master: BODY az_UCM_Shirt_M_001b
-Merging object to master: BODY az_UCM_Shirt_M_001g
-Merging object to master: NPC_ az_Undioth Novtrammu
-Merging object to master: CLOT az_c_common_shirt_open_f
-Merging object to master: CLOT az_c_common_shirt_open_e
-Merging object to master: BODY az_UCM_Shirt_M_001e
-Merging object to master: CLOT az_c_common_shirt_open_g
+Merging object to master: CELL Lyithdonea, Dor Dalla (84, -73)
 Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
-Merging object to master: BODY az_UCM_Shirt_M_001f
-Merging object to master: BODY az_UCM_Shirt_M_001a
-Merging object to master: CLOT az_c_common_shirt_open_b
-Merging object to master: CLOT az_c_common_shirt_open_d
-Merging object to master: BODY az_UCM_Shirt_M_001c
-Merging object to master: CLOT az_c_common_shirt_open_h
-Merging object to master: BODY az_UCM_Shirt_M_001d
-Merging object to master: NPC_ az_Dather Dols
-Merging object to master: CLOT az_c_common_shirt_open_a
+Merging object to master: CELL Azura, Gadresi Manor
+Merging object to master: CELL Azura, Hammarnibi Residence
+Merging object to master: STAT az_furn_sack_grain_02
+Merging object to master: CELL Veltine, Lower Deck
+Merging object to master: LEVI az_rand_food_all
+Merging object to master: CONT az_o_Sack03Flour
+Merging object to master: STAT az_furn_sack_grain_01
+Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
+Merging object to master: CONT az_o_Sack01Flour
+Merging object to master: CELL Azura, Merchant Quarter (88, -75)
+Merging object to master: LEVI az_rand_food_dry
+Merging object to master: CELL Azura, Civilius' Bakery
+Merging object to master: CELL Azura, Rivosi Indrano: Pawnbroker
+Merging object to master: CELL Dor Dalla, Guild of Mages, Staff Quarters
+Merging object to master: CELL Lyithdonea, Jubuka'im Farm, Mill
+Merging object to master: LEVI az_rand_ingredient
+Copying object to master: CREA az_crea_duskyguar_y_uni
+Merging object to master: CELL Bnay (84, -83)
+Merging object to master: CELL AZ_Clutter
+Merging object to master: CELL Azura, Hestus Ram's House
+Merging object to master: CELL Azura, The Gathering Hole
+Merging object to master: CONT az_o_FoodFlourCrate
+Merging object to master: STAT az_furn_wheelbarrow
+Merging object to master: CELL Azura, Scasellis Hinder's House
+Merging object to master: CELL AZ_Containers
+Removed deleted object: az_furn_sack_grain_01
+Removed deleted object: az_furn_sack_grain_02
+Removed deleted object: az_furn_wheelbarrow
 Creating backup...
 Saving results...
 Finished!
