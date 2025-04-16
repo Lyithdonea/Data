@@ -117,6 +117,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * HedgeHog12 - lens flare effects
 * Heinrich - Basis for the Velothi underworks set
 * Hemaris - provided the animation reference for the Serow
+* Hialda Alpizar - Tiger skull
 * IceFireWarden - I Lost My Love For You text
 * Idaho Virtualization Laboratory - Goat skeleton
 * Iggy
