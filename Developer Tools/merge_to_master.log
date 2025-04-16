@@ -1,34 +1,5 @@
 Merging plugins...
-Merging object to master: CELL Lyithdonea, Dor Dalla (84, -73)
-Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
-Merging object to master: CELL Azura, Gadresi Manor
-Merging object to master: CELL Azura, Hammarnibi Residence
-Merging object to master: STAT az_furn_sack_grain_02
-Merging object to master: CELL Veltine, Lower Deck
-Merging object to master: LEVI az_rand_food_all
-Merging object to master: CONT az_o_Sack03Flour
-Merging object to master: STAT az_furn_sack_grain_01
-Merging object to master: CELL Lyithdonea, Jubuka'im Farm (90, -78)
-Merging object to master: CONT az_o_Sack01Flour
-Merging object to master: CELL Azura, Merchant Quarter (88, -75)
-Merging object to master: LEVI az_rand_food_dry
-Merging object to master: CELL Azura, Civilius' Bakery
-Merging object to master: CELL Azura, Rivosi Indrano: Pawnbroker
-Merging object to master: CELL Dor Dalla, Guild of Mages, Staff Quarters
-Merging object to master: CELL Lyithdonea, Jubuka'im Farm, Mill
-Merging object to master: LEVI az_rand_ingredient
-Copying object to master: CREA az_crea_duskyguar_y_uni
-Merging object to master: CELL Bnay (84, -83)
-Merging object to master: CELL AZ_Clutter
-Merging object to master: CELL Azura, Hestus Ram's House
-Merging object to master: CELL Azura, The Gathering Hole
-Merging object to master: CONT az_o_FoodFlourCrate
-Merging object to master: STAT az_furn_wheelbarrow
-Merging object to master: CELL Azura, Scasellis Hinder's House
-Merging object to master: CELL AZ_Containers
-Removed deleted object: az_furn_sack_grain_01
-Removed deleted object: az_furn_sack_grain_02
-Removed deleted object: az_furn_wheelbarrow
+Copying object to master: MISC az_Misc_BoneTigerSkull
 Creating backup...
 Saving results...
 Finished!
