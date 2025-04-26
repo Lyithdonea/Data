@@ -215,6 +215,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * [Wen-M](http://wen-m.deviantart.com/) - inspiration for some weapons
 * Westly - Winged Twilights, textures for Tang Mo, Dunmer face and hair textures as basis for Chimer (see Westly's Pluginless Replacer_Dark Elves_Imperials README for full credits on Chimer hair)
 * WH-Reaper - scripting help
+* WildMesh 3D Free - iguana model
 * wkuechen - Shor of the Shore & The Azure Tide text
 * Yar-Yulme
 * Zackg - palm trees, Ascadian Isles trees
