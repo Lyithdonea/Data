@@ -173,6 +173,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * OwlishMedia - bandage sound
 * PADOMAIC-SPECTROMETE - The Nightlife of Tamriel text
 * Parsimonious
+* Peter Nox - Tanwa model
 * Phaedrus
 * Phijama - Ultraviolet Bow/Arrow
 * Piacenti - White Death creature from Open Game Art
