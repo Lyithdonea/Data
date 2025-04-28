@@ -1,71 +1,16 @@
 Merging plugins...
-Copying object to master: INGR az_IngFood_TanwaRibSucc
-Merging object to master: CELL AZ_Clutter
-Merging object to master: CELL Bnay (84, -83)
-Merging object to master: CELL Azura, Palace: South Wing
-Copying object to master: CREA az_crea_tanwa
-Copying object to master: CREA az_crea_tanwa_dis
 Merging object to master: CONT az_o_FoodDunguarJerky01
-Merging object to master: CELL Azura, Zaimora Manor
-Merging object to master: CREA az_crea_duskyguar
-Copying object to master: SOUN AZ_Tanwa_Moan
-Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
-Merging object to master: CONT az_o_FoodHangDunguar6
-Merging object to master: LEVC az_lvl_azurian isles
-Merging object to master: CELL Azura, Saffend: Fine Clothier
-Merging object to master: CELL AZ_Region_Azurian Isles (82, -71)
-Merging object to master: CELL Azura, Palace: Servants' Wing
-Merging object to master: CREA az_crea_duskyguar_young
-Copying object to master: INGR az_IngFood_TanwaRib
-Merging object to master: CREA az_crea_duskyguar_y_uni
-Copying object to master: CREA az_crea_tanwa_yng_uni
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -76)
-Merging object to master: CELL Azura, Anale Dralas' House
-Merging object to master: CELL Azura, Rivosi Indrano: Pawnbroker
-Copying object to master: SNDG az_crea_tanwa0005
-Merging object to master: LEVC az_lvl_thousand isles
-Copying object to master: INGR az_IngFood_TanwaJerky
-Copying object to master: LEVI az_lvl_TanwaLoot
-Merging object to master: CELL Azura, Saye's House
-Merging object to master: CELL Azura, The Gathering Hole
-Copying object to master: SNDG az_crea_tanwa0006
-Merging object to master: CELL Azura, Royalway Apartments, Upper North-Two
-Copying object to master: SNDG az_crea_tanwa0004
-Copying object to master: CREA az_crea_tanwa_yng
-Copying object to master: SOUN AZ_Tanwa_Scream
-Merging object to master: CONT az_o_FoodDunguarJerky03
-Merging object to master: LEVI az_rand_food_meat_prep
-Merging object to master: CONT az_o_FoodHangDunguar4
-Merging object to master: INGR az_IngFood_DunguarRibGrill
-Merging object to master: CELL AZ_Region_Azurian Isles (85, -75)
-Copying object to master: LEVC az_lvl_tanwa
-Merging object to master: CELL Azura, Gutho's Apartment
-Copying object to master: SOUN AZ_Tanwa_Roar
-Merging object to master: LEVI az_rand_food_dry
-Merging object to master: CELL Azura, The Golem's Hearth
-Copying object to master: INGR az_IngFood_TanwaSausage
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -75)
-Copying object to master: MISC az_Misc_HideTanwa
-Merging object to master: CELL AZ_Region_Azurian Isles (84, -72)
-Merging object to master: CREA az_crea_duskyguar_pack
-Merging object to master: CELL Azura, Resk Tarrampto: Food Vendor
-Merging object to master: LEVI az_rand_food_all
-Merging object to master: CELL AZ_Region_Azurian Isles (83, -72)
-Merging object to master: LEVI az_lvl_PosCheapAll
-Merging object to master: LEVI az_rand_meat
-Merging object to master: CELL Lyithdonea, Gateway Canton (90, -74)
-Merging object to master: CELL Azura, Palace: North Wing
-Merging object to master: LEVI az_rand_food_meat_raw
-Merging object to master: CELL AZ_Region_Thousand Isles (85, -80)
-Merging object to master: CELL Kannika Grotto
 Merging object to master: CONT az_o_FoodDunguarJerky02
-Merging object to master: CELL AZ_Region_Azurian Isles (82, -72)
-Merging object to master: CELL Azura, Granderea Salor's House
-Removed deleted object: az_crea_duskyguar
-Removed deleted object: az_ingfood_dunguarribgrill
-Removed deleted object: az_crea_duskyguar_y_uni
-Removed deleted object: az_crea_duskyguar_pack
-Removed deleted object: az_crea_duskyguar_young
+Merging object to master: CONT az_o_FoodHangDunguar6
+Merging object to master: CONT az_o_FoodDunguarJerky03
+Merging object to master: CONT az_o_FoodHangDunguar4
+Merging object to master: CONT az_o_FoodHangDunguar
+Removed deleted object: az_o_foodhangdunguar4
+Removed deleted object: az_o_fooddunguarjerky01
+Removed deleted object: az_o_foodhangdunguar
+Removed deleted object: az_o_foodhangdunguar6
+Removed deleted object: az_o_fooddunguarjerky03
+Removed deleted object: az_o_fooddunguarjerky02
 Creating backup...
 Saving results...
 Finished!
