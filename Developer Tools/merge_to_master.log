@@ -1,34 +1,5 @@
 Merging plugins...
-Merging object to master: CELL Lyithdonea, Rufescent Cavern
-Merging object to master: CREA az_crea_rat
-Merging object to master: LEVC az_lvl_boar
-Merging object to master: CREA az_crea_rat_diseased
-Copying object to master: INGR az_IngCrea_OpossumBones
-Merging object to master: LEVC az_lvl_azurian isles
-Merging object to master: LEVC az_lvl_thousand isles
-Copying object to master: CREA az_crea_opossum
-Merging object to master: LEVC az_lvl_beetles
-Merging object to master: LEVC az_lvl_sacbrous_sleep
-Copying object to master: SOUN AZ_Opossum_Roar
-Merging object to master: LEVC az_lvl_wolf
-Copying object to master: SNDG az_crea_opossum0005
-Merging object to master: LEVC az_lvl_cave
-Merging object to master: LEVC az_lvl_tanwa
-Merging object to master: LEVC az_lvl_kriin
-Copying object to master: SOUN AZ_Opossum_Moan
-Merging object to master: LEVC az_lvl_duskyguar
-Merging object to master: LEVC az_lvl_rats
-Copying object to master: SNDG az_crea_opossum0006
-Copying object to master: SOUN AZ_Opossum_Scream
-Copying object to master: LEVI az_lvl_IngCreaOpossum
-Merging object to master: LEVC az_lvl_sewer
-Merging object to master: CELL Azura, Hestus Ram's House
-Copying object to master: LEVI az_lvl_IngCreaRat
-Copying object to master: LEVC az_lvl_opossums
-Merging object to master: CELL AZ_Region_Thousand Isles (86, -79)
-Merging object to master: LEVC az_lvl_tiger
-Merging object to master: LEVI az_rand_ingredient
-Removed deleted object: az_lvl_duskyguar
+Merging object to master: CREA az_crea_opossum
 Creating backup...
 Saving results...
 Finished!
