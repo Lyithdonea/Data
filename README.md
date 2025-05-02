@@ -76,6 +76,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Abot - extensive assistance with mesh fixing and optimization, scripting help
 * AcidBasick
 * Adul
+* Alex Albinyana - Makarrin model
 * [Alexander Zhelanov](http://opengameart.org/users/alexandr-zhelanov) - Music
 * AnOldFriend - rope texture
 * Aranarkus - Nature of the Et’Ada text
