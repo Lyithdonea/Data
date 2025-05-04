@@ -1,7 +1,11 @@
 Merging plugins...
-Merging object to master: NPC_ az_Durmash gro-Aglakh
-Merging object to master: destination
-Merging object to master: service refusal
+Merging object to master: CREA az_crea_gremlin_uni
+Copying object to master: CREA az_crea_imp_uni
+Copying object to master: CREA az_Fau_SerowF_uni
+Merging object to master: CELL Dor Dalla, Guild of Mages, Menagerie
+Merging object to master: CREA az_crea_tanwa_yng_uni
+Copying object to master: PGRD Dor Dalla, Guild of Mages, Menagerie (0, 0)
+Removed deleted object: az_crea_gremlin_uni
 Creating backup...
 Saving results...
 Finished!
