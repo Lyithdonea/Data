@@ -99,6 +99,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Christian Paskota - Stormlord armor
 * Clavis
 * [Clint Bellanger](http://opengameart.org/users/clint-bellanger) - Wyvern
+* Coremort - Fishman model
 * Craigor
 * cynicmusic - crystal caves sound
 * DanielCoffey and doccdr - book cover texture resource
@@ -119,6 +120,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Heinrich - Basis for the Velothi underworks set
 * Hemaris - provided the animation reference for the Serow
 * Hialda Alpizar - Tiger skull
+* IangM - Tiger skull (fishman)
 * IceFireWarden - I Lost My Love For You text
 * Idaho Virtualization Laboratory - Goat skeleton
 * Iggy
@@ -229,4 +231,5 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 Thank you all for helping make this mod possible! If I missed anyone, please let me know!
 
 ### Permissions
+
 Due to the complex nature of the resource usage and extensive permissions I obtained to create this mod, please contact me before using any assets from this mod. As I allow usage for individuals, I will add those files to this section for posterity.
