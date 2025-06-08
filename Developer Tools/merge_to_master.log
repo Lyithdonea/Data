@@ -1,153 +1,67 @@
 Merging plugins...
-Remapping texture index: (12 -> 126) az_tx_v_gravel
-Remapping texture index: (6 -> 112) az_tx_ti_undergrowth
-Remapping texture index: (17 -> 138) az_tx_coast_rock_01
-Remapping texture index: (13 -> 127) az_tx_ocean_rock_green
-Remapping texture index: (7 -> 117) az_tx_ai_grass_01
-Remapping texture index: (1 -> 93) az_tx_rock
-Remapping texture index: (10 -> 121) az_tx_ai_grass_00
-Remapping texture index: (18 -> 139) az_tx_sand_01
-Remapping texture index: (8 -> 118) az_tx_ai_grass_rocky
-Remapping texture index: (11 -> 122) az_tx_ai_clover
-Remapping texture index: (9 -> 119) az_tx_ai_mudflats
-Remapping texture index: (4 -> 105) az_tx_ai_dirt_01
-Remapping texture index: (14 -> 132) az_tx_ci_floor
-Remapping texture index: (16 -> 137) az_tx_coast_rock_02
-Remapping texture index: (0 -> 64) MA_sulphur_rock03
-Remapping texture index: (5 -> 109) az_tx_ti_moss
-Remapping texture index: (3 -> 104) az_tx_ai_grass_dirt
-Remapping texture index: (15 -> 133) az_tx_cave_ground
-Remapping texture index: (2 -> 103) az_tx_ai_dirt_road
-Merging object to master: CELL AZ_Region_Azurian Isles (89, -72)
-Merging object to master: LAND LAND (94, -69)
-Merging object to master: LTEX az_tx_ai_grass_dirt
-Copying object to master: STAT az_Flora_CoralClusterYellow01
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -70)
-Merging object to master: LTEX az_tx_cave_ground
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -69)
-Merging object to master: LAND LAND (88, -69)
-Merging object to master: LAND LAND (88, -72)
-Copying object to master: STAT az_Flora_CoralFanPurple03
-Merging object to master: LTEX az_tx_ai_dirt_road
-Copying object to master: STAT az_Terr_RockCoralGroup03
-Copying object to master: CONT az_f_KelpTree01S
-Merging object to master: LTEX az_tx_ai_grass_rocky
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -73)
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (91, -80)
-Copying object to master: STAT az_Flora_CoralAntlerBrown01
-Copying object to master: STAT az_Flora_CoralTubeAmber01
-Copying object to master: STAT az_Flora_CoralFanRed02
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -68)
-Merging object to master: CELL AZ_Region_Thousand Isles (90, -80)
-Copying object to master: STAT az_Terr_RockCoralGroup01
-Copying object to master: STAT az_Flora_CoralFanPurple01
-Merging object to master: LAND LAND (93, -69)
-Copying object to master: STAT az_Flora_CoralBowlBrown01
-Copying object to master: INGR az_IngFlor_KelpFruit
-Merging object to master: LAND LAND (89, -72)
-Merging object to master: LAND LAND (89, -69)
-Merging object to master: LTEX az_tx_ti_undergrowth
-Copying object to master: STAT az_Flora_CoralSpiralBlue01
-Merging object to master: CELL Lyithdonea, Jermora Docks (88, -71)
-Merging object to master: LTEX az_tx_coast_rock_01
-Merging object to master: LAND LAND (86, -68)
-Copying object to master: CONT az_f_KelpTree02S
-Merging object to master: CELL AZ_Region_Azurian Isles (94, -69)
-Merging object to master: LAND LAND (92, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -69)
-Merging object to master: CELL AZ_Region_Azurian Isles (90, -69)
-Merging object to master: LTEX az_tx_ci_floor
-Merging object to master: LAND LAND (88, -73)
-Merging object to master: LAND LAND (90, -69)
-Copying object to master: STAT az_rocks_UW_10
-Merging object to master: LAND LAND (92, -69)
-Copying object to master: STAT az_Flora_CoralFanRed03
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -70)
-Copying object to master: STAT az_Terr_RockCoralGroup02
-Merging object to master: LTEX az_tx_ocean_rock_green
-Copying object to master: STAT az_rocks_UW_08
-Copying object to master: STAT az_Flora_CoralClusterBlue02
-Merging object to master: CELL AZ_Region_Azurian Isles (93, -69)
-Copying object to master: STAT az_Flora_CoralTubeYellow01
-Copying object to master: STAT az_rocks_UW_05
-Merging object to master: LAND LAND (86, -69)
-Copying object to master: STAT az_Terr_RockCliffCoast01
-Merging object to master: LTEX az_tx_v_gravel
-Merging object to master: LAND LAND (89, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -69)
-Merging object to master: LAND LAND (90, -70)
-Merging object to master: LAND LAND (87, -68)
-Merging object to master: LAND LAND (87, -69)
-Copying object to master: STAT az_Flora_CoralSpiralRed01
-Copying object to master: STAT az_Terr_RockCoralGroup04
-Merging object to master: LAND LAND (96, -78)
-Copying object to master: STAT az_Flora_CoralShelfRed01
-Merging object to master: CELL AZ_Region_Azurian Isles (96, -78)
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -70)
-Merging object to master: CELL AZ_Region_Azurian Isles (89, -69)
-Copying object to master: STAT az_Flora_CoralClusterBlue01
-Merging object to master: LAND LAND (88, -71)
-Copying object to master: STAT az_Flora_CoralFanRed01
-Merging object to master: CELL AZ_Region_Azurian Isles (89, -71)
-Copying object to master: STAT az_Terr_RockCliffCoast04
-Copying object to master: STAT az_Flora_CoralTubeYellow02
-Copying object to master: STAT az_Flora_CoralFanPurple02
-Merging object to master: CELL AZ_Region_Azurian Isles (88, -69)
-Copying object to master: STAT az_rocks_UW_06
-Merging object to master: LAND LAND (90, -72)
-Merging object to master: LTEX az_tx_rock
-Merging object to master: LTEX az_tx_ai_clover
-Copying object to master: STAT az_Flora_CoralBowlBlue01
-Merging object to master: LAND LAND (87, -71)
-Copying object to master: STAT az_rocks_UW_09
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -75)
-Merging object to master: CELL AZ_Region_Azurian Isles (90, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (90, -72)
-Copying object to master: STAT az_Flora_CoralTableWhite01
-Merging object to master: LAND LAND (89, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (90, -70)
-Merging object to master: LAND LAND (94, -70)
-Merging object to master: LAND LAND (87, -72)
-Merging object to master: LTEX az_tx_ai_grass_00
-Copying object to master: STAT az_rocks_UW_07
-Merging object to master: LAND LAND (90, -71)
-Merging object to master: CELL AZ_Region_Azurian Isles (92, -70)
-Copying object to master: STAT az_Terr_RockCliffCoast03
-Merging object to master: LTEX az_tx_sand_01
-Copying object to master: CONT az_f_KelpTree02L
-Merging object to master: LTEX az_tx_ai_dirt_01
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -72)
-Merging object to master: CELL AZ_Ocean
-Merging object to master: LTEX az_tx_ai_grass_01
-Copying object to master: CONT az_f_KelpTree01L
-Merging object to master: CELL Lyithdonea, Zainus Lagoon (92, -76)
-Merging object to master: CELL AZ_Region_Azurian Isles (89, -70)
-Merging object to master: LTEX az_tx_ti_moss
-Copying object to master: STAT az_Flora_CoralHornPurple01
-Merging object to master: LAND LAND (89, -73)
-Merging object to master: CELL AZ_Region_Azurian Isles (94, -70)
-Copying object to master: STAT az_Flora_CoralHornPurple02
-Copying object to master: STAT az_Flora_CoralCandy01
-Copying object to master: STAT az_Flora_CoralShelfBlue03
-Merging object to master: LAND LAND (88, -70)
-Merging object to master: CELL Lyithdonea, Gateway Canton (89, -73)
-Copying object to master: STAT az_Flora_CoralVaseTeal01
-Copying object to master: STAT az_Terr_RockCliffCoast02
-Copying object to master: STAT az_Flora_CoralPillarPink01
-Merging object to master: CELL Lyithdonea, Jermora Docks (88, -72)
-Merging object to master: LTEX az_tx_coast_rock_02
-Merging object to master: CELL AZ_Region_Azurian Isles (87, -73)
-Merging object to master: LAND LAND (87, -73)
-Copying object to master: STAT az_Flora_CoralTableWhite02
-Merging object to master: LTEX MA_sulphur_rock03
-Copying object to master: STAT az_Flora_CoralShelfBlue02
-Merging object to master: CELL AZ_Region_Azurian Isles (86, -68)
-Copying object to master: STAT az_Flora_CoralShelfBlue01
-Merging object to master: LTEX az_tx_ai_mudflats
-Merging object to master: LAND LAND (93, -70)
-Copying object to master: LEVI az_lvl_IngFlorKelpFruit
-Copying object to master: STAT az_Flora_CoralPillarPink02
+Copying object to master: STAT az_In_CaveGrottoRock02
+Copying object to master: ACTI az_In_CaveGrottoStreamTrans01
+Copying object to master: ACTI az_In_CaveGrottoStreamLong
+Copying object to master: STAT az_In_CaveGrottoBridge01
+Copying object to master: STAT az_In_CaveGrottoPebbles02
+Copying object to master: STAT az_In_CaveGrottoRocks02
+Copying object to master: STAT az_In_CaveGrottoColumnLrg03
+Copying object to master: STAT az_In_CaveGrottoColumnLrg02
+Copying object to master: STAT az_In_CaveGrottoStalagSml03
+Copying object to master: STAT az_In_CaveGrottoStalagLrg01
+Copying object to master: STAT az_In_CaveGrottoPath03
+Copying object to master: STAT az_In_CaveGrottoRock05
+Merging object to master: CELL AZ_Grotto
+Copying object to master: STAT az_In_CaveGrottoRocksSand
+Copying object to master: STAT az_In_CaveGrottoGround01
+Copying object to master: STAT az_In_CaveGrottoWallLrg01
+Copying object to master: STAT az_In_CaveGrottoRock16
+Copying object to master: STAT az_In_CaveGrottoStalagSml02
+Copying object to master: STAT az_In_CaveGrottoWallSml02
+Copying object to master: STAT az_In_CaveGrottoStairsR
+Copying object to master: STAT az_In_CaveGrottoRock10
+Copying object to master: STAT az_In_CaveGrottoWallLrg02
+Copying object to master: STAT az_In_CaveGrottoRamp03
+Copying object to master: STAT az_In_CaveGrottoLedge01
+Copying object to master: STAT az_In_CaveGrottoStalac01
+Copying object to master: STAT az_In_CaveGrottoBoulder02Vines
+Copying object to master: ACTI az_In_CaveGrottoStreamShort02
+Copying object to master: STAT az_In_CaveGrottoRock07
+Copying object to master: STAT az_In_CaveGrottoPebbles01
+Copying object to master: ACTI az_In_CaveGrottoStreamBendL
+Copying object to master: ACTI az_In_CaveGrottoStreamBendR
+Copying object to master: STAT az_In_CaveGrottoRock18
+Copying object to master: STAT az_In_CaveGrottoRock17
+Copying object to master: STAT az_In_CaveGrottoStreamEntry
+Copying object to master: STAT az_In_CaveGrottoCliff03
+Copying object to master: STAT az_In_CaveGrottoColumnLrg01
+Copying object to master: STAT az_In_CaveGrottoChannelCurv
+Copying object to master: STAT az_In_CaveGrottoRamp02
+Copying object to master: STAT az_In_CaveGrottoRock12
+Copying object to master: STAT az_In_CaveGrottoCeilingHole01
+Copying object to master: STAT az_In_CaveGrottoBoulder02
+Copying object to master: STAT az_In_CaveGrottoRock08
+Copying object to master: STAT az_In_CaveGrottoRocks01
+Copying object to master: STAT az_In_CaveGrottoBoulder01
+Copying object to master: STAT az_In_CaveGrottoStairsL
+Copying object to master: STAT az_In_CaveGrottoCeilingSmall02
+Copying object to master: STAT az_In_CaveGrottoPath01
+Copying object to master: STAT az_In_CaveGrottoWallSml01
+Copying object to master: STAT az_In_CaveGrottoCeilingSmall01
+Copying object to master: STAT az_In_CaveGrottoStalagSml01
+Copying object to master: STAT az_In_CaveGrottoRock01
+Copying object to master: ACTI az_In_CaveGrottoStreamTrans02
+Copying object to master: STAT az_In_CaveGrottoPath02
+Copying object to master: STAT az_In_CaveGrottoRamp01
+Copying object to master: STAT az_In_CaveGrottoRock09
+Copying object to master: STAT az_In_CaveGrottoSunroot01
+Copying object to master: STAT az_In_CaveGrottoStalac02
+Copying object to master: ACTI az_In_CaveGrottoStreamSplit
+Copying object to master: STAT az_In_CaveGrottoBoulder01Vines
+Copying object to master: STAT az_In_CaveGrottoCliff01
+Copying object to master: STAT az_In_CaveGrottoChannelStrt
+Copying object to master: ACTI az_In_CaveGrottoStreamShort01
+Copying object to master: STAT az_In_CaveGrottoCliff02
 Creating backup...
 Saving results...
 Finished!
