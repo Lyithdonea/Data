@@ -1,8 +1,9 @@
 Merging plugins...
-Copying object to master: STAT az_Flora_CoralBushGreen01
-Copying object to master: STAT az_Flora_CoralBushPurple02
-Copying object to master: STAT az_Flora_CoralBushPurple01
-Copying object to master: STAT az_Flora_CoralBushRed02
-Copying object to master: STAT az_Flora_CoralBushRed01
+Copying object to master: STAT az_f_KelpTree02Sb
+Copying object to master: STAT az_f_KelpTree02Lb
+Copying object to master: STAT az_f_KelpTree01Sb
+Copying object to master: STAT az_f_KelpTree01Lb
+Merging interior to master: AZ_Ocean
+Merging interior to master: AZ_Grotto
 Saving results...
 Finished!
