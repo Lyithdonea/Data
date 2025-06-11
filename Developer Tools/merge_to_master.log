@@ -1,34 +1,8 @@
 Merging plugins...
-Copying object to master: SOUN AZ_Fishman_Scream
-Copying object to master: SOUN AZ_Fishman_Roar
-Copying object to master: SPEL az_sp_DummyRestoration
-Copying object to master: STAT az_Ex_LurPlatform01
-Copying object to master: CREA az_crea_fishman01
-Copying object to master: CREA az_crea_fishman03
-Copying object to master: LEVI AB_lvl_w_Luroc
-Copying object to master: CREA az_crea_fishman04
-Copying object to master: STAT az_Ex_LurShelter01
-Copying object to master: STAT az_Ex_LurWalkway01
-Copying object to master: SCPT az_MagicFxCast3second_s
-Copying object to master: SCPT az_waterheal_s
-Copying object to master: STAT az_Ex_LurPoles00
-Copying object to master: SOUN AZ_Fishman_Moan
-Copying object to master: STAT az_Ex_LurShelter02
-Copying object to master: STAT az_Ex_LurPoles01
-Copying object to master: STAT az_Ex_LurFence02
-Copying object to master: WEAP az_w_LurocSpear01
-Copying object to master: STAT az_Ex_LurFence01
-Copying object to master: STAT az_Ex_LurPoles02
-Copying object to master: WEAP az_w_LurocAxe
-Copying object to master: WEAP az_w_LurocClub
-Copying object to master: WEAP az_w_LurocSpear02
-Copying object to master: WEAP az_w_LurocStaff01
-Copying object to master: ACTI az_Fx_MagicRestHit
-Copying object to master: CREA az_crea_fishman02
-Copying object to master: STAT az_Ex_LurWalkway02
-Merging exterior to master: (86, -73)
-Merging exterior to master: (86, -72)
-Copying interior to master: Lyithdonea, Gloorgul
-Merging interior to master: Lyithdonea, Rufescent Cavern
+Copying object to master: STAT az_Flora_CoralBushGreen01
+Copying object to master: STAT az_Flora_CoralBushPurple02
+Copying object to master: STAT az_Flora_CoralBushPurple01
+Copying object to master: STAT az_Flora_CoralBushRed02
+Copying object to master: STAT az_Flora_CoralBushRed01
 Saving results...
 Finished!
