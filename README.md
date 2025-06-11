@@ -142,6 +142,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * K.M. Alexander - Map brushes
 * Koniption - For many misc plants: sugar cane, hala tree, etc. And a mop.
 * Korana
+* Kurp - NIF test level
 * Lady E
 * Lady Li / Malo - Bird of Paradise model/textures
 * LauraCroft - Boxwoods
