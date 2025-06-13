@@ -1,9 +1,24 @@
 Merging plugins...
-Copying object to master: STAT az_f_KelpTree02Sb
-Copying object to master: STAT az_f_KelpTree02Lb
-Copying object to master: STAT az_f_KelpTree01Sb
-Copying object to master: STAT az_f_KelpTree01Lb
+Remapping texture index: (2 -> 121) az_tx_ai_grass_00
+Remapping texture index: (0 -> 26) Sand_02
+Remapping texture index: (5 -> 139) az_tx_sand_01
+Remapping texture index: (1 -> 117) az_tx_ai_grass_01
+Remapping texture index: (3 -> 137) az_tx_coast_rock_02
+Remapping texture index: (4 -> 138) az_tx_coast_rock_01
+Merging object to master: LTEX az_tx_ai_grass_00
+Merging object to master: LTEX Sand_02
+Copying object to master: STAT az_Flora_CoralTree03
+Merging object to master: LTEX az_tx_sand_01
+Merging object to master: LTEX az_tx_ai_grass_01
+Merging object to master: LTEX az_tx_coast_rock_02
+Copying object to master: STAT az_Flora_CoralTree01
+Copying object to master: STAT az_Flora_CoralTree02
+Merging object to master: LTEX az_tx_coast_rock_01
+Merging exterior to master: (94, -74)
+Merging exterior to master: (93, -74)
+Merging exterior to master: (93, -73)
+Merging exterior to master: (94, -75)
+Merging exterior to master: (89, -69)
 Merging interior to master: AZ_Ocean
-Merging interior to master: AZ_Grotto
 Saving results...
 Finished!
