@@ -86,6 +86,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Arrianas - making interiors
 * Ashiraniir – More Argonian Hairs
 * Ayse
+* Azrael - Concept for Maormer sorceress statue
 * Bahamut - converting stormlord armor
 * Barbarus
 * Bjam
@@ -105,6 +106,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * DanielCoffey and doccdr - book cover texture resource
 * Darkelfguy
 * Darkness Eternal - Desert architecture
+* DassiD - Morrowind Enhanced Textures
 * Dereko - Better Clothes
 * Doom-DrivenPoster - A letter
 * Dongle
@@ -117,7 +119,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Greatness7 - extensive assistance with mesh fixing and optimization, scripting help
 * Greybeard - Better Clothes
 * HedgeHog12 - lens flare effects
-* Heinrich - Basis for the Velothi underworks set
+* Heinrich - Basis for the Velothi underworks set, VSBR
 * Hemaris - provided the animation reference for the Serow
 * Hialda Alpizar - Tiger skull
 * IangM - Tiger skull (fishman)
@@ -189,6 +191,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Rats - imperial seal & akaviri script art
 * Redwoodtreesprite
 * Reizeron
+* Remiros - Intelligent Textures
 * Rim
 * Ronin
 * Rubberman - Misc. resources
