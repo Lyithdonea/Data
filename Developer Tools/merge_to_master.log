@@ -1,12 +1,11 @@
 Merging plugins...
-Copying object to master: STAT az_Flora_SeaweedTallGrp01
-Copying object to master: STAT az_Flora_SeaweedTall02
-Copying object to master: STAT az_Flora_SeaweedTall03
-Copying object to master: STAT az_Flora_SeaweedTallGrp03
-Copying object to master: STAT az_Flora_SeaweedTall01
-Copying object to master: STAT az_Flora_SeaweedTallGrp02
+Remapping texture index: (0 -> 26) Sand_02
+Remapping texture index: (2 -> 139) az_tx_sand_01
+Remapping texture index: (1 -> 137) az_tx_coast_rock_02
+Copying object to master: STAT az_Ex_MaoStatue01
+Merging object to master: LTEX Sand_02
+Merging object to master: LTEX az_tx_sand_01
+Merging object to master: LTEX az_tx_coast_rock_02
 Merging exterior to master: (94, -74)
-Merging interior to master: AZ_Ocean
-Merging interior to master: AZ_Grotto
 Saving results...
 Finished!
