@@ -191,10 +191,11 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Rats - imperial seal & akaviri script art
 * Redwoodtreesprite
 * Reizeron
-* Remiros - Intelligent Textures
+* Remiros - Intelligent Textures, Remiros' Groundcover
 * Rim
 * Ronin
 * Rubberman - Misc. resources
+* Rytelier - Aesthesia Groundcover
 * Sachiel - set of rocks
 * Saint Jiub - Jiub's Resources
 * Senten - Cliff meshes, rowboat, and various other resources
