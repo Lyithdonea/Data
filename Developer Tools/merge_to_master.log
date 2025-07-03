@@ -1,49 +1,7 @@
 Merging plugins...
-Copying object to master: STAT az_Ex_MaoWallEnd
-Copying object to master: STAT az_Ex_MaoColonnCurv
-Copying object to master: STAT az_Ex_MaoWalkClmn01
-Copying object to master: STAT az_Ex_MaoWalkRampLong
-Copying object to master: STAT az_Ex_MaoBuildButtress02
-Copying object to master: STAT az_Ex_MaoBuildButtress01
-Copying object to master: STAT az_Ex_MaoPlatSml01
-Copying object to master: STAT az_Ex_MaoWalkSteps
-Copying object to master: STAT az_Ex_MaoArch01
-Copying object to master: STAT az_Ex_MaoBuildFountain
-Copying object to master: STAT az_Ex_MaoBuildEntryCurv
-Copying object to master: STAT az_Ex_MaoRailCurv03
-Copying object to master: STAT az_Ex_MaoColonnRamp
-Copying object to master: STAT az_Ex_MaoPlat01
-Copying object to master: LIGH az_Light_MaoBrazier512
-Copying object to master: STAT az_Ex_MaoWalkClmn02
-Copying object to master: STAT az_Ex_MaoTowerSnek
-Copying object to master: STAT az_Ex_MaoBrazier
-Copying object to master: STAT az_Ex_MaoColonnStrt
-Copying object to master: STAT az_Ex_MaoBuildEntryStrt
-Copying object to master: STAT az_Ex_MaoWalkLong
-Copying object to master: STAT az_Ex_MaoBuild02
-Copying object to master: STAT az_Ex_MaoDome01
-Copying object to master: STAT az_Ex_MaoBuildWindow
-Copying object to master: STAT az_Ex_MaoRailStrt02
-Copying object to master: STAT az_Ex_MaoRailCurv01
-Copying object to master: STAT az_Ex_MaoRailCurv00
-Copying object to master: STAT az_Ex_MaoWallStrt
-Copying object to master: STAT az_Ex_MaoTowerSnekHead
-Copying object to master: STAT az_Ex_MaoPlat02
-Copying object to master: STAT az_Ex_MaoTower02
-Copying object to master: STAT az_Ex_MaoColonnSpiral
-Copying object to master: STAT az_Ex_MaoWalkClmnCapOrb
-Copying object to master: DOOR az_Door_MaoEx
-Copying object to master: STAT az_Ex_MaoRailStrt01
-Copying object to master: STAT az_Ex_MaoWalkClmnCap
-Copying object to master: STAT az_Ex_MaoRailDetailSpiral
-Copying object to master: STAT az_Ex_MaoWalkRamp
-Copying object to master: STAT az_Ex_MaoTower01
-Copying object to master: STAT az_Ex_MaoWallCurv
-Copying object to master: STAT az_Ex_MaoPlatLrg02
-Copying object to master: STAT az_Ex_MaoBuild01
-Copying object to master: STAT az_Ex_MaoRailCurv02
-Copying object to master: STAT az_Ex_MaoPlatLrg01
-Copying object to master: STAT az_Ex_MaoWalkShort
-Copying interior to master: AZ_Maormer
+Copying object to master: STAT az_Ex_MaoFound10
+Copying object to master: STAT az_Ex_MaoFound11
+Copying object to master: STAT az_Ex_MaoFound20
+Merging interior to master: AZ_Maormer
 Saving results...
 Finished!
