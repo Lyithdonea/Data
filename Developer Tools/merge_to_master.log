@@ -1,9 +1,9 @@
 Merging plugins...
-Merging object to master: CONT az_o_Sack04Wickwheat
-Merging exterior to master: (88, -75)
-Merging exterior to master: (90, -78)
-Merging interior to master: AZ_Containers
-Merging interior to master: Lyithdonea, Jubuka'im Farm, Mill
-Removed deleted CONT object: az_o_Sack04Wickwheat
+Merging object to master: STAT az_furn_sack_hay_01
+Merging object to master: STAT az_furn_sack_hay_02
+Merging exterior to master: (84, -73)
+Merging interior to master: Azura, Slums, Storage Shed
+Removed deleted STAT object: az_furn_sack_hay_02
+Removed deleted STAT object: az_furn_sack_hay_01
 Saving results...
 Finished!
