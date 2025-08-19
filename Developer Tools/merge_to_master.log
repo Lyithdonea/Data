@@ -1,27 +1,18 @@
 Merging plugins...
-Copying object to master: SOUN AZ_UrnOpen
-Merging object to master: ACTI az_misc_shell_kollop00_stat
-Copying object to master: SOUN AZ_ChestOpen
-Copying object to master: SOUN AZ_WoodLidClose
-Merging object to master: ACTI az_misc_shell_kollop10_stat
-Merging object to master: ACTI az_misc_shell_kollop20_stat
-Copying object to master: SOUN AZ_SackClose
-Copying object to master: SOUN AZ_SackOpen
-Copying object to master: SOUN AZ_WoodLidOpen
-Merging object to master: ACTI az_flora_kollop00_open
-Merging object to master: ACTI az_flora_kollop20_open
-Copying object to master: SOUN AZ_ChestClose
-Merging object to master: ACTI az_flora_kollop10_open
-Merging exterior to master: (88, -75)
-Merging interior to master: Azura, Talio Assen's House
-Merging interior to master: Dor Dalla, Guild of Mages
-Merging interior to master: AZ_Clutter
-Merging interior to master: Azura, Hammarnibi Residence
-Removed deleted ACTI object: az_flora_kollop00_open
-Removed deleted ACTI object: az_misc_shell_kollop20_stat
-Removed deleted ACTI object: az_misc_shell_kollop10_stat
-Removed deleted ACTI object: az_misc_shell_kollop00_stat
-Removed deleted ACTI object: az_flora_kollop10_open
-Removed deleted ACTI object: az_flora_kollop20_open
+Merging object to master: CONT az_o_MaoChestTreasure01
+Merging object to master: CONT az_o_MaoChestTreasure02
+Merging object to master: CONT az_o_MaoChestTreasure06
+Merging object to master: CONT az_o_MaoChestTreasure03
+Merging object to master: CONT az_o_MaoChestTreasure05
+Merging object to master: CONT az_o_MaoChestTreasure07
+Merging object to master: CONT az_o_MaoChestTreasure08
+Merging object to master: CONT az_o_MaoChestTreasure04
+Merging exterior to master: (79, -83)
+Merging exterior to master: (92, -79)
+Merging exterior to master: (82, -85)
+Merging exterior to master: (83, -70)
+Merging exterior to master: (92, -81)
+Merging interior to master: Lyithdonea, Hataz Cave, Secluded Chambers
+Merging interior to master: Kannika Grotto
 Saving results...
 Finished!
