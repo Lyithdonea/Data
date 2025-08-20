@@ -1,18 +1,7 @@
 Merging plugins...
-Merging object to master: CONT az_o_MaoChestTreasure01
-Merging object to master: CONT az_o_MaoChestTreasure02
-Merging object to master: CONT az_o_MaoChestTreasure06
-Merging object to master: CONT az_o_MaoChestTreasure03
-Merging object to master: CONT az_o_MaoChestTreasure05
-Merging object to master: CONT az_o_MaoChestTreasure07
-Merging object to master: CONT az_o_MaoChestTreasure08
-Merging object to master: CONT az_o_MaoChestTreasure04
-Merging exterior to master: (79, -83)
-Merging exterior to master: (92, -79)
-Merging exterior to master: (82, -85)
-Merging exterior to master: (83, -70)
-Merging exterior to master: (92, -81)
-Merging interior to master: Lyithdonea, Hataz Cave, Secluded Chambers
-Merging interior to master: Kannika Grotto
+Copying object to master: SNDG az_crea_tiger0006
+Copying object to master: SNDG az_crea_tiger0004
+Copying object to master: SOUN AZ_Tiger_Scream
+Copying object to master: SNDG az_crea_tiger0005
 Saving results...
 Finished!
