@@ -162,6 +162,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * [Mangaka-chan](https://mangaka-chan.deviantart.com/) - clip art for history book cover
 * MentalElf – TESRespec and TESFiles
 * Michael Kirkbride - various texts and inspiration
+* MightyPinecone - Ancient Maormer Trident
 * Mily - Riverboat model
 * MJY
 * Modbuff - Opossum model
