@@ -194,6 +194,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Reizeron
 * Remiros - Intelligent Textures, Remiros' Groundcover
 * Rim
+* Rob Kennedy - leatherback sea turtle
 * Ronin
 * Rubberman - Misc. resources
 * Rytelier - Aesthesia Groundcover
