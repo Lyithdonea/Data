@@ -97,7 +97,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * carolienvanbedaf - coral
 * Chainy - Scripts, technical assistance, Bird of Paradise animations
 * Chaka-ZG
-* Chris Sweetwood - sea turtle toy
+* Chris Sweetwood - sea turtle toy, pirate rum
 * Christian Paskota - Stormlord armor
 * Clavis
 * [Clint Bellanger](http://opengameart.org/users/clint-bellanger) - Wyvern
