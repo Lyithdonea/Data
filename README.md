@@ -113,6 +113,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Dongle
 * DoubleBrewski - Ruined Monster Sword
 * Elrian - Converted Witcher Rhododendron and Roses
+* Eric Henry - For resources from N'dib's Twilight
 * evolveduk - bamboo and willow tree
 * Faarp
 * Fallen One - Model for Lamp Guard sword
@@ -172,7 +173,6 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Moranar – Robe meshes
 * Moritius - making interiors
 * Morovir - waterfalls and other miscellaneous resources
-* ndib - For resources from N'dib's Twilight
 * Nioliv - clothing meshes
 * Nobiax - For free plant models (check him out at DeviantArt.com)
 * NZdawghaus – Market stand resource and Splash Resource Pack
