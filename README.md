@@ -157,6 +157,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Lingarn - treasure chest model
 * local.yany - mountain maple and river birch
 * Lochnarus
+* LOLIPOP - pine trees
 * LondonRook - Outlander assets, maps, and other misc resources
 * LordBerandas - holy icon model
 * Lord Hoot - Missive from the Tang Mo text
