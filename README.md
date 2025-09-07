@@ -109,6 +109,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Darkness Eternal - Desert architecture
 * DassiD - Morrowind Enhanced Textures
 * Dereko - Better Clothes
+* DJMaesen - Dawn trees
 * Doom-DrivenPoster - A letter
 * Dongle
 * DoubleBrewski - Ruined Monster Sword
@@ -154,6 +155,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Legato
 * Lidicus
 * Lingarn - treasure chest model
+* local.yany - mountain maple and river birch
 * Lochnarus
 * LondonRook - Outlander assets, maps, and other misc resources
 * LordBerandas - holy icon model
@@ -162,6 +164,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Maering Bear-Poker - Honor and Moderation text
 * Majra
 * [Mangaka-chan](https://mangaka-chan.deviantart.com/) - clip art for history book cover
+* massive-graphisme - foliage tree model
 * MentalElf – TESRespec and TESFiles
 * Michael Kirkbride - various texts and inspiration
 * MightyPinecone - Ancient Maormer Trident
