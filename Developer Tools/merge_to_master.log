@@ -1,16 +1,5 @@
 Merging plugins...
-Merging object to master: LIGH az_light_lantern_grn1_256
-Merging object to master: LIGH az_light_lantern_grn3_128
-Merging object to master: LIGH az_light_lantern_grn2_128
-Merging exterior to master: (84, -81)
-Merging exterior to master: (83, -81)
-Merging exterior to master: (84, -80)
-Merging exterior to master: (83, -80)
-Merging interior to master: Azura, Slums, Jinkie's Tumbledown
-Merging interior to master: Azura, Zaimora Manor
-Merging interior to master: Azura, Faest Ratha Market, Lower Level
-Removed deleted LIGH object: az_light_lantern_grn3_128
-Removed deleted LIGH object: az_light_lantern_grn1_256
-Removed deleted LIGH object: az_light_lantern_grn2_128
+Merging object to master: LIGH az_light_starM_lamppost
+Removed deleted LIGH object: az_light_starM_lamppost
 Saving results...
 Finished!
