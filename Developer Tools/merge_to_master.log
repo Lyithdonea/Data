@@ -1,39 +1,16 @@
 Merging plugins...
-Merging object to master: STAT az_flora_water_lilypad_03
-Merging object to master: STAT az_flora_TI_lilypad_giant
-Merging object to master: STAT az_flora_Lily_01_stem
-Merging object to master: STAT az_flora_Lily_02_stem
-Merging object to master: STAT az_flora_Lily_02
-Merging object to master: STAT az_flora_water_lilypad_01
-Copying object to master: STAT az_flora_lilypad_giant_flwr
-Merging object to master: STAT az_flora_water_lily_flower
-Merging object to master: STAT az_flora_water_lily_pink
-Merging object to master: STAT az_flora_Lily_01
-Merging exterior to master: (85, -79)
-Merging exterior to master: (84, -79)
-Merging exterior to master: (85, -78)
-Merging exterior to master: (87, -75)
-Merging exterior to master: (87, -76)
-Merging exterior to master: (85, -80)
-Merging exterior to master: (86, -79)
+Merging object to master: LIGH az_light_lantern_grn1_256
+Merging object to master: LIGH az_light_lantern_grn3_128
+Merging object to master: LIGH az_light_lantern_grn2_128
 Merging exterior to master: (84, -81)
-Merging exterior to master: (88, -76)
-Merging exterior to master: (85, -81)
-Merging exterior to master: (86, -78)
-Merging exterior to master: (86, -75)
-Merging exterior to master: (84, -80)
 Merging exterior to master: (83, -81)
-Merging exterior to master: (87, -78)
-Merging exterior to master: (86, -77)
-Removed deleted STAT object: az_flora_Lily_02
-Removed deleted STAT object: az_flora_water_lilypad_03
-Removed deleted STAT object: az_flora_Lily_02_stem
-Removed deleted STAT object: az_flora_Lily_01_stem
-Removed deleted STAT object: az_flora_water_lilypad_01
-Removed deleted STAT object: az_flora_Lily_01
-Removed deleted STAT object: az_flora_water_lily_pink
-Removed deleted STAT object: az_flora_water_lily_flower
-Removed deleted STAT object: az_flora_TI_lilypad_giant
-Applying moved reference 'az_flora_lilypad_giant_flwr' (12057) for cell (85, -78)
+Merging exterior to master: (84, -80)
+Merging exterior to master: (83, -80)
+Merging interior to master: Azura, Slums, Jinkie's Tumbledown
+Merging interior to master: Azura, Zaimora Manor
+Merging interior to master: Azura, Faest Ratha Market, Lower Level
+Removed deleted LIGH object: az_light_lantern_grn3_128
+Removed deleted LIGH object: az_light_lantern_grn1_256
+Removed deleted LIGH object: az_light_lantern_grn2_128
 Saving results...
 Finished!
