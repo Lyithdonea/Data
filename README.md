@@ -230,7 +230,6 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Valery.Li - fan coral
 * Vality7 - used some of his billboard meshes
 * Vance Wildlife Removal - Opossum roar sound
-* Vurt - Flora (models/textures/techniques)
 * waalx - RealSwords: Woodsword
 * [Wen-M](http://wen-m.deviantart.com/) - inspiration for some weapons
 * Westerly - opossum bones
