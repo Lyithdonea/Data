@@ -23,6 +23,7 @@ To get to Lyithdonea, talk with someone on Azura’s Coast (such as in Sadrith M
 1. Manual: Unzip the archive and extract to the Morrowind Data Files directory
 2. Mod Manager: Install the archive
 3. Activate “MD_Azurian Isles.esm”
+4. OpenMW users can install the 01 OpenMW Addons folder to enable Animated Containers functionality (feature pending for MWSE)
 
 ### Incompatibility
 1. RR Mod Series – Better Ships and Boats currently causes some visual issues with Lyithdonea (especially in New Argonia) due to the new model shapes.
