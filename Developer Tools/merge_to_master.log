@@ -1,38 +1,39 @@
 Merging plugins...
-Merging object to master: CONT az_f_Scribtail06
-Copying object to master: STAT az_flora_ScribtailGrp01
-Merging object to master: CONT az_f_Scribtail04
-Merging object to master: CONT az_f_Scribtail01
-Merging object to master: CONT az_f_Scribtail03
-Merging object to master: CONT az_f_Scribtail02
-Merging object to master: CONT az_f_Scribtail05
-Merging exterior to master: (88, -79)
-Merging exterior to master: (81, -84)
-Merging exterior to master: (94, -82)
-Merging exterior to master: (80, -86)
-Merging exterior to master: (93, -82)
-Merging exterior to master: (82, -84)
-Merging exterior to master: (92, -72)
-Merging exterior to master: (81, -85)
-Merging exterior to master: (87, -79)
-Merging exterior to master: (80, -83)
-Merging exterior to master: (82, -82)
+Merging object to master: STAT az_flora_water_lilypad_03
+Merging object to master: STAT az_flora_TI_lilypad_giant
+Merging object to master: STAT az_flora_Lily_01_stem
+Merging object to master: STAT az_flora_Lily_02_stem
+Merging object to master: STAT az_flora_Lily_02
+Merging object to master: STAT az_flora_water_lilypad_01
+Copying object to master: STAT az_flora_lilypad_giant_flwr
+Merging object to master: STAT az_flora_water_lily_flower
+Merging object to master: STAT az_flora_water_lily_pink
+Merging object to master: STAT az_flora_Lily_01
+Merging exterior to master: (85, -79)
+Merging exterior to master: (84, -79)
+Merging exterior to master: (85, -78)
+Merging exterior to master: (87, -75)
+Merging exterior to master: (87, -76)
+Merging exterior to master: (85, -80)
 Merging exterior to master: (86, -79)
-Merging exterior to master: (81, -83)
-Merging exterior to master: (82, -81)
-Merging exterior to master: (81, -81)
-Merging exterior to master: (79, -83)
-Merging exterior to master: (92, -75)
-Merging exterior to master: (88, -78)
-Merging exterior to master: (81, -86)
-Merging interior to master: Azura, Selis Orelu's House
-Merging interior to master: Azura, Faest Ratha Market, Lower Level
-Merging interior to master: Azura, Saye's House
-Removed deleted CONT object: az_f_Scribtail04
-Removed deleted CONT object: az_f_Scribtail02
-Removed deleted CONT object: az_f_Scribtail06
-Removed deleted CONT object: az_f_Scribtail03
-Removed deleted CONT object: az_f_Scribtail01
-Removed deleted CONT object: az_f_Scribtail05
+Merging exterior to master: (84, -81)
+Merging exterior to master: (88, -76)
+Merging exterior to master: (85, -81)
+Merging exterior to master: (86, -78)
+Merging exterior to master: (86, -75)
+Merging exterior to master: (84, -80)
+Merging exterior to master: (83, -81)
+Merging exterior to master: (87, -78)
+Merging exterior to master: (86, -77)
+Removed deleted STAT object: az_flora_Lily_02
+Removed deleted STAT object: az_flora_water_lilypad_03
+Removed deleted STAT object: az_flora_Lily_02_stem
+Removed deleted STAT object: az_flora_Lily_01_stem
+Removed deleted STAT object: az_flora_water_lilypad_01
+Removed deleted STAT object: az_flora_Lily_01
+Removed deleted STAT object: az_flora_water_lily_pink
+Removed deleted STAT object: az_flora_water_lily_flower
+Removed deleted STAT object: az_flora_TI_lilypad_giant
+Applying moved reference 'az_flora_lilypad_giant_flwr' (12057) for cell (85, -78)
 Saving results...
 Finished!
