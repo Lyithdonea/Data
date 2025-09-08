@@ -118,6 +118,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * evolveduk - bamboo and willow tree
 * Faarp
 * Fallen One - Model for Lamp Guard sword
+* FelixBDesign - hazelnut bush
 * Ghostnull - Shard Lights
 * Greatness7 - extensive assistance with mesh fixing and optimization, scripting help
 * Greybeard - Better Clothes
@@ -211,6 +212,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Silgrad Tower
 * Silicon Bros - Armor, miscellaneous resources
 * sinHHHans - miscellaneous plants/mushrooms
+* SomeKevin - tree model
 * spineinside – Toe-sap plant and wasabi
 * Stroti - Misc. resources
 * Taddeus - Rocks, Neccessities of Morrowind, and other resources
