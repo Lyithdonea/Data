@@ -1,5 +1,15 @@
 Merging plugins...
-Merging object to master: LIGH az_light_starM_lamppost
-Removed deleted LIGH object: az_light_starM_lamppost
+Merging object to master: ACTI az_furn_de_Bathtub
+Merging object to master: ACTI az_furn_HalfBarrel
+Merging exterior to master: (84, -73)
+Merging exterior to master: (87, -77)
+Merging exterior to master: (91, -72)
+Merging interior to master: AZ_Clutter
+Merging interior to master: Azura, Port Hostel
+Merging interior to master: Dor Dalla, Guild of Mages, Menagerie
+Merging interior to master: Dor Dalla, Guild of Mages, Student Quarters
+Merging interior to master: Azura, Gamma Tunel's House
+Removed deleted ACTI object: az_furn_de_Bathtub
+Removed deleted ACTI object: az_furn_HalfBarrel
 Saving results...
 Finished!
