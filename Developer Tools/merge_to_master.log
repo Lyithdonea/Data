@@ -1,15 +1,24 @@
 Merging plugins...
-Merging object to master: ACTI az_furn_de_Bathtub
-Merging object to master: ACTI az_furn_HalfBarrel
-Merging exterior to master: (84, -73)
-Merging exterior to master: (87, -77)
-Merging exterior to master: (91, -72)
-Merging interior to master: AZ_Clutter
-Merging interior to master: Azura, Port Hostel
-Merging interior to master: Dor Dalla, Guild of Mages, Menagerie
-Merging interior to master: Dor Dalla, Guild of Mages, Student Quarters
-Merging interior to master: Azura, Gamma Tunel's House
-Removed deleted ACTI object: az_furn_de_Bathtub
-Removed deleted ACTI object: az_furn_HalfBarrel
+Remapping texture index: (5 -> 139) az_tx_sand_01
+Remapping texture index: (1 -> 93) az_tx_rock
+Remapping texture index: (4 -> 121) az_tx_ai_grass_00
+Remapping texture index: (0 -> 8) AC_darkgravel
+Remapping texture index: (2 -> 113) az_tx_ti_rock_04
+Remapping texture index: (3 -> 117) az_tx_ai_grass_01
+Copying object to master: ACTI az_water_waterfall_base_02
+Merging object to master: LTEX az_tx_sand_01
+Merging object to master: LTEX az_tx_rock
+Copying object to master: ACTI az_water_waterfall_base_01
+Merging object to master: LTEX az_tx_ai_grass_00
+Merging object to master: LTEX AC_darkgravel
+Merging object to master: LTEX az_tx_ti_rock_04
+Merging object to master: LTEX az_tx_ai_grass_01
+Merging exterior to master: (87, -74)
+Merging exterior to master: (86, -74)
+Merging exterior to master: (85, -72)
+Merging exterior to master: (87, -73)
+Merging exterior to master: (86, -73)
+Merging interior to master: AZ_Water
+Applying moved reference 'blue water ref 256' (29298) for cell (87, -73)
 Saving results...
 Finished!
