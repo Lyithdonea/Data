@@ -1,43 +1,54 @@
 Merging plugins...
-Merging object to master: STAT az_flora_fern_palm_AR
-Merging object to master: STAT az_flora_palm_AR_one
-Merging object to master: STAT az_flora_tree_MS_thin_02
-Merging object to master: BODY az_b_a_ACD_conehat_m_01b
-Merging object to master: STAT az_flora_palm_AR_three
-Merging object to master: STAT az_flora_tree_MS_thin_01
-Merging object to master: STAT az_flora_tree_MS_thin_04
-Merging object to master: STAT az_flora_tree_MS_thin_05
-Merging object to master: BODY az_b_a_ACD_conehat_b_01b
-Merging object to master: STAT az_flora_tree_MS_thin_03
-Merging object to master: BODY az_b_a_ACD_conehat_m_01_RG
-Merging object to master: BODY az_b_a_ACD_conehat_f_01b
-Merging object to master: STAT az_flora_palm_AR_single
-Merging object to master: STAT az_flora_palm_AR_two
-Merging object to master: BODY az_b_a_ACD_conehat_b_01
-Merging object to master: BODY az_b_a_ACD_conehat_f_01
-Merging object to master: BODY az_b_a_ACD_conehat_m_01
-Removed deleted STAT object: az_flora_tree_MS_thin_04
-Removed deleted STAT object: az_flora_palm_AR_single
-Removed deleted STAT object: az_flora_palm_AR_three
-Removed deleted BODY object: az_b_a_ACD_conehat_m_01b
-Removed deleted BODY object: az_b_a_ACD_conehat_m_01_RG
-Removed deleted STAT object: az_flora_tree_MS_thin_03
-Removed deleted STAT object: az_flora_palm_AR_two
-Removed deleted STAT object: az_flora_tree_MS_thin_02
-Removed deleted BODY object: az_b_a_ACD_conehat_f_01b
-Removed deleted BODY object: az_b_a_ACD_conehat_f_01
-Removed deleted BODY object: az_b_a_ACD_conehat_b_01b
-Removed deleted STAT object: az_flora_tree_MS_thin_01
-Removed deleted BODY object: az_b_a_ACD_conehat_b_01
-Removed deleted BODY object: az_b_a_ACD_conehat_m_01
-Removed deleted STAT object: az_flora_fern_palm_AR
-Removed deleted STAT object: az_flora_palm_AR_one
-Removed deleted STAT object: az_flora_tree_MS_thin_05
-Removed deleted reference: az_flora_fern_palm_AR (0, 86069)
-Removed deleted reference: az_flora_tree_MS_thin_03 (0, 77453)
-Removed deleted reference: az_flora_tree_MS_thin_04 (0, 77412)
-Removed deleted reference: az_flora_tree_MS_thin_05 (0, 77413)
-Removed deleted reference: az_flora_tree_MS_thin_01 (0, 77411)
-Removed deleted reference: az_flora_tree_MS_thin_02 (0, 77414)
+Merging object to master: CONT az_o_Urn03Ing
+Merging object to master: CONT az_f_Vespia03
+Copying object to master: CONT az_f_Masseranth02
+Copying object to master: LEVI az_lvl_TombStuff
+Merging object to master: CONT az_o_Urn02Ing
+Merging object to master: CONT az_o_ClayPot04Food
+Merging object to master: CONT az_o_DeRchCanIng
+Merging object to master: CONT az_o_ClayPot02Ing
+Merging object to master: CONT az_o_Sack01Ing
+Merging object to master: CONT az_o_Sack03Ing
+Copying object to master: LEVI az_lvl_IngFlorMasseranth
+Merging object to master: CONT az_o_Barrel02Ing20
+Merging object to master: CONT az_o_Sack02Ing
+Merging object to master: CONT az_o_bambooBasket02Ing
+Merging object to master: CONT az_o_Urn01Ing
+Merging object to master: CONT az_o_DeRchChestTomb
+Merging object to master: CONT az_f_Vespia02
+Merging object to master: CONT az_o_bambooBasket03Ing
+Merging object to master: CONT az_o_SatchelLrgIng
+Copying object to master: LEVI az_lvl_IngAll
+Merging object to master: CONT az_f_Masseranth01
+Merging object to master: CONT az_o_Barrel01Ing
+Merging object to master: CONT az_o_bambooBasket01Ing
+Merging object to master: NPC_ az_Shem Fen
+Copying object to master: INGR az_IngFlor_MasseranthSeeds
+Merging object to master: CONT az_o_VelChest01Tomb
+Merging object to master: CONT az_o_Barrel02Ing
+Copying object to master: CONT az_f_Masseranth03
+Merging object to master: CONT az_f_Vespia01
+Merging object to master: CONT az_o_Crate01Ing
+Merging exterior to master: (94, -79)
+Merging exterior to master: (90, -74)
+Merging exterior to master: (85, -76)
+Merging exterior to master: (85, -75)
+Merging exterior to master: (88, -70)
+Merging exterior to master: (84, -75)
+Merging exterior to master: (91, -72)
+Merging exterior to master: (87, -75)
+Merging exterior to master: (85, -71)
+Merging exterior to master: (92, -76)
+Merging exterior to master: (87, -72)
+Merging exterior to master: (89, -73)
+Merging exterior to master: (93, -77)
+Merging exterior to master: (94, -76)
+Merging exterior to master: (87, -71)
+Merging exterior to master: (89, -74)
+Merging exterior to master: (93, -71)
+Merging exterior to master: (94, -78)
+Merging exterior to master: (92, -72)
+Merging exterior to master: (86, -73)
+Merging interior to master: Azura, Kether's Fine Alchemy Shop
 Saving results...
 Finished!
