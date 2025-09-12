@@ -1,24 +1,38 @@
 Merging plugins...
-Remapping texture index: (5 -> 139) az_tx_sand_01
-Remapping texture index: (1 -> 93) az_tx_rock
-Remapping texture index: (4 -> 121) az_tx_ai_grass_00
-Remapping texture index: (0 -> 8) AC_darkgravel
-Remapping texture index: (2 -> 113) az_tx_ti_rock_04
-Remapping texture index: (3 -> 117) az_tx_ai_grass_01
-Copying object to master: ACTI az_water_waterfall_base_02
+Remapping texture index: (1 -> 104) az_tx_ai_grass_dirt
+Remapping texture index: (3 -> 139) az_tx_sand_01
+Remapping texture index: (2 -> 121) az_tx_ai_grass_00
+Remapping texture index: (0 -> 93) az_tx_rock
+Copying object to master: CONT az_f_Vespia01
+Merging object to master: LTEX az_tx_ai_grass_dirt
 Merging object to master: LTEX az_tx_sand_01
-Merging object to master: LTEX az_tx_rock
-Copying object to master: ACTI az_water_waterfall_base_01
+Copying object to master: LEVI az_lvl_IngFlorVespia
 Merging object to master: LTEX az_tx_ai_grass_00
-Merging object to master: LTEX AC_darkgravel
-Merging object to master: LTEX az_tx_ti_rock_04
-Merging object to master: LTEX az_tx_ai_grass_01
-Merging exterior to master: (87, -74)
-Merging exterior to master: (86, -74)
-Merging exterior to master: (85, -72)
-Merging exterior to master: (87, -73)
+Copying object to master: CONT az_f_Vespia03
+Merging object to master: LTEX az_tx_rock
+Copying object to master: CONT az_f_Vespia02
+Copying object to master: INGR az_IngFlor_Vespia
+Merging exterior to master: (85, -77)
+Merging exterior to master: (89, -73)
+Merging exterior to master: (91, -72)
+Merging exterior to master: (87, -72)
+Merging exterior to master: (86, -72)
+Merging exterior to master: (89, -72)
+Merging exterior to master: (94, -72)
+Merging exterior to master: (88, -74)
+Merging exterior to master: (85, -73)
+Merging exterior to master: (86, -71)
+Merging exterior to master: (87, -71)
+Merging exterior to master: (90, -78)
+Merging exterior to master: (85, -76)
 Merging exterior to master: (86, -73)
-Merging interior to master: AZ_Water
-Applying moved reference 'blue water ref 256' (29298) for cell (87, -73)
+Merging exterior to master: (95, -73)
+Merging exterior to master: (87, -73)
+Merging exterior to master: (92, -72)
+Merging exterior to master: (93, -71)
+Merging interior to master: Azura, The Turquoise Canvas
+Merging interior to master: Azura, Saurale's House
+Merging interior to master: Azura, Royalway Apartments, Upper South-One
+Merging interior to master: Azura, Royalway Apartments, Upper North-One
 Saving results...
 Finished!
