@@ -125,7 +125,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Greybeard - Better Clothes
 * HedgeHog12 - lens flare effects
 * Heinrich - Basis for the Velothi underworks set, VSBR
-* Hemaris - provided the animation reference for the Serow
+* Hemaris - provided the animation reference for the Serow, helped with naming many plants
 * Hialda Alpizar - Tiger skull
 * IangM - Tiger skull (fishman)
 * IceFireWarden - I Lost My Love For You text
