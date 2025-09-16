@@ -243,4 +243,28 @@ if ashfall then
 		az_Terr_SunstoneRock10 = 50,
     }
 
+	ashfall.registerTreeBranches{
+        treeIds = {
+            'az_flora_tree_palm_nobiax_00',
+            'az_flora_tree_palm_nobiax_01',
+			'az_flora_tree_palm_nobiax_02',
+			'az_flora_tree_palm_nobiax_03',
+			'az_flora_tree_palm_nobiax_04',
+			'az_flora_tree_palm_nobiax_05',
+			'az_flora_tree_palm_stickle_01',
+			'az_flora_tree_palm_stickle_02',
+			'az_flora_tree_palm_turbo01',
+			'az_flora_tree_palm_turbo02',
+			'az_flora_tree_palm_turbo03',
+			'az_flora_tree_palm_turbo04',
+			'az_flora_tree_palm_turbo05',
+			'az_flora_tree_palm_turbo06',		
+        },
+        branchIds = {
+            "custom_branch_01",
+            "custom_branch_02",
+            "custom_branch_03",
+        }
+    } 
+
 end
