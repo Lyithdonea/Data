@@ -1,5 +1,8 @@
 Merging plugins...
-Merging object to master: STAT az_Ex_MaoColonnSpiral
-Removed deleted STAT object: az_Ex_MaoColonnSpiral
+Merging object to master: LIGH az_light_SewerLantYlw500
+Merging object to master: LIGH az_light_sewer_lantern_01_512
+Merging object to master: LIGH az_light_sewer_lantern_01
+Removed deleted LIGH object: az_light_sewer_lantern_01_512
+Removed deleted LIGH object: az_light_sewer_lantern_01
 Saving results...
 Finished!
