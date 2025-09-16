@@ -1,11 +1,13 @@
 Merging plugins...
-Merging object to master: INGR az_food_glenda_fruit_open
-Merging object to master: INGR az_food_onion
-Merging object to master: CONT az_f_Glenda01
-Merging object to master: INGR az_food_glenda_fruit
-Removed deleted INGR object: az_food_glenda_fruit_open
-Removed deleted CONT object: az_f_Glenda01
-Removed deleted INGR object: az_food_glenda_fruit
-Removed deleted INGR object: az_food_onion
+Merging object to master: INGR az_food_guar_rib
+Merging object to master: INGR az_food_guar_sausage
+Merging object to master: INGR az_food_guar_rib_succ
+Merging object to master: INGR az_ingred_masseranth
+Merging object to master: INGR az_food_guar_jerky
+Removed deleted INGR object: az_food_guar_rib_succ
+Removed deleted INGR object: az_food_guar_jerky
+Removed deleted INGR object: az_food_guar_sausage
+Removed deleted INGR object: az_ingred_masseranth
+Removed deleted INGR object: az_food_guar_rib
 Saving results...
 Finished!
