@@ -1,10 +1,5 @@
 Merging plugins...
-Copying object to master: LIGH az_light_SewerLantYlw500
-Copying object to master: LIGH az_light_SewerLantYlw300
-Merging interior to master: Azura, Water Tower
-Merging interior to master: Azura, Kar-soom
-Merging interior to master: Azura, Palace: Sewers
-Merging interior to master: Azura, High Rosery, Upper Sewers
-Merging interior to master: Azura, Slums
+Merging object to master: STAT az_Ex_MaoColonnSpiral
+Removed deleted STAT object: az_Ex_MaoColonnSpiral
 Saving results...
 Finished!
