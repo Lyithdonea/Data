@@ -1,13 +1,95 @@
 Merging plugins...
-Merging object to master: INGR az_food_guar_rib
-Merging object to master: INGR az_food_guar_sausage
-Merging object to master: INGR az_food_guar_rib_succ
-Merging object to master: INGR az_ingred_masseranth
-Merging object to master: INGR az_food_guar_jerky
-Removed deleted INGR object: az_food_guar_rib_succ
-Removed deleted INGR object: az_food_guar_jerky
-Removed deleted INGR object: az_food_guar_sausage
-Removed deleted INGR object: az_ingred_masseranth
-Removed deleted INGR object: az_food_guar_rib
+Remapping texture index: (4 -> 104) az_tx_ai_grass_dirt
+Remapping texture index: (13 -> 138) az_tx_coast_rock_01
+Remapping texture index: (0 -> 8) AC_darkgravel
+Remapping texture index: (11 -> 126) az_tx_v_gravel
+Remapping texture index: (2 -> 93) az_tx_rock
+Remapping texture index: (3 -> 103) az_tx_ai_dirt_road
+Remapping texture index: (8 -> 118) az_tx_ai_grass_rocky
+Remapping texture index: (6 -> 115) az_tx_ai_cobblestone
+Remapping texture index: (14 -> 139) az_tx_sand_01
+Remapping texture index: (9 -> 121) az_tx_ai_grass_00
+Remapping texture index: (1 -> 91) az_tx_gravel
+Remapping texture index: (12 -> 137) az_tx_coast_rock_02
+Remapping texture index: (5 -> 113) az_tx_ti_rock_04
+Remapping texture index: (7 -> 117) az_tx_ai_grass_01
+Remapping texture index: (10 -> 124) az_tx_v_floor
+Copying object to master: STAT az_in_SewerHalfwall01
+Copying object to master: STAT az_in_SewerDebris03
+Merging object to master: LTEX az_tx_ai_grass_dirt
+Copying object to master: STAT az_in_SewerPipeLrgStrt1280
+Copying object to master: STAT az_in_SewerCorrWallBlank
+Copying object to master: STAT az_in_SewerRoomCent04
+Copying object to master: STAT az_in_SewerSluiceGate
+Copying object to master: DOOR az_door_sewer_door
+Copying object to master: STAT az_in_SewerPipeLrgFlange
+Copying object to master: STAT az_in_SewerSmCorrDJLoad
+Copying object to master: STAT az_in_SewerHalfwall02
+Merging object to master: LIGH az_light_SewerLantYlw300
+Copying object to master: STAT az_in_SewerPipeLrgFitting
+Copying object to master: STAT az_in_SewerPipeLrg4way
+Merging object to master: LTEX az_tx_coast_rock_01
+Merging object to master: LTEX AC_darkgravel
+Merging object to master: LTEX az_tx_v_gravel
+Merging object to master: LTEX az_tx_ai_dirt_road
+Copying object to master: STAT az_in_SewerRoomSide
+Copying object to master: STAT az_in_SewerRoomCent03
+Copying object to master: STAT az_in_SewerDebris05
+Merging object to master: LTEX az_tx_coast_rock_02
+Copying object to master: ACTI az_water_sewerSpout01
+Copying object to master: STAT az_in_SewerPipeLrg3way
+Copying object to master: STAT az_in_SewerCistern
+Merging object to master: LTEX az_tx_ai_grass_01
+Copying object to master: STAT az_in_SewerRoomEntry
+Copying object to master: STAT az_in_SewerDebris04
+Copying object to master: STAT az_in_Sewer4way
+Copying object to master: STAT az_in_SewerRoomEntry02
+Merging object to master: LTEX az_tx_v_floor
+Copying object to master: STAT az_in_SewerCorrCanalSmall
+Copying object to master: STAT az_in_SewerGrateWall
+Copying object to master: STAT az_in_SewerRoomCorner
+Copying object to master: STAT az_in_SewerPipeLrgStrt640
+Merging object to master: LTEX az_tx_rock
+Merging object to master: LTEX az_tx_ai_grass_rocky
+Merging object to master: LTEX az_tx_ai_cobblestone
+Merging object to master: LTEX az_tx_sand_01
+Copying object to master: STAT az_in_SewerRoomCent02
+Copying object to master: STAT az_in_SewerPipeLrgElbow
+Merging object to master: LTEX az_tx_ai_grass_00
+Copying object to master: STAT az_in_SewerSmCorrDJ
+Copying object to master: STAT az_in_SewerRoomPillar02
+Copying object to master: STAT az_in_SewerCorrWallAlcove
+Copying object to master: STAT az_in_SewerCorrShort
+Copying object to master: STAT az_in_SewerRoomWall
+Copying object to master: STAT az_in_SewerPipeLrgStrt160
+Merging object to master: LTEX az_tx_gravel
+Copying object to master: STAT az_in_SewerDebris01
+Merging object to master: STAT az_ex_sewer_spout
+Copying object to master: STAT az_in_SewerDebris02
+Copying object to master: STAT az_in_SewerRoomPillar01
+Copying object to master: STAT az_in_SewerCorrNoWall
+Copying object to master: STAT az_in_SewerRoomCent01
+Merging object to master: LTEX az_tx_ti_rock_04
+Merging object to master: LIGH az_light_SewerLantYlw500
+Copying object to master: STAT az_in_SewerPipeLrgStrt320
+Copying object to master: STAT az_in_SewerRoomPillar03
+Merging exterior to master: (85, -75)
+Merging exterior to master: (87, -77)
+Merging exterior to master: (86, -75)
+Merging exterior to master: (86, -76)
+Merging exterior to master: (86, -74)
+Merging exterior to master: (85, -74)
+Copying interior to master: Azura, Palace Sewers
+Merging interior to master: Azura, Underworks
+Merging interior to master: Azura, Underworks, Vando Block 1
+Merging interior to master: Azura, Slums
+Copying interior to master: Azura, Underworks, Vando Block 2
+Copying interior to master: Azura, Temple Sewers
+Copying interior to master: Azura, South Sewers
+Copying interior to master: Azura, Underworks, Garden Square
+Copying interior to master: Azura, East Sewers
+Merging interior to master: AZ_Sewer
+Copying interior to master: Azura, Manorial Sewers
+Removed deleted STAT object: az_ex_sewer_spout
 Saving results...
 Finished!
