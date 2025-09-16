@@ -1,32 +1,10 @@
 Merging plugins...
-Merging object to master: STAT az_Ex_MaoFound10
-Copying object to master: STAT az_Ex_MaoColonnSpiralA
-Merging object to master: STAT az_Ex_MaoFound11
-Copying object to master: STAT az_Ex_MaoFoundTopCorn02
-Copying object to master: STAT az_Ex_MaoFoundCorn01
-Copying object to master: STAT az_Ex_MaoTrollSupportA
-Merging object to master: STAT az_Ex_MaoFound20
-Copying object to master: STAT az_Ex_MaoBlock512
-Copying object to master: STAT az_Ex_MaoColonnSpiralB
-Copying object to master: STAT az_Ex_MaoStatueJak
-Copying object to master: STAT az_Ex_MaoTowerSnek2
-Copying object to master: STAT az_Ex_MaoFoundTopCorn01a
-Copying object to master: STAT az_Ex_MaoFoundCorn02
-Copying object to master: LIGH az_Light_MaoLamp02
-Copying object to master: STAT az_Ex_MaoFoundTopSide01b
-Copying object to master: STAT az_Ex_MaoTrollSupportB
-Copying object to master: STAT az_Ex_MaoFoundSingle01
-Copying object to master: STAT az_Ex_MaoFoundSingle02
-Copying object to master: STAT az_Ex_MaoFoundTopSide01a
-Copying object to master: STAT az_Ex_MaoFoundTopCorn01b
-Copying object to master: LIGH az_Light_MaoLamp01
-Copying object to master: STAT az_Ex_MaoFoundSide01
-Copying object to master: STAT az_Ex_MaoRailEnd
-Copying object to master: STAT az_Ex_MaoTowerSnek2Head
-Merging interior to master: AZ_Maormer
-Merging interior to master: Lyithdonea, Gloorgul
-Removed deleted STAT object: az_Ex_MaoFound10
-Removed deleted STAT object: az_Ex_MaoFound20
-Removed deleted STAT object: az_Ex_MaoFound11
+Copying object to master: LIGH az_light_SewerLantYlw500
+Copying object to master: LIGH az_light_SewerLantYlw300
+Merging interior to master: Azura, Water Tower
+Merging interior to master: Azura, Kar-soom
+Merging interior to master: Azura, Palace: Sewers
+Merging interior to master: Azura, High Rosery, Upper Sewers
+Merging interior to master: Azura, Slums
 Saving results...
 Finished!
