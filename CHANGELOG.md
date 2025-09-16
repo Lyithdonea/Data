@@ -1,4 +1,16 @@
 # Changelog
+## Version 0.2.1
+- Added luroc and associated assets (camp & weapons)
+- Added opossums
+- Added makarrin troll
+- Added iguanas
+- Added sound effects for tiger cubs
+- Optimized trees and flora assets
+- Optimized farm assets
+- Added misc items: sewing scissors, tiger skull
+- Replaced dunguar with tanwa
+- Updated vests to fit vanilla bodies
+- Fixed Mages Guild guide functionality
 ## Version 0.2.0
 - Updated to align with latest GitHub release
 - Overhauled layout for Azura City
