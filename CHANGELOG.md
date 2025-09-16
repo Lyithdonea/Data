@@ -13,6 +13,8 @@
 - Added ancient Maormer trident
 - Added Vespia's Ewer flower
 - Added fomod
+- Added Ashfall and CSO interops
+- Added OpenMW Footsteps interop
 - Replaced isles of dusk grass textures to match the pink cherry trees
 - Replaced glenda with clubfruit plant
 - Added Animated Containers support for OpenMW (MWSE coming in the future!)
