@@ -1,11 +1,30 @@
 # Changelog
+## Version 0.3.0
+- Overhauled all flora, replacing most trees
+- Added Maormer exterior architecture
+- Added Maormer statues
+- Added underwater assets: coral "trees", tall seaweed, red sea grass
+- Added giant sea turtles
+- Added stone sea turtle toy
+- Added giant flower plants
+- Added pirate rum
+- Added book and statue of Jakomar the Sundrake
+- Added training sword
+- Added ancient Maormer trident
+- Added Vespia's Ewer flower
+- Replaced isles of dusk grass textures to match the pink cherry trees
+- Replaced glenda with clubfruit plant
+- Added Animated Containers support for OpenMW (MWSE coming in the future!)
+- Remodeled masseranth flower
+- Replaced many objects with OAAB_Data or TD equivalents
+- Optimized many assets
+- Fixed tiger sound gen
 ## Version 0.2.1
 - Added luroc and associated assets (camp & weapons)
 - Added opossums
 - Added makarrin troll
 - Added iguanas
 - Added sound effects for tiger cubs
-- Optimized trees and flora assets
 - Optimized farm assets
 - Added misc items: sewing scissors, tiger skull
 - Replaced dunguar with tanwa
