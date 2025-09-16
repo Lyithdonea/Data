@@ -1,18 +1,11 @@
 Merging plugins...
-Merging object to master: STAT az_flora_flower_decor_A1
-Merging object to master: STAT az_flora_flower_decor_02
-Merging object to master: STAT az_flora_flower_decor_C5
-Merging object to master: STAT az_flora_flower_decor_B2
-Merging object to master: STAT az_flora_flower_decor_05
-Merging exterior to master: (91, -74)
-Merging interior to master: Azura, Civilius' Bakery
-Merging interior to master: Azura, Mona's Spell Boutique
-Merging interior to master: AZ_Flora
-Merging interior to master: Azura, Palace: North Wing
-Removed deleted STAT object: az_flora_flower_decor_05
-Removed deleted STAT object: az_flora_flower_decor_B2
-Removed deleted STAT object: az_flora_flower_decor_02
-Removed deleted STAT object: az_flora_flower_decor_A1
-Removed deleted STAT object: az_flora_flower_decor_C5
+Merging object to master: INGR az_food_guar_rib_grill
+Merging object to master: LIGH az_Light_SunstoneChunk512
+Merging object to master: BOOK az_bk_buildingsmallboats
+Merging object to master: STAT az_Ex_VelTempleTower02
+Merging interior to master: Azura, Palace: Magnate's Chambers
+Removed deleted INGR object: az_food_guar_rib_grill
+Removed deleted LIGH object: az_Light_SunstoneChunk512
+Removed deleted STAT object: az_Ex_VelTempleTower02
 Saving results...
 Finished!
