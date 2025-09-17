@@ -138,6 +138,7 @@ It’s in alpha… please report any bugs you find. Missing features are not bug
 * Inari - Rahj grass
 * iNaturalist - beehive ginger source images (benchapman77, diegoalvarado13, yariastral, afranco, spectabile_01, twidmer, christiangilli-02)
 * Istreddify
+* Jackimoffwackimoff - Fishman water healing script
 * jcd13 - Chinese Lantern
 * Jdooby - trees
 * Jester/Spot1st - Stalker Armor
