@@ -1,4 +1,6 @@
 # Changelog
+## Version 0.3.1
+- Fixed missing greetings
 ## Version 0.3.0
 - Overhauled all flora, replacing most trees
 - Added Maormer exterior architecture
