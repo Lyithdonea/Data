@@ -1,4 +1,79 @@
 Merging plugins...
-Merging object to master: greeting 1
+Remapping texture index: (11 -> 118) az_tx_ai_grass_rocky
+Remapping texture index: (15 -> 133) az_tx_cave_ground
+Remapping texture index: (16 -> 137) az_tx_coast_rock_02
+Remapping texture index: (3 -> 93) az_tx_rock
+Remapping texture index: (10 -> 117) az_tx_ai_grass_01
+Remapping texture index: (8 -> 114) az_tx_ai_mainroad
+Remapping texture index: (2 -> 91) az_tx_gravel
+Remapping texture index: (12 -> 121) az_tx_ai_grass_00
+Remapping texture index: (0 -> 26) Sand_02
+Remapping texture index: (6 -> 105) az_tx_ai_dirt_01
+Remapping texture index: (14 -> 131) az_tx_clay_rainbow
+Remapping texture index: (1 -> 56) MA_lava02
+Remapping texture index: (13 -> 122) az_tx_ai_clover
+Remapping texture index: (18 -> 139) az_tx_sand_01
+Remapping texture index: (4 -> 103) az_tx_ai_dirt_road
+Remapping texture index: (7 -> 113) az_tx_ti_rock_04
+Remapping texture index: (17 -> 138) az_tx_coast_rock_01
+Remapping texture index: (9 -> 115) az_tx_ai_cobblestone
+Remapping texture index: (5 -> 104) az_tx_ai_grass_dirt
+Merging object to master: LTEX az_tx_ai_grass_rocky
+Merging object to master: LTEX az_tx_cave_ground
+Merging object to master: NPC_ az_Regatto Ranyon
+Merging object to master: LTEX az_tx_coast_rock_02
+Merging object to master: LTEX az_tx_rock
+Merging object to master: LTEX az_tx_ai_grass_01
+Merging object to master: LTEX az_tx_ai_mainroad
+Copying object to master: CREA az_Fau_Serow_stat
+Merging object to master: LTEX az_tx_gravel
+Copying object to master: STAT az_Ex_MudhutStep
+Merging object to master: LTEX az_tx_ai_grass_00
+Copying object to master: STAT az_Ex_Mudhut01
+Merging object to master: LTEX Sand_02
+Copying object to master: STAT az_Ex_MudhutSteps01
+Copying object to master: LEVC az_lvl_serow
+Merging object to master: LTEX az_tx_ai_dirt_01
+Copying object to master: STAT az_Terr_RockCliff01Ivy
+Copying object to master: STAT az_Ex_MudhutSteps02
+Copying object to master: STAT az_Terr_RockCliff02Ivy
+Copying object to master: STAT az_Ex_MudhutWindow
+Copying object to master: STAT az_Ex_MudhutFound01
+Copying object to master: CREA az_Fau_SerowF_stat
+Merging object to master: LTEX az_tx_clay_rainbow
+Merging object to master: NPC_ az_Aman Drys
+Copying object to master: STAT az_Ex_Mudhut03
+Merging object to master: LTEX MA_lava02
+Merging object to master: LTEX az_tx_ai_clover
+Merging object to master: LTEX az_tx_sand_01
+Merging object to master: LTEX az_tx_ai_dirt_road
+Copying object to master: STAT az_Ex_MudhutCistern
+Copying object to master: DOOR az_Door_Mudhut
+Copying object to master: STAT az_Ex_Mudhut02
+Merging object to master: LTEX az_tx_ti_rock_04
+Merging object to master: LTEX az_tx_coast_rock_01
+Merging object to master: LTEX az_tx_ai_cobblestone
+Copying object to master: STAT az_Ex_MudhutDoorframe
+Merging object to master: LTEX az_tx_ai_grass_dirt
+Merging exterior to master: (95, -77)
+Merging exterior to master: (95, -76)
+Merging exterior to master: (95, -75)
+Merging exterior to master: (96, -75)
+Merging exterior to master: (96, -79)
+Merging exterior to master: (96, -77)
+Merging exterior to master: (92, -76)
+Merging exterior to master: (93, -77)
+Merging exterior to master: (93, -76)
+Merging exterior to master: (93, -75)
+Merging exterior to master: (94, -77)
+Merging exterior to master: (94, -76)
+Merging exterior to master: (94, -75)
+Merging exterior to master: (95, -79)
+Merging interior to master: Lyithdonea, Malyvel Ancestral Tomb
+Merging interior to master: AZ_Flora
+Merging interior to master: Azura, Mines
+Applying moved reference 'az_Flora_PalmBottle02' (80504) for cell (94, -75)
+Applying moved reference 'az_Flora_PalmBottle01' (80505) for cell (94, -75)
+Applying moved reference 'ex_velothi_entrance_02' (22779) for cell (94, -77)
 Saving results...
 Finished!
