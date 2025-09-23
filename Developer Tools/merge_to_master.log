@@ -1,21 +1,12 @@
 Merging plugins...
-Copying object to master: STAT az_furn_bambooDecor01
-Copying object to master: STAT az_In_MudhutDoorframe
-Copying object to master: STAT az_furn_bambooDecor02
-Copying object to master: STAT az_In_Mudhut01
-Copying object to master: STAT az_In_Mudhut03
-Copying object to master: STAT az_In_Mudhut02
-Copying object to master: STAT az_In_Mudhut13
-Copying object to master: STAT az_ex_woodPlatWallPost
-Merging exterior to master: (93, -76)
-Merging exterior to master: (94, -76)
-Merging interior to master: Lyithdonea, Regatto Ranyon's Shack
-Copying interior to master: Lyithdonea, Drakhis, Regatto Ranyon's House
-Merging interior to master: Azura, Slums
-Copying interior to master: Lyithdonea, Drakhis, Foreman's House
-Copying interior to master: Lyithdonea, Drakhis Mine
-Merging interior to master: Azura, Mines
-Removed deleted interior: Azura, Mines
-Removed deleted interior: Lyithdonea, Regatto Ranyon's Shack
+Merging exterior to master: (92, -73)
+Merging exterior to master: (87, -71)
+Merging exterior to master: (88, -81)
+Merging exterior to master: (94, -79)
+Merging exterior to master: (95, -78)
+Merging exterior to master: (95, -79)
+Merging exterior to master: (92, -72)
+Merging exterior to master: (94, -78)
+Applying moved reference 'az_ex_az_ruin_pillar_03' (29804) for cell (92, -72)
 Saving results...
 Finished!
