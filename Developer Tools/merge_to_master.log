@@ -1,177 +1,93 @@
 Merging plugins...
-Remapping texture index: (12 -> 117) az_tx_ai_grass_01
-Remapping texture index: (3 -> 26) Sand_02
-Remapping texture index: (13 -> 118) az_tx_ai_grass_rocky
-Remapping texture index: (5 -> 91) az_tx_gravel
-Remapping texture index: (17 -> 126) az_tx_v_gravel
-Remapping texture index: (10 -> 113) az_tx_ti_rock_04
-Remapping texture index: (0 -> 6) AC_darkstone01
-Remapping texture index: (6 -> 93) az_tx_rock
-Remapping texture index: (4 -> 64) MA_sulphur_rock03
-Remapping texture index: (19 -> 132) az_tx_ci_floor
-Remapping texture index: (15 -> 122) az_tx_ai_clover
-Remapping texture index: (8 -> 104) az_tx_ai_grass_dirt
-Remapping texture index: (14 -> 121) az_tx_ai_grass_00
-Remapping texture index: (21 -> 138) az_tx_coast_rock_01
-Remapping texture index: (9 -> 105) az_tx_ai_dirt_01
-Remapping texture index: (18 -> 127) az_tx_ocean_rock_green
-Remapping texture index: (22 -> 139) az_tx_sand_01
-Remapping texture index: (2 -> 9) AC_darkstone_grass
-Remapping texture index: (20 -> 137) az_tx_coast_rock_02
-Remapping texture index: (1 -> 8) AC_darkgravel
-Remapping texture index: (11 -> 115) az_tx_ai_cobblestone
-Remapping texture index: (16 -> 124) az_tx_v_floor
-Remapping texture index: (7 -> 103) az_tx_ai_dirt_road
-Merging object to master: STAT az_furn_paint_easel
-Merging object to master: STAT az_terrain_cliff6
-Copying object to master: STAT az_In_VelSmallHall01
-Copying object to master: STAT az_Furn_BannerHA02
-Merging object to master: LTEX az_tx_ai_grass_01
-Merging object to master: LTEX Sand_02
-Merging object to master: LTEX az_tx_ai_grass_rocky
-Copying object to master: SCPT az_AzuranGuardGate01_s
-Merging object to master: NPC_ az_Malpen Truptor
-Merging object to master: LTEX az_tx_gravel
-Merging object to master: LTEX az_tx_v_gravel
-Merging object to master: STAT az_furn_paint_canvas_01
-Copying object to master: NPC_ az_AzuranGuardGate01
-Merging object to master: STAT az_furn_paint_canvas
-Copying object to master: STAT az_Furn_BannerHA01Out
-Merging object to master: STAT az_static_grate
-Copying object to master: STAT az_Ex_VelAqueductRuin02
-Merging object to master: LTEX az_tx_ti_rock_04
-Merging object to master: STAT az_terrain_cliff2
-Copying object to master: STAT az_in_SewerPitSquare01
-Merging object to master: LTEX AC_darkstone01
-Merging object to master: STAT az_furn_lantern_post
-Merging object to master: LTEX az_tx_rock
-Copying object to master: STAT az_Ex_VelAqueductShort
-Copying object to master: STAT az_Ex_VelWallCityColumn2x
-Copying object to master: STAT az_Furn_BannerHA01
-Copying object to master: ACTI az_Fx_WaterAqueductEnd
-Copying object to master: STAT az_In_VelLargeColumn02
-Merging object to master: STAT az_ex_v_walk_post
-Merging object to master: LTEX MA_sulphur_rock03
-Merging object to master: LTEX az_tx_ci_floor
-Copying object to master: STAT az_Ex_VelWindcatcher
-Merging object to master: STAT az_furn_pot_PotteryWheel
-Merging object to master: LTEX az_tx_ai_clover
-Merging object to master: LTEX az_tx_ai_grass_dirt
-Merging object to master: LTEX az_tx_ai_grass_00
-Copying object to master: STAT az_In_VelSmPitRmTopCorn02
-Merging object to master: LTEX az_tx_coast_rock_01
-Copying object to master: ACTI AZ_Snd_Steam
-Merging object to master: LTEX az_tx_ai_dirt_01
-Copying object to master: STAT az_Ex_VelAqueductEnd
-Merging object to master: STAT az_dock_anchor_01
-Merging object to master: LTEX az_tx_ocean_rock_green
-Merging object to master: LTEX az_tx_sand_01
-Copying object to master: STAT az_Ex_VelAqueductCenter
-Copying object to master: STAT az_Ex_VelAqueductRuin01
-Merging object to master: LTEX AC_darkstone_grass
-Copying object to master: ACTI az_sign_banner_GateInn
-Merging object to master: LTEX az_tx_ai_cobblestone
-Copying object to master: ACTI az_Fx_WaterAqueductCenter
-Copying object to master: STAT az_Ex_VelAqueductStart
-Copying object to master: MISC az_Misc_ArtPaintUni01
-Copying object to master: STAT az_Ex_VelAqueductWide
-Copying object to master: ACTI az_Fx_WaterAqueductShort
-Merging object to master: STAT az_terrain_cliff1
-Merging object to master: LTEX az_tx_coast_rock_02
-Copying object to master: ACTI az_fx_BubblesBoiling256x300
-Merging object to master: LTEX AC_darkgravel
-Merging object to master: LTEX az_tx_v_floor
-Merging object to master: STAT az_dock_cleet
-Merging object to master: STAT az_terrain_cliff3
-Merging object to master: LTEX az_tx_ai_dirt_road
-Merging exterior to master: (86, -75)
-Merging exterior to master: (90, -74)
-Merging exterior to master: (91, -73)
-Merging exterior to master: (89, -75)
-Merging exterior to master: (92, -80)
-Merging exterior to master: (85, -71)
-Merging exterior to master: (88, -76)
-Merging exterior to master: (86, -74)
-Merging exterior to master: (88, -77)
-Merging exterior to master: (85, -75)
-Merging exterior to master: (91, -81)
-Merging exterior to master: (86, -70)
-Merging exterior to master: (92, -71)
-Merging exterior to master: (93, -79)
-Merging exterior to master: (88, -71)
-Merging exterior to master: (89, -76)
-Merging exterior to master: (91, -80)
-Merging exterior to master: (88, -75)
-Merging exterior to master: (85, -72)
-Merging exterior to master: (87, -79)
-Merging exterior to master: (86, -73)
-Merging exterior to master: (87, -74)
-Merging exterior to master: (92, -72)
-Merging exterior to master: (89, -73)
-Merging exterior to master: (92, -81)
-Merging exterior to master: (86, -72)
-Merging exterior to master: (86, -77)
-Merging exterior to master: (88, -74)
-Merging exterior to master: (93, -81)
-Merging exterior to master: (93, -72)
-Merging exterior to master: (84, -71)
-Merging exterior to master: (94, -80)
-Merging exterior to master: (87, -75)
-Merging exterior to master: (85, -73)
-Merging exterior to master: (87, -71)
-Merging exterior to master: (86, -76)
-Merging exterior to master: (90, -75)
-Merging exterior to master: (90, -73)
-Merging exterior to master: (89, -74)
-Merging exterior to master: (91, -74)
-Merging exterior to master: (92, -79)
-Merging exterior to master: (88, -73)
-Merging exterior to master: (93, -71)
-Merging exterior to master: (94, -81)
-Merging exterior to master: (85, -70)
-Merging exterior to master: (85, -74)
-Merging exterior to master: (86, -71)
-Merging exterior to master: (87, -76)
-Merging exterior to master: (93, -80)
-Merging exterior to master: (87, -72)
-Merging interior to master: Azura, Hestus Ram's House
-Merging interior to master: Azura, Saurale's Quayside Tavern
-Copying interior to master: Lyithdonea, Gateway Canton, Waistworks
-Merging interior to master: AZ_Velothi
-Copying interior to master: Lyithdonea, Gateway Canton, Inn
-Merging interior to master: Azura, The Turquoise Canvas
-Merging interior to master: Kannika Grotto
-Merging interior to master: Azura, Gale Rider, Lower Level
-Merging interior to master: Azura, Faest Ratha Market, Upper Level
-Merging interior to master: Azura, Hilatte Bno: Potter
-Merging interior to master: Azura, Kether's Fine Alchemy Shop
-Merging interior to master: Azura, Pike's Sundries
+Copying object to master: ACTI az_Furn_PalmBed2Spread04
+Merging object to master: LIGH az_light_Lampion2
+Copying object to master: STAT az_Furn_PalmChairFancy04
+Copying object to master: ACTI az_Furn_PalmBed2Spread05
+Copying object to master: CONT az_o_PalmDisplayLarge
+Copying object to master: CONT az_o_PalmDesk
+Copying object to master: STAT az_Furn_PalmStool00
+Copying object to master: STAT az_Furn_PalmBedHead
+Copying object to master: STAT az_Furn_PalmBarCenter
+Copying object to master: STAT az_Furn_PalmChairFancy03
+Copying object to master: STAT az_Furn_PalmLectern
+Copying object to master: STAT az_Furn_PalmBarEndL
+Copying object to master: STAT az_Furn_PalmChairFancy02
+Copying object to master: ACTI az_Furn_PalmLounge05
+Copying object to master: STAT az_Furn_PalmBarStool
+Copying object to master: STAT az_Furn_PalmLecternTabletop
+Copying object to master: STAT az_Furn_PalmBed2Frame
+Copying object to master: STAT az_Furn_PalmBedFrame
+Merging object to master: LIGH az_light_bambLantern
+Copying object to master: STAT az_Furn_PalmStool04
+Copying object to master: STAT az_Furn_PalmChairFancy06
+Copying object to master: STAT az_Furn_PalmDisplayTiny
+Copying object to master: STAT az_Furn_PalmOttoman01
+Copying object to master: STAT az_Furn_PalmChairFancy05
+Copying object to master: STAT az_Furn_PalmChair
+Copying object to master: ACTI az_Furn_PalmSofa03
+Copying object to master: STAT az_Furn_PalmOttoman05
+Copying object to master: STAT az_Furn_PalmStool02
+Copying object to master: ACTI az_Furn_PalmBed2Spread06
+Copying object to master: ACTI az_Furn_PalmBedSpread03
+Copying object to master: ACTI az_Furn_PalmBedSpread05
+Copying object to master: STAT az_Furn_PalmChairFancy00
+Copying object to master: STAT az_Furn_PalmTableSmall
+Copying object to master: ACTI az_Furn_PalmSofa01
+Copying object to master: ACTI az_Furn_PalmGlobe
+Copying object to master: STAT az_Furn_PalmScreenCenter
+Copying object to master: STAT az_Furn_PalmStool01
+Copying object to master: STAT az_Furn_PalmBench
+Copying object to master: ACTI az_Furn_PalmBed2Spread02
+Copying object to master: STAT az_Furn_PalmScreenSide
+Copying object to master: ACTI az_Furn_PalmBedSpread01
+Copying object to master: ACTI az_Furn_PalmBedSpread06
+Copying object to master: ACTI az_Furn_PalmGlobeMoons
+Copying object to master: ACTI az_Furn_PalmBed2Spread01
+Copying object to master: ACTI az_Furn_PalmLounge02
+Copying object to master: ACTI az_Furn_PalmLounge06
+Copying object to master: ACTI az_Furn_PalmLounge03
+Copying object to master: CONT az_o_PalmChestSm
+Copying object to master: CONT az_o_PalmChest
+Copying object to master: STAT az_Furn_PalmLoungeFrame
+Copying object to master: ACTI az_Furn_PalmBedSpread02
+Copying object to master: CONT az_o_PalmDrwrSm
+Copying object to master: STAT az_Furn_PalmOttoman04
+Copying object to master: STAT az_Furn_PalmSofaFrame
+Copying object to master: ACTI az_Furn_PalmSofa02
+Copying object to master: STAT az_Furn_PalmOttoman02
+Copying object to master: STAT az_Furn_PalmBed2Head
+Copying object to master: STAT az_Furn_PalmTableEnd
+Copying object to master: ACTI az_Furn_PalmSofa06
+Copying object to master: CONT az_o_PalmDisplaySmall
+Copying object to master: CONT az_o_PalmCloset
+Copying object to master: STAT az_Furn_PalmBarEndR
+Copying object to master: STAT az_Furn_PalmChairFancy01
+Copying object to master: STAT az_Furn_PalmShelfBookThin
+Copying object to master: CONT az_o_PalmDrwr
+Copying object to master: ACTI az_Furn_PalmBed2Spread03
+Copying object to master: ACTI az_Furn_PalmLounge04
+Copying object to master: CONT az_o_PalmLectern
+Copying object to master: STAT az_Furn_PalmTableRound
+Copying object to master: CONT az_o_PalmCabinet
+Copying object to master: STAT az_Furn_PalmStool06
+Copying object to master: STAT az_Furn_PalmOttoman03
+Copying object to master: STAT az_Furn_PalmShelfBook
+Copying object to master: STAT az_Furn_PalmStool05
+Copying object to master: SCPT az_PalmGlobe_s
+Copying object to master: ACTI az_Furn_PalmLounge01
+Copying object to master: STAT az_Furn_PalmTableDisplay
+Copying object to master: ACTI az_Furn_PalmSofa04
+Copying object to master: STAT az_Furn_PalmBenchFancy
+Copying object to master: STAT az_Furn_PalmBarCorner
+Copying object to master: STAT az_Furn_PalmShelfWall
+Copying object to master: ACTI az_Furn_PalmBedSpread04
+Copying object to master: STAT az_Furn_PalmBenchShort
+Copying object to master: CONT az_o_PalmCan
+Copying object to master: STAT az_Furn_PalmStool03
+Copying object to master: STAT az_Furn_PalmOttoman06
+Copying object to master: STAT az_Furn_PalmTable
+Copying object to master: ACTI az_Furn_PalmSofa05
+Merging interior to master: Azura, Saffend: Fine Clothier
 Merging interior to master: AZ_Clutter
-Merging interior to master: Azura, Glaneth's House
-Merging object to master: greeting 1
-Removed deleted STAT object: az_terrain_cliff2
-Removed deleted STAT object: az_dock_anchor_01
-Removed deleted STAT object: az_furn_paint_easel
-Removed deleted STAT object: az_furn_pot_PotteryWheel
-Removed deleted STAT object: az_terrain_cliff6
-Removed deleted STAT object: az_furn_paint_canvas
-Removed deleted STAT object: az_terrain_cliff1
-Removed deleted STAT object: az_terrain_cliff3
-Removed deleted STAT object: az_furn_lantern_post
-Removed deleted STAT object: az_static_grate
-Removed deleted STAT object: az_ex_v_walk_post
-Removed deleted STAT object: az_dock_cleet
-Removed deleted STAT object: az_furn_paint_canvas_01
-Applying moved reference 'az_flora_tree_birch_01' (29176) for cell (86, -74)
-Applying moved reference 'az_flora_tree_foliage' (35453) for cell (85, -70)
-Applying moved reference 'az_flora_bush_hazel' (94807) for cell (92, -81)
-Applying moved reference 'az_rock_openart_mountain' (8280) for cell (92, -81)
-Applying moved reference 'az_flora_bush_hazel' (8303) for cell (92, -81)
-Applying moved reference 'az_flora_tree_palm_turbo01' (24758) for cell (86, -74)
-Applying moved reference 'az_flora_tree_palm_turbo01' (24759) for cell (86, -74)
-Applying moved reference 'az_flora_tree_palm_turbo01' (24754) for cell (86, -74)
-Applying moved reference 'az_rock_08' (78985) for cell (92, -80)
-Applying moved reference 'az_lvl_water' (28937) for cell (85, -74)
-Removed duplicate reference: 'az_o_Barrel01Food' at [-5.646665, 146.69556, 577.3708] from cell 'Azura, Pike's Sundries'
 Saving results...
 Finished!
