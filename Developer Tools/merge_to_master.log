@@ -1,59 +1,100 @@
 Merging plugins...
-Copying object to master: LEVI az_lvl_FoodAllWet
-Copying object to master: LEVI az_lvl_FoodIngred
-Copying object to master: STAT az_Furn_PalmLoom02
-Copying object to master: STAT az_Furn_PalmLoom03
-Merging object to master: CONT az_o_ShopChestPub
-Copying object to master: STAT az_Furn_PalmLoom05
-Copying object to master: LEVI az_lvl_FoodRawPlant
-Copying object to master: LEVI az_lvl_FoodVeggie
-Merging object to master: CONT az_o_Sack01Food
-Copying object to master: LEVI az_lvl_FoodAllDry
-Copying object to master: STAT az_Furn_PalmSpinningWheel
-Copying object to master: STAT az_Furn_PalmLoom06
-Copying object to master: LEVI az_lvl_FoodPrepAllWet
-Merging object to master: CONT az_o_Barrel01Fish20
-Copying object to master: LEVI az_lvl_FoodRawBake
-Copying object to master: LEVI az_lvl_FoodMeatFish
-Merging object to master: CONT az_o_Urn03Food
-Copying object to master: LEVI az_lvl_FoodPrepAllDry
-Merging object to master: CONT az_o_Barrel01Fish
-Copying object to master: LEVI az_lvl_FoodPrepSoup
-Copying object to master: LEVI az_lvl_FoodSpice
-Copying object to master: LEVI az_lvl_FoodPrepMeatDry
-Copying object to master: LEVI az_lvl_FoodRawCooking
-Merging object to master: LEVI az_rand_food_fruit
-Merging object to master: CONT az_o_ClayPot04Food
-Merging object to master: CONT az_o_DePlnCupboard01
-Copying object to master: STAT az_Furn_PalmLoom04
-Merging object to master: INGR az_food_flour
-Copying object to master: LEVI az_lvl_FoodPrepBakeDry
-Merging object to master: LEVI az_lvl_FoodAll
-Copying object to master: LEVI az_lvl_FoodRawPlantFruit
+Copying object to master: CONT AB_o_SackWheat03
+Copying object to master: CONT az_o_PalmCanHerbs
+Merging object to master: LEVI az_lvl_FoodMeat
+Merging object to master: CONT az_o_Barrel02Food
+Copying object to master: ALCH az_meal_SoupTurtle
+Copying object to master: ALCH az_meal_CakeRice
+Copying object to master: ALCH az_meal_SoupOnion
+Merging object to master: CONT az_o_DaeUrn02Food
+Copying object to master: CONT az_o_PalmCanSpices
+Copying object to master: LEVI az_lvl_FoodHerb_b
+Copying object to master: CONT az_o_Sack02Grain
+Merging object to master: CONT az_o_bambooBasket03Food
+Merging object to master: CONT az_o_bambooCrate01Food
+Merging object to master: CREA az_dae_scamp_stray
+Copying object to master: CONT AB_o_SackWheat01
+Merging object to master: INGR az_food_pie_sl_berry
+Copying object to master: LEVI az_lvl_delete_FoodDry
+Merging object to master: CONT az_o_Urn02Food
+Merging object to master: CREA az_prac_dummy
+Copying object to master: ALCH az_meal_PorridgePalm
+Copying object to master: ALCH az_meal_PiePeachSlice
+Copying object to master: CONT az_o_Sack03Grain
 Merging object to master: CONT az_o_Barrel01Fruit
-Merging object to master: INGR az_food_sausage_sentinel
-Merging object to master: NPC_ az_Uralaa
-Copying object to master: LEVI az_lvl_FoodPrepMeatWet
-Copying object to master: LEVI az_lvl_FoodRawGrain
-Copying object to master: LEVI az_lvl_FoodMeatLand
-Copying object to master: LEVI az_lvl_FoodMeat
-Merging object to master: CONT az_o_ClayPot02Food10
-Merging object to master: CONT az_o_ClayPot03Pos
-Merging object to master: CONT az_o_ClayPot02Food5
-Merging object to master: INGR az_food_wasabi_stem
-Merging object to master: CONT az_o_Urn01Food
-Copying object to master: STAT az_Furn_PalmLoom01
-Copying object to master: LEVI az_lvl_FoodPrepBakeWet
-Merging object to master: NPC_ az_Ruunel
-Copying object to master: LEVI az_lvl_FoodHerb
-Merging interior to master: AZ_Clutter
-Merging interior to master: Azura, Saffend: Fine Clothier
-Merging interior to master: Azura, Granderea Salor's House
-Merging interior to master: Azura, Stars Above Apartments: Flat 01
+Merging object to master: CONT az_o_Crate01Food
+Copying object to master: LEVI az_lvl_FoodMeatFish_b
+Copying object to master: ALCH az_meal_SoupRat
+Copying object to master: LEVI az_lvl_FoodGranular_b
+Merging object to master: CONT az_o_Barrel01Fish
+Copying object to master: ALCH az_meal_SoupSeaweed
+Copying object to master: LEVI az_lvl_FoodGrain_b
+Copying object to master: LEVI az_lvl_FoodFruit_b
+Copying object to master: CONT az_o_Sack01Grain
+Copying object to master: LEVI az_lvl_delete_FoodRawPlantFruit
+Copying object to master: CONT az_o_Barrel01Veggie
+Merging object to master: CONT az_o_Sack03Food
+Copying object to master: LEVI az_lvl_FoodIngredWet_b
+Copying object to master: ALCH az_meal_PieLemonSlice
+Merging object to master: CONT az_o_bambooBasket02Food
+Copying object to master: LEVI az_lvl_FoodSpice_b
+Copying object to master: LEVI az_lvl_delete_FoodPrepMeatDry
+Copying object to master: LEVI az_lvl_FoodMealBakeWet_b
+Merging object to master: CONT az_o_Barrel01Fish20
+Copying object to master: LEVI az_lvl_FoodMeatLand_b
+Copying object to master: CONT AB_o_SackWheat02
+Merging object to master: LEVI az_lvl_FoodAllDry
+Copying object to master: LEVI az_lvl_delete_FoodPrepAllDry
+Copying object to master: CONT az_o_PalmCanIngBake
+Copying object to master: CONT az_o_PalmCanIngAlch
+Merging object to master: CONT az_o_ClayPot05Food
+Copying object to master: LEVI az_lvl_FoodMeal
+Copying object to master: CONT az_o_PalmCabinetMeals
+Copying object to master: LEVI az_lvl_FoodMealBakeDry_b
+Merging object to master: LEVI az_lvl_FoodAllWet
+Merging object to master: LEVI az_lvl_FoodAll
+Merging object to master: CONT az_o_ShopCupboardPub
+Merging object to master: CONT az_o_bambooBasket01Food
+Copying object to master: ALCH az_meal_CakeMango
+Copying object to master: CONT az_o_Barrel01Grain
+Merging object to master: CONT az_o_Sack02Food
+Copying object to master: LEVI az_lvl_delete_FoodIngred
+Merging object to master: INGR az_food_peach
+Copying object to master: LEVI az_lvl_FoodMealSavory_b
+Copying object to master: LEVI az_lvl_FoodVeggie_b
+Copying object to master: LEVI az_lvl_FoodMealBowl_b
+Merging object to master: CONT az_o_Barrel01Food
+Copying object to master: LEVI az_lvl_delete_FoodRawPlant
+Copying object to master: ALCH az_meal_PieRatSlice
+Copying object to master: LEVI az_lvl_FoodIngredDry
+Copying object to master: CONT az_o_PalmCabinetIngBake
+Merging object to master: CONT az_o_Sack03Wickwheat
+Merging exterior to master: (84, -83)
+Merging exterior to master: (90, -78)
+Merging interior to master: Azura, Gale Rider, Upper Level
 Merging interior to master: Azura, Zaimora Manor
-Removed deleted INGR object: az_food_wasabi_stem
-Removed deleted INGR object: az_food_sausage_sentinel
-Removed deleted INGR object: az_food_flour
-Removed deleted LEVI object: az_rand_food_fruit
+Merging interior to master: Kannika Grotto
+Merging interior to master: Lyithdonea, Jubuka'im Farm, Mill
+Merging interior to master: Azura, Gadresi Manor
+Merging interior to master: AZ_Containers
+Merging interior to master: Azura, Voath Manor
+Merging interior to master: Azura, Gutho's Apartment
+Merging interior to master: Azura, Palace: Servants' Wing
+Merging interior to master: Azura, The Gathering Hole
+Merging interior to master: Dor Dalla, Guild of Mages, Infirmary
+Merging interior to master: Azura, Daroth Lighthouse
+Merging interior to master: Lyithdonea, Hataz Cave, Secluded Chambers
+Merging interior to master: Veltine, Upper Deck
+Merging interior to master: Azura, Royalway Apartments, Upper North-One
+Merging interior to master: Azura, The Stomping Kriin
+Merging interior to master: Dor Dalla, Guild of Mages
+Removed deleted LEVI object: az_lvl_delete_FoodIngred
+Removed deleted CONT object: az_o_Sack03Wickwheat
+Removed deleted LEVI object: az_lvl_delete_FoodPrepAllDry
+Removed deleted INGR object: az_food_pie_sl_berry
+Removed deleted LEVI object: az_lvl_delete_FoodPrepMeatDry
+Removed deleted LEVI object: az_lvl_delete_FoodRawPlantFruit
+Removed deleted LEVI object: az_lvl_delete_FoodDry
+Removed deleted LEVI object: az_lvl_delete_FoodRawPlant
 Saving results...
 Finished!
