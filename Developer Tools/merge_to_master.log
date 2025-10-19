@@ -1,43 +1,29 @@
 Merging plugins...
-Merging object to master: STAT az_Ex_DELETEWell01
-Merging object to master: STAT az_Ex_DELETE04
-Merging object to master: STAT az_Ex_DELETE07
-Merging object to master: STAT az_Ex_DELETE02
-Merging object to master: STAT az_Ex_DELETE06
-Merging object to master: STAT az_Ex_DELETE08
-Merging object to master: STAT az_Ex_DELETE03
-Merging object to master: STAT az_Ex_DELETE05
-Merging object to master: STAT az_Ex_DELETE09
-Merging object to master: STAT az_Ex_DELETE01
-Removed deleted STAT object: az_Ex_DELETEWell01
-Removed deleted STAT object: az_Ex_DELETE07
-Removed deleted STAT object: az_Ex_DELETE08
-Removed deleted STAT object: az_Ex_DELETE01
-Removed deleted STAT object: az_Ex_DELETE03
-Removed deleted STAT object: az_Ex_DELETE04
-Removed deleted STAT object: az_Ex_DELETE05
-Removed deleted STAT object: az_Ex_DELETE09
-Removed deleted STAT object: az_Ex_DELETE02
-Removed deleted STAT object: az_Ex_DELETE06
-Removed deleted reference: az_Ex_DELETE07 (0, 44108)
-Removed deleted reference: az_Ex_DELETE02 (0, 103410)
-Removed deleted reference: az_Ex_DELETEWell01 (0, 44576)
-Removed deleted reference: az_Ex_DELETEWell01 (0, 103607)
-Removed deleted reference: az_Ex_DELETE04 (0, 44448)
-Removed deleted reference: az_Ex_DELETE03 (0, 103680)
-Removed deleted reference: az_Ex_DELETE02 (0, 44222)
-Removed deleted reference: az_Ex_DELETE05 (0, 103794)
-Removed deleted reference: az_Ex_DELETE05 (0, 44395)
-Removed deleted reference: az_Ex_DELETE06 (0, 103538)
-Removed deleted reference: az_Ex_DELETE09 (0, 103572)
-Removed deleted reference: az_Ex_DELETE09 (0, 89871)
-Removed deleted reference: az_Ex_DELETE04 (0, 103637)
-Removed deleted reference: az_Ex_DELETE08 (0, 103544)
-Removed deleted reference: az_Ex_DELETE01 (0, 103316)
-Removed deleted reference: az_Ex_DELETE07 (0, 103427)
-Removed deleted reference: az_Ex_DELETE03 (0, 44173)
-Removed deleted reference: az_Ex_DELETE01 (0, 44513)
-Removed deleted reference: az_Ex_DELETE06 (0, 44910)
-Removed deleted reference: az_Ex_DELETE08 (0, 89870)
+Remapping texture index: (7 -> 124) az_tx_v_floor
+Remapping texture index: (8 -> 126) az_tx_v_gravel
+Remapping texture index: (1 -> 103) az_tx_ai_dirt_road
+Remapping texture index: (2 -> 104) az_tx_ai_grass_dirt
+Remapping texture index: (5 -> 118) az_tx_ai_grass_rocky
+Remapping texture index: (3 -> 105) az_tx_ai_dirt_01
+Remapping texture index: (9 -> 138) az_tx_coast_rock_01
+Remapping texture index: (10 -> 139) az_tx_sand_01
+Remapping texture index: (0 -> 93) az_tx_rock
+Remapping texture index: (6 -> 121) az_tx_ai_grass_00
+Remapping texture index: (4 -> 117) az_tx_ai_grass_01
+Merging object to master: LTEX az_tx_v_floor
+Merging object to master: LTEX az_tx_v_gravel
+Merging object to master: LTEX az_tx_ai_dirt_road
+Merging object to master: LTEX az_tx_ai_grass_dirt
+Merging object to master: LTEX az_tx_ai_grass_rocky
+Merging object to master: LTEX az_tx_ai_dirt_01
+Merging object to master: LTEX az_tx_coast_rock_01
+Merging object to master: LTEX az_tx_sand_01
+Merging object to master: LTEX az_tx_rock
+Merging object to master: LTEX az_tx_ai_grass_00
+Merging object to master: LTEX az_tx_ai_grass_01
+Merging exterior to master: (88, -75)
+Merging exterior to master: (87, -75)
+Merging exterior to master: (87, -76)
+Merging exterior to master: (88, -76)
 Saving results...
 Finished!
