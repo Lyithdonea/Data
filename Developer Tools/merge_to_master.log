@@ -1,20 +1,4 @@
 Merging plugins...
-Copying object to master: LIGH az_light_paperLantern200
-Merging object to master: STAT az_furn_cosmo_starorb
-Copying object to master: LIGH az_light_paperLanternRed200
-Merging object to master: STAT az_furn_cosmo_starorb_sm
-Copying object to master: LIGH az_light_paperLanternBlue200
-Copying object to master: CONT az_o_PalmDeskWriting
-Copying object to master: LIGH az_light_paperLanternPurp200
-Copying object to master: CONT az_o_PalmDeskPos
-Merging object to master: LEVI az_lvl_FoodVeggie_b
-Merging exterior to master: (88, -77)
-Merging exterior to master: (88, -78)
-Merging exterior to master: (88, -71)
-Merging interior to master: Azura, Bailaman's House
-Merging interior to master: Azura, Dalag Andis' House
-Copying interior to master: AZ_ClutterCity
-Removed deleted STAT object: az_furn_cosmo_starorb_sm
-Removed deleted STAT object: az_furn_cosmo_starorb
+Merging exterior to master: (94, -73)
 Saving results...
 Finished!
