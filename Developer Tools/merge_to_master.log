@@ -1,4 +1,78 @@
 Merging plugins...
-Merging exterior to master: (94, -73)
+Remapping texture index: (7 -> 121) az_tx_ai_grass_00
+Remapping texture index: (3 -> 104) az_tx_ai_grass_dirt
+Remapping texture index: (4 -> 113) az_tx_ti_rock_04
+Remapping texture index: (0 -> 64) MA_sulphur_rock03
+Remapping texture index: (10 -> 137) az_tx_coast_rock_02
+Remapping texture index: (8 -> 126) az_tx_v_gravel
+Remapping texture index: (1 -> 93) az_tx_rock
+Remapping texture index: (11 -> 138) az_tx_coast_rock_01
+Remapping texture index: (9 -> 127) az_tx_ocean_rock_green
+Remapping texture index: (2 -> 103) az_tx_ai_dirt_road
+Remapping texture index: (12 -> 139) az_tx_sand_01
+Remapping texture index: (6 -> 117) az_tx_ai_grass_01
+Remapping texture index: (5 -> 115) az_tx_ai_cobblestone
+Merging object to master: LTEX az_tx_ai_grass_00
+Merging object to master: NPC_ az_Ovone Fen
+Copying object to master: STAT az_Ex_ChiCanalStraight2048
+Merging object to master: LTEX az_tx_ai_grass_dirt
+Copying object to master: STAT az_Ex_MudhutAwning01
+Copying object to master: STAT az_Ex_ChiCanalSteps02
+Copying object to master: LIGH az_light_bambLanternGreen
+Copying object to master: LIGH az_light_bambLanternRed
+Merging object to master: LTEX az_tx_ti_rock_04
+Merging object to master: NPC_ az_Ilmandi Unakra
+Merging object to master: LTEX MA_sulphur_rock03
+Copying object to master: STAT az_Ex_MudhutAwning03
+Copying object to master: LIGH az_light_bambLanternBlue
+Copying object to master: STAT az_Ex_ChiCanalStraight1792
+Merging object to master: LTEX az_tx_coast_rock_02
+Copying object to master: STAT az_Ex_ChiCanalEndRight
+Copying object to master: STAT az_Ex_ChiCanalSteps01
+Copying object to master: STAT az_Ex_ChiCanalStraight0768
+Copying object to master: STAT az_Ex_ChiCanalEndLeft
+Merging object to master: NPC_ az_Guwanda Hilovanni
+Merging object to master: LTEX az_tx_v_gravel
+Merging object to master: LTEX az_tx_rock
+Copying object to master: LIGH az_light_bambLanternPurple
+Copying object to master: STAT az_Ex_ChiCanalArch
+Copying object to master: STAT az_Ex_ChiCanalCorner
+Merging object to master: LTEX az_tx_coast_rock_01
+Merging object to master: NPC_ az_Darzhul
+Copying object to master: STAT az_Ex_ChiCanalStraight1024
+Copying object to master: STAT az_Ex_ChiCanalStraight0256
+Copying object to master: STAT az_Ex_ChiWallHedgePost
+Merging object to master: LTEX az_tx_ocean_rock_green
+Copying object to master: STAT az_Ex_ChiCanalOffsetIn
+Copying object to master: STAT az_Ex_ChiCanalOffsetOut
+Merging object to master: LTEX az_tx_ai_dirt_road
+Copying object to master: STAT az_Ex_MudhutAwning04
+Merging object to master: LTEX az_tx_sand_01
+Merging object to master: LTEX az_tx_ai_grass_01
+Copying object to master: STAT az_Ex_MudhutAwning06
+Merging object to master: LTEX az_tx_ai_cobblestone
+Copying object to master: STAT az_Ex_ChiCanalStraight0512
+Copying object to master: STAT az_Ex_MudhutAwning02
+Copying object to master: STAT az_Ex_MudhutAwning05
+Copying object to master: LIGH az_light_bambLantern500
+Merging exterior to master: (91, -74)
+Merging exterior to master: (91, -73)
+Merging exterior to master: (94, -76)
+Merging exterior to master: (90, -75)
+Merging exterior to master: (89, -73)
+Merging exterior to master: (87, -76)
+Merging exterior to master: (85, -75)
+Merging exterior to master: (88, -71)
+Merging exterior to master: (89, -76)
+Merging exterior to master: (85, -76)
+Merging exterior to master: (84, -71)
+Merging exterior to master: (90, -74)
+Merging exterior to master: (88, -76)
+Merging exterior to master: (90, -73)
+Merging interior to master: Keen, Dreugh-jigger's Rest
+Merging interior to master: AZ_Velothi
+Merging interior to master: Keen, Elammus Theray's Shack
+Removed deleted interior: Keen, Elammus Theray's Shack
+Applying moved reference 'misc_com_wood_fork' (28431) for cell (90, -74)
 Saving results...
 Finished!
